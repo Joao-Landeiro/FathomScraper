@@ -1,0 +1,1346 @@
+{
+  "items": [
+    {
+      "id": 320734381,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_many.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": null
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 46.56434746335629,
+      "internal": false,
+      "is_impromptu": true,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/320734381",
+      "recording": {
+        "created_at": "2025-06-06T16:14:30.630754Z",
+        "started_at": "2025-06-06T16:16:38.544757Z",
+        "duration_seconds": 2520.930333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/pmwavb8o1mpra7bdpxsf0ze9ixum?response-content-disposition=inline%3B%20filename%3D%229449958b-4009-4fb2-8bfd-74738f86b19e.jpg%22%3B%20filename%2A%3DUTF-8%27%279449958b-4009-4fb2-8bfd-74738f86b19e.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=b020d30e8c401b6f19b198648b354c5878043800b3afa7bed4ed7a14ca437017",
+      "title": "Impromptu Google Meet Meeting",
+      "updateUrl": "/calls/320734381",
+      "delete_url": "/calls/320734381",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/YtZRCeUz1nAZgEnKXpoRVNcnBdh42YMB",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-06-06T16:14:26.000000Z",
+      "duration_minutes": 15,
+      "short_summary": null
+    },
+    {
+      "id": 319658476,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_many.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": null
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 34.37338238047512,
+      "internal": false,
+      "is_impromptu": true,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/319658476",
+      "recording": {
+        "created_at": "2025-06-05T17:01:54.593122Z",
+        "started_at": "2025-06-05T17:02:28.950424Z",
+        "duration_seconds": 2070.491
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/4jcn0ef1d0deftz3k2j5d0wa82lw?response-content-disposition=inline%3B%20filename%3D%22eeba1f9b-7004-4698-bae1-4fb74f05c693.jpg%22%3B%20filename%2A%3DUTF-8%27%27eeba1f9b-7004-4698-bae1-4fb74f05c693.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=920d7253f86af0d49073460ae9df110c65e05237ce3993e95111d89df28d1104",
+      "title": "Impromptu Microsoft Teams Meeting",
+      "updateUrl": "/calls/319658476",
+      "delete_url": "/calls/319658476",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/-vgzyPP3ixkMotfABhx724YXYD8npPdu",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-06-05T16:57:09.000000Z",
+      "duration_minutes": 15,
+      "short_summary": null
+    },
+    {
+      "id": 315516263,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "expandiendoconsciencia.com",
+        "name": "expandiendoconsciencia.com",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Jorge Elizondo"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 57.15935688170235,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/315516263",
+      "recording": {
+        "created_at": "2025-06-03T15:59:02.487599Z",
+        "started_at": "2025-06-03T16:02:29.443801Z",
+        "duration_seconds": 3370.53
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/pc0pawcy084fm69p2x3yll4nfl7w?response-content-disposition=inline%3B%20filename%3D%226ed0e2c6-c512-4c58-a978-933e90f590e5.jpg%22%3B%20filename%2A%3DUTF-8%27%276ed0e2c6-c512-4c58-a978-933e90f590e5.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=042117bd4fffd74cbf00aee5a6d00ef5b5e773c7433b5cfd70bb833c45873082",
+      "title": "50 Minute Meeting - Jorge Elias Elizondo",
+      "updateUrl": "/calls/315516263",
+      "delete_url": "/calls/315516263",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/27C2Ld9iV4Gp_8gQgFcf_u49xzNGc6Hy",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-06-03T16:00:00.000000Z",
+      "duration_minutes": 50,
+      "short_summary": null
+    },
+    {
+      "id": 315516228,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_many.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": null
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 0.0,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/315516228",
+      "recording": {
+        "created_at": "2025-06-03T13:59:56.270981Z",
+        "started_at": "2025-06-03T14:00:46.128656Z",
+        "duration_seconds": 2661.130333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/jk4woogqmq79c0lc23nbsivh51t3?response-content-disposition=inline%3B%20filename%3D%22f6c5b761-3ed8-41d8-a2b2-9bdee2fac4d4.jpg%22%3B%20filename%2A%3DUTF-8%27%27f6c5b761-3ed8-41d8-a2b2-9bdee2fac4d4.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=e59816ad9c974406c6bb2343b3736f210f7fb897e999e2025d31c9f77d66970a",
+      "title": "\u26a1\ufe0f Maven LIVE: Watch me interview a real customer\u2014live and unscripted",
+      "updateUrl": "/calls/315516228",
+      "delete_url": "/calls/315516228",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/CYLizEbaHJDucwk8zuMswfyWYvus9XLS",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-06-03T14:00:00.000000Z",
+      "duration_minutes": 45,
+      "short_summary": null
+    },
+    {
+      "id": 314717529,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "Martin Stellar",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_one.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Martin Stellar"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 40.66134649503886,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/314717529",
+      "recording": {
+        "created_at": "2025-06-02T13:59:12.076623Z",
+        "started_at": "2025-06-02T14:00:28.056977Z",
+        "duration_seconds": 3795.430333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/ffz9vc22qei8gwo5odabo6g8jlk3?response-content-disposition=inline%3B%20filename%3D%22c301081f-423d-479e-bcf5-d06be1c8d2a6.jpg%22%3B%20filename%2A%3DUTF-8%27%27c301081f-423d-479e-bcf5-d06be1c8d2a6.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=ec63c525b098c700755f7950695041fe79f5847b8501609b6488668d1cdef7b9",
+      "title": "SFNP training Joao",
+      "updateUrl": "/calls/314717529",
+      "delete_url": "/calls/314717529",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/om8MW8n-zwx42hhkH8ZKPXMM6npcioSz",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-06-02T14:00:00.000000Z",
+      "duration_minutes": 60,
+      "short_summary": null
+    },
+    {
+      "id": 313402448,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "mouthpiece.world",
+        "name": "Mouthpiece",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Jess Sun"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 75.88570667968145,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/313402448",
+      "recording": {
+        "created_at": "2025-05-30T19:56:47.606185Z",
+        "started_at": "2025-05-30T20:00:21.244867Z",
+        "duration_seconds": 3699.130333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/xn61jw3l2fp1cbmdubdeqgyzm5mb?response-content-disposition=inline%3B%20filename%3D%22190dc3d5-4e61-4092-a00d-72e5535c4d54.jpg%22%3B%20filename%2A%3DUTF-8%27%27190dc3d5-4e61-4092-a00d-72e5535c4d54.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ed23832644888cd42bd2314b01c5bbce4e2893bf3e90e8778747bb1de96b4f4",
+      "title": "The super secret link - Jess Sun",
+      "updateUrl": "/calls/313402448",
+      "delete_url": "/calls/313402448",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/wfP-PY7ofjDUxtJQ1cthFYQevcfhUU8D",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-30T20:00:00.000000Z",
+      "duration_minutes": 47,
+      "short_summary": null
+    },
+    {
+      "id": 307604217,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "Ale Tauchmann",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_one.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Ale Tauchmann"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 27.77888377779859,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/307604217",
+      "recording": {
+        "created_at": "2025-05-29T14:14:05.993900Z",
+        "started_at": "2025-05-29T14:16:51.229378Z",
+        "duration_seconds": 6392.968
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/p24umpx32f4jma60mjavg5auvryv?response-content-disposition=inline%3B%20filename%3D%22e40f1ec1-a2dd-47bb-b87e-58a2bbd5991b.jpg%22%3B%20filename%2A%3DUTF-8%27%27e40f1ec1-a2dd-47bb-b87e-58a2bbd5991b.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=bbbfd814d40f798232f5113848fc9305dd0a2b59192eacafda2de5aa3af07d6b",
+      "title": "90 minutes work session - Ale Tauchmann",
+      "updateUrl": "/calls/307604217",
+      "delete_url": "/calls/307604217",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/1Z3x3_Uv6yEWZGzvBqLGfuSFkr7q69tB",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-29T14:15:00.000000Z",
+      "duration_minutes": 90,
+      "short_summary": null
+    },
+    {
+      "id": 312231165,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "fronterabrands.com",
+        "name": "Frontera",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Ozan Irturk"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 48.410970401639176,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/312231165",
+      "recording": {
+        "created_at": "2025-05-29T12:57:05.219613Z",
+        "started_at": "2025-05-29T13:01:11.690072Z",
+        "duration_seconds": 2367.963
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/ljh1aqmyh3cs3lqakzlmsqt6hwpp?response-content-disposition=inline%3B%20filename%3D%22af9c0df9-2bae-4756-8457-8636d27598f0.jpg%22%3B%20filename%2A%3DUTF-8%27%27af9c0df9-2bae-4756-8457-8636d27598f0.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=8b881c0a7d1d797ff7b9d719dbeb4b6c871c31dd091dbfd94bdbb8f9178c7362",
+      "title": "Ozan talk about workshop format",
+      "updateUrl": "/calls/312231165",
+      "delete_url": "/calls/312231165",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/i2DzM9eLG5d2Qp1miLzxy2sNwviV8WPr",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-29T13:00:00.000000Z",
+      "duration_minutes": 20,
+      "short_summary": null
+    },
+    {
+      "id": 312231170,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "palettide.com",
+        "name": "Palettide",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Jason Brown"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 42.4166159396937,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/312231170",
+      "recording": {
+        "created_at": "2025-05-29T10:59:02.209959Z",
+        "started_at": "2025-05-29T11:00:21.742336Z",
+        "duration_seconds": 6785.09
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/3zlngqh89jnosjc42qi5gskowc89?response-content-disposition=inline%3B%20filename%3D%22e327578b-d888-43bf-910e-a3c2d2d64643.jpg%22%3B%20filename%2A%3DUTF-8%27%27e327578b-d888-43bf-910e-a3c2d2d64643.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=0855435abc4fcf0ac2d4b1879ba342a5fb8d3848516a854db0febf9731842bec",
+      "title": "Book-help - Teaching Convo - Jason Brown",
+      "updateUrl": "/calls/312231170",
+      "delete_url": "/calls/312231170",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/g5WxhLfdaAsUReAJuMx-gaGuFM9N6ySr",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-29T11:00:00.000000Z",
+      "duration_minutes": 90,
+      "short_summary": null
+    },
+    {
+      "id": 310130561,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "expandiendoconsciencia.com",
+        "name": "expandiendoconsciencia.com",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Jorge Elizondo"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 63.595016589201094,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/310130561",
+      "recording": {
+        "created_at": "2025-05-27T16:53:26.716236Z",
+        "started_at": "2025-05-27T17:01:29.775354Z",
+        "duration_seconds": 3522.932
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/g8rlokwbtqaq5v3ad3eqieyb1td9?response-content-disposition=inline%3B%20filename%3D%22dd22ae5c-343c-48bd-bd28-df097cc6a78c.jpg%22%3B%20filename%2A%3DUTF-8%27%27dd22ae5c-343c-48bd-bd28-df097cc6a78c.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=a6ec860b6ce20a81c54e01f5c2be0fdb6e65bc7176fae374836d277653f6cf37",
+      "title": "50 Minute Meeting - Jorge Elias Elizondo",
+      "updateUrl": "/calls/310130561",
+      "delete_url": "/calls/310130561",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/Af2PhioMyGMTtXMRAzERsZ3zfE_hUyU6",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-27T17:00:00.000000Z",
+      "duration_minutes": 50,
+      "short_summary": null
+    },
+    {
+      "id": 310130550,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "vbrnet.com.br",
+        "name": "vbrnet.com.br",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "patrick@vbrnet.com.br"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 34.7292837391848,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/310130550",
+      "recording": {
+        "created_at": "2025-05-27T10:59:26.041732Z",
+        "started_at": "2025-05-27T11:00:04.999136Z",
+        "duration_seconds": 3612.106
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/9ka42hcyasxz8a171chn04as35sc?response-content-disposition=inline%3B%20filename%3D%22378ebee5-b731-4055-ab5d-27267fa37782.jpg%22%3B%20filename%2A%3DUTF-8%27%27378ebee5-b731-4055-ab5d-27267fa37782.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=388a1aa0447b6dd8efccf4b740e042c55e65ab86301400478c4789fbc0d3a9ba",
+      "title": "Sabia",
+      "updateUrl": "/calls/310130550",
+      "delete_url": "/calls/310130550",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/izpjoom5iT8chGsNBuosByLLfZpHy96P",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-27T11:00:00.000000Z",
+      "duration_minutes": 45,
+      "short_summary": null
+    },
+    {
+      "id": 308982639,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "Martin Stellar",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_one.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Martin Stellar"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 36.024875621890516,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/308982639",
+      "recording": {
+        "created_at": "2025-05-26T14:00:59.162466Z",
+        "started_at": "2025-05-26T14:02:30.224222Z",
+        "duration_seconds": 3769.030333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/8z4fia94wf5b27perag3bbo8gpql?response-content-disposition=inline%3B%20filename%3D%2263229a61-a669-4b1d-a8f2-f24295bb8130.jpg%22%3B%20filename%2A%3DUTF-8%27%2763229a61-a669-4b1d-a8f2-f24295bb8130.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=e569eadcf4e0f243bdd4c908ddd39d2bbe33227a736921df0437548318336fb5",
+      "title": "SFNP training Joao",
+      "updateUrl": "/calls/308982639",
+      "delete_url": "/calls/308982639",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/1CqJtxzTThxPksJAWb-5_wGECUCoJmXs",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-26T14:00:00.000000Z",
+      "duration_minutes": 60,
+      "short_summary": null
+    },
+    {
+      "id": 306748910,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "businessbldrs.com",
+        "name": "Business Builders",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Logan Lyles"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 44.594399538106245,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/306748910",
+      "recording": {
+        "created_at": "2025-05-23T19:28:44.774917Z",
+        "started_at": "2025-05-23T19:31:23.557086Z",
+        "duration_seconds": 1266.397367
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/voeiau4xxx2bigkn9r9j0ygyd8ya?response-content-disposition=inline%3B%20filename%3D%2292000fbd-ec85-4e31-9b55-f3473da35289.jpg%22%3B%20filename%2A%3DUTF-8%27%2792000fbd-ec85-4e31-9b55-f3473da35289.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193540Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=90fa17803226fbeb523a67db66f8c2e7b44b3e7cf6f7a7cb782dec56423c556c",
+      "title": "Joao & Logan: Website Strategy Call",
+      "updateUrl": "/calls/306748910",
+      "delete_url": "/calls/306748910",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/ztpws4z8n8SwtmEkoUjsCRohibx-bPSz",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-23T19:30:00.000000Z",
+      "duration_minutes": 15,
+      "short_summary": null
+    },
+    {
+      "id": 304674916,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "expandiendoconsciencia.com",
+        "name": "expandiendoconsciencia.com",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Jorge Elizondo"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 33.967258878667735,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/304674916",
+      "recording": {
+        "created_at": "2025-05-20T16:59:17.820954Z",
+        "started_at": "2025-05-20T17:01:11.162724Z",
+        "duration_seconds": 4097.634
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/poxil0pjrceshs95bzcm9f6i89y8?response-content-disposition=inline%3B%20filename%3D%2244bd2969-8b63-4a3b-bda0-5c3d7d02d534.jpg%22%3B%20filename%2A%3DUTF-8%27%2744bd2969-8b63-4a3b-bda0-5c3d7d02d534.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193541Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=e67f3032833c43896661b7e148ac6d538c1767f208af752dfbecaf2b16f14644",
+      "title": "50 Minute Meeting - Jorge Elias Elizondo - retry",
+      "updateUrl": "/calls/304674916",
+      "delete_url": "/calls/304674916",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/xZeJ-crwaXBmQ4T5RkpaxwVcwfwaDTxD",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-20T17:00:00.000000Z",
+      "duration_minutes": 50,
+      "short_summary": null
+    },
+    {
+      "id": 303245244,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "Martin Stellar",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_one.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Martin Stellar"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 23.513439612359154,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/303245244",
+      "recording": {
+        "created_at": "2025-05-19T13:59:01.268944Z",
+        "started_at": "2025-05-19T14:00:59.695000Z",
+        "duration_seconds": 4584.730333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/f0h8adthw1f7weosyosfkc0iglr4?response-content-disposition=inline%3B%20filename%3D%22efdaa4b2-ff3b-4b57-ab7c-e4f3dcae2832.jpg%22%3B%20filename%2A%3DUTF-8%27%27efdaa4b2-ff3b-4b57-ab7c-e4f3dcae2832.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193541Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=246330137e10aac9193da088050955dd84664ff8a2dcad0aad79d9eb562af8bf",
+      "title": "SFNP training Joao",
+      "updateUrl": "/calls/303245244",
+      "delete_url": "/calls/303245244",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/sV9j_Nfo-cqJmQyzmxVZenc4X7mFsiT3",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-19T14:00:00.000000Z",
+      "duration_minutes": 60,
+      "short_summary": null
+    },
+    {
+      "id": 298634404,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "move42.com.br",
+        "name": "Move 42 Consultoria",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "C\u00e9sar Augusto Pess\u00f4a"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 43.38853575805946,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/298634404",
+      "recording": {
+        "created_at": "2025-05-15T20:29:02.488122Z",
+        "started_at": "2025-05-15T20:33:48.186567Z",
+        "duration_seconds": 3302.894
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/dpmqn8ive392y76bziegks8q5nhr?response-content-disposition=inline%3B%20filename%3D%224610f427-4290-4adc-b1a8-f7798aeb746d.jpg%22%3B%20filename%2A%3DUTF-8%27%274610f427-4290-4adc-b1a8-f7798aeb746d.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193541Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=e3e2e13e89e32c0f249f19a481d1cf4f571093d9ddff044335b698758d38a031",
+      "title": "27 minute chat - C\u00e9sar Augusto",
+      "updateUrl": "/calls/298634404",
+      "delete_url": "/calls/298634404",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/3nZXLrhTMwVDoDWw819-sUoyJ8jy1Dhr",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-15T20:30:00.000000Z",
+      "duration_minutes": 27,
+      "short_summary": null
+    },
+    {
+      "id": 298634401,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "Ricardo Caires",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_one.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Ricardo Caires"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 43.07081753241021,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/298634401",
+      "recording": {
+        "created_at": "2025-05-13T16:58:57.902548Z",
+        "started_at": "2025-05-13T16:59:32.840154Z",
+        "duration_seconds": 4410.597333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/h4elar2lq6nr9iyds9geowigxlg1?response-content-disposition=inline%3B%20filename%3D%222fc3c5d6-d4d4-46f0-b8a9-22c88c6f9d16.jpg%22%3B%20filename%2A%3DUTF-8%27%272fc3c5d6-d4d4-46f0-b8a9-22c88c6f9d16.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193541Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=65098bff9f1ac50b230679e88dd7eedd5a7936e3754bdbb7d5e581abe1a4b062",
+      "title": "The super secret link - Ricardo Caires",
+      "updateUrl": "/calls/298634401",
+      "delete_url": "/calls/298634401",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/xM8DfyBCeBPF2fLTKXmnFoRzSuLrbrq5",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-13T17:00:00.000000Z",
+      "duration_minutes": 47,
+      "short_summary": null
+    },
+    {
+      "id": 298764166,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": null,
+        "name": "Martin Stellar",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/no_company_one.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Martin Stellar"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 25.008601076521806,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/298764166",
+      "recording": {
+        "created_at": "2025-05-12T14:00:25.915271Z",
+        "started_at": "2025-05-12T14:01:01.247582Z",
+        "duration_seconds": 3597.530333
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/25ald0oyu798gm93kzxq8rghwk5h?response-content-disposition=inline%3B%20filename%3D%2214f7a77b-e15b-427f-bf48-0e37d3fca2ca.jpg%22%3B%20filename%2A%3DUTF-8%27%2714f7a77b-e15b-427f-bf48-0e37d3fca2ca.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193541Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=ecd9b804fca28797a4aaef3168ef6347c89cd84a20600641e2e4e0415439bafe",
+      "title": "SFNP training Joao",
+      "updateUrl": "/calls/298764166",
+      "delete_url": "/calls/298764166",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/aCAQVsWHWirKuwu7zJPqsvm2xahhkgxP",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-12T14:00:00.000000Z",
+      "duration_minutes": 60,
+      "short_summary": null
+    },
+    {
+      "id": 295181282,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "veritasprofessionalservices.com",
+        "name": "Veritas",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Nate Jebb"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 36.47821762482589,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/295181282",
+      "recording": {
+        "created_at": "2025-05-09T15:46:28.058929Z",
+        "started_at": "2025-05-09T15:46:51.810024Z",
+        "duration_seconds": 3388.368
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/jkn1mkudbqs03fcl6nhexk0zy5fc?response-content-disposition=inline%3B%20filename%3D%22e9691d26-13ef-40c8-ae91-d0ba5fa9339b.jpg%22%3B%20filename%2A%3DUTF-8%27%27e9691d26-13ef-40c8-ae91-d0ba5fa9339b.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193541Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=3770d0ae2ce83acf0e0fe607c5fa09b991d6cc723ce233b385993f0d51fb6031",
+      "title": "90 minutes work session - Nate Jebb",
+      "updateUrl": "/calls/295181282",
+      "delete_url": "/calls/295181282",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/dbsZxiW3N_x55r3dWaS_kpXx_QJtMLyp",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-09T15:45:00.000000Z",
+      "duration_minutes": 90,
+      "short_summary": null
+    },
+    {
+      "id": 296263388,
+      "action_item_count": 0,
+      "callPlaylistActions": {
+        "createUrl": null,
+        "indexUrl": null
+      },
+      "company": {
+        "domain": "taste.ag",
+        "name": "Taste",
+        "icon_url": "https://static.fathom.video/0b0792fedc0b1be2d1b4c957498a0a3fe3fda12b/icons/unknown_company.png",
+        "teamCompanyViewUrl": null
+      },
+      "contact": {
+        "name": "Rose Hatamoto"
+      },
+      "folders": [],
+      "folderActions": {
+        "createUrl": null,
+        "addToFolderMenuUrl": null,
+        "indexUrl": null,
+        "removeUrl": null
+      },
+      "host": {
+        "id": 783668,
+        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxZx1dY-MjCtBTZV8fZET2RyuClcPfCnnwtKW9bb2ntwuBzC=s96-c",
+        "email": "contact@joaolandeiro.com",
+        "first_name": "Jo\u00e3o",
+        "last_name": "Landeiro",
+        "teamUserViewUrl": null
+      },
+      "hostTalkTime": 54.639346312798686,
+      "internal": false,
+      "is_impromptu": false,
+      "highlight_count": 0,
+      "isTeamViewEligible": false,
+      "teamViewVisibility": null,
+      "isTeamViewVisible": false,
+      "sharedWithStatus": null,
+      "teamViewBadge": {
+        "isVisible": false,
+        "tooltip": null
+      },
+      "permalink": "https://fathom.video/calls/296263388",
+      "recording": {
+        "created_at": "2025-05-09T13:59:32.250647Z",
+        "started_at": "2025-05-09T14:00:28.663098Z",
+        "duration_seconds": 5371.065
+      },
+      "star_rating": null,
+      "thumbnail_url": "https://storage.googleapis.com/fathom_video/5r5pbxjief66e0rkf0v91yvzlofp?response-content-disposition=inline%3B%20filename%3D%22b68864c8-132a-4169-8efd-6c0fb823b4ad.jpg%22%3B%20filename%2A%3DUTF-8%27%27b68864c8-132a-4169-8efd-6c0fb823b4ad.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EL6XRA4K3BQTRU5FQAAGGNT7Y2HTBOACVAL3CWUN7HJJK6F57ZAOV2WY%2F20250608%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250608T193541Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=83f35734141b415d113f1ebbcb6ec0338dc146dfea2e16aefeda749515e99db4",
+      "title": "90 minutes work session - Rose Hatamoto",
+      "updateUrl": "/calls/296263388",
+      "delete_url": "/calls/296263388",
+      "universalShareable": {
+        "shareUrl": "https://fathom.video/share/WyKLu3CU4efxsUhP6zPz6viUGBM2vFzk",
+        "access": "universal",
+        "maxAccessFolderShareToken": null,
+        "actions": {
+          "createUrl": null,
+          "updateAccessUrl": null
+        }
+      },
+      "started_at": "2025-05-09T14:00:00.000000Z",
+      "duration_minutes": 90,
+      "short_summary": null
+    }
+  ],
+  "next_cursor": "eyJyZWNvcmRpbmdfc3RhcnRlZF9hdCI6IjIwMjUtMDUtMDhUMTE6MDE6MjAuMTg3NjgwWiIsImlkIjoyOTUxODEyOTF9",
+  "limit": 20
+}
