@@ -6,7 +6,6 @@ from pathlib import Path
 from typing import Callable, Any
 import subprocess
 import sys
-from playwright.driver import cli
 
 logger = logging.getLogger(__name__)
 
@@ -19,12 +18,12 @@ def check_and_install_playwright_browsers():
     print("Checking for required browser binaries...")
     print("This may take a few minutes on the first run, please be patient...")
     try:
-        # We run the 'install' command. Playwright's CLI is idempotent and will
-        # only download what's missing. It will print its own progress.
+        # We run the 'install' command via a subprocess. Playwright's CLI is idempotent
+        # and will only download what's missing.
         # We specify 'chromium' to only install what we need.
-        cli.main(['install', 'chromium'])
+        subprocess.run([sys.executable, "-m", "playwright", "install", "chromium"], check=True)
         print("Browser check/installation complete.")
-    except Exception as e:
+    except (subprocess.CalledProcessError, FileNotFoundError) as e:
         print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
         print("ERROR: Failed to automatically install browser binaries.")
         print("This can happen if you are offline or have network issues.")
