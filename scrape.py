@@ -384,65 +384,65 @@ class FathomScraper:
                 logger.warning("Link has no href attribute")
         return meeting_ids 
 
-    async def process_urls_from_file(self, batch_size: int = 10):
-        """
-        Process URLs from urls.md file in batches.
+    # async def process_urls_from_file(self, batch_size: int = 10):
+    #    """
+    #    Process URLs from urls.md file in batches.
         
-        Args:
-            batch_size: Number of URLs to process before saving progress
-        """
-        # Read URLs from file
-        with open('urls.md', 'r') as f:
-            urls = [line.strip() for line in f if line.startswith('https://')]
-        
-        logger.info(f"Read {len(urls)} URLs from urls.md")
-        
-        # Load already processed meetings
-        processed = await self.load_processed_meetings()
-        
-        # Create transcripts directory if it doesn't exist
-        os.makedirs('transcripts', exist_ok=True)
-        
-        for i in range(0, len(urls), batch_size):
-            batch = urls[i:i + batch_size]
-            for url in batch:
-                meeting_id = url.split('/')[-1]
-                
-                # Skip if already processed
-                if meeting_id in processed:
-                    logger.info(f"Skipping already processed meeting: {meeting_id}")
-                    continue
-                    
-                try:
-                    logger.info(f"Processing meeting: {meeting_id}")
-                    # Use existing extract_meeting_data method
-                    data = await self.extract_meeting_data(url)
-                    
-                    if data:
-                        # Save transcript
-                        transcript_path = f'transcripts/{meeting_id}.txt'
-                        with open(transcript_path, 'w') as f:
-                            f.write(data['transcript'])
-                        logger.info(f"Saved transcript to {transcript_path}")
-                        
-                        # Save metadata
-                        metadata_path = f'transcripts/{meeting_id}_metadata.json'
-                        with open(metadata_path, 'w') as f:
-                            json.dump(data['metadata'], f, indent=2)
-                        logger.info(f"Saved metadata to {metadata_path}")
-                        
-                        # Mark as processed
-                        processed.add(meeting_id)
-                        
-                    # Add delay between requests
-                    delay = random.uniform(2, 4)
-                    logger.info(f"Waiting {delay:.2f} seconds before next request...")
-                    await asyncio.sleep(delay)
-                    
-                except Exception as e:
-                    logger.error(f"Error processing {url}: {e}")
-                    continue
-            
-            # Save progress after each batch
-            await self.save_processed_meetings(processed)
-            logger.info(f"Completed batch {i//batch_size + 1}. Processed {len(processed)} meetings so far.") 
+    #    Args:
+    #        batch_size: Number of URLs to process before saving progress
+    #    """
+    #    # Read URLs from file
+    #    with open('urls.md', 'r') as f:
+    #        urls = [line.strip() for line in f if line.startswith('https://')]
+    #    
+    #    logger.info(f"Read {len(urls)} URLs from urls.md")
+    #    
+    #    # Load already processed meetings
+    #    processed = await self.load_processed_meetings()
+    #    
+    #    # Create transcripts directory if it doesn't exist
+    #    os.makedirs('transcripts', exist_ok=True)
+    #    
+    #    for i in range(0, len(urls), batch_size):
+    #        batch = urls[i:i + batch_size]
+    #        for url in batch:
+    #            meeting_id = url.split('/')[-1]
+    #            
+    #            # Skip if already processed
+    #            if meeting_id in processed:
+    #                logger.info(f"Skipping already processed meeting: {meeting_id}")
+    #                continue
+    #                
+    #            try:
+    #                logger.info(f"Processing meeting: {meeting_id}")
+    #                # Use existing extract_meeting_data method
+    #                data = await self.extract_meeting_data(url)
+    #                
+    #                if data:
+    #                    # Save transcript
+    #                    transcript_path = f'transcripts/{meeting_id}.txt'
+    #                    with open(transcript_path, 'w') as f:
+    #                        f.write(data['transcript'])
+    #                    logger.info(f"Saved transcript to {transcript_path}")
+    #                    
+    #                    # Save metadata
+    #                    metadata_path = f'transcripts/{meeting_id}_metadata.json'
+    #                    with open(metadata_path, 'w') as f:
+    #                        json.dump(data['metadata'], f, indent=2)
+    #                    logger.info(f"Saved metadata to {metadata_path}")
+    #                    
+    #                    # Mark as processed
+    #                    processed.add(meeting_id)
+    #                    
+    #                # Add delay between requests
+    #                delay = random.uniform(2, 4)
+    #                logger.info(f"Waiting {delay:.2f} seconds before next request...")
+    #                await asyncio.sleep(delay)
+    #                
+    #            except Exception as e:
+    #                logger.error(f"Error processing {url}: {e}")
+    #                continue
+    #        
+    #        # Save progress after each batch
+    #        await self.save_processed_meetings(processed)
+    #        logger.info(f"Completed batch {i//batch_size + 1}. Processed {len(processed)} meetings so far.") 
