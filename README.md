@@ -28,11 +28,28 @@ The scraper is built on a modular, two-stage design to ensure resilience and eff
 
 ## 3. How to Use the Scraper
 
-#### First-Time Setup
+#### First-Time Setup & Installation
 
-If no `env.env` file is present, the script automatically launches a setup wizard on first run.
+Follow these steps to set up the scraper for the first time. Using a virtual environment is highly recommended to avoid conflicts with other Python projects.
 
-1.  **Install Dependencies:**
+1.  **Clone the Repository:**
+    ```bash
+    git clone <your-repo-url>
+    cd fathom-scraper
+    ```
+
+2.  **Create and Activate a Virtual Environment:**
+    ```bash
+    # Create a virtual environment
+    python3 -m venv venv
+
+    # Activate it (on macOS/Linux)
+    source venv/bin/activate
+    # On Windows, use: venv\Scripts\activate
+    ```
+
+3.  **Install Dependencies:**
+    Once the virtual environment is active, install the required packages.
     ```bash
     # Install Python packages
     pip install -r requirements.txt
@@ -40,15 +57,16 @@ If no `env.env` file is present, the script automatically launches a setup wizar
     # Install Playwright's browser dependencies
     playwright install
     ```
-2.  **Run the Script:**
+
+4.  **Run the Script:**
     ```bash
     python3 cli_v2.py
     ```
-    Follow the prompts to configure your credentials. The script will then proceed directly to the main menu.
+    If it's your first time, a setup wizard will launch to configure your credentials. The script will then proceed to the main menu.
 
 #### Daily Use (Interactive Menu)
 
-To use the dashboard-style interactive menu, run the script without any arguments:
+To use the dashboard-style interactive menu, make sure your virtual environment is active (`source venv/bin/activate`) and run the script without any arguments:
 
 ```bash
 python3 cli_v2.py
