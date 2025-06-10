@@ -100,6 +100,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+session.json
+session_cookies.json
 
 # Spyder project settings
 .spyderproject
@@ -121,6 +123,27 @@ dmypy.json
 
 # macOS
 .DS_Store
+
+# Fathom Scraper Specific
+env.env
+fathom.video.har
+meetings_master_list.json
+processed_urls.json
+api_response_dump.json
+scraper.log
+page_dump.html
+discovery_error.html
+discovery_error.png
+test_page.html
+urls.md
+meeting_ids.md
+RULES_OF_ENGAGEMENT.md
+
+# Output Directories
+logs/
+transcripts/
+fathom_notes/
+debug_screenshots/
 
 # Browser artifacts
 My Calls_files/
