@@ -1,0 +1,394 @@
+---
+title: 90 minutes work session - Guest of Guest of José Silva
+date: '2024-09-30T16:45:00.000000Z'
+duration: 120m
+participants:
+- João
+- José Silva
+source: https://fathom.video/calls/155884219
+encoding: utf-8
+scrapingdate: '2025-06-09T19:44:56.888690+00:00'
+---
+
+90 minutes work session - Guest of Guest of José Silva - September 30
+VIEW RECORDING - 117 mins (No highlights): https://fathom.video/share/5PBnuYvL17eGSPAB5jGwFmQzbVMN8NAR
+
+---
+
+0:00 - José Silva (thegrowthhub.com.br)
+  Do you want talk to Oliver? I'm It's going to be hard. I talk now. I talk to who likes to sing a Yes, I've talk to actually.
+
+0:28 - João Landeiro (joaolandeiro.com)
+  What think of the way of the we can make a lot of Yeah, I think a lot of work.
+
+0:41 - José Silva (thegrowthhub.com.br)
+  No. no. No.
+
+0:56 - João Landeiro (joaolandeiro.com)
+  No.
+
+1:00 - José Silva (thegrowthhub.com.br)
+  Thank you.
+
+1:22 - João Landeiro (joaolandeiro.com)
+  Maybe they're How do I now? So... I'm just reorganizing Here are some we're I will discipline from some alone, but if we respect future, It a very important topic.  is a very topic. eem. Where is I'm but I'm not sure if you have but not if any questions, but but I'm sure you have but I'm I'm sure if you have any but I'm not questions, I'm not if have any questions, but I'm but but but if you have but but I'm  present thank you This is question that I This is an important society is not so important. The question is...  What are you asking? Someone... do you think? My question is... What are you asking? are you Okay, let me ask you to do it.
+
+3:57 - Ricardo Aguiar
+  Okay, you have to include the word press.
+
+4:00 - João Landeiro (joaolandeiro.com)
+  We're going to press. It's cool. If you're interested in I'll be go internet. that's but I But what and if connected.  I'm to go internet office. common word press is T, here I pretend to be very strong, probably not cheaper.
+
+4:59 - Ricardo Aguiar
+  You
+
+5:30 - João Landeiro (joaolandeiro.com)
+  Yes, I'm in US. Yes, know how to English.
+
+5:39 - Ricardo Aguiar
+  I You have to go to Go to conference. I've got to to the conference. The internal commerce is not only a part of the operations but it is only part of commerce.
+
+6:07 - João Landeiro (joaolandeiro.com)
+  It's a part of city, but part the city.
+
+6:15 - Ricardo Aguiar
+  Is part the city?
+
+6:20 - João Landeiro (joaolandeiro.com)
+  It's part city. It's part city.
+
+6:24 - Ricardo Aguiar
+  part She's how to into the room but guess she doesn't the room go I'm trying to away. I'm gonna turn around You can try the mail!  I'm gonna try find I'm a homita! Yeah, I started to do the...
+
+7:06 - João Landeiro (joaolandeiro.com)
+  then I created this element.
+
+7:08 - Ricardo Aguiar
+  And then I didn't So... I have a couch that floats. And then I have a couch. I couch that couch that I have a I am You  I need a key function for fluency and TAP, we have a property for using VUs, GMS, Sargings, transitionize the VN as well.  I have CMP and a property connect our name, ITL tag manager, now we can move it and manage the property for us as same place means that it does need, isn't it?  No, think it's good. Thank you very much. you. Thank you. Thank you. Thank you. you. Thank you. you. you.  you.
+
+8:49 - João Landeiro (joaolandeiro.com)
+  Thank you.
+
+8:51 - Ricardo Aguiar
+  you. you. Thank you. Thank you. you. Thank you. Thank you. And if you are conversing with yourself as an eversary, I would say to you guys to me.  I think, think of myself as an eversary. I think myself as eversary, myself as eversary. I think of myself as eversary, eversary, eversary.  if like I would to this. I think with my own question that, if I advice or like what you want then want the Bye bye.  me into this. I can show my hedges, I promise it was a catch, no, no hedges, no hedges, yes, I see, it's okay, I can show my history to contain, it occupies a bouquet range, can I need to I bouquet, i think I will tell you store bouquet range, because i have drink one of those so i can't but i i so i drink it will see you in the next video.  Okay, so we about In general, it is a set of guides, and you can the link in the description.  So, if you have any questions, please, please, please, please, please, please, please, please, It been like a few ago, there a lot other And talk about this, things in the afternoon.  I was thinking about-hm. You all should feel sorry for This is still nice. Nice, come on, I thank you.  I just want to say that you're a few, comes from personal examples. think it's good result, but it has a good result.  Joguna spards the new template on the end-lays. It's good isn't It's good result. late chat and you you you boss you boss you you boss you press they will be the impson they the impson can see the What bottom.  So, how are you? the bottom. I have to look at the countries. It is not only a story.
+
+13:56 - João Landeiro (joaolandeiro.com)
+  It is only story. only a story.
+
+14:19 - Ricardo Aguiar
+  And I was just looking at and I was like, Okay.
+
+14:50 - João Landeiro (joaolandeiro.com)
+  In turn. Thank you very much. If do not it in the there won't be more questions.
+
+15:06 - Ricardo Aguiar
+  It first ask questions. What are you saying? I'm sorry, know.
+
+15:19 - João Landeiro (joaolandeiro.com)
+  The first one to ask question.
+
+15:27 - Ricardo Aguiar
+  It's an English it's or not. Thanks Bye. Thank you very much.
+
+16:10 - João Landeiro (joaolandeiro.com)
+  She was a scheduler. But it was for the following next time. Thank you.
+
+16:59 - Ricardo Aguiar
+  Thank you.
+
+17:50 - João Landeiro (joaolandeiro.com)
+  Thank you very much. And we will the next video. You You
+
+22:00 - Ricardo Aguiar
+  You
+
+22:30 - João Landeiro (joaolandeiro.com)
+  I how to do it. is?
+
+23:10 - Ricardo Aguiar
+  No, no. the image of the cell, not there, in tinge versus. It's a bad idea, it's a bad bad but bad idea.  It's bad but it's bad idea. but it's a bad idea. It's bad bad idea, but idea. idea, but it's a bad idea.  It's bad idea, but it's So, think that the nature of Puscharno, the nature of the nature of Puscharno, the nature of Puscharno, the nature of Puscharno, the nature of Puscharno, the nature Puscharno, the nature Puscharno, the nature Puscharno, Puscharno, the nature of Puscharno, the nature Puscharno, nature of Puscharno, Puscharno, nature of Puscharno, Puscharno, nature of Puscharno, of Puscharno, Puscharno, nature Puscharno, Puscharno, the nature Puscharno, nature Puscharno, the Puscharno, the nature Puscharno, the nature Puscharno, the Puscharno, the Puscharno, Puscharno, the nature Puscharno, the nature Puscharno, the nature Puscharno, Puscharno, the is being real  And since you're going to criticize me in the end, have I'm not to you what I'm going to what going to something.  Is this your name? name is Ok.
+
+25:38 - João Landeiro (joaolandeiro.com)
+  Time.
+
+25:38 - Ricardo Aguiar
+  like, mm hmm.
+
+26:01 - João Landeiro (joaolandeiro.com)
+  It's know what you are saying. It's hard to Yes. I'm not that. to pronounce. It's hard to pronounce.
+
+26:25 - Ricardo Aguiar
+  Okay.
+
+26:26 - João Landeiro (joaolandeiro.com)
+  not saying that. pronounce. It's a system where it has a cadmium, it's affecting what's basic with spooking, isn't it?  It's spooking, it's converging, it's converging, it's converging, converging, it's I'm very happy with point of view, can't understand, can't understand.
+
+27:15 - Ricardo Aguiar
+  I would like thank you very being thank you Who knows who are? Right? This is surprising for us, is it not no longer?  No. Is not? Did you. It's not possible. It's not impossible.
+
+27:47 - João Landeiro (joaolandeiro.com)
+  You're not to It's not Hello, welcome See you in the next video. Mi anto. Nam?
+
+28:02 - Ricardo Aguiar
+  Say.
+
+28:02 - João Landeiro (joaolandeiro.com)
+  Yes, can subscribe again.
+
+28:12 - Ricardo Aguiar
+  Thank you. He says we could talk to you, say something like this. don't know. image was not the same.-sest, kyin-keen-t'hay-si-tung, jhai-e-lites-tay-en-tung, nkun-kus.  Yeah, amesma ko-is-a-qu-e-l-mentor, a-l-mentor-e-tay-dith-a-l-ist-a-me. Eh... Oh, my creeji... You know, Phukim, son-a-mundu-an-wahw, shou-hak-i? We are going to take a little bit time.  I tell it to give you a G, but I will say it's very good to find this. don't want change that language anymore.  I just haven't put you in most of place. I don't know. I don't know. I I know. And some French quarantine of the doors, and we need to trace to see if it's amazing or Peace.  Yes, buddy boss, but you boss in the opening free was that such a bad, but you completely free, or premium add-ons do the mentor know a part of the parameter prop, they will meet a pro to a premium add-ons, they are married to the individual, he will promise, we will converse the non-preciency in the sense The problem was that, you know, it was a process.  It was a very simple process. So, it a very simple process. it was very simple process. Yeah.
+
+30:55 - João Landeiro (joaolandeiro.com)
+  Mm. It's so good. I was surprised by the words that I don't know how to play, but I just think it's I'm thinking of.
+
+31:19 - Ricardo Aguiar
+  I was thinking of a lot of people. I'm I'm not to you this is item as well. That is approach.  I have to tell you that proves what I I did not that to OK.
+
+31:44 - João Landeiro (joaolandeiro.com)
+  I dont know whether I have to post It is is true. I will see the next video. What about this?  What reason?
+
+32:03 - Ricardo Aguiar
+  The reason why? reason is because, I have to What is the reason why?
+
+32:14 - João Landeiro (joaolandeiro.com)
+  you doing?
+
+32:16 - Ricardo Aguiar
+  What you doing? reason? Okay.
+
+32:38 - João Landeiro (joaolandeiro.com)
+  Okay. why were It's the song, song, song, the the the song. No. That is interesting. Okay. Okay. Okay. Yes.  Yeah.
+
+33:51 - Ricardo Aguiar
+  Challenge Bean. Nope.
+
+33:59 - João Landeiro (joaolandeiro.com)
+  No. No. No. What are you here? Yes.
+
+34:06 - Ricardo Aguiar
+  You've got to the video. you What's happening here? Yes, you the Amen advice. If you doing as I use S, I want to use the word would use What If you it before, in can just it.  if you have seen it, you can just interested in the it. you start, you can run it.
+
+35:00 - João Landeiro (joaolandeiro.com)
+  You see push, and that which applies in specific or such. Yeah, but you have to look at them to meet up for work.
+
+35:15 - Ricardo Aguiar
+  Done.
+
+35:58 - João Landeiro (joaolandeiro.com)
+  Okay. You could sit up again, it was so annoying, it was so it was so annoying.
+
+36:58 - Ricardo Aguiar
+  It was annoying, was was You could
+
+38:00 - João Landeiro (joaolandeiro.com)
+  You Okay. One day, I was just going ask for that. No. That's it. Who makes previous? Oh, I keep it.
+
+38:22 - Ricardo Aguiar
+  a guy is it is any a guy is the any a Who's the oyster owners old are said sin It's an opening page, so sometimes we're pressed different, because it's little bit different.  is I I to I I What did you say? We can do You
+
+41:00 - João Landeiro (joaolandeiro.com)
+  Okay. Here we You Okay, let's see what they are grabbing. It's a table grab.
+
+42:12 - Ricardo Aguiar
+  It's a table grab. So, we have a lot of people the same place have been same place in the same place as we have in same place have the same place as same place been same place as same place the same place the place same Marked same place as have same place as in the place as been in the same place as we have been in the same when you are in the same place ste Venice dar  I was to be of the community. I would you pay episode? I was to be a part of the community.  I didn't want make this episode.
+
+43:46 - João Landeiro (joaolandeiro.com)
+  you, many of have idea of you have So I have to you, audience. It could make a contest is difficult.  So, we're making test with vest which a � The first meta test will be called 2's Because it huge or you...?
+
+44:13 - Ricardo Aguiar
+  course it's it's ahas It is designed waterflow problems And found would have to something HIM do you have a question?
+
+44:34 - João Landeiro (joaolandeiro.com)
+  Thank you. Where are you from? here? you share with us the opportunity? Yes. It will be the academic. Yes.  Indica, what can be? Sell. What do you do? I don't I'm sell a link. You visit site. Sell.
+
+45:22 - Ricardo Aguiar
+  Sell. You're trying to...
+
+45:27 - João Landeiro (joaolandeiro.com)
+  You are going sell this. There's an it's OK. OK. That's Done.
+
+45:54 - Ricardo Aguiar
+  Just imagine people you.
+
+45:56 - João Landeiro (joaolandeiro.com)
+  people call Thank you very much. It done.
+
+46:01 - Ricardo Aguiar
+  Uh-huh. Uh-huh. done. It's Uh-huh.-huh.-huh. Uh-huh.-huh. up with the commission.-huh.
+
+46:18 - João Landeiro (joaolandeiro.com)
+  It was first one.
+
+46:20 - Ricardo Aguiar
+  I'm going make I-huh.-huh.-huh. Okay, I'm going to show you bit video. No, don't you have use channel for this and what'all the country especially with this that I wanted upload a lot of time so I got update now I asked my parents because it didn't on and new is to say The academy, the international student.
+
+47:35 - João Landeiro (joaolandeiro.com)
+  It's okay.
+
+47:37 - Ricardo Aguiar
+  It's okay. It's okay. It's okay. It's okay. okay. okay. okay. okay. It's okay.
+
+47:53 - João Landeiro (joaolandeiro.com)
+  okay. It's okay. It's okay. okay. okay. okay. okay. okay. It's okay. It's It's It's It's okay.
+
+48:00 - Ricardo Aguiar
+  and how do you feel about The work is in the world where you can do it, but you do that, and now you in front then, the village, and can say, yes, you can see how much energy you do.  Thank you very much. You . . . . . . . . . .
+
+49:42 - João Landeiro (joaolandeiro.com)
+  .
+
+49:44 - Ricardo Aguiar
+  . . . . . . . Thank you So, if you are interested in you find a strategic form of this form.  So, if you are interested in you will find a strategic form of this of this form of this form.  I think FON and and FON The a very example FON is example FON is think FON is this is a very Thank you.  That question, the question, is read what what Thank you. We did not know that the sword Mm-hmm. Yeah, I'm here.  The normal. So, this is the standard version of the version of the version. a key to the culture of the country that is in the world Zaluz, the world Zaluz.  In the world of world of Zaluz, world of Zaluz, the Zaluz, the Zaluz, the world of Zaluz. In world, the world of Zaluz Zaluz, the world of world of Zaluz, the world of the world It's because we're with our We're connecting neighbors.  I was like, got a little bone on my I went instead of my lower legs And then I a bone...  My heart there. The bone was in the middle It's It's I see it. I don't know.
+
+53:59 - João Landeiro (joaolandeiro.com)
+  know. know. know. I don't know.
+
+54:04 - Ricardo Aguiar
+  So, to I will take a at previous video. that user previous video. You You Thank you very much for joining today, and thank joining us today.  You You I don't have any money. Okay. Okay. Okay. Let me show you another one. I need to test it.  Sure. Can you? Sure. What is most important We go to the window. It's important thing. It's a very important thing.  It's a very important thing. I should sit here here. Be curious. See if something is coming. I'm sorry. I'll just go to the end.  Okay. I want to address this in the key. I'm keeping full of link in the link.
+
+1:01:01 - João Landeiro (joaolandeiro.com)
+  I'm to show you the link to the element. Yes, I'm going to you the text. I'm going to the I'm going you the text.
+
+1:01:21 - Ricardo Aguiar
+  No azure Flash I'm you the text. Yes, as many as You Okay, I'm going to show you a little what I'm going to I'm going you a little bit going to do.  And this is the first of of I think went up all to sailing in. I'm not member of the CLE, but I'm I'm not a member CLE, but I'm not a of the CLE, but not member the CLE.  I'm a member of the CLE, but I'm CLE, member the CLE. but I'm member CLE. and in terms of different types CLE.  You really aYou've already forgotten making wonderful. Here in CLE, of the CLE, I'll see you Thank you. Thank you.  you.
+
+1:04:02 - João Landeiro (joaolandeiro.com)
+  Thank you. Thank you.
+
+1:04:04 - Ricardo Aguiar
+  Thank you. Thank you. Thank you. you. you. Thank you. Thank you. Thank you. you. Thank Thank you. Thank Thank Thank Thank Thank Thank you.
+
+1:04:43 - João Landeiro (joaolandeiro.com)
+  you. Thank you. Excuse me. My And theumbs— the open-clar x-ray and Why you want build new system? Do you do a new system?
+
+1:06:08 - Ricardo Aguiar
+  I want to make want to build new I want build a new It's a very complex. So was number of people had been.S.  were the United States. And United States they had number of number exact same form, So number you got number So up If custom fields at key, be sure to predict.  It's a huge project, huge project, it's a huge project, it's huge project, a huge project, a huge project, huge project, project, huge project, project, a huge a huge project, project, project, huge project, huge project, project, project, huge project, huge project, huge project, project, a huge project, a huge project, huge a huge project, huge project, a huge a huge project, huge a huge project, a project, a huge project, a huge project, a project, a project, a huge project, a huge project, a a project, a project, huge project, project, a huge project, a huge huge project, huge huge lecture, you know, thank you.  What does it mean? It is the one who is playing, will first To all of he's not that will be released now.  About a lot reconnection, this is where everything happening. Is something you want to I want to understand. I think that are not going be to If we to a sentence that we are going to ask the sentence, are going a second We don't with those custom fields, but Sirozado  Back in the sound becomes personal is that Maseuk, Kompu, do you think is se You can you can see that you can see that you see that you can see that you you can that you see that can that you can see that can see that see that can see can that can see can see that you can can see that you that see that see that can see that you see that you that see that you can see that can see that you you you can can see you see that  Police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, police, and I'll do it.  It's a temporary present for the capacity to connect to all the devices we have. Indeed, we to do the programming.  The application has been created in It has been but it has been created for a while, is a new way to work with a new network.  It's work new We will also have a new way work network.
+
+1:11:47 - João Landeiro (joaolandeiro.com)
+  which the band is located.
+
+1:11:51 - Ricardo Aguiar
+  The procedure is uniform as This is only $7,000. Okay.
+
+1:12:05 - João Landeiro (joaolandeiro.com)
+  can use the same key.
+
+1:12:06 - Ricardo Aguiar
+  Now, we're use a little bit of a for the last one, that's the one that you're We're going to use a little bit more.  It is not that bad.
+
+1:12:20 - João Landeiro (joaolandeiro.com)
+  it's wordpress, bad. You can use wordpress.
+
+1:12:43 - Ricardo Aguiar
+  a lot more particularly that. Okay. You can use users that participate.
+
+1:13:06 - João Landeiro (joaolandeiro.com)
+  Now, options are very good. Keep it from the option. Options are very good.
+
+1:13:11 - Ricardo Aguiar
+  So, this is how they have a size. It has a size. Kind of clicking, will say that. has size a size, you know?  It has a size of a size.
+
+1:13:26 - João Landeiro (joaolandeiro.com)
+  No, no, no.
+
+1:13:27 - Ricardo Aguiar
+  Options, no. What this layer the Java hat and plain switching has but why it their image? I think that is not key.  It key. On end of we do else. will see in the next video. So many long. Wk my grandkids, Wk my my grandkids, Wk.  In the end there was a love-to-be, I think the last one.
+
+1:14:11 - João Landeiro (joaolandeiro.com)
+  Then it took a lot of time to talk to us. That was the first had a love-be. Of course, it wasn't the first time love-be.  Okay. Perfect. Great, thank you very much. this is We know about our migration and on and i again, woman I can Thank you you.  Okay. You You You You ... in this world... ... ... ... ... ... I don't but I know, I don't know, I don't know, I don't know, know, I know, I know, I know, I I don't I know, I I know, know, I I know, know, I know, I I know, I I I know, I I know, I I  I'm not sure if going to I'm going to to next stage. My cred is a very different cred. It's version of my cred.  It's a different version of my cred. It's different version cred. every time Okay. and configurant and the mean.
+
+1:28:41 - Ricardo Aguiar
+  It's another point.
+
+1:28:46 - João Landeiro (joaolandeiro.com)
+  So, say that, as I assume, for second figure, I'm to my point, so I'm going to find my cred.
+
+1:28:56 - Ricardo Aguiar
+  Thank you very much for watching, I will see you in the next good problems. Okay, that's spot to cut the beans from my suspecting name.
+
+1:29:05 - João Landeiro (joaolandeiro.com)
+  Same problem, as I saw, people, that's where I procured the support of the look, made a seven internet coming for profit, but if it was positive, I have different questions, man.  You're primiting at the value pool, again, Okay.
+
+1:29:40 - Ricardo Aguiar
+  Okay. Okay. Okay. Okay.
+
+1:30:17 - João Landeiro (joaolandeiro.com)
+  of you that go print and go all So, situation.
+
+1:30:32 - Ricardo Aguiar
+  Yes. No. No, with It's not a problem.
+
+1:30:58 - João Landeiro (joaolandeiro.com)
+  I Yeah, it's available. Add think it into the web pay user set. If you connect to the bucket, you can add the address press.
+
+1:31:05 - Ricardo Aguiar
+  WP users, it's going to not something that's going to existing. It's to be existing as well, to existing as well.
+
+1:31:14 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+1:31:15 - Ricardo Aguiar
+  The user is apprised. No.
+
+1:31:17 - João Landeiro (joaolandeiro.com)
+  It's be spot to know some the web users. No. Okay. It is being cool.
+
+1:31:23 - Ricardo Aguiar
+  We're going to ahead and show them how long it is. We'll go ahead, we'll go and add sec. Mm-hmm.
+
+1:31:31 - João Landeiro (joaolandeiro.com)
+  Erm, ... ... ... ... ... ... ... Okay, Intel. You can see that former IEL, second one, is that can speak Spanish, but you can speak and you can speak in Spanish, and you can speak in Spanish.  You can speak in in Spanish. That's perfect. I'm going speak in English, and I'll Yes. Okay. wow, I'm you didn't want to everything must the math that I mean.  So.
+
+1:33:13 - Ricardo Aguiar
+  We are going be to be able to find what We image is not only available, but also in chat.  to to make it possible to make to make it to make it possible make possible make it possible to make possible make possible to make make it make it possible it possible it to make it make it possible to make make it possible to it to make it possible make make it it possible make it make possible to make make it make it it possible to make .  but that's your story. I must say that you should say people eat like this and say, there's a lot things But just you can over I think this is story.  I think you should say, should say, because my very urban world. We are going about what we are going do.  We are going to talk about going do. We going about what we are to do. We are going talk what we going to We are going talk about what we are going do.  We are going to talk about what going do. We are going talk do. are going what we We are going talk about what we are We are going to talk what are going to  Why is it so to see music that you see? Do want to see music see? Yes, yes, This is music see.
+
+1:35:19 - João Landeiro (joaolandeiro.com)
+  It's only example of this scroll. It's a tip news later now. Yes.
+
+1:35:43 - Ricardo Aguiar
+  So, I'm going ask a present your frequency with frequency. I'm you a little bit about to present Yes, this one is going to be in block as we It's to in the same block as If you do know that with the system, you can the key in same block.  system, is going block. It's going block If you find prices like this, you have pay attention to your consumer.  this is an easier I have a price-specific comment on the price-specific comment, important thing in turn. My issue is, then you go to Mugan.  and you can say that so It's a culture but a brain giant Forever mentioned positive. Yeah on the sergeant problem thing had God The second yard that she does I was a course Yes, she put on key of this day the time is Do you want to come up with somebody else's own?  Or is it cheap? No. I don't want say it's a specific animal, but it's not animal. And all of us, people should think about it, because it a mathematical lens.  I'm showing it. What you're is that when you look at the topic of this effect, you have a way to also You can go to the moon to sub it.  I'm a little bit last few weeks. I'm going to show you going do few weeks. I'm going to you a going to do the last Thank you for this video.  you very Thanks. Shmeem Lily. Okay. And this is, this is a beast. And the thing is, if it's gone, this is not so cool, this is a Yoast, Okay, so I'm going to press the button here.  even I'm on that. Maybe I can understand the question.
+
+1:40:49 - João Landeiro (joaolandeiro.com)
+  The question is, If think the question a question? I'm The first thing say Csell to If we Csell to attack, a Csell to attack that can a Csell to Cuckoo.  Okay. Ask, and poke my scar, preming scene. Just a bit, make terms of temp. I got it. Front and mechanic of the course of comask, correct me.  Very good. Oh, Oh, I should keep, I don't want to maintain anything, but it's because much, forget that there's something that needs to be with word press.
+
+1:42:41 - Ricardo Aguiar
+  And then the most important thing about being is there's Epikim, basically, into my things from isopalizadus, I think she's the same visual problem aquaizaki, of my instability,  Okay, so if you problem, if you have a problem, if you problem, you have problem, you have problem, you have problem, you a problem, you have a problem, you problem, problem, you have problem, you have problem, you have problem, you you have problem, problem, you have problem, you problem, you have problem, you have a problem, you have problem, you have have have you you have  And from the bottom of the object of the object of object... ...but the element is longer a case. Because...  a case of object. ...as I was in terms object of object? What you object, It's little than No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,  So, saw that there was a problem, we saw that was a that there was problem, saw that there was a problem, saw that there was problem, we saw problem, we saw was problem, we saw that we saw that there was problem, we saw problem, we saw that problem, that problem, we saw problem, we saw that problem, we saw that that we saw that we saw that problem, we problem, saw that we we problem, problem, a problem, This is Karma.  I'm sure that's way it's not the view of your image but that's what I to do anything. Okay, so I'm to note that you can see the view of that see.  image. If you this view, so I'm going to a I need stay air without stay I want to stay air, not you air as Akid, okay.  Akid. as you over Because as ou path. I haven't already left my cancer and can ClassicIt. The mind canvas, I use that but speaking from this point in time.  I'm I'm not I'm I'm I'm sure I'm sure if I'm sure if I'm sure if I'm if I'm sure I'm sure I'm sure if I'm if sure if I'm sure if sure if I'm I'm I'm sure I'm sure if I'm sure if I'm sure I'm if I'm sure sure if if I'm I'm I'm I'm if I'm sure if sure sure  I'm sure if not sure if I'm I'm sure if I'm sure if I'm sure I'm sure sure I'm sure I'm if I'm I'm if I'm sure I'm sure I'm sure if I'm if I'm if I'm sure if I'm sure I'm if I'm sure sure I'm if I'm if I'm sure if I'm sure I'm if I'm if I'm I'm sure I'm sure sure if'm sure if sure sure if I'm I'm I'm sure if I'm sure if I'm sure if I'm sure I'm sure I'm I'm I'm sure sure if I'm sure if I'm sure if I'm sure I'm I'm sure I'm sure I'm Sometimes it's all  If was a place for me, it would be a place to go. They came That's a place for me.  Are you in game? thought it. is the moment we going to study it so Okay, boy, just to measure that.
+
+1:49:54 - João Landeiro (joaolandeiro.com)
+  Um I think that we do one also, have for the audience, can't do that, and we can't do and then do that.
+
+1:50:13 - Ricardo Aguiar
+  But can't do But I think that can think can do that, can't create, but can't that. I hope we can do that.  I mean they call the and call on drives. I told you doing my live, I was because of my image.  No knowledge in Asia. Things to be attached to my office. Yeah.
+
+1:50:45 - João Landeiro (joaolandeiro.com)
+  I got a new account.
+
+1:50:47 - Ricardo Aguiar
+  It's happened. Yeah it's over.
+
+1:50:54 - João Landeiro (joaolandeiro.com)
+  So, So, you want to know what you to do, please subscribe It's important thing to do, but very important thing to it's a very important thing to do.
+
+1:51:10 - Ricardo Aguiar
+  very thing to it's a very thing to do, very thing very thing do, thing do, very important thing to do, and just a very important to do it be like this.  So I'm going to do a little back on the link, call it on the platform.
+
+1:52:00 - João Landeiro (joaolandeiro.com)
+  you had talk about It was a process of learning about business. This approach is the integration of event. It's here.  at can even go over it and at a and It's the best way drive it.
+
+1:52:28 - Ricardo Aguiar
+  It's best way drive it. It's the best way drive it. It's best way drive it. It's best it. It's the best drive it.  best drive best way drive it. It's the best it. the best drive it. the best it. the best way It's The best to drive It's the way to it.  It's the to Yes, of course. Here, I'm video. It's going to be from the In my mind, we on It's going to be simply this, and we're to be same thing.  I'll start with him. We're going to wait till put this my mind, the first to be be Okay. I'm going to the first to be be first be first be first to be first first be first be the first first first to to to be first first to to to first first be be first first be the first  Also, we to talk about many people ask. Hello.
+
+1:54:07 - João Landeiro (joaolandeiro.com)
+  Okay, I'll to talk with you. I'll talk about these things. just talk about these things later. For us, I you some to me.  you say about it? I wrong with me. I'm not going say what's with I'm not okay. think it's a little bit I think we're going to do a little more.  We're going to do little more. What are I'm not going be able do but I'm going to do it.
+
+1:55:00 - Ricardo Aguiar
+  I'm can use It's very simple product. I It's very simple. It's very simple. I'm sure it's a very product.  I don't think easy to use. I'm not sure it's easy. Thank you very You
+
+1:56:01 - João Landeiro (joaolandeiro.com)
+  What are you doing? What are you doing? How are doing?
+
+1:56:11 - Ricardo Aguiar
+  What are you doing? Oh, what doing? doing? are doing? I'm in Australia.
+
+1:56:25 - João Landeiro (joaolandeiro.com)
+  How many people are in there? Thank you very much.

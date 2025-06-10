@@ -1,0 +1,529 @@
+---
+title: Aker Carbon Capture
+date: '2025-01-23T13:00:00.000000Z'
+duration: 60m
+participants:
+- João
+- Abbey Lin
+source: https://fathom.video/calls/217693971
+encoding: utf-8
+scrapingdate: '2025-06-09T19:27:04.274410+00:00'
+---
+
+Aker Carbon Capture - January 23
+VIEW RECORDING - 46 mins (No highlights): https://fathom.video/share/Ye_dPmM3jsdV2PqpQsyNNv4CaUj_1EKx
+
+---
+
+0:20 - João Landeiro (joaolandeiro.com)
+  Oh, sorry. I'm here, I'm here. So my teams, it changed, it used to be like a dark background and walking into the mic open, now it just logs in with the mic closed.
+
+0:32 - Abbey Lin (fortifai.co)
+  Oh, no worries. Hey Anja. Hello. How are you doing?
+
+0:37 - João Landeiro (joaolandeiro.com)
+  Hey.
+
+0:38 - Abbey Lin (fortifai.co)
+  Good. How are you?
+
+0:40 - João Landeiro (joaolandeiro.com)
+  Good.
+
+0:41 - Anja Haugland Fischer (Aker Carbon Capture)
+  Good to see you.
+
+0:42 - Abbey Lin (fortifai.co)
+  Happy New Year, even though it's almost the end of the month.
+
+0:46 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, the weeks are passing by quickly.
+
+0:49 - Abbey Lin (fortifai.co)
+  Yeah, absolutely. And I see that you guys, yeah, you have the new logo and you guys kind of moved on to their system because I saw your email changed too, right?
+
+0:58 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, so we moved over to emails on December in the first of December, but we're still operating with two email accounts and then we have access to both systems for a while as well.  when are they planning some kind of integrating the merger of the companies or like having the same system?
+
+1:16 - João Landeiro (joaolandeiro.com)
+  are you going to meet it's going to be a while?
+
+1:19 - Abbey Lin (fortifai.co)
+  Yeah, I think so. It's a step-based approach.
+
+1:22 - Anja Haugland Fischer (Aker Carbon Capture)
+  So we're just now getting ready in SAP and yeah. It's a lot.
+
+1:28 - Abbey Lin (fortifai.co)
+  Yeah, it's a lot I can imagine. Okay, great.
+
+1:30 - João Landeiro (joaolandeiro.com)
+  don't necessarily think we need the whole time today for the whole hour but I do think that we could kind of plan a little bit and we have a presentation for you just to kind of plan for the next steps of our launch and getting you on the tool which we think will be in two weeks that you could actually play around and look at it.
+
+1:49 - Abbey Lin (fortifai.co)
+  So what we will be launching is the policies, procedures, training, and communication portion of the tool first and then and then the other one subsequently after that.
+
+1:59 - João Landeiro (joaolandeiro.com)
+  But let me share.
+
+2:00 - Abbey Lin (fortifai.co)
+  presentation so that we can, yeah, see how to move forward on this. Yeah, can you see my screen?
+
+2:12 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, great.
+
+2:14 - Abbey Lin (fortifai.co)
+  So I think, since the last time we met, we kind of showed the overall design progress. We did, you know, talked about risk management at third party, and we've really been going to building the app from scratch all over again from October.  So, and then we're planning for kickoff. So now, and I'll show you some updated designs that we've made even more since we've talked with you, and that we're ready to launch the the training policy training communication so that you can test it out.  And then we're also building out the environmental section and then the controls afterwards. So how to test the solution and get your feedback there.  So yeah, go on.
+
+2:52 - João Landeiro (joaolandeiro.com)
+  Do you have a question?
+
+2:53 - Abbey Lin (fortifai.co)
+  No.
+
+2:54 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+2:55 - Abbey Lin (fortifai.co)
+  So this is now the new policies training and communications portion of the tool. It looks a little bit fancier with a newer design with the usability and this part along with the employee portal here view is what's going to be ready to test in about two weeks where we'll actually set up the login for you so that you can go into the tool.
+
+3:16 - João Landeiro (joaolandeiro.com)
+  So one of the things is that we'll talk about this is like, is there any internal policies or communications that you have ready that we can upload into the tool so that you can also test it out.
+
+3:27 - Abbey Lin (fortifai.co)
+  There will also be a function for you to create your own policy so you can create it and copy and paste it in here too.  But I think it's also fun if you go into your tool and you see your policies there already. We had a long conversation with Linda from Hydro Rain about the grouping of the names of what companies wide documents and what internal documents mean.  We went back and forth but really as a company company wide which we might change based on the conversation with there is like documents that you want employees to sign off confirmation of, you know, so there are some policies that you're like.
+
+4:00 - João Landeiro (joaolandeiro.com)
+  of conduct or whatever you want them to actually acknowledge it and show that they've had it.
+
+4:04 - Abbey Lin (fortifai.co)
+  Then there's some internal documents which I call, I call it internal but she's made a point that all documents are internal but some documents that you don't need employees to sign off on but you need to have them you know.
+
+4:14 - João Landeiro (joaolandeiro.com)
+  So that's kind of the differentiation and how we set it up and then there's another section for new policies that you might have that fall under this but these are things that we would like to have tested out and seen.
+
+4:26 - Abbey Lin (fortifai.co)
+  So what we wanted to check with you is kind of like how do we test this in the same way that you feel comfortable with and then do you have any stakeholders in the organization that you want to work with.  So we've talked with you know like Linda has a few colleagues she wants to test with but another customer said no start with me I'll be the main tester first so it's really what you feel comfortable with so let us know as like do you would you like to individually test this out are there any other people that you want friendly stakeholders to join and a wider test subject but I don't know.  what your thoughts are, if you have any opinion on this, because we can work around that.
+
+5:05 - João Landeiro (joaolandeiro.com)
+  No, based on the current situation of our company, I think it's best to start with me, to test it.
+
+5:11 - Anja Haugland Fischer (Aker Carbon Capture)
+  And then I just have to think a little bit about whether to bring in other stakeholders, and that also depends a little bit on how we will test the tool.  So, from SLB perspective, they already have a system, they have a training portal, and they push things out automatically to employees who, for example, need to complete conflict of interest, acknowledgement and that sort of thing.  in terms of this section, it would need to be tailored a little bit. So, I'm thinking about whether I can use it as a communication of changes from ACC over to SLB compliance system.
+
+5:55 - João Landeiro (joaolandeiro.com)
+  And then the changes could potentially be communicated via this system.
+
+6:00 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, but I don't have any, I don't have clarity on that, so I think you should just give me, yeah, that makes sense.
+
+6:10 - João Landeiro (joaolandeiro.com)
+  We can do that and give access. Someone like what we're really like looking for is kind of feedback is like, I like this feature here the most.
+
+6:17 - Abbey Lin (fortifai.co)
+  I really like this, but the button could be moved over here. You know, this doesn't work when I click it, you know, missing a key feature for this section to work and for it to make sense for me.  You know, so these are more of like what we would like to see as part of the pilot before we go into kind of mass deployment.  Like it is kind of functioning for you. So that's kind of the feedback that we're looking for.
+
+6:38 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+6:38 - Abbey Lin (fortifai.co)
+  And then in terms of like communication, some like teams, some like Slack. What do you guys work on? Do you guys work on teams or do you work on Slack or other communication channels?
+
+6:52 - João Landeiro (joaolandeiro.com)
+  Teams. Teams.
+
+6:53 - Abbey Lin (fortifai.co)
+  Okay, so then we can also create like a folder like for so we're creating a folder like a teams channel for each of our customers.  so that you can put in documentation in there, then we can upload it into the tool, so you can also just automatically see that.  So I'll create that with you. I'll create that for you and kind of have it, and you can just dump your files in there, and then as we set up your individual login and your company's portal instance, we can put in your documents in there so that you'll have that ready when we launch.  Then the question of feedback, would you prefer to individually test it and then give feedback via a 20-minute call, would you like to just set out 45 minutes or an hour, then you're walking through it, and then we see your feedback in real time on how you want to do that.  Is there an opinion on those? Option A, I think. Yeah.
+
+7:46 - Anja Haugland Fischer (Aker Carbon Capture)
+  Okay.
+
+7:46 - Abbey Lin (fortifai.co)
+  Now that's fine, and then we can do that and check that out. Let me think what else. Yeah. So I think this was also created for somebody around the S side.  of it. So I don't necessarily need to go through that portion of it. But I guess I'll leave this place now open.  do you have any questions around the test? I know we've been kind of talking about our product and we're of showing it to you.  And now we're kind of getting to the point where you can have a user, you can log in yourself.  are there any expectations or anything you would like to see or any process that you would like us to be part of as we kind of you onboarded and tested for this?  Well, I'm quite excited about the S part of it that you didn't show now.
+
+8:36 - Anja Haugland Fischer (Aker Carbon Capture)
+  Because that's basically my main concern. The third part, the diligence and the supply chain and human rights, how to follow up, etc.  And it would do everything manually. I know that all these tools exist that can really simplify the process. So when that part is ready to be tested, it's I'm quite excited about that.
+
+9:00 - Abbey Lin (fortifai.co)
+  Yeah, so the how we plan that to be kind of the third launch. I was just talking to Mari about that today meeting with her before our call and so this will be launched and then the controls portion of it will be launched Which is kind of like the you know, come the conflict of interest check the Gifts of entertainment and and that will be launched and then the third party will be after that So it's about a month away.
+
+9:23 - Anja Haugland Fischer (Aker Carbon Capture)
+  I would say the third party won Okay for the launch for that, but we're kind of doing it in groups There so okay, and also I don't remember what we've discussed before but the integration part here So let's say it conflict of interest SLB already has a system And that's so and it's about so obviously we can't replace that system but can this system easily link into the SLB system Yeah, I would say like what is your definition of I Get easily like I think that we
+
+10:00 - João Landeiro (joaolandeiro.com)
+  And not build an integration because that will just be too costly and you guys won't be able to afford that that process, but we would be able to download the data onto like a CSV format, you know, and then use that.  then that could be like probably uploaded into their system. I think that would be the closest thing to it if you're not using their system.  Yeah, or we can take like, you know, what, what are they actually, how do they answer the information we can ask for the same from our system in case your employees don't have access to the system.
+
+10:30 - Abbey Lin (fortifai.co)
+  And then they can be used to using, you know, that system and asking for that information.
+
+10:34 - João Landeiro (joaolandeiro.com)
+  But we will not build an integration. It's just like, I think it's also cost wise and time wise for you guys.  It will be quite expensive.
+
+10:43 - Abbey Lin (fortifai.co)
+  Yeah, it wouldn't make sense.
+
+10:45 - João Landeiro (joaolandeiro.com)
+  No, okay. Yeah, I think when I get access, I will also play around with it and then probably understand how the system can be used.
+
+10:55 - Anja Haugland Fischer (Aker Carbon Capture)
+  And also then I can maybe be more specific on how it fits as a system. we see and how we can utilize it.
+
+11:04 - João Landeiro (joaolandeiro.com)
+  Yeah, I think that, like to be honest, I think if SLB has like, because Lumberj is a really big company, right?  So if you end up being on their system and they're all their tools, then it maybe makes sense that you use their tools.
+
+11:16 - Abbey Lin (fortifai.co)
+  But if for some reason that they're like, okay, well, you guys are, you know, not fully owned by us and you guys can still have your own system and tools, but you need to like confirm that you're following a good compliance program.  And then I think our tool is very good in terms of, you know, like a cost-effective way for you to be able to show that you're doing it and giving them the information they need if you're not on their system, you know?  But if not, then like it would make probably more sense for you to be on their system. Yeah. Yeah.  So in that aspect, I think for the risk assessment, so we do that on the SLBC level.
+
+11:47 - Anja Haugland Fischer (Aker Carbon Capture)
+  So that will make sense. And then also the supply chain part, because we are currently doing our own process on supplier onboarding that  is different from SLBC. No, SLB, sorry. So then maybe we can tailor it to our process and then make our process more easy and not so manual.  Yeah, yeah.
+
+12:17 - Abbey Lin (fortifai.co)
+  And that's what I was talking with Anna-Mauri earlier is that what process can we make that? It's not going to be like a, you know, automatic ranking in our system, but we would be able to, once you've identified your highest risk ones, then you can go put them in our system and we can follow them, track them, task management system, follow up on that within there so that it becomes a lot less manual and you would be able to have a good audit trail over the work that you're doing with the supply chain.  So that's kind of the thinking around that. But as part of that process, think we'll reach out to you, probably Joe and I will reach out to you in February to just like, make sure that we align as we build out the third party one.  We have an initial design, but we need to kind of walk through it with you and see if it makes sense to you as we've done that.  And I've done that feedback with Mauri. Also from before so but the the first two initially will be around like yeah policies training and communications and then the control side of it Yeah, that's fine.
+
+13:10 - Anja Haugland Fischer (Aker Carbon Capture)
+  I'm also happy to provide Comments to the third party and the diligence. I have a picture in my head on how it can work And I also seen some other portals where it's really easy to just send a link out get the supplier feedback Directly in the system and you have it all in one place.  Yeah, and Can easily communicate with the suppliers and get their feedback and stuff.
+
+13:35 - Abbey Lin (fortifai.co)
+  So yeah, just let me know if you yeah Yeah, I think I will I think maybe now and I can have a reach out in like two weeks to actually have mapped down the process That you have in third party in your head And I kind of done that with Mari so that we can make sure that we can we can maybe even have another session with Mari so you guys could hear each other out and then find see if the system that we created Matches that if not then we need to kind of tailor it or see how that could work  but I think we're kind of all around the same. I think it'll come out to the nuances in the step and whether or not we can actually build like a flexible model in that step that gives a little bit of flexibility there, but then has the rest of the part of the same is like you send out communication to suppliers, they sign off, they respond, you're able to crack them in task management.  I think that process is pretty similar among companies. It's just more of like getting to that smaller list of suppliers might differ between companies.  But yeah, we can set a thing for that. Is there any other thoughts or questions? No, not at the moment.
+
+14:36 - Anja Haugland Fischer (Aker Carbon Capture)
+  I it looks really good, the visual design of it is, yeah. It's simple and it's exciting to look at.
+
+14:45 - João Landeiro (joaolandeiro.com)
+  it's great to see the evolution over time. So it's really great that you say that.
+
+14:50 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, we're really trying to make it like fun and easier.
+
+14:53 - Abbey Lin (fortifai.co)
+  Like if you have to launch it to an employee, then employee goes into this portal and then they see exactly what they need to do.  do it and it seems like less of a typical compliance tool that you would be in the market, right?  So that's really hoping for it.
+
+15:07 - Anja Haugland Fischer (Aker Carbon Capture)
+  I know when you're thinking about compliance, if you were to give it a color, it would probably be very gray and boring colors and this is so colorful and happy.
+
+15:15 - Abbey Lin (fortifai.co)
+  Yeah, exactly. We're really trying not to make it not look like a compliance tool.
+
+15:19 - Anja Haugland Fischer (Aker Carbon Capture)
+  think that's like one of the guidelines, fortify.
+
+15:21 - João Landeiro (joaolandeiro.com)
+  We don't look like a typical compliance tool. think that's what we're trying to do.
+
+15:25 - Abbey Lin (fortifai.co)
+  yes, Shao, do you have any questions or in terms of this process? No, I think, oh, I didn't say anything before.
+
+15:37 - João Landeiro (joaolandeiro.com)
+  I think any idea or suggestion of maybe showing us some other processes or how they do this today is really, really valuable for us because we can understand what works not just from a visual point of view, but also like a mental model, how you think about these tasks and what you expect when you interact with  something like this.
+
+16:01 - Abbey Lin (fortifai.co)
+  So I'm excited for that possibility and thank you, thank you for, you know, being with Yeah, and I'm wondering like if, almost even in the next week or two, we can set up a meeting on, and so maybe while we're all on the phone, we should just like, it'll be easier to coordinate and find the time because I would like to have maybe like an hour, an hour and a half with you just to map out your third party in your head because that is very tangible.  But then that gives us time before the February launch to see like how much it differs from what we're doing and whether or not we need to kind of change our process.  So do you have any time in the both of you, this is also for Joe because I know this is coming.  This is a new but is there any time in the next week or the week after for like an hour and a half kind of session where like Joe is really good at like synthesizing information and mapping out information so you can like take everything in your head and like kind of outline it into a process, which is why I'd really like him in that call.  But is there, like for both of you, is there a good time for you, Shell? I could start with you too, isn't here?  Oh yeah, you're traveling back to Brazil too. Or maybe not, you'll still be. Not next week. So I'll be traveling to Brazil.
+
+17:15 - João Landeiro (joaolandeiro.com)
+  So I'm in Portugal right now. I live in Brazil. I'll be traveling to Brazil on the week of February 3rd.  I travel on the 6th.
+
+17:24 - Abbey Lin (fortifai.co)
+  So next week I'm still in Portugal.
+
+17:26 - João Landeiro (joaolandeiro.com)
+  I'm just one hour behind you. Yeah, I do have some some spaces here especially.
+
+17:32 - Anja Haugland Fischer (Aker Carbon Capture)
+  Next week is actually, well, okay, maybe Tuesday. Next week is my only option. What time? Between sometimes between 12 and 3.
+
+17:48 - João Landeiro (joaolandeiro.com)
+  12 and 3.
+
+17:50 - Abbey Lin (fortifai.co)
+  I normally do 12 to 1 or I can do, I'm only free 11 or like 10. 30 to 1.  So I could do 12 to 1. We could start from there maybe. So we can do bringing money in the same meeting or do I would do that's a good question.  I think we can start with you first. Okay, so we can start from 12 to 1 on Tuesday or we can do the week after because I think you travel at the end of the week, right?  Shall we? So then we could do the beginning of the week? Or are you like?
+
+18:29 - João Landeiro (joaolandeiro.com)
+  Apologies for me. This next week is really good. The other one is like saying goodbye to people week. Okay.
+
+18:37 - Abbey Lin (fortifai.co)
+  Yeah.
+
+18:38 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+18:38 - Abbey Lin (fortifai.co)
+  So then should we just try Tuesday from 12 to 1 work? Okay. Okay, then I'm just gonna let's do Tuesday from 12 to 1 is one hour.  But at least that's a good starting point. And I think in that point, since we only have an hour, it could be.  Should I book a meeting room and we can do it in our tech house?
+
+19:00 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, yeah, that can, that can work.
+
+19:05 - Abbey Lin (fortifai.co)
+  Yeah, let me just, yeah, it can be, let's do that.
+
+19:10 - João Landeiro (joaolandeiro.com)
+  We can have a meeting here from 12 to one. I'm just trying to think, yeah, Jao just put his email in there so you can send it to him.  He's also in this invite.
+
+19:22 - Abbey Lin (fortifai.co)
+  Jao just one hour is not a lot.
+
+19:24 - João Landeiro (joaolandeiro.com)
+  I went through this with Mari like earlier before Chris.
+
+19:26 - Abbey Lin (fortifai.co)
+  I think like, should we, should we send Anya our current process now, like a screenshot of it?
+
+19:32 - João Landeiro (joaolandeiro.com)
+  Or is it better for just to hear her break?
+
+19:35 - Abbey Lin (fortifai.co)
+  No, like, no influence whatsoever.
+
+19:38 - João Landeiro (joaolandeiro.com)
+  I just hear from her what she would like in her ideal head without being influenced by what we built.  Do you think it that the best way if we want to just get a brain drain from her and on how she would like to see it?  What do you think? Yeah, yeah, I think the second option is best.
+
+19:52 - Abbey Lin (fortifai.co)
+  no wrong answers.
+
+19:53 - João Landeiro (joaolandeiro.com)
+  see how's the, how's the daily life, the actual process for Anya. Okay.
+
+19:59 - Abbey Lin (fortifai.co)
+  Is that okay? So then on it, you don't need to prepare a thing. It's more like a brain dump.  This is how I do it now. This is what my ideal tool is. We might challenge you also a little bit on it, being like, okay, this might cost a lot of money.  If we were to do a cheaper that you could afford, we might do that and then like have question you on like, okay, what could you live with if it's not like, you know, the perfect tool?
+
+20:17 - João Landeiro (joaolandeiro.com)
+  I think that's really important.
+
+20:19 - Abbey Lin (fortifai.co)
+  Otherwise we can really get to like, it's to a point where like, I want to build a Rolls Royce third party management that like, there's a lot of tools like that exists.  It's more like, what is the Toyota of ESG, like a third party management that you can live with, you know, like kind of like that, that's actually cost effective and scalable.
+
+20:36 - João Landeiro (joaolandeiro.com)
+  I think that will be kind of the discussion on Tuesday, but I think that it's at least a good starting point to kind of hear like, kind of what are your minimum requirements around that?  Yeah.
+
+20:47 - Anja Haugland Fischer (Aker Carbon Capture)
+  And to put that into context, we have customer requirements on due diligence on supply chain.
+
+20:54 - Abbey Lin (fortifai.co)
+  So that is basically setting the expectations, right?
+
+20:59 - Anja Haugland Fischer (Aker Carbon Capture)
+  then it's the... to meeting those expectations, to taking a risk-based approach, but are there any specific phases of the supply relationship that I should focus on?  Because what we're working on now is the pre-qualification, right? But then you do the diligence and the suppliers end up with a risk score and some actions.
+
+21:21 - João Landeiro (joaolandeiro.com)
+  And that is, are you looking throughout the whole supply relationship? Yeah, that's a good question. how I see, and I was talking with Mara, I'm wondering about that.
+
+21:31 - Abbey Lin (fortifai.co)
+  It's like, where I think it goes wrong a lot in compliance units is like, you get to that narrow list and then you're like, yes, we're going to work with them.  And then you don't have a good system to be able to track them, follow up with them, assign them to people, know, get them to answer questions, get a reminder in a year that you need to follow up with them.  So it's like, that aspect of it is where we want to be able to track in our tool and like, what aspect would it be most useful for you to be able to manage that list that has been there?  down.
+
+22:00 - João Landeiro (joaolandeiro.com)
+  Because I feel like that first part of the there's a lot of tools that do that automatic risk rating that automatic filtering during the background checks like that but there's not a very good tool like a simplified tool to manage your your like I would say high risk suppliers that you've designated so it'd be kind of on that area but I'm happy to discuss you know with you on that being like no I I still think that we need to have at least a minimum version of the onboarding and what could that minimum version look like you know I'm happy to have that discussion with you too but I think it's also the last end of that like the project management how do you free up your time and like how do you get statistics immediately on how like where you are on like how many high risk partners how many times have we engaged them you know here's the documentation trail like that aspect of the tool does that make sense or yeah it makes sense and obviously for me I would like to also see the onboarding process but let's just discuss and
+
+24:00 - Anja Haugland Fischer (Aker Carbon Capture)
+  customer requirements. We have a pre-qualification process, which involves sending out a questionnaire to suppliers, getting it back all in Excel, all over email, questions go back and forth, we set up a meeting, etc.  And HSECQ are in the process, supply chain are in the process and compliance and we evaluate different information in that questionnaire.  But for me, it would have been so much easier if we had this, okay, we build in the questionnaire in the tool.
+
+24:35 - João Landeiro (joaolandeiro.com)
+  Push it out to the supplier.
+
+24:37 - Abbey Lin (fortifai.co)
+  The supplier provides the information directly in.
+
+24:41 - Anja Haugland Fischer (Aker Carbon Capture)
+  have you seen Integrity Next?
+
+24:44 - João Landeiro (joaolandeiro.com)
+  I haven't, I haven't seen it. But it's like a supply, it's a, yeah, but what you're describing is like a supplier questionnaire follow through, right?
+
+24:52 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, or yeah, so it's that system was very, it had four boxes, which was social supply chain, remember HSTCQ, you have some questions and you have an uploading function.  So if the supply can just log into the system, fill out the information and then we have you social on our side accessing that information and reviewing.  And then that review process can trigger additional questions, meeting, audit. And then you decide whether to proceed or not with that supplier.  If you decide to proceed, you have some mitigating actions.
+
+25:32 - João Landeiro (joaolandeiro.com)
+  You have an audit plan, for example, and you can delegate tasks from that system. Yeah.
+
+25:42 - Anja Haugland Fischer (Aker Carbon Capture)
+  So then we're pretty aligned.
+
+25:44 - João Landeiro (joaolandeiro.com)
+  That's kind of what we're building in.
+
+25:46 - Anja Haugland Fischer (Aker Carbon Capture)
+  So that's good.
+
+25:46 - João Landeiro (joaolandeiro.com)
+  We didn't build in the HSEQ questions, but you can just change the questionnaire to like have that. But that's the vision that you just said, kind of the vision that we have for our tool to build.
+
+25:58 - Abbey Lin (fortifai.co)
+  So that's good. At least we're aligned there. Anything else? Yeah, you have your head on hand on, but yeah.
+
+26:04 - João Landeiro (joaolandeiro.com)
+  So you've mentioned, Anja, you've mentioned integrity next, right? And you said, you know about integrity next, and what, what specifically from them, from there, from them, did you want to talk about what's?
+
+26:21 - Anja Haugland Fischer (Aker Carbon Capture)
+  Because I have been, so I have received a request from one of our customers to fill in information. And I found it so easy.  So then I got an email from the customer saying you need to fill it in the information. then that email is, was sent to me, but then I just included this my strategy and colleague and my HNCCQ colleague and my sustainability colleague.  And then you go into that system and you answer the questions that you have expertise on. So do you have a code of conduct?  Yes.
+
+26:54 - João Landeiro (joaolandeiro.com)
+  Okay, upload here.
+
+26:56 - Anja Haugland Fischer (Aker Carbon Capture)
+  Do you have ISO certifications? Yes or no? And if you're So yes, you upload it and then you also set the date of the ISO certification when it expires.  So then a year later when that ISO certification expired, I received an email. Your certificate has expired. Please upload a new one.
+
+27:17 - João Landeiro (joaolandeiro.com)
+  And I thought that was so simple.
+
+27:20 - Anja Haugland Fischer (Aker Carbon Capture)
+  You can just and you have and when you're on the other side, you have the evidence there. So you can just review it.  What I do wonder and think a little bit about is whether what they upload is actually case.
+
+27:36 - Abbey Lin (fortifai.co)
+  Yeah. Yeah. So let's take sanctions compliance.
+
+27:40 - Anja Haugland Fischer (Aker Carbon Capture)
+  They say they have a sanctions compliance process. They upload a document, but it's actually not actually really sanctioned compliance or not meeting that level of expected or not meeting our expectations.  But that I think we let's not bring the discussion because that if you're just thinking about the information action process I think it will be very helpful to just not going via the email and the excel sheets and just you have it in the system and you can.
+
+28:13 - João Landeiro (joaolandeiro.com)
+  I think that's good because we have actually spent a lot of our time on the first part of the process just mapping it out teaching people how to do it like go through your you know go through your supply chain or look into your financials pull out the things like we spent some time on the direction we built out like what you've said here like in essence but we haven't really mapped it out to make sure we got every step so I do think on that Tuesday that we meet next week to kind of like go like what part of like the supplier information do you actually find helpful because you can have everything right kind of the address you can have this you can have this you know I think going through that in detail next week would be really helpful for us to make sure that we build out and catch all the things that you're you're looking for but shower do you have any questions on your hands up yeah yeah so and yeah when you interacted with  at form from their integrity next. Did you manage to do all it in one go or did it save progress?  Yeah, it saved progress. saved progress.
+
+29:13 - Anja Haugland Fischer (Aker Carbon Capture)
+  So whenever you needed to go back there, you could just click the link on that email and go back there.  And for example, if I was interrupted, the information was still there. Okay, okay. Also save. But is it helpful that I show you the questionnaire that we use and the risk levels that we've tried to set to determine the due diligence level?
+
+29:37 - Abbey Lin (fortifai.co)
+  Yeah, I think so. Yeah, you could also maybe like if you like put it in the teams that we have when we create it later on, then it could be good that we can also try to map out the process or even like your customer requirements, we can think about how we can where to map it out because I think your process is very similar to other processes other companies have.
+
+30:00 - João Landeiro (joaolandeiro.com)
+  So Sorry, I just take some time because I have to change between SLB and PCC profiles two seconds Okay, so this is just so this is a tool that we have developed to try to clarify You
+
+31:00 - Anja Haugland Fischer (Aker Carbon Capture)
+  how we, so that we don't do the same level of due diligence on all suppliers, so we try to make it risk-based.
+
+31:08 - João Landeiro (joaolandeiro.com)
+  Okay, what are the, which kind of information triggers that are at risk level?
+
+31:14 - Anja Haugland Fischer (Aker Carbon Capture)
+  So we have different categories from supply chain and compliance and HS and CQ on the bottom here. So based on the scope of the procurement and whether the procurement involves suppliers in risky countries, it sets the risk level, for example, so indirect procurement, which is procurement that is not directly linked to our projects, typical supply, office supplies, for example, consultancy, legal services, etc.  Combined with the suppliers being located in the low risk country, is low risk. supply of screening in Dow Jones is required.  And then when the scope of the supply of the procurement change or the type or if it involves a medium or high risk countries and more due deletions is required.
+
+32:25 - João Landeiro (joaolandeiro.com)
+  So this file is for each supplier, You fill out the file, we're talking.
+
+32:34 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, so but this does not need to go into the system, this is just a filter.
+
+32:41 - Abbey Lin (fortifai.co)
+  Yeah, so that's okay.
+
+32:42 - Anja Haugland Fischer (Aker Carbon Capture)
+  So let's say that this triggers a supplier questionnaire, then we can go into the system and send the questionnaire from the system to that supplier.  It doesn't need to be a questionnaire, but it could be as I explained. So it's And so if a supplier is requiring some sort of additional questions and to collect information from the supplier.  And then we have this self assessment where we ask different questions like if this is digitalized, it would be so much easier for everybody, you know.
+
+33:29 - Abbey Lin (fortifai.co)
+  Yeah.
+
+33:31 - Anja Haugland Fischer (Aker Carbon Capture)
+  So for example, what we often see is that the supplier tickets on all these boxes, we have a code of conduct, have anti bribery policy, we have a third party due diligence, and they go and they don't submit any evidence, even though we ask for it.  So then if we had the system where they had to answer that they had these, they also were required to upload the document at the same time.
+
+34:02 - Abbey Lin (fortifai.co)
+  This is like a customer requirement or is this something that you created yourself and like?
+
+34:08 - Anja Haugland Fischer (Aker Carbon Capture)
+  This is something that we have created ourselves to try and meet the customer expectations and we are hit by the customer requirements are on the human rights labour rights issues because of the transparency act.
+
+34:25 - João Landeiro (joaolandeiro.com)
+  They are now requiring a lot more from us in terms of due diligence and documentation that we've actually followed up the supply chain.
+
+34:37 - Anja Haugland Fischer (Aker Carbon Capture)
+  So based on experience from auditing the suppliers, what I would like to see is the human rights policy. It's their human rights risk assessments and to understand the recruitment process and whether they are migrant workers, for example.
+
+34:53 - Abbey Lin (fortifai.co)
+  Yeah, and I think we have that in our app in the way that we have it set up in the questionnaire.  that they add evidence to it. So I think we're not too far out from that, I'm just I guess my thing is like we're trying to get this simplified.  think that will be the only challenge like do we have to have so many questions or is there a way to like reduce it to you know some of the most you know minimum parts of it.  But I think that's probably part of discussion that we're going to need to have there.
+
+35:30 - Anja Haugland Fischer (Aker Carbon Capture)
+  yeah.
+
+35:31 - Abbey Lin (fortifai.co)
+  No, but I was thinking that I could see like. But as you can probably understand, this is very it's hard to work with, right?  So you get to one questionnaire from each supplier, you have to go in, you have to check the evidence that stores somewhere else.  can't scale this. Yeah.
+
+35:50 - Anja Haugland Fischer (Aker Carbon Capture)
+  No, this is very manual.
+
+35:51 - Abbey Lin (fortifai.co)
+  Yeah. And I think this is the challenge like you're seeing like a lot of companies do this and it's just more like how to make it that.  Yeah, you see answers you can have any kind of data analytics around this answer is so difficult, you know, so if you actually have a tool where you're going to collect information you would be able to have some data analytics of like X amount of companies automatically have, you know, have a contact or X amount of companies, you know, right now on Excel you can't do any kind of data analytics or reporting unless it's very manual.  So I think even that, like I feel like at least I feel confident that we'll be able to send out a questionnaire and we'll make it easy like that and then get some data from it.  I think where possibly the challenge is like how many questions do you want to give out in this first round and then like the tailoring of it because at one point if we want to be able to scale this and not make it so expensive for every company having to tailor their questionnaire and their different things but that's one of the good things about being a pilot customer is you can help shape that and say what are the most important ones for you but that otherwise that was the thinking of like of how do you digitalize this process that everybody is doing manually now.  but is it possible to share that with those documents? And so when I give you the team site and then so that we can see if we could also like I was thinking it could be good.  don't know how we can have this offline. I try to design one of like, you know, one section like design human rights portion of that Excel and see what would it look visually to see if that that can actually work out.  Because we are actually, I was just talking with Mari and we have another customer about the S side. You know, we have the G side, the S side and the E side.  And the S side is the Norwegian Transparency Act. So, you know, we do have some things around human rights for that part.  And I know that Mari also has responsibility for the S side too. And it sounds like you have that like some of that too.  So then how do we also build the S part of the tool so that it matches the needs that you have.
+
+37:42 - João Landeiro (joaolandeiro.com)
+  And I think one of the things we're thinking about is like third party.
+
+37:48 - Abbey Lin (fortifai.co)
+  Right now we've kind of built like policies for third party E policies for G policies for S at one for third party.  It's almost you don't send out. three questionnaires, right? It's not like you send out three. You shouldn't ideally. lot of companies actually do.  send out a, you as a supplier would be like, here's my security questionnaire. then the next day they're like, here's my health and safety questionnaire.  And the next day would be like, here's my compliance questionnaire. And that's really common in the industry. But ideally if we're building all of these different types of questionnaires in our tool for ES and G, it should go out once to the supplier or sometimes I'll be connected where they can find it very easily.  And I think that's just something that we need to think about. So it's not like you suddenly deploy a G policy and then like the next week need to deploy the same person.  I don't know. I think we need to discuss this because there are some companies that only need a G policy and then others that have more human rights on the S side.  Anya, are your suppliers that you send to the same whether it's ES or G or do you have like some that are higher risk on the governance side that you need to manage and then some that are higher risk on the human rights side?  Like are they different or are they the same?
+
+39:01 - Anja Haugland Fischer (Aker Carbon Capture)
+  Well, in general, our suppliers are pretty immature on all of those, but from a risk perspective, I'm concerned about sanctions, I'm concerned about human rights and labour rights, and of course corruption, there it seems like they are more mature, but the human rights part is so new, so they don't really have a grasp of it, don't understand the requirements, and they may not be subject to those requirements because they operate in other countries, right?  But then it's wanting them to live up to our expectations, which they don't really have. Yeah, I don't know.  Yeah.
+
+39:46 - Abbey Lin (fortifai.co)
+  No, I hear you, and you can also do a general risk assessment where you get all three and like do some kind of categorization.  But now let me have a think about it. I think we're on the same track because I took notes of when you were saying like, kind of like, this is what I need in terms of...  kind of a tool to manage the the follow-up and like the checking and collaborate around your colleagues around these suppliers that's that is what we're thinking and that's kind of the plan but I would love to next week like have your brain kind of like kind of we can ask a little bit more questions and shall we can talk offline about this and to kind of compare our what we've developed to see whether or not it'll match for yours because I think that is a yeah I want to see you be able to use our tool and you're like you know you have a problem and let's try find a way to solve it digitally but um shall do you have any questions or thoughts based on no yeah no yeah let's do that and let's also discuss whether we should think about the whole process or whether it makes sense to to approach it in different steps so verification reviewing risk the determining the risk level and then from there how do you follow up yeah exactly and I think that there's like  And what I'm trying to, like, and then if you can have also think too, it's like, what is like the simplest form of each of those, because I really want to avoid becoming like a third-party management tool, because if we want to end up doing all of the chain perfectly, then we become, you know, one of those tools that I bought in the past that are just made for third-party management, and then it gets really expensive, and then it doesn't like cover everybody, it doesn't cover the general need.  So I think it will always be that tension of what is the most simplified form of that, that we can make, that would make sense cost-wise for the customers also to pay for it and do that, because like, yeah, I bought, what was it?  I bought a third-party tool at my last job at Creon, Arobo, Arobo risk, I don't know if you heard of it, a lot of the tech companies use it, and they like everything, you put all your supplier base in there, you set for risk tiers, you know, put it out based off, it was very automatic system, but it cost $80,000 a year just for that system.  It was good, right? And it was all the big tech companies, but like a one point we can't afford it.  And I think it's like that's the balance like the compliance like we want this like really nice arrival type tool, but then we have a budget of something else that we can have.  So what can we actually do in the budget that would actually make at least one step up better from like, you know, from a very Excel manual one to a digital one to that and then and then kind of grow from there.  So I think that's where I'm trying to find rather than like trying to build the optimal process because those companies do exist already in the market.
+
+42:30 - João Landeiro (joaolandeiro.com)
+  It's just that they're a lot more expensive that most companies can't afford them, right?
+
+42:34 - Abbey Lin (fortifai.co)
+  So I think that's the balance like I hope it's okay that like next week when I challenge you, I'm like, okay, that's great, but like, you know, what can we do?  Okay, but like that because that's really where we're trying to get to with the tool is that everyone has the budget to be able to do something that's going to help them incrementally better, you know, or like several steps better than what they already have.  But it might not be that Rolls Royce that we would have loved if we had unlimited budget. it's kind of, yeah.  I fully understand that.
+
+43:00 - Anja Haugland Fischer (Aker Carbon Capture)
+  And I think maybe a solution is also to not make it so formalistic in that you're forced into process and you have to do it that way, but just having a communication channel with the supplier.  So let's say that you find out they don't have a human rights policy. Okay, if you're awarded this contract, you will have to implement that policy within that date.  You just write in the system, establish a human rights policy, send it to the supplier with a deadline. So you have to take more ownership of the follow up.
+
+43:34 - João Landeiro (joaolandeiro.com)
+  The system is not helping to do that, but at least you have a way to track it and a way to visualize it.
+
+43:41 - Abbey Lin (fortifai.co)
+  it's place for them to go in, like the supplier finds the information. it sends a supplier an email, an email, they go to a chain and fix it.  I think it's the help with that communication gap or that manual process of chasing up suppliers individually on email.  It doesn't work very well on both sides, I think. communication tool. But yeah, we can discuss that next week and kind of break it down like what would be like absolute minute.  And I think Zhao is very good at doing this, like what is the actual minimum that you need to have, what is nice to have, know, you know, if we had the budget in time, what would be nice and then to kind of break it down.  So that would be also helpful to make sure that when we launch this in a month, at least we have like the core aspect of it.  But I think that's the, that's always the tension that I'm facing is like, it's like, oh, you know, we want it to be like this.  And I'm like, I want to, but I'm really trying to keep it like having been a budget owner, like I'm trying to keep it within our budget where we don't need to have high level of approvals.  Like in order to get that 80,000 euro tool, I needed to go up to like the management and the board to like, I'm trying to get it into a level where us as compliance officers can just like make the decision because or like, if we bring it up, it's not going to be a brainer review, but keep it under like a cost, you know.
+
+44:51 - João Landeiro (joaolandeiro.com)
+  So it's like, you know, how do we make it a lot cheaper than compliance catalyst, you know, and that in there.  So yeah, so that's where we are.
+
+44:58 - Anja Haugland Fischer (Aker Carbon Capture)
+  But I think, I think it's good.
+
+44:59 - Abbey Lin (fortifai.co)
+  And I think it's good that If we get your feedback sooner, it will be helpful when we have it next on the launch after the controls to have that updated closer to what you need by the time we launch, so perfect.
+
+45:12 - Anja Haugland Fischer (Aker Carbon Capture)
+  Yeah, anything else?
+
+45:14 - Abbey Lin (fortifai.co)
+  do we agree on next week?
+
+45:16 - João Landeiro (joaolandeiro.com)
+  Yeah, I think 10 to 12 to 1. Will you send an invite or do you want me to?
+
+45:20 - Abbey Lin (fortifai.co)
+  I could also get Can you send an invite and I can book a meeting room? Yeah, you want to book a room and then you can send it out in the inline.
+
+45:29 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+45:30 - Abbey Lin (fortifai.co)
+  we can have it here because there's always a lot of meeting rooms here.
+
+45:32 - João Landeiro (joaolandeiro.com)
+  I'll go to that house.
+
+45:34 - Abbey Lin (fortifai.co)
+  Okay, yeah, that's fine. Yeah, let's do that then.
+
+45:37 - Anja Haugland Fischer (Aker Carbon Capture)
+  Okay. If you book a meeting room and I'll come down.
+
+45:41 - Abbey Lin (fortifai.co)
+  Okay, yeah, then that's... Yeah, the capturi one is the one I should send it to, right? Yeah. Okay, great.
+
+45:51 - João Landeiro (joaolandeiro.com)
+  I'll put a team, so I can join, but then I'll book a meeting room here.
+
+45:54 - Abbey Lin (fortifai.co)
+  Okay, perfect.
+
+45:57 - João Landeiro (joaolandeiro.com)
+  Yeah, anything else?
+
+46:00 - Abbey Lin (fortifai.co)
+  It's good also just getting the next step of our launch ready too.
+
+46:04 - João Landeiro (joaolandeiro.com)
+  So, yes. Okay. Perfect. Okay.
+
+46:08 - Abbey Lin (fortifai.co)
+  Thanks so much then.
+
+46:09 - Anja Haugland Fischer (Aker Carbon Capture)
+  Okay. Thanks.
+
+46:09 - Abbey Lin (fortifai.co)
+  Bye. Bye.

@@ -1,0 +1,718 @@
+---
+title: 90 minutes work session - Oren
+date: '2024-12-13T10:00:00.000000Z'
+duration: 120m
+participants:
+- João
+- Oren Greenberg
+source: https://fathom.video/calls/197425961
+encoding: utf-8
+scrapingdate: '2025-06-09T19:33:15.844969+00:00'
+---
+
+Design - on-boarding - December 13
+VIEW RECORDING - 115 mins (No highlights): https://fathom.video/share/83Sivns1UdshxDqn2mz-azj6JapvYLHp
+
+---
+
+0:00 - Abbey Lin (fortifai.co)
+  DNR at DNR, right? How long are you in Portugal for? you here for the holidays?
+
+0:07 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, I'll be yeah for the holidays and a little bit more. I'll return to Brazil in on the 6th of February.
+
+0:16 - Abbey Lin (fortifai.co)
+  Oh, February?
+
+0:17 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, it's all January.
+
+0:18 - Abbey Lin (fortifai.co)
+  You're in yeah, you're in. Okay, that's very cool. Yeah, and we'll be visiting France between the 27th and 9th, taking a little road trip.  Where are you going in like Europe?
+
+0:38 - Joao Landeiro - Fortifai Design [Ext]
+  You're just staying in Europe and then?
+
+0:41 - Abbey Lin (fortifai.co)
+  The road trip is from Strasbourg and down to what's the name? Marseille. We enter France from Strasbourg.
+
+0:53 - Joao Landeiro - Fortifai Design [Ext]
+  We don't have much land and then we go down to Marseille and then come go back.
+
+0:59 - Abbey Lin (fortifai.co)
+  Oh, right. I mean, my in-laws used to have a place in Antibes by Nice and it was very nice.  Yeah, so we used to go there a lot, but they sold it. So we used to go in the wintertime actually.  It wasn't like, you know, warm and southern like France, but it's still nicer than Norway.
+
+1:20 - Joao Landeiro - Fortifai Design [Ext]
+  Actually, while they're arriving, this is a good question for you, because that's something we were thinking like sometimes these coastal cities, they're really bad in the winter because they don't assume anyone will go there.  Is there anything to do?
+
+1:34 - Abbey Lin (fortifai.co)
+  There are like some winter activities, know, like like winter markets and that, but it is like a lot of the restaurants closed too, so you don't really, you know, get back there.  So, but it's still, for us, it was still nice just to get away, you know, we can wear sneakers instead of snow boots, you know.  So that was kind of a nice, there's still restaurants that are still good there, but it's, but things are closed, you know, some of the more popular tourist places.  I might need to leave around 333 40 no 430 or 445 like 1530 I forgot when I booked this it's my niece's birthday today birthday party but I might not go because my youngest is six so there's a few things playing in the air so I'm stay home then I can stand till five if if the sister-in-law says that it's they want to go then yeah so my husband is gonna ask a sister if it's okay to bring a coughing child so if she says no if she says yes then I might need to go so that's the time frames you mean that one hour from now one hour so the earliest really 430 so an hour and a half but I might be able to stay  until that I'm just gonna my husband's in a meeting when he comes up I'll just ask him like what the deal is otherwise I can stay until five if if my youngest is staying home it's just that their birthday party is at five I didn't know I forgot about that um but yeah but Jao do you have like property like do you live with family or do you rent when you're in Portugal or do you just kind of commute back and forth is it I rent and that was a big deal when I told that to my parents but yeah but now they're used to it yeah but can forth like a lot just and like uh it's a yeah kind of rent for the past for the past three years not two years I think we've we've done three this is the third time we stay for like two months okay so we're trying to to get this um yeah this system going yeah that's cool property is really expensive right now here oh I said yeah yeah because of all the diesel nomads and you know
+
+4:00 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, I like the fact that she was very systematic that he just said I'm trying to figure out how the system works.  It's just everything is about system.
+
+4:13 - Mau
+  I didn't even notice I said that I believe it but I didn't even know that I said it.
+
+4:23 - Abbey Lin (fortifai.co)
+  It's good, it's good, all good.
+
+4:25 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, so I'll just share my screen and send you a link. There's no passports on this one. So now all the others probably see what we see and you can probably also join in.  Okay, so Quick overview. Some of these parts you recognize they are familiar because you might have less time for this.  We'll sprint through a few of them, right? But basically for today, we'll be thinking about the onboarding for the compliance officer, right?  Because there are different actors in this. Yeah, I think for how do I say that?
+
+5:28 - Abbey Lin (fortifai.co)
+  So there's onboarding, yeah, for different actors. So either the employee or the compliance officer. But I almost think that like the employee onboarding is like almost more important than the compliance officers because the compliance officers are really kind of bought into our pilot program.  They want to make it work, right? So we can kind of hand hold them in. But like an employee, it's like the first impression, you know, they get an email and then you need to go into our system and they need to somehow access our system easily, know, with one, two factor authentication or Microsoft login and then they need to go and see something immediately.  understands like what are they going to do right like here's your task and I think you have that from your employee portal but it's like I think that onboarding experience for an employee is going to be key because the success of this software is that actually people use it the employee base uses it so that's my my like or their provers use it whoever's assigned using it like if you assign a conflict of interest form to a board member that they're you know they get an email they log in and then they are boarded into the system automatically with you know what what do they need to do so I think that's um that was what I was thinking like we really need to be able to land that well like if we launch with everything messy in the back but then like it launches nicely to the employee base then it'll be a success if that makes sense okay now that this is this is very valuable clarification uh thank you so let's uh redirect what we're doing and we'll focus on the onboarding for the employees uh yeah well yeah I think that's what we need to boat with the right like right now it's just like we don't have a clear path for  for the compliance officer, you know, but I think that like, like maybe I think this, we need an offline path for the compliance officer.  It doesn't need to be pretty. It's like an offline, you know, a different thing, but we need like an online pretty UX UI design for the employee one that makes sense.  You know, like, so like both are important, but I think in terms of like, it's more important for Romeo to design like a nice one for the employees and then like a very offline version, but very kind of like step one, step two, step three, we could do offline for the compliance officer while we're getting them set up in the system that we can later on like draw up or that.
+
+7:39 - Joao Landeiro - Fortifai Design [Ext]
+  Does that make sense?
+
+7:40 - Abbey Lin (fortifai.co)
+  No, it makes sense.
+
+7:42 - Joao Landeiro - Fortifai Design [Ext]
+  makes sense. So in that case for today, should we focus, I understand what you mean is not that the onboarding for compliance officers will not be done.  I get it. But for today, would it be much useful for you to focus on the employee or the compliance officer?
+
+8:01 - Abbey Lin (fortifai.co)
+  I guess because you could you show me like, you know, the employee portal that you guys designed, is that like the onboarding they just go in and then they see that because then maybe we don't need to because then it's clear like, or does it is that enough as an onboarding for employees?  Do you know what I mean?
+
+8:21 - Joao Landeiro - Fortifai Design [Ext]
+  Like you guys drew up an employee portal in there is kind of like. You know, you can look in and then you see that page, right?
+
+8:28 - Abbey Lin (fortifai.co)
+  So is that the onboarding?
+
+8:30 - Joao Landeiro - Fortifai Design [Ext]
+  Like you don't need we don't need to spend time on it because it's straight more straightforward for employees or is it not?
+
+8:36 - Abbey Lin (fortifai.co)
+  I don't know.
+
+8:37 - Joao Landeiro - Fortifai Design [Ext]
+  I agree with your thinking that the employee portal, the employee experience needs to be more carefully designed. I agree with that.  And I think right now. The new employee portal. mean, even though this is more visual and so on, I do think that this requires some sort of end holding for a first time.  visitor, right? So I don't think this is enough for a new employee to find themselves. Yeah, so maybe do we need to discuss that then so that a new employee would find themselves?
+
+9:14 - Abbey Lin (fortifai.co)
+  Like should we discuss what do we need to make it to me so that a new employee would find themselves?
+
+9:19 - Joao Landeiro - Fortifai Design [Ext]
+  Or do we do the onboarding for the other one?
+
+9:23 - Abbey Lin (fortifai.co)
+  I do feel like maybe if you go to the right I feel like uh no not that one no maybe it's in the two maybe it's in the mobile version on the left um yeah kind of that like that's kind of like when you come in on the mobile it's like you know very clear like you do these things you know like on top and then it's there and then your forms but yeah I don't I don't know I'm what do you think is better like if we are launching like um so we're product with you know our pilot customers I think we'll be able to get to  relatively small companies like 15 people companies that we can test this with before we go to the really large companies that we have But I like I think I was talking with Mal about this earlier.  It's like I would also like to Better understand a job from like a product side.
+
+10:14 - Joao Landeiro - Fortifai Design [Ext]
+  What is more important?
+
+10:15 - Abbey Lin (fortifai.co)
+  You know, like and now to be kind of successful You've probably seen more ones Then I have like I like do we feel like okay employee is 80% done on boarding So like we don't need to prioritize that whereas like employee one we have no Unboarding so then we should prioritize that or is it better being like we're 80% done with this employee one We might as well finish this one and then you know and then go to the the compliance officer onboarding Like it just in terms of order and prioritization like I know both need to get done, but I just don't know Based on your guys' experience What would be most effective, you know in the time We need to do So the way I look at it is We still
+
+11:00 - Joao Landeiro - Fortifai Design [Ext]
+  arts. So we start on the basic of each of them. then we, it's like a ladder that you put a step on, on two ladders, you're climbing on two ladders at the same time, right?  So employee and compliance officer. Yeah, user, I guess, not necessarily compliance officer user.
+
+11:33 - Abbey Lin (fortifai.co)
+  um, but yeah, and are you sharing your screen and showing the fake muster? Oh, I thought I thought I was sharing apologies.
+
+11:39 - Joao Landeiro - Fortifai Design [Ext]
+  I'm back to the mirror.
+
+11:40 - Abbey Lin (fortifai.co)
+  Okay.
+
+11:40 - Joao Landeiro - Fortifai Design [Ext]
+  So So for the employee, the gold standard is probably like a tutorial set of small tasks they can do and  get immediate feedback from like oh welcome set up whatever and congratulations is just ready for policy this kind of thing right so on the bronze level I think like the the most basic thing we could do is just um empty states so an empty state is when you will check out let me show you here so so this this design that you see here is filled in right you see a lot of things an empty state would be like this would be with no forms because nobody has submitted anything and you would have a message like oh when you these will these will show your forms when you submit the first form and all of the other ones would be hidden and would have like so it's more about hiding things and just  showing that something would be there, Like the Twitter 404 notification with the little birds holding the whale. You know when you open Twitter and there's an error?  Yeah. That sort of thing.
+
+13:15 - Abbey Lin (fortifai.co)
+  So that's an empty state. Okay. Can I use the office Twitter? Okay, sorry. I'm gonna go down to the office, but I just to let you know, I'm gonna stay home with my son.  I just talked to my husband, so I have more time.
+
+13:36 - Joao Landeiro - Fortifai Design [Ext]
+  What would be in a good intermediary state? Because this thing like a tutorial with pop-ups and now you click here and you know this is the more default thing.  Yeah. What would be like the middle ground on this?
+
+13:54 - Abbey Lin (fortifai.co)
+  I almost feel like it's like you have some immediate tasks that you always need to do, right? And then  or some secondary tasks like conflict of interest that you need to report ad hoc, right?
+
+14:04 - Joao Landeiro - Fortifai Design [Ext]
+  So the first thing that they're going to care about is what they need to do immediately, right?
+
+14:09 - Abbey Lin (fortifai.co)
+  it's like, okay, do these, read these policies, whatever, you know, you're all done with it.
+
+14:13 - Joao Landeiro - Fortifai Design [Ext]
+  And then it's, and then there could be like a reminder, have you done, submitted or something else, like a review, you know, your submissions, and then it goes to another tab or their area that has their submissions that they need to submit in.
+
+14:28 - Abbey Lin (fortifai.co)
+  So I think maybe that's, yeah, something like that.
+
+14:33 - Joao Landeiro - Fortifai Design [Ext]
+  So they open up and the way it shows on the Figma, you only have like tasks here?
+
+14:42 - Abbey Lin (fortifai.co)
+  Yeah, kind of like if you go to the mobile version one underneath it, like, you know, you only see the top part, right?  Or like the pending tasks in number eight, know, like those two, that's all you see. And like these are what you need to do.
+
+14:58 - Joao Landeiro - Fortifai Design [Ext]
+  And then it could be something after they, they, are all complete, you can see the other parts.
+
+15:02 - Abbey Lin (fortifai.co)
+  I feel like the mobile view is easier to see, because it's not everything at once, right? If you go onto the website, it's like everything right there.  So the mobile one's like, OK, kind of makes you follow a path down there. But either one, I think it still looks much better than what we had before.  So it's more about optimization. This will still work. yeah. Good, good.
+
+15:29 - Joao Landeiro - Fortifai Design [Ext]
+  So yeah, I think that's a good start. So those terms, we can focus on doing the first task. And for the compliance officer, because we are discussing this now because you asked where to begin, right?  So for the compliance officer, I tend to assume that the bronze level is a guided on-board call. The goal is very similar, I think, sort of thing.  And the silver.
+
+16:09 - Abbey Lin (fortifai.co)
+  Yeah, because I think there is like a list of documentation that they need to review, whether or not that's going to be in our tool or not is another question.  So is there some things that they can fill that they're able to kind of, so I think it's like, when I think about bronze and silver, I think about what have we developed in time and what haven't we developed in time.
+
+16:37 - Joao Landeiro - Fortifai Design [Ext]
+  So silver is like, that guided onboarding call is more digitalized.
+
+16:42 - Abbey Lin (fortifai.co)
+  That would be silver maybe, it would be actually implemented in our tool. And then the bronze is like just the offline version of that until we're able to pull it into the tool or something like that.  I guess. Yeah, offline is a misnomer, but it's just like a manual process, I guess, or like a manual process, there is like, I can maybe walk you through like a process that I actually just did with with one of our one of our customers, so you can you can kind of see what I mean.  And this kind of actually might be in the process process thing. Let me find it. I can show my screen, and we're literally making this up as we go, it's kind of like learning by doing, which is really good.  So there's one page, and let me see.
+
+17:45 - Joao Landeiro - Fortifai Design [Ext]
+  you want to share the screen?
+
+17:48 - Abbey Lin (fortifai.co)
+  Yeah, I'm gonna share my screen, just need to find that document. So this is for ISO 14001, the environmental management system.  So a lot of our tool right now is on the G side but we have one pilot customer that says they want to do the E side so we might need to change around the the E part soon but so how I started was like okay what what documentation do you have and I created a checklist here here this is the checklist I'll show you my screen so okay so so this I created this document checklist and I was like hey let's because as part of the ISO you need to have a lot of documentation and I was like okay let's say do you have documentation of this this this you know check check this and check what you what you have you know in all of these different parts of the ISO that you require the documentation so first review the checklist mark which document you have share your findings but  between the checklist in next meeting and identify gap work together to create the missing documents, revise the ones aligned as a requirement.  So I gave them that. They came back I think with the checklist filled in, pretty much saying they don't have anything.  Like, no, no, no, no, no. They have one, they have an organizational chart, but they don't have any much any of the documents, right?  And then which is good because it actually makes it a lot easier because now we don't have to actually, we don't actually have to, this is the ideal scenario, they don't have anything because then we can just use our templates.  Like there are templates for all of these documentations and we're actually getting this made right now of templates that you could, that have like different policies that we need to build in for them.  You know, that they need to like add their own name and logo too, but kind of have that information in there.  And this is like, so if you think about like, our policies, procedures, training, you know, in our, Like the policies a lot of these policies or somewhere need to pay out somewhere in in in our tool You know either they need to check it and deploy it within their tool or they need like we were discussing like Like you know when I show you that picture of all of those different boxes those You know that that really corresponds with these documents here, right?  Let's see if I can find where is it? Yeah, so like you know the you know this one I showed you right like all of these like like these different documents Like kind of link to to these documents, right?  Like context of organization leadership, right? See planning seven separate operations, right? So all of these have like a documentation that you know that should be made Referring to it you can group them you can do different things, but I so will be checking for these documentations as part of the audit, right?  Yeah, so I'm I've been doing this offline because ideally, we have these built in our system. Here's the template for all of these, like edit them and whatever and save them in our system, and then you're able to map what you have, what do you not have, and do that.  But instead, I did it manually here, being like, what do you have, and then they came back with nothing, and then we're going to come back with a template, and this is probably within the next two weeks, we'll have a generic document for each of these that a company can copy and paste, or we can put into our policy procedure, like different places, somewhere in our tool when we need to gather this information.  And then in here, ideally it's going to tell us what risks and everything that we need to do and have controls over so we can build that into our tool, like these are the controls you need to follow, this is what the employee needs to be able to submit on that.  So that's kind of been the onboarding process, check what do you have, okay, luckily you don't have anything, so then we're going to make all of these documents.  for you and then all you need to confirm that these documents are okay and then you need to deploy, some of them need to deploy to all employees, some only need to deploy to the board, some you just need to have when the auditors check, you know, and so it's not that important.  So these are kind of the things that, and then when they have this ideally, then I need to tell them like, okay, these are your controls you need to deploy to the employees.  This is what you need to send to the board. This is what you need approval from the management. Ideally, you would to do all of that in our tool, but the documentation is kind of the first part of it.  Got it.
+
+22:36 - Joao Landeiro - Fortifai Design [Ext]
+  Now, this is, I think this is really good, especially having an artifact such as the checklist to make sure we're always following the same process.  So this checklist is for clients that want to pursue the ISO 14001 thing, right? All of your clients have the same objective?
+
+23:00 - Abbey Lin (fortifai.co)
+  No, so these are the ones that are moving first once the EMS, the environmental management system because that's more, I would say, what we're seeing in Europe is that it's becoming a license to operate for business.  a lot of companies or tenders will be like, or customers, like what are you doing around ESG or environment?  So if they go through this and get this and they'll have an external auditor verify that they've been able to pass this thing, then that's really good for them.  So there are several that want to go for that first. For the 37,001, which is actually what we built our system on, these people more like they want it because you should be doing it based on legal requirements.  So it's not necessarily like I'm going to win a tender, but it's more like I'm going to cover my  in case I get in trouble, then at least we have a system in place that I won't have individual liability or different things.
+
+23:54 - Joao Landeiro - Fortifai Design [Ext]
+  So they're not necessarily going for 37,001 there.
+
+23:58 - Abbey Lin (fortifai.co)
+  So they're just more wanting a system. to be able to manage their governance topics. So I think it's actually good that we have several that want the E, because the E is very like, then we can be like, okay, how do we make sure that we follow the process and build the tool?  Because I think E is the one that's going to be more replicable and more, I would say, more interest in it.  But these are the things that we're trying to figure out. how I met with them the other day, like I sent this to them, they sent the organizational chart, they sent their risk register that they had, I reviewed it.
+
+24:29 - Joao Landeiro - Fortifai Design [Ext]
+  And then luckily they don't have anything.
+
+24:32 - Abbey Lin (fortifai.co)
+  But this isn't a one by one map, they just haven't even discussed E, so they don't have anything. And then now we need to kind of build this checklist.  And so now I'm having somebody write all of these documents for a digital company based in Europe in the US that doesn't have any physical assets.  So they're making all the documents, which is a lot of companies, right? Several of our pilots are all the same.  They're all digital companies. all rent their offices. They don't have any heavy assets. So a lot of the risks and all of these things are scalable because they're all pretty much the same.  They don't have that many issues. the documentation can be all the same for a digital company that's renting their office.  So that's what we're trying to get first because those are what the pilots want. then ideally, X would be like, construction.  We have five construction companies. Okay, let's get the documentation for construction companies so that each company can kind of select their industry.  And then their risk will pop up, the documentation designed to their risk will pop up, something like that. But I think in the first phase, we're going to be quite manual and then just deploying it within our system.
+
+25:41 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, so here's what I'm thinking about this. the onboarding, in my mind, there's two aspects to it. One of them is the onboarding in terms of bringing the client in and helping them get the right documentation.  So the more like bringing the client in the digital platform, the digital tool, right, making sure that they don't get lost.  And also, how do you onboard all their employees? And that's what I'm a little bit worried about.
+
+26:12 - Abbey Lin (fortifai.co)
+  I was trying to convince the client that has 600 employees. I'm like, why don't we just start with Norway?  Let's not do everybody at once, but they want to have ISO certification for all their geographies.
+
+26:23 - Joao Landeiro - Fortifai Design [Ext]
+  But I'm a little bit nervous. like, how do we even onboard 600? What do we even need to onboard 600 into our platform?
+
+26:30 - Abbey Lin (fortifai.co)
+  Is it only the email address is enough? Is it like, do we need to know who their line managers are for their approval process?  Like, do we just get it in an email form and then we give it to Yvonne?
+
+26:39 - Joao Landeiro - Fortifai Design [Ext]
+  And I have no idea how that works.
+
+26:41 - Abbey Lin (fortifai.co)
+  Or do they sign on themselves?
+
+26:42 - Joao Landeiro - Fortifai Design [Ext]
+  Did they get an email and then say they have to sign on themselves? I don't know how that works when you have everybody in the organization needing to use this tool.  So let me share my screen again. I'm trying to make system of how I'm thinking about the different variables on this, external vendors.  I think it's like board members also, but I think board members can be employees, investors, like external investors, yeah, board members.
+
+27:26 - Abbey Lin (fortifai.co)
+  And then there could also be external, external community stakeholders if we wanted to do that too.
+
+27:34 - Joao Landeiro - Fortifai Design [Ext]
+  External. Like community members, sometimes you have to like for E, like you need to like talk to local environmental organization or do different things depending on.
+
+27:45 - Abbey Lin (fortifai.co)
+  Okay.
+
+27:46 - Joao Landeiro - Fortifai Design [Ext]
+  So there's different ways of splitting this. There's one that's about audiences. There's another one about goals, which is send documentation or compliance, I suppose, and learn how to use the tool, right?  Is this roughly accurate? Like, there's different ways of looking at the onboarding right now. And I'm doing this just because it will help us to make sure we're always talking about the same thing.  And we don't the different aspects.
+
+28:43 - Abbey Lin (fortifai.co)
+  Yeah, I think that we'll learn how to use the tool, but it's also not even learning how to use the tool.  Do we even know what we need to ask beforehand to be able to use the tool? Let's say, if they really have an anti-bride re-encruption policy, like, should we have a screen?  first that goes, which of these documents do you have? Let them check it off, right? And then if they check it off that they have it, then let's say they check off an anti-bribery corruption policy.  Does it still show up in the onboarding part when you have to upload the policies if they already have one?  Or we just say, okay, it doesn't matter. These are the list of policies we're all gonna make you go through and you need to look at it.  It doesn't matter if you already have it. I don't know, and that's what I'm trying to figure out what is, and maybe it is, like it looks like this is all you need.  If you have it already, copy and paste what you have into our tool and that's fine.
+
+29:35 - Joao Landeiro - Fortifai Design [Ext]
+  like, and then at the same time, for me, it's like not everything has to be done all at once, right?
+
+29:41 - Abbey Lin (fortifai.co)
+  You know, you saw this Excel file with like 50 million documents, like it's gonna take some time for them to go through it.  So what do we expect them to do in the onboarding? Like when we say onboarding, like, I guess like my question is, what does it stop?  Is it that they just get onto the tool or are they actually deploying it? Cause like if they, one is just getting into the tool, but then you have to have all of these documents ready to  able to deploy it and that's another step.
+
+30:05 - Joao Landeiro - Fortifai Design [Ext]
+  Perfect, so I think this is really useful to define what we can see like a successful onboarding and we can also be a little bit aspirational about this and then decide for the current stage of the product what are we happy with.  So, aspirationally speaking, broad strokes, ideally we would get some benefit from using the tool, that would be like a moment of truth or aha moment, people have different names for this, but they get it on the tool, they've never seen it and something happens or they do something or the tool helps them in some way that they really have this experience of oh my god they really get me right and then they are sold on the idea that anything  This is like the horizon where we want to get, and on a more practical level, are some things that are not about the light, what that described was about the light, that are more about table stakes.  And the table stakes for this, I think that's where we should begin, we just map out what are the necessary things for people to interact with the platform.  And from those, we start to add more complexity. I totally get what you're saying, oh, depending on their objective, maybe we ask about some documentation or we don't ask about some documentation, and I think there are ways of doing that.  We will avoid painting ourselves into a corner by being really schematic about this, know, like really, okay, so step one, step two, step three.  Otherwise, we might solve like a foreign edge case that is not that common but now we have something developed and it's difficult to yeah okay um so based on what you've described to us um it seems to to me that you know client objectives for the current scenario are mostly I go 14 000 right yeah and their context is mostly are they up to 200 people the the one that we're going to test on is like um we can actually I should actually document this if I need to do it so um how I see it now is is that um there's one that's 600 people called Cognite um that's the Norwegian unicorn um that that's documentation that you saw me already working with them that's like 600 people in three locations or they're like three main  locations, like US, Norway and India is where they are the locations.
+
+33:09 - Abbey Lin (fortifai.co)
+  And then the second, so then that's kind of like the big one we need to execute well because if we execute well that will be really good.  Like I would say publicity like you know like 600 employees seeing us and they're like whatever. So that's one and then there's two smaller ones like so when Cognite came then I freaked out I'm like  we can't be working on Cognite as our first one to deploy the tool that we've never done it.  So now there's two ones that are coming are most likely coming in one called WENN and that's about 15 people and it's a digital company that like it's a digital startup scale up and then there is another one most likely called Startup Lab and that's actually our investors and they have 19 people but
+
+34:00 - Joao Landeiro - Fortifai Design [Ext]
+  And they said that we can test with them.
+
+34:01 - Abbey Lin (fortifai.co)
+  I kind of more recently just called up these two people and be like, hey, can we work on this tool for you for free?  I want to, like, you guys be the first one we deploy on so that any kind of mistake we find before we go to Cognite and our other pilots that we're working with.  Because we have the, like, unfortunately, all our pilots are quite well known in Norway. So I just want to make sure we start with two smaller ones.  And so these three would be the ones that would want ISO 14,001. So that's kind of the first to start with.  And we would still probably be working with all the other ones we talked to, but that's more of, like, probably a slower pace, I'm guessing, yeah.  OK, so all of them are these two?
+
+34:41 - Joao Landeiro - Fortifai Design [Ext]
+  All of them are super companies, yeah.
+
+34:44 - Abbey Lin (fortifai.co)
+  Actually, then might have some hardware. Actually, , I didn't think about that when I picked them. But they are a small sort of, they might have some hardware.  Yeah, but they're in the main digital.
+
+34:57 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, they might have some hardware, but it's not... are aiming at the ISO 14001. So with this in mind, okay, what do we need to what does 45 it need is better to give them access.  Now let me rephrase this to help them structure there. So I'll put search. It's not really a search.
+
+36:47 - Abbey Lin (fortifai.co)
+  It's almost like if you think about like onboarding, if you think about our tool right now, we go we go straight into our tools, like straight into control, straight into the compliance dashboard.  But there is some like if you think of what do need, it's like we need to understand their size, their organizational chart, what kind of documentation they are in, know, what look at it like the organizational chart, what sectors did they work in, know, are they software only, are they, you know, that there are, and then later what documentation they have already, so we don't, or maybe, you know, like, I don't know, but we should like, so kind of like what I did before, because even to get a quote from the auditors, we need to understand these things, right, because the documentation is supposed to land on their company.  So, but there are some like, you know, kind of assumptions, right, like if they don't have anything, that's why we create all of the documentation for them, so they could just ideally just copy those and deploy those in the system.  But Iso is meant to be kind of like, kind of tailored, but if you get all the digital companies, it's going to be pretty similar risks that they have, they're not going to, they're not going to, they don't have to do so many different like things.  So, so what I'm trying to do in this exercise now, literally with and Sultan is trying to figure out what are the policies or procedures that trainings that can work for all three of them.  You know, like the same training works for all three because they're all digital companies, you know, the same training works for the same policies work for all three because they're all digital companies.
+
+38:16 - Joao Landeiro - Fortifai Design [Ext]
+  And you're getting some help to filter those things.
+
+38:20 - Abbey Lin (fortifai.co)
+  Yeah, right now I just like hired on Upwork, an ISO 14,001 expert to help like, you know, like, so that that list of documentation, right, like I showed you that Excel, like for 14,001, you need to have all of those ideally tailored to have to be tailored to the company, right.  So I get like a first step of like, you know, what text is actually needed because in ISO sometimes you need to cover certain topics, right.  So, so that's also why we're getting that documentation ready. So then ideally the next step would be for the customer either in our tool or offline is review these documentation and say it's okay to deploy.
+
+39:00 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, so, okay, review, they have fix, that's, that's correct. Okay, the first part, you saw that I wrote here client qualification, so I believe this is information that, you you collect from the client over the course of the interaction, but it's not necessarily related to the onboarding experience itself, especially at this stage, because you're so close to them.  Yeah.
+
+40:00 - Abbey Lin (fortifai.co)
+  I think, yeah, I think, yeah, just because we're so close to them, think eventually we want to be able to say, and this is why I'm getting the documentation, this documentation is good for digital companies.  We create a whole other set of documentation meant for construction companies, right? So then all construction companies can use these set of documents.  All digital companies can use these set of documents because the controls will differ depending on like, in some sense, most of them will be the same, but there might be additional ones for like hardware companies.  There might be additional ones for construction companies, like digital ones are kind of like the baseline, you know, because you really don't have, you're in office space, you're not really having as much environmental impact.  So it can be the lightest one.
+
+40:47 - Joao Landeiro - Fortifai Design [Ext]
+  So it might be like document A is the basic and then you need document A plus B and then you need A plus B plus C, you know, kind of like that.  Yeah, the way I see it is like Packs, right? Or templates? Yeah, exactly.
+
+41:06 - Abbey Lin (fortifai.co)
+  Yeah, it's like packs. you select when you start on the onboarding, I'm a construction company. Boom, here's your pack that you need to do and deploy.
+
+41:15 - Joao Landeiro - Fortifai Design [Ext]
+  I'm whatever.
+
+41:16 - Abbey Lin (fortifai.co)
+  And then something like that. Okay.
+
+41:21 - Joao Landeiro - Fortifai Design [Ext]
+  And maybe for, I'll just make a third one to illustrate this. Maybe for template three, you don't need document B, but template two, you don't need this one.  Yeah, exactly.
+
+41:34 - Abbey Lin (fortifai.co)
+  I think in the beginning we'll just throw every, like yeah, like that Excel file is kind of overkill.
+
+41:38 - Joao Landeiro - Fortifai Design [Ext]
+  You don't necessarily need all of that, but it's like for the first few, it might just throw the book at every to make sure we pass, but then eventually we can cut it down.
+
+41:46 - Abbey Lin (fortifai.co)
+  Perfect.
+
+41:47 - Joao Landeiro - Fortifai Design [Ext]
+  And I think it's also valuable for them, right? Not because when people are unsure, they'll try to do everything and that's a lot of work.  Expecting knowing what to take out.
+
+41:57 - Abbey Lin (fortifai.co)
+  Okay.
+
+41:58 - Joao Landeiro - Fortifai Design [Ext]
+  So, In terms of the onboarding experience, I'm thinking, what would, for you, what's the best way for you? What would you like to see at the end of this that best explains how to approach onboarding?  Because there's different ways of looking at this. One of them is kind of what we're doing right now, like boxes and arrows.  Like, oh, this is the first step. This is another step, which is a lot about expertise elicitation, like we extract from you the process you're thinking about.  But this is not so much about designing screens. It will be helpful because it provides you with a backbone on which to execute all the different variations of onboarding.  And the other way is we try to make it a bit more tangible and less abstract and also less or more difficult to generalize afterwards.  prefer we do the generic perhaps abstract way now that's fitting for all of them or that we go sooner into more specific implementation even if that implementation needs to change in the future.
+
+43:15 - Abbey Lin (fortifai.co)
+  I think that's right I don't know I think maybe abstract right now we really mainly have digital companies but I didn't think about freak I forgot about Ben is actually has some hardware in them but like it's not it doesn't have heavy assets these are not like high-risk organizations that are like drilling you know oil or like you know taking up minerals or whatever so their environmental impact is going to be minimal but the hardware one might have to do a little bit more so yeah I need to actually think about that.
+
+43:43 - Joao Landeiro - Fortifai Design [Ext]
+  Okay so we're starting to do this from the perspective of figuring out what's the ingredient list that we need to provide at the end and the ingredient list changes depending on who's coming to us right.  So, right now, we need to map out the documentation they currently have, and for this, there's a form or a questionnaire.  Okay. way to review the documentation they have is what is it manual? you do this? Right now, it's quite manual, but I would like to automate it.
+
+44:25 - Abbey Lin (fortifai.co)
+  Ideally, it's part of the onboarding process when they go into our tool and then they go, do you have this or do you not have this?  Are you starting from scratch? So, lot of that email back and forth that I had, here's a PDF checklist where she had to copy and paste the whole thing and into a Word document, right?  No, no, no. That probably would have been better if it was digitalized, right? Because then you have an audit trail of where you started there, right?  yeah. Correct.
+
+44:51 - Joao Landeiro - Fortifai Design [Ext]
+  So, let's just design draft as is, and then we see what's missing, and we think about the solutions for that.  Right? So, right now, if they were to join you today, this would be the process, map out the documentation they currently have, according to a list you have.  You review this documentation. The fixing what's not correct, I suppose there's a lot of hidden complexity behind this post, it's like, do you fix it?  Do you send it for them? How do you do this?
+
+45:22 - Abbey Lin (fortifai.co)
+  I think fix what's not correct. Yeah, I think that we will provide templates and then they need to decide whether or not they accept it or not, you know, or they need to fix it, but I think the first few ones, like we are going to like make sure they pass, right?  So, we will like kind of handhold them in there.
+
+45:44 - Joao Landeiro - Fortifai Design [Ext]
+  So, I'll separate this from activity and assets. Okay. So, this is an asset and this is an activity. OK, right now you just email, right?  I'll change the colors here to make it easy for us, OK? When you review the documentation they have, how do they send you this document they attach it to an email, let's suppose?
+
+46:24 - Abbey Lin (fortifai.co)
+  Yeah, I attach a PDF to an email, and then they I think just copied that email and threw it into a Word document and then wrote no, no, no, no, no.  So it was like a very manual process.
+
+46:35 - Joao Landeiro - Fortifai Design [Ext]
+  I sent them the questionnaire.
+
+46:38 - Abbey Lin (fortifai.co)
+  They could, they couldn't like, I sent it probably not in the best way because they would have to print it out and kind of like write it.
+
+46:43 - Joao Landeiro - Fortifai Design [Ext]
+  Otherwise they just copied it into a Word document and then wrote no where that was. Then they sent it back to me.  I'm going to go questionnaire, edited Word file, OK? And this aspect of the fix that what's not correct, can you give me an example of something that was not correct in you guys?  So, we haven't done the fix, we're not correct. That's the next step, right?
+
+47:12 - Abbey Lin (fortifai.co)
+  But like, at first we identified, you know, what was missing or what they had already. And part of it is, luckily, they didn't have that much.  like, so when you say fix what's not correct, like, if you look at their code of conduct, they didn't have that much on environmental section.  So, I said, like, we need to be able to fix, like, your code of conduct and add a much more text around environmental management into that.  So, that would be like, you know, after we create all the documentation, we need to, like, kind of fix their existing documentation to match.  But luckily, there isn't that much documentation. So, it's maybe that one document that you need to add. The rest of them are just going to be, they just take ours because there is no other documentation to fix.
+
+47:56 - Joao Landeiro - Fortifai Design [Ext]
+  So, like, if they have existing documents, they either need to take our document or they need to.
+
+48:00 - Abbey Lin (fortifai.co)
+  fix their existing document to match our document, right? So they either decide to tell our template or they need to edit their template to include some of the text from our template.
+
+48:14 - Joao Landeiro - Fortifai Design [Ext]
+  Okay. Then they upload the updated documents basically they send you via email, right? Right. Right now it's been like that.  They've been sending a via email, but ideally it's like somehow in the tool, but it would be, yeah, but right now they send a via email.  Okay.
+
+48:30 - Abbey Lin (fortifai.co)
+  And this is also a manual activity.
+
+48:33 - Joao Landeiro - Fortifai Design [Ext]
+  Okay. So in terms of us designing what, that's like the whole group, just the DTT, designing or choosing where to begin to design the digital experience of the onboarding.  One very quick thing that you could be done is to convert the printable questionnaire into an online form. Yeah.  Absolutely.
+
+49:00 - Abbey Lin (fortifai.co)
+  Yeah, that could be designed by Romy or something, because I have the questionnaire and then like breaking it into a thing, yeah.
+
+49:10 - Joao Landeiro - Fortifai Design [Ext]
+  So online form, okay. And the way you review the documentation they have. One of the things that's possible to do, when I say online form, I'm talking like a Google forms or office one.  MS forms or something, yeah. MS forms kind of thing, it's really quick. Because what I'm thinking in that aspect is, have you ever done one of those like MS forms things?  Yeah, yeah. Okay, so the answers they all go to the spreadsheet, right? Yeah. And on Google forms, this is possible to do.  I've never done it on MS forms, but I suppose it is as well. you can take the answers from one form and send them to another spreadsheet.  Yeah. And then on that spreadsheet, you could have a tab that has a checklist of all the things you need to do, right?  Yeah. In that sense, self-contained. Like, all the answers from this guy exist on this document, and this document already contains what needs to be done for every different customer.  What this would avoid is the back and forth of how I think I told them about this thing and they didn't, you know?  So I don't know if maybe I explained this in a weird way. Was it clear what I meant? don't know.  Well, I'm not totally sure.
+
+50:43 - Abbey Lin (fortifai.co)
+  I think I get what I made that last minute before the meeting with chat GPT. So I think if we had actually an online form that they can follow and do that, helping it should be good, whether it's in our tool or if it's MS forms, because we do have some survey builders on our website.  tool that we could do it like you know faster just so it's part of it but I think it's like the the reason why I think and maybe they don't they don't need to to do that and I'm just like trying to think like because this is like our first pilot customer we're doing this for them like you know checking what do you have or what do you not but if everything was in the tool like if you think about um all of these documentations on excel maybe they don't need to say yes or no it's just like yes I'm going to deploy this or no I'm not going to deploy this you know what I mean so like they don't need to do it twice you know what I mean I'm not sure if I fully follow yeah so like if you I will show my screen so like like this document here right which is like kind of the clauses here that that match with everything that you need to be able to show the documentation right if you came in and this was the checklist kind of like like  already like totally prefilled like so the documentation is templated here so like it's like yes or no like I don't even know if you wouldn't need this checklist that this is online it's just like here's all the templates for each of these and then just deploy them or you can choose not to deploy them right like so in our policy section of our tool you would just have all of these maybe and then they just deploy yes or no you know I mean like so they don't need to they don't need to be there is that I'm trying to think like how to explain it let's see if I can in the prototype like so like in our prototype so for like policies so right now we would we have all of these policies right it's code of conduct anti-bribery and corruption third party here but ideally they maybe it's not policies we could have another section called documentation right and then all of these would be just listed  it in this documentation area here, you know what I mean, like underneath. So then they can just go instead of being like, and it could be a button like relevant or not relevant, right?  And then they can view it and then they would pop up the documentation that they need and then they could just deploy it.  So it's not like, because one of the reasons why we're doing it now is because we're creating the documentation from scratch right now, but maybe in the future if you're in a template you don't need, you don't need that because all of these will just be listed in like in a documentation setup process or something like that, I'm not sure.  Does that make sense? Yeah, it does.
+
+53:40 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, so in that case, the bronze version of the digitalization would be to just convert the spreadsheet into a set of screens where people can just see how item 3.1.1, that's a little document, right?  Something like this.
+
+54:00 - Abbey Lin (fortifai.co)
+  Yeah or like just like you know in or or it's like how many shows or it like document three point one point like you know like six I don't know like contact contacts of SOP whatever it would be like and this is the question right should it should it sit in our policies because some of these need to be deployed and not all of these need to be deployed some of these can maybe just sit in the documentation evidence trail that we haven't created yet you know and then they need to just like and then they need to fill it out so then it would be something like you know in the content area you have you know you click on this and there's a policy that pops up right it would be the same thing you click on this and then a policy would come up you would only need to save it because you don't need to deploy it and you just need to have it in your system for during audit
+
+55:00 - Joao Landeiro - Fortifai Design [Ext]
+  I was like, oh, we might need to change all of this to match this, right?
+
+55:04 - Abbey Lin (fortifai.co)
+  And then you're saying, like, no, we don't need to because this can just be in another section like hidden underneath, you know, there that you have all of the documentation, maybe evidence here.  So it doesn't need to sit, you know, throughout the whole thing, or we don't need to change the boxes.  But it could be like, yeah, maybe in a document, or evidence. The question is like, where do we start, right?  Then do that. that mean they started the documentation evidence or do they start policies and procedures? then you list all of these in here.  And then maybe once it's accepted, then it goes into the documentation evidence part. I'm not sure, but my point is like, each of these has policy or procedure that will look like something like this, that they need to, they should ideally go and edit.  You know, we come with a template and then they can edit it ideally in here and then save it or deploy it.  Got it. So each of them has a separate document or... or text files okay so we could basically just give them a list of this how many can you go to the bottom please it's like 26 okay so we can give them a list of 26 tasks that they need to answer either they have it or they don't have it but they need to tell us something right yeah or or they don't even like that we we we just assume that like they don't have it or if they do have it just say okay now replace if you have it replace the text that you have in the system right like if let's say they have an anti-brain corruption policy we don't care if they have it or not if they do have one they just edit it and copy and paste it in here if they don't have it then they edit what we have in here you know what I mean like no matter what you're going to need to have these documentation so we don't need to check I think for me it's like the part of this exercise with pog night was like I didn't even know what documentation we needed so I was like oh  you know let me let me  And like, let me try to figure out what documentation it is, but part of this exercise in a week and a half or so, we're going to have this documentation in a template ready.  And then the question is, like, maybe Romeo could design something that we can have this and then stick the templates in so we can, and I'm wondering, does that mean we should have, like, instead of, like, policy and procedure, maybe it's like, it could be something like a plan or something like this.  I'm not sure, like, I'm a little bit, like, not sure about having 26 of these, you know, going down, like, the thing.
+
+57:37 - Joao Landeiro - Fortifai Design [Ext]
+  I don't know if that's the right way to go. These need to fit somewhere in here, yeah.
+
+57:43 - Abbey Lin (fortifai.co)
+  Or maybe it goes within the documentation evidence. So there's a box of, like, 26 of them. And then they close it out and then maps to the other area.  But I don't know, that's the onboarding. It's like, when somebody comes in, where do they start here, right? Like, are they starting at risk assessment?  Are they starting at policies, procedures? You know, these are. kind of questions for the onboarding. would they start?
+
+58:06 - Joao Landeiro - Fortifai Design [Ext]
+  So I think we can perhaps sketch these out amongst ourselves. So share, share, okay, share. Do you see my screen?  Okay, so so we have some screen, we are not deciding yet where it stands, right? Okay, and we have a list of 27 documents, right?  And these documents, they have status, right? And let's say that I am a tech company and for the tech companies these are the relevant ones okay.
+
+59:08 - Abbey Lin (fortifai.co)
+  All of them will be relevant but yeah well I guess we need to check this but it's more of the content within them that it will be changed not the actual documents like you need to cover these topics whether or not you're a digital company or okay so there's different documents okay and there's sections of the documents that are different depending on who is filling them so this for this section is important for tech and this section is important for mining let's say okay yes okay so basically or the content within those sections are are are important you like here I'll show you great so here like if you think about these documentation right you have to have a section that covers legal right number six nine like you know you need to do a legal  But a legal law regulation for a digital company might be different than a legal thing for mining company, because mining might have other laws.  So you still have to have the section, but the text inside of the policy might change depending on what kind of company you are.  So it's the same thing with your risk and opportunity identifier, environmental aspects, a documented list of the organization's significant environmental aspects, impacts, and associated risks.  So like for a digital company, you don't have as many environmental impacts. You might only have the waste or the electricity within your building.  But if you're a construction company, you're going to have a lot more environmental impacts that you need to manage.  So that section will be different, you still need to cover and still have a document and the auditor will be checking for this environmental aspects register.  They'll be checking for the legal register. They'll be checking that you have objective targets. They'll be checking that you have an action plan.
+
+1:00:57 - Joao Landeiro - Fortifai Design [Ext]
+  So they'll be checking all of these 26 that are kind of dispersed. throughout our tool, because some of these are already in our tool in the risk assessment.
+
+1:01:05 - Abbey Lin (fortifai.co)
+  Other parts are not there, so that's why it's, um, yeah, trying to figure out where all of these documents kind of hide within our tool in the best way.  Mm-hmm.
+
+1:01:19 - Joao Landeiro - Fortifai Design [Ext]
+  Uh, did this scheme, I'm sketching out, does it capture what you're saying? Uh, can you show it again? Sorry, I your screen away.
+
+1:01:28 - Abbey Lin (fortifai.co)
+  Oh, yeah, sorry.
+
+1:01:31 - Joao Landeiro - Fortifai Design [Ext]
+  okay, okay, yeah, yeah, I think so. Okay, so in that case, let's, let's consider this, uh, we have, wait, just a second, I need to, uh...  In that case, we have a spectrum of detail, high detail and low detail. On the very high detail, we have policy templates plus specific patterns for Okay, now my mirror, and I pet that, it's always like this, for context, size,  the industry, that's right. On the low detail, we have just policy templates, but they are vanilla.
+
+1:03:10 - Abbey Lin (fortifai.co)
+  Yeah, and this is where I'm thinking like, I think at one point we can just have the policy templates and then we can almost have like a section in yellow, like filling yourself, you know?  Like I think it kind of depends on how it is. I think in our first ones, we're gonna have to help them.  But ideally, if we almost like get to the ideal part would be like we choose some sectors. We only work with digital companies.  We only work with construction companies or like different ones and like these are the packets, know? okay, your digital company, here's your packet of limited ones.  Here's your construction company, limited ones. But right now it's kind of a mix. I think that like for at least for environmental management services.  So the good thing, just to like, nod out a little bit, like environmental management system is a little bit more tailorable, right?  Because you, if you're in office versus if you're in... mining company, your environmental impacts are going to be different.  If we go back to the G side, the governance side, like, you know, where we're talking about G now, those are going to be very similar, whether or not you're a digital company or a construction company, do you know what I mean?  So like, you know, bribery and corruption can happen the same way for a digital company versus a mining company, right?  So a lot of those controls like conflict of interest, gifts and entertainment, government officials, those are actually ones that can go across everybody and you don't actually need to change the policy all too much because of the G topic.  The problem is E is a little bit more tailorable based off of the environmental impact of the company. So there are like, you know, definitely sector-specific around construction versus that.  So E might need a little bit more tailoring, G is a little bit more like, okay, if you just do all of this, you're gonna meet the basic requirement no matter what.  So G is a little bit easier, but unfortunately, E has a little bit more commercial aspect where more people want E right now.  because of all of the different things, so that's what we're trying to do.
+
+1:05:06 - Joao Landeiro - Fortifai Design [Ext]
+  Correct, I got it, but at the same time, I think I understand what you mean, but at the same time the E, the fact that we are starting with E does not force us to go all the way to this end of the spectrum for this release, right?  No, I don't think so.
+
+1:05:23 - Abbey Lin (fortifai.co)
+  I think maybe for the first few to make sure that they pass, we're going to have to give them detail, but the goal is to at least just have the templates that they can fill in, so I agree.  I think we can start with low detail, and eventually if we say your digital company only target digital companies, then we can use the same templates for all of it.
+
+1:05:43 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, okay, so we have, so going back to this, going back to this sort of picture, sorry. Okay, bring it here.  Okay, so we have some sort of an interaction where they see a list. We're not debating, like, the aesthetics of this right now, but just they need to have a way of seeing all the different things you need to upload, right?
+
+1:06:24 - Abbey Lin (fortifai.co)
+  Yeah, no, I'm just thinking out loud as you pedagogically how would they do it, right? So I just want to show you the screen too, like, how would you do it?  So pedagogically, if you were to do this the textbook way, you would actually start at risk assessment, and you would say, like, okay, what are my actual risks that I have to face, right?  And you would identify them. So if you go here, this is this part right here, This whole planning part, like...  This, these three, is the same as here, this risk assessment, seven to nine in here. So they might not necessarily need to start with a list of 26, do you know what I mean?  They can start with seven to nine, which maps up here, right? And then, you know, then they can go to like training, I think, you know, in training records.  That's number 13. You know, number 13 can actually go here. You know, so it's like, you can still kind of, and maybe that's what I need to do is I need to help like map out which of these boxes, like, which of these documents go in which of these boxes, right?  So you don't have to like, maybe like, here, let me throw 26 documents at you. It's more like, you know, you have to go through like each of these boxes and then more of these documents are going to show up, you know, like control, like action plan, templates, objective and targets, you know, could go into the control one or like document control procedure, operational control.  procedure that can go in the control one so it's like so yeah so if we wanted to kind of it's just more like these documents or something need to be integrated into each of these boxes to make sure by the time you get to the end or document evidence ideally it pulls all of these and then you have like a list of 26 you know what I mean like then then the auditor can just go straight into here and then see you know how all of those ended up question so because they have nothing right now I think I suppose it's relatively easy to make them go through the process top to bottom yeah and but it could be the case that some of them do have something right and maybe they have stuff that belongs to the third step or the fifth step you know so if we force them to go top to bottom
+
+1:09:00 - Joao Landeiro - Fortifai Design [Ext]
+  They would have stuff that it's ready, but they're not doing it yet because they still need to work on the first two.  Yeah.
+
+1:09:08 - Abbey Lin (fortifai.co)
+  I guess maybe it's not necessarily steps, but it's where they're placed. You could start with, or technically, you're supposed to start here.  Yeah, and maybe that's the question. It's like, what order would they need to do it, or can they do it in different orders?  And they're just in the boxes, right? I'm in the control section. I'm going to document this, or I'm in the policy section, so I only need to do this policy and the commitment.  This is interesting because the way this is set up is actually the order you want to do it in, but it's actually quite similar to here.  This one is the tone at the top, the roles responsibility leadership. That can also be the communication part of it.  They have a section called context of the organization, which we don't, we don't have a box for that. It's almost, could be a box on top or, and could be risk, there, there should be, I think there were missing a box called context of the organization.  And that's where like some of this stuff would fit in here. And then, you know, and then the planning, this part would fit in this one, you know, and then, yeah.  So this is what I was like, like talking about yesterday, like, you know, do we need to change some of the boxes to match this, you know, the plan do act.  But they don't need to, I guess my point is they don't have to do all of this all at the same time in one sitting, right?  They can start on this box and then cover some of these, they can start in this box, cover some of these, they can start, you know, and then near the end, like, you know, when the document evidence part shows up, it can say, like, you've done this one, but you're missing this document, something like that, maybe?  I don't know. Or like in some tools that we see, they just make you like right in the start, you need to  set up all of these policies and just deploy it, like in this foresheet to sit down and do all of them.  But I don't know. I think it maybe it will be clear as we have the documentation and we can see where they fit in.  that was just that I'm trying to figure out.
+
+1:11:18 - Joao Landeiro - Fortifai Design [Ext]
+  The compliance map is please correct me if I'm wrong. So experts evaluation are on where you should begin.
+
+1:11:35 - Abbey Lin (fortifai.co)
+  Yeah, like it's not necessarily where you should begin, but it's like what your responsibilities are. So like you should be as like this is like everything a compliance officer should be doing.  But there are a few things like, like you can't do anything unless you have a policy procedure or training, right?
+
+1:11:54 - Joao Landeiro - Fortifai Design [Ext]
+  Because everything you do is based off of the policy that employees should do. So that should be the first one.
+
+1:12:00 - Abbey Lin (fortifai.co)
+  assessment should be technically the first one, but a lot of people skip it and just go to policies and trainings.  Like ideally that should be first because you need to anchor it with employee base like these are the rules right and then you execute on the rules which around here and the different tasks right and then you document your evidence to the rules.  So this is a general thinking like a thinking a way of thinking right on how compliance officers have but this ISO here is a very similar methodology but it's just a lot more documentation a lot more like you know structure and like you need to have this this this this and this right whereas like the way that I set it up and for companies that aren't doing an ISO you can have a compliance program without having all of this documentation you know what I mean but if you want to pass the ISO then you need to have all of these documentation but you can survive and have a good environmental management system with just what we have over here.  will change, you know, on that. they'll, they'll, ideally, because like, and then like, you know, if you use it as a workflow tool, like some of our ones that have a sustainability compliance officer that know they want, they just want it as a workflow tool.  So they don't really need all of these documentation. They just want these boxes where they can store information, give tasks, create their own policy, deploy their own policy, and do it that way.
+
+1:14:26 - Joao Landeiro - Fortifai Design [Ext]
+  I'm a little bit hesitant to change.
+
+1:14:29 - Abbey Lin (fortifai.co)
+  I feel like I need to somehow, I don't want to become like an ISO tool, too, that like, you know, we map everything to exactly the ISO, right?  So like, I think I need to spend some time once I have the documentation saying which of these documentation in this Excel file fits into which of these boxes, you know, and then how do we design the boxes better to include the additional documentation that we need from the ISO.  And then if we need like the ISO documentation, then you'd go into that box that says audit, and then there could be a section called ISO in that box.  And then it pulls all the documentation. in the way that you know ISO wants it to look at, that's maybe as I'm talking to you maybe that's a better process forward.  I'm not sure but that's my initial thinking.
+
+1:15:11 - Joao Landeiro - Fortifai Design [Ext]
+  I like that idea of starting from the heart and bounds of this which is like the regulation and I think that that could be a very valuable exercise.  Something that I think could make this really much faster is if you have so if you just feed it into Shatchi PPPo or something like the documentation for ISO 14001 and then you actually just say create me a table where you see where these things map and you'll need to check it because Shatchi PPP never says to see.  doesn't know, but these could turn it into a relative one. Yeah, fast way to do it.
+
+1:16:05 - Abbey Lin (fortifai.co)
+  Yeah, I'm going to do that on the list. could probably play around with it tonight. Yeah, I think that's it.  basically, we take the compliance map, all of the different titles and whatever, and then I ask chat to be able to map these documents to which of the boxes that it would naturally fit in.  And if we need to create any new boxes for that, I can maybe even use the picture. I think chat to PT is now looking at images.  And then from that, we'll at least know where they fit. And then maybe Romeo needs to redraw some of these to make sure that those are in there, do you think?
+
+1:16:38 - Joao Landeiro - Fortifai Design [Ext]
+  Is what you're thinking? Yeah, yeah, to PT is really good for that sort of thing. if that's the most helpful, because the thing is, right now we are trying to think about the onboarding from many different angles.  We're thinking about the onboarding from the information collection angle. We're about onboarding from the user experience angle, from the...  the appearance and visual angle, there's many things and I think this is useful because an Earth's surface is an important question but in terms of the outcome of this conversation I don't think we'll get out of this with the design onboarding flow, right?  So since we already have this meeting that we're in right now and you don't need to leave right now we could try to do it together now, the church EPT thing and exit is meeting with with a tangible outcome which would be like that map one-to-one sort of thing.
+
+1:17:38 - Abbey Lin (fortifai.co)
+  I think that's good, I think this is like this is very helpful because I think that yeah I think I think this is a good helping like also me walking through this because it's like we're like flying up the sea in our pants making  up as we go and we need to really kind of think strategically like how does this actually  right into that. So I think this is good. So I'm just trying to figure out how to copy and paste this into step 3d.  Do I take a snapshot of it? Like a snip? Or how do I, is there a way to make the compliance map to a PDF and then like I can throw it into chat?  Yeah, yeah, yeah.
+
+1:18:17 - Joao Landeiro - Fortifai Design [Ext]
+  I, we can, we can go on Figma. I can send it to you right now. But I don't know if I have the right version on my screen right now.  So can you share your screen with me? I can, let me put it at the, let me just put it in the chat.
+
+1:18:34 - Abbey Lin (fortifai.co)
+  Can you see that there?
+
+1:18:39 - Joao Landeiro - Fortifai Design [Ext]
+  Opening it.
+
+1:18:44 - Abbey Lin (fortifai.co)
+  It's loading.
+
+1:18:45 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, I see it. I think I don't have access to change things. Let me see. Following shell.
+
+1:18:57 - Abbey Lin (fortifai.co)
+  Oh, it's in the prototype mode. Okay, wait, wait.
+
+1:19:02 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, this doesn't work. How do I exit the prototype modes? It's pretty much the same.
+
+1:19:13 - Abbey Lin (fortifai.co)
+  I can also manually do it up. you.
+
+1:19:20 - Joao Landeiro - Fortifai Design [Ext]
+  Okay. Yeah, I cannot export it right now.
+
+1:19:31 - Abbey Lin (fortifai.co)
+  Okay, and then I'm just asking chat to be cheap. I want to map the contents to the sections.
+
+1:19:51 - Joao Landeiro - Fortifai Design [Ext]
+  I'm just going to manually copy it and shouldn't take that long.
+
+1:19:53 - Abbey Lin (fortifai.co)
+  Okay. actually might stop. Is there a way to, let's see, I was probably with the chat of Pinar in a second.
+
+1:20:37 - Joao Landeiro - Fortifai Design [Ext]
+  Let me just try. you The ISO is 30,001 or is 31,001?
+
+1:21:17 - Abbey Lin (fortifai.co)
+  13,001, 14001. And the other one?
+
+1:21:23 - Joao Landeiro - Fortifai Design [Ext]
+  37001.
+
+1:21:24 - Abbey Lin (fortifai.co)
+  OK.
+
+1:21:27 - Joao Landeiro - Fortifai Design [Ext]
+  OK. OK. Okay, I think I'll try to do this via text, so my, because I never know how they interpreted it, you know, the images, and do, check, and do, check, okay.  Can you find me in the meanwhile, the official documents for the regulations, please? Yes.
+
+1:23:00 - Abbey Lin (fortifai.co)
+  I find that I will send it in.
+
+1:23:34 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, got a second.
+
+1:23:37 - Abbey Lin (fortifai.co)
+  Okay, and for this controls.
+
+1:23:39 - Joao Landeiro - Fortifai Design [Ext]
+  Thanks. Thank you. I'm sending a V8 image there, no that's not there, what, it's a V8, it's not there I don't think it should.  Yeah, okay. Okay, I'm sending. I think this was you because it just received an email. Yeah. And I think chativity has helped map the areas that on the sea.
+
+1:25:30 - Abbey Lin (fortifai.co)
+  So I sent in the document one is the actual policy itself, which is 14,001 in the email.
+
+1:25:36 - Joao Landeiro - Fortifai Design [Ext]
+  I sent it to all of you guys on email.
+
+1:25:38 - Abbey Lin (fortifai.co)
+  And then there's Excel file that I showed you with the documentation there.
+
+1:25:42 - Joao Landeiro - Fortifai Design [Ext]
+  And then there's like, like just a general presentation around what ISO is there. So I sent you that.
+
+1:25:48 - Abbey Lin (fortifai.co)
+  But it's actually a good map that in the chat, you can see like where they say you should map the green with all the documents.
+
+1:26:00 - Joao Landeiro - Fortifai Design [Ext]
+  to the contents. It's actually kind of similar to what I see. So what what you've pasted on the on the chat is their chat GPT's answer regarding which one of them?  So I you know that Excel document with the 26 things?
+
+1:26:29 - Abbey Lin (fortifai.co)
+  So I asked them with those 26 requirements, all of this, you know, and then I put in risk assessment policies, trainings, I was like, which of these boxes would you put those documents that would naturally fit within these in these boxes?  And then this is how they map it.
+
+1:26:49 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, when I open the spreadsheet, the first clause context of the organization, it starts with the four are all the boxes missing or it's just a numbering not?
+
+1:27:01 - Abbey Lin (fortifai.co)
+  First plus for where let's see which one is it where is it which document number is it a second so many tabs got lost plus for document 3 oh yeah here here share this tab okay so documents a checklist of work okay yeah this one starts on 4 or is just a wrong number number it starts on 4 because that's the it starts it starts it starts on 4 because that's remember that that's the overall heading so if you look at I think the ISO document that I sent you context or okay context of organization is number 4 in the thing yeah okay okay can you hold one second of course
+
+1:28:16 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, I'm trying to think actually, me see, I'll ask the chat to BT actually number right the better. Can you read it so it's clear so that Okay, I think I have a better map now, I think.  Let me copy it into here.
+
+1:29:03 - Abbey Lin (fortifai.co)
+  Sorry, my son is a little unhappy, he's not going to the birthday party, so I might need to hold a second.  But let me, okay, let me copy it here, does this make more sense then, put it in the chat.
+
+1:29:33 - Joao Landeiro - Fortifai Design [Ext]
+  Could you ask JetGPT to output this in the table format? Oh yeah, okay yeah. Okay. All right.
+
+1:30:29 - Abbey Lin (fortifai.co)
+  copy a table from chat GBT, or do I just do a screenshot of it, because it doesn't come out.  Take a screenshot, please. Okay. It's such a long table.
+
+1:30:43 - Joao Landeiro - Fortifai Design [Ext]
+  I lost out.
+
+1:31:00 - Abbey Lin (fortifai.co)
+  Okay, okay, um I just put it in the chat. Thank you. Thank you. There's a few more that didn't cut off.  Nice, nice.
+
+1:31:16 - Joao Landeiro - Fortifai Design [Ext]
+  So section plan. Okay. Ah, the number. Nice one. It's really helpful. It's interesting to see that the order really changes, right?  Yeah, especially at the start. Okay. So this is for the ISO 14001, right? You know, yeah, we don't have to think for 37,001.
+
+1:31:37 - Abbey Lin (fortifai.co)
+  We only like, I kind of think it's 14,000. Yeah, I think we should like, if we get 14,001 right, we're pretty golden because 37,001, I think I can, none of them seem to want to actually go for the ISO.  So it's actually the only ones that want to go for the ISO is for this one. then we really need to follow the ISO methodology for the other one.  We don't need to follow it as much. Okay.
+
+1:32:01 - Joao Landeiro - Fortifai Design [Ext]
+  So now we have, I think it's interesting if we just maybe print this out and look at it for a second or two, but maybe not right now.  But we have a working model of how to map these things, right? Yeah.
+
+1:32:13 - Abbey Lin (fortifai.co)
+  So that's good too. I need to confirm this, but yeah, like I need to original number. Yeah. I could spend some time maybe putting into an Excel later on today, and it's like mapping in a little bit.  But I think it's a good idea that throw in chat to be tea, like you said. So that's that.  So then the question is like, okay, now it's mapped. So that's good because that's also part of the tool and probably needs to be redesigned by Romeo on that.  And the question is, maybe I should ask chat to be tea. If you were to start an onboard, how would you manage this or something like that?  If you are a new company. starting myself with this table. Where would you need to see it? Would you need to do all the documents once?  Or could we start with one section? Yeah, I hate this. Yeah, it's interesting.
+
+1:33:53 - Joao Landeiro - Fortifai Design [Ext]
+  This is kind of what I said, so at least I'm not like totally off.
+
+1:33:57 - Abbey Lin (fortifai.co)
+  least my experience is somewhat correct. But it is interesting, actually it's telling us to go through the compliance map actually is what ChatGBT is telling us and it's just saying like in terms of the documentation I'll share You can see it in the chat but it does tell you kind of to follow the risk assessment first and then go through the process because I asked them like should they just do all the documents at once or not and then they said no you should do it in a certain order which kind of maps it with what we're thinking.  Yeah, it's very reassuring also the when it explains why yeah another thing is that you can say that this process is AI powered because yeah exactly the interesting the step one understand the requirements that's actually a good point that we haven't built if you think about the onboarding process like we haven't really said like we just kind of jump in right like we're doing ISO right like but there isn't like something like oh this is the ISO it's under the plan to check act you're gonna need to like like that introduction by introductory training session or online resources so they have the basic before they jump in that's something  We haven't built in the tool but can be part of the onboarding, you know, process. I think that's a good point for step one.  then step two, it just kind of goes into the risk assessment process, which is, yeah, the planning phase there.
+
+1:36:14 - Joao Landeiro - Fortifai Design [Ext]
+  So in that sense, if we go on the, on the mirror, am I sharing the right thing? If we go on the mirror, the onboarding could be could be like, let me copy this so we have another version of it.  Okay, go ahead. So the onboarding would be just highlighting a couple of different things, right? And by people doing these things, it would be  It could be helpful for them, right?
+
+1:37:07 - Abbey Lin (fortifai.co)
+  Or it could be like, I think there might be even need to be one box being like, or it could be maybe it's the Lumina person on the left, know, being like, understand the requirements, you know, that step one could be like Lumina being like, do you know what an ISO is?  And like, it pops up, and then it could be like, because it is like, if you look at the steps, it's actually very similar to the steps that we already have.  But it could be like that, like start here, and then you finish it, lights up, start here, finish it, lights up.  don't know. There, but maybe that's more of the Rolls-Royce or the gold one. think we actually are, based on ChatGPT, it does seem like we have the right format.  It's more that we need to map that Excel file into this, which ChatGPT has done, and then make sure that we design, almost like redesign some of the boxes, or to make sure that it covers some of these documentations and the expectations in there.  So let's say that...
+
+1:38:00 - Joao Landeiro - Fortifai Design [Ext]
+  We get on risk assessment and then we have explains what the risk assessment is. It asks me like, do you have this thing, this thing, this thing?  I almost worry. I don't think anyone's going to kill me.
+
+1:38:19 - Abbey Lin (fortifai.co)
+  But I think that maybe the way that I did the risk assessment process that he's literally building right now needs to change based off of this.
+
+1:38:31 - Joao Landeiro - Fortifai Design [Ext]
+  At this stage, it's very easy for us to try to adapt to what's already built. let's figure out what's the current hour we have time.  Let's figure out how's the current, did you say risk assessment? I'm happy changing it because literally that risk assessment process was like, it was also the same thing with eggs being like, how do we do a risk assessment process?
+
+1:38:55 - Abbey Lin (fortifai.co)
+  Okay, let's do it really quickly and we put it in, we hadn't really like, at that time we hadn't mapped it to the ISO.  just thinking of a generic risk assessment process, not an ISO risk assessment process, but they are kind of similar like you know the risk and opportunity identification form.  I think I might need to spend some time even this weekend or like kind of looking at like how to map it to our existing process and what's missing and then maybe we need to go through each of these you know ones to have a look at that.
+
+1:39:26 - Joao Landeiro - Fortifai Design [Ext]
+  I don't know it feels to me that there's I mean there's the contents of the boxes much but not the structure of the box they're organized.  What do you mean? Oh like the plan to like... Yeah, the question is for Ivan to change how something is animated or how something shows up I think is more complex than changing the content of that box right?  So if for instance step one let's say I'm sharing this step. Let's say on step one it says... this thing.  And now it should say another thing. That's not a very difficult thing to do.
+
+1:40:04 - Abbey Lin (fortifai.co)
+  I think, okay, I shouldn't be evaluating other people's work.
+
+1:40:09 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, I don't think so far away.
+
+1:40:13 - Abbey Lin (fortifai.co)
+  Yeah, that's a good point. That's a good point. Yeah, like the steps might change and the contents might change in between that.
+
+1:40:22 - Joao Landeiro - Fortifai Design [Ext]
+  But I think I think you're right.
+
+1:40:24 - Abbey Lin (fortifai.co)
+  Because step one would be look at your risk and identification form. that is kind of step one already that we have been there is to understand your risk.  then map out your, yeah, I actually need to think about, think I could kind of elaborate with like, I can work with chat this weekend and say like, what does all of this look like?
+
+1:40:43 - Joao Landeiro - Fortifai Design [Ext]
+  You know, and then kind of like break it down a little bit more.
+
+1:40:45 - Abbey Lin (fortifai.co)
+  What are all the steps on each of these so that it would be a little bit clearer? Yeah.
+
+1:40:56 - Joao Landeiro - Fortifai Design [Ext]
+  So, so it's like, That's right. So from here, we go to this sort of thing. Yeah, it feels that all the components are done is just changing what's inside of them.  yeah, which will take a redesign, right?
+
+1:41:16 - Abbey Lin (fortifai.co)
+  a little but I think it might be doable. I just need to I think I need to sit down and try to rethink the content now that I see it more together and kind of linked.  But I think it's like also like, you know, the legal and other like requirement if you think about step two and then number nine legal and other requirements register like that actually doesn't need to be a separate document that can be the legal register that's put into the risk assessment part in step two, you know, like step two collect legal information, right?  And then you have it in there. And that's like then you fulfilled it. It's not necessarily an extra document.
+
+1:42:01 - Joao Landeiro - Fortifai Design [Ext]
+  I'm not sure if I'm seeing the same thing as you are. So let me just bring the.
+
+1:42:06 - Abbey Lin (fortifai.co)
+  if you look in the chat, in the chat, there's not this part, but the other one after that, which kind of like the last message I sent, you maybe copy it into the mirror too.  Okay, I see.
+
+1:42:28 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, like we copy the whole thing, we can kind of discuss it too, because this is, I think that it's like the correct order, like on how to do this.  Okay, now that didn't work what I wanted to do. Sorry for the deep tour. Ooh, intense. So if you look at step two, like number nine on step two, or like number like the third.
+
+1:43:00 - Abbey Lin (fortifai.co)
+  point documents to begin with like there's one called legal and other requirements register environmental aspects register risk identify opportunity.  if you were to actually yeah like those can be built into the risk assessment like if you look at currently the risk assessment box that you're just looking at we can almost either add them to it or kind of some of the names of it like step two environmental aspects register legal register those don't necessarily need to be a word document like those can be alive you know as long as you're showing that you're tracking it and you put it in there and it's in the tool and you walk through it through this process then um then then yeah then it could be fit into there and I think that's what I need to spend some time this weekend it's kind of like how would I do it now I recognize the ISO process for it
+
+1:44:01 - Joao Landeiro - Fortifai Design [Ext]
+  Yes, so I'm thinking the best way of, okay, so I have an idea and I'll try to work on it really, really fast, okay, to see if this would help you, okay.  Let's say that we have like a skeleton of this page, okay, and we have a collection text, okay, we have a title, okay,  And now we have box one, box two, box three. get my point. So I'll just put a bunch of them because there's probably quite a few.  And then I think if you on the mirror or in the documents, you put the stuff in here. I think it's easy.  It generates a good output that is easier for the development team to work with, you know.
+
+1:45:37 - Abbey Lin (fortifai.co)
+  Yeah, I feel like in each of these steps for the risk assessment, I'm going to have to have more steps.  But yes, yeah, I can try to map it out and then put it into that.
+
+1:45:51 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah. Yeah, for each of the ones. Yeah, so this one would be, you know, whatever.
+
+1:46:00 - Abbey Lin (fortifai.co)
+  Yeah, that one would be like if you go like it would be like risk risk and identify it would be like risk and opportunity form I think if you go to step two page one it'd be called risk and opportunity identification form like number seven.  Yeah. Okay, it's like seven, eight and nine would be the titles, you know, like seven, eight and nine.
+
+1:46:21 - Joao Landeiro - Fortifai Design [Ext]
+  But wouldn't those be inside of here?
+
+1:46:27 - Abbey Lin (fortifai.co)
+  It could be, but each of them are going to have a step within them. You know what I mean?
+
+1:46:33 - Joao Landeiro - Fortifai Design [Ext]
+  Got it.
+
+1:46:33 - Abbey Lin (fortifai.co)
+  Like then it's going to open up to another things just thinking that you could like just open it down and then you can maybe do it across like that.  Got it. Yeah. And then like environmental aspects register and like, yeah. What is environmental aspects here?
+
+1:46:55 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, right. Yeah. Yeah, it's not well done, but yeah, but I can play around with it. So there's no protection on this one.  Okay. Oh, if you want, I can put one, but no, I think I think I need to request access.  I just requested access for it.
+
+1:47:24 - Abbey Lin (fortifai.co)
+  If you can give me access, no, I still need access, I guess, did you get a request access for me?  Yes.
+
+1:47:47 - Joao Landeiro - Fortifai Design [Ext]
+  I'm adding you as a guest because Miro is full of dark patterns. They want me to add you as a member and then they'll turn it As a guest, it's fine.  It's like Ryanair, you know.
+
+1:48:01 - Abbey Lin (fortifai.co)
+  They always buy something, yeah, exactly. But I'll have a look at this, like, I think I need to spend some time over the weekend kind of breaking down these parts, but it's a good reminder about using chattypti to help break it down a little bit.
+
+1:48:20 - Joao Landeiro - Fortifai Design [Ext]
+  Okay, I sent you the link for the mirror as well in the email, as a report to the email you sent me.  Great.
+
+1:48:30 - Abbey Lin (fortifai.co)
+  Yeah, and you can, I think, in the, let me see the email that I just sent you. See if I can explain it really quick and show my screen.  See if it matches. Yeah, so this is like, if you look at my screen here, I saw, here. So this ISO is like the document, it's the Bible.  I saw 14,001 like if you if you achieve this is what you've done right so see see here you know context of the organization leadership planning support and it kind of goes through you know environmental aspects compliance obligations you have to have actions to adjust risk and opportunities operational plan performance there um that's kind of so everything you know the plan the plan do control act you know that that picture that we are here the plan do check act right this is what we were just talking about that we put it under the plan to check back model right it comes from here and then it kind of it's like a lot of different things but these are all like so if you follow this you could throw this in the chat dbt and say give me a summary like if you want to understand it but it tells you you you need to understand the organization you need to do all of these different things and you have to have leadership and commitment you know you have to have an environmental policy and need to take into all of these so that's how it's kind of broken down  and it tells you what environmental aspects you should look up. So it's really kind of like a document trail of everything that you're supposed to be doing.  And then, but what we're doing, what we do is that if you look at this document, like, you know, your eyes roll over and you don't totally understand what it means, right?  So like what we do is like, here's the compliance map, you execute on this with this documentation and you will, you will pass this is kind of what we're saying, you know what I mean?  Like we'll give you exactly, you know, the control of documentation. What do you even mean by that? Okay, here's the controls.  Here's the documentation, execute on it, and then you're done. That's kind of what we're doing as part of this process.  Yeah, so that's kind of the high level different things that the ISO has. Yeah, so yeah, so that's kind of a simplified way of doing it, but you have it in your inbox so you can kind of see how that works.
+
+1:51:05 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah.
+
+1:51:05 - Abbey Lin (fortifai.co)
+  So I guess I don't know if they did onboarding today, but I think it was very important because it's like, that's a key part of like our tool in terms of like, we need to onboard them into those documents in order to actually for them to pass on it.  So it's good that we figured that out, but maybe we might like, I think this is like, I was, I was saying with, with Mal is like, we're like, I'm still trying to figure this out, right?  I don't know what is the right order or when we're supposed to do, you know, do things and how we're supposed to set it up.  So I think it's like, part of this process is helpful because it's like, oh yeah, now I need to map this into this because I had, I was thinking of it another, another, I was thinking of it, like, you know, just as a checklist and you kind of have go through.  But then that doesn't really match with their tool, but just talking through it with you guys. It's made me realize, okay, I need to spend some time doing that.  And I think these are the conversations that I like because I don't know what is the right direction of it.  But I think having more of these kind of helps us develop the product. more. So, yeah.
+
+1:52:02 - Joao Landeiro - Fortifai Design [Ext]
+  Is it better for you if we have more conversations like this? Yes.
+
+1:52:14 - Abbey Lin (fortifai.co)
+  Yeah, I was talking with like a man now about this before because I don't know what I'm doing, right?  You guys have built more products than I have, right? So I just a subject matter expert. So I don't know, you know, in terms of product development, what do you need to kind of the flow to do it, you know, to have a good product for the customer?  What do we need to consider? So I was saying to my earlier, like, I would love for you guys to be like, don't wait for me to be like, we should do this because I don't know if that's what we should be doing first, you know, maybe from your experience, we should actually be doing something else first.  And then, okay, then leave me in that direction and I'll give you the information to make sure that section is correct, right?  so you guys are more of the expert on this than I am. So it's more like, what do I, what do I need to dump in here?  Like with my subject matter expertise, that would make that a good product, you know, because My thing is, I commit from a consulting angle because I don't have a digitalized, but if you as like coming in as a last product, what do you guys feel that you would need that is missing for the customer right now, then yeah, so I would like to have more of these sessions now.
+
+1:53:15 - Joao Landeiro - Fortifai Design [Ext]
+  Like I was talking a mile about that, like more consistent ones that we can kind of go through and identify what actually are we missing because I don't know what we're missing.
+
+1:53:21 - Abbey Lin (fortifai.co)
+  I think we're missing onboarding, but it seems like we're missing a part of our product. Like I have no idea, right?  So I think that's what I'm trying to love your guidance and like, yeah, guys like taking the, the leader, the understanding of that for me.  It's also like going to a product, you know, like looking into our product as it's being developed right now and it's being like as a new person coming in, like it makes sense to me because I've been doing this in many years, but like for you, it doesn't, right?  And then what are we missing in terms of the, what are we missing in terms of the design and the product around that?  Yeah.
+
+1:53:54 - Joao Landeiro - Fortifai Design [Ext]
+  No, perfect, perfect. So I'm looking for a podcast to send you because I suppose books are difficult for a mother with a, that's a founder.
+
+1:54:02 - Abbey Lin (fortifai.co)
+  Maybe a podcast is easier, but let's find a way of having these conversations on a tighter cycle so we don't accumulate a lot of, yeah.
+
+1:54:12 - Joao Landeiro - Fortifai Design [Ext]
+  Yeah, no, I think so, that is good.
+
+1:54:14 - Abbey Lin (fortifai.co)
+  So I think I have a discussion with Mao and Romeo on how to proceed, but I'm kind of flexible on, now that we've worked together a little bit, now that you see the product and understand it a little bit more and talk to their customer, then I think we think how would we optimize doing this, you know, going forward, good discussion.  Yeah. Perfect.
+
+1:54:32 - Joao Landeiro - Fortifai Design [Ext]
+  Okay. Thank you so much.
+
+1:54:33 - Abbey Lin (fortifai.co)
+  should go, my husband's like, but thank you, but just send me an email, send me the podcast on Slack or on email and I'll have a listen.  But thank you so much then. Okay, we'll be in touch.
+
+1:54:43 - Joao Landeiro - Fortifai Design [Ext]
+  Thank you. Have a nice weekend.
+
+1:54:46 - Abbey Lin (fortifai.co)
+  Bye bye.

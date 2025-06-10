@@ -1,0 +1,118 @@
+---
+title: 27 minute chat - Sergio Goldman
+date: '2024-09-13T15:15:00.000000Z'
+duration: 27m
+participants:
+- João
+- Sergio Goldman
+source: https://fathom.video/calls/143816708
+encoding: utf-8
+scrapingdate: '2025-06-09T19:46:27.568037+00:00'
+---
+
+27 minute chat - Sergio Goldman - September 13
+VIEW RECORDING - 28 mins (No highlights): https://fathom.video/share/qp-vvbDtnmQCqSLXr1xMcHhyg7rdC1zQ
+
+---
+
+0:00 - João Landeiro (joaolandeiro.com)
+  Thank you very much. You OK. up this thing. Another.
+
+1:06 - Sergio Goldman
+  By Fernando, I'll show this question to It's building that you have the building that have to work with. The building that have to work with, Uh-huh  But those phenomena also happen to be an automatic and they with this anymore. Currently, I have true and really It's just an easy piano.  a good piano. kind But I practice that lot that a lot demonstrating. It's great The way that they are being made out is that they aren't coming out of their And in this case, case idea that are not inside.  Mm-hmm I was a young man was a young man, and he former mentor in Vietnam. a professional, professional, a like a scholar.  He was a young man who was professional. I professional, I was man. Okay. I'll answer a few questions. I'm if I'm not sure if I'm if I'm sure if I'm if I'm sure if I'm sure I'm sure I'm sure if I'm sure if I'm sure I'm sure if I'm sure if I'm if I'm sure I'm if I'm sure I'm sure sure I'm if I'm if I'm sure if I'm sure I'm sure if I'm if I'm I'm if sure if I'm sure sure if I'm sure if I'm I'm if I'm sure if I'm if I'm sure sure if I'm sure if I'm sure if I'm sure if I'm sure I'm sure if I'm if sure I'm sure if I'm sure sure if I'm I'm I'm sure I'm I'm if I'm sure I'm if I'm Jikos  But also, I that, I was a him, I like, like, was like, the this the other really pretty, a lot in a way that's not it interests itself.
+
+5:42 - João Landeiro (joaolandeiro.com)
+  So this is me, it's not easy Yeah, one the things that can press the to That's good, I am not to it, because I have lot view, because not from anywhere else.  I'm not past because my is not over. You know, I'm not going to talk to you in past but I'm not you in past.  But not And I'm not going talk to you in past. of you. You won't be customize the process. won't able to customize process.  process. process. You won't able to customize process. You won't be process. You won't You won't be able to customize won't be able to the process.  It's not the first time in the first time in time in the first in the first time first in first time in first time in the first first first the first the first first time the first time the first the first time first in the first first the first time in in in  If want to make a video, you can also make Please If you video, you can make a video. Yes.
+
+8:17 - Sergio Goldman
+  you a video about the video, show you a I think a very thing to do I very thing do with this.  think thing do this. It's a very to do this. I to it's a very thing do. thing do. I think a very thing do.  Ok. Mm-hmm
+
+10:00 - João Landeiro (joaolandeiro.com)
+  And So I'm to use that case me today Okay, okay, okay. Oh, we'll see for it Perkorsus oracle capital into a cloud won't I have the courage to die was a foolish course a Consegan vision a cow bush course narrow did at the means of the survival of those care in this sense if there's you see I so it's not like a No, it's not trust because that's what we I don't know if like my trust don't know if this is like or if I know it I don't I'm doing it don't I'm doing it I don't know I'm it to read that so it was true, but that's what gets what can all do to be preferred.  I'm not was necessary to speak English, but if you're not English, Yes, I'm English, So remember, be speak English, think get bit it, but I regret I've here for a while, and I'm just of the video.  As a whole, I'm rest of the not bit different. It's very The we're going make it to see more subscribe our channel.  Thanks for watching! you too. And you can see how one of the many organizations becomes a Have you seen it?
+
+12:06 - Sergio Goldman
+  The challenge of this is can't able to this It has understand that we can't be understand. I'm sure have a question, I'm not sure if if you have a question, I'm you question, sure question, if you question, question,'re sure you question, I'm sure if you question, I'm sure if you question, sure if So that guys.
+
+13:00 - João Landeiro (joaolandeiro.com)
+  But, did you use that in the United States?
+
+13:03 - Sergio Goldman
+  I don't know what you're doing. But I the fact is the only situation that I've had in the country was in the country country, and I'm not how I about But I'm how I feel about And I'm how I know.  If have any questions, if you are listening me, I'm sure have heard.
+
+13:42 - João Landeiro (joaolandeiro.com)
+  Please give me from you, I'll talk later. the flow. Yeah, give or take. Yeah, it's opening.
+
+13:57 - Sergio Goldman
+  Okay, okay.
+
+14:00 - João Landeiro (joaolandeiro.com)
+  You that. I want to remind you that have variety of things.
+
+14:11 - Sergio Goldman
+  I have lot things I can talk about it a bit Okay.
+
+14:33 - João Landeiro (joaolandeiro.com)
+  Okay. Okay.
+
+14:34 - Sergio Goldman
+  Okay. Okay.
+
+14:56 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+15:00 - Sergio Goldman
+  I that, but I say that I to say a little bit I'm to say more. It seems interesting.
+
+15:13 - João Landeiro (joaolandeiro.com)
+  Okay. OK, I'm going talk a little bit There are various quizzes. I can add you to the podcast, the course on the right side.  question is, how do you find impact is? I have a question.
+
+15:50 - Sergio Goldman
+  It's about is, do you find out what impact is? see you in the next video. I'm gonna be back to such a short situation.
+
+16:10 - João Landeiro (joaolandeiro.com)
+  I think this is a thing, is just few ago. I that it's a from think it's very thing to learn from Right?
+
+16:34 - Sergio Goldman
+  Yes, I'm on the call.
+
+16:48 - João Landeiro (joaolandeiro.com)
+  I'm the call.
+
+16:49 - Sergio Goldman
+  call. the call. It's call. It's call. call. it's call. village then forward to What you think experience academic think need to do I think you know it's part of your future.  For example I looking at you and at them, how What doing I think don't have to do that, you don't have you don't have to do that.  don't have would to do that. Okay.
+
+17:42 - João Landeiro (joaolandeiro.com)
+  But it not about You I think it is about the I don't have say that. don't have say that.  am busy. I'm very very couldn't do that. will you in a couple of minutes. What is the first are interested in What you is the first in your impression?  tipponsite. you know for insight tipponsite. and and and and and I we have screen. Please two questions from I have ask one question this point on Thank you very did any questions, let's see.  Okay. Yes, I think it's important to me to the news that we have. I think it's the news that think news that we have.
+
+19:21 - Sergio Goldman
+  I think news that we have. It's UK. OK.
+
+19:40 - João Landeiro (joaolandeiro.com)
+  can't how to read the podcast video, but I'll just ask that. I have lot of people struggling, those more pharma, leaked it out.  A couple of... I it's good to be a comedian, be a comedian, be a comedian, be a to comedian, to be a be a be a to be It seems to be great thing.  It's great thing It's great thing It's a great thing be a comedian, to be a great thing It's great to be a To be comedian, to be a comedian, And forcing you to give us right space.  That's how the rest of the film from. And by way, I Okay. Okay. Okay. And then... ...no. This... ...stabilize.  All right. go. is... ...in first one. One of two... ...is a super simple one. A super simple one. Only one in the third one.  So... ...no? fastness, zerbonit, eta eta mai. and link in description below. Let's go. On the other we have a website called www.mazh.ca.gov called the link in the description.  So, I want to share with you the material We lot concerns. These from internet. And I will talk about this as well.  I will talk about in a What the questions for you. no video for commercial marketing or the design okay you're for yeah there's good video no more people okay for  The thing I want do, please, that's a little bit too hot for me. That's why I'm it I'm that still it I But that's why I'm it more, more, much in the beginning of the tutorial.  It was difficult to find the best points in the tutorial. the tutorial. It was difficult to find best points tutorial.  It was difficult to find the best in tutorial. was difficult to the best points in It difficult the best the tutorial.  It was difficult find best Please us how this, and we here today. I think we are going to Okay, kick me your core, okay.  So, I'm going to talk a little plan. I'm to talk plan. to this. Let's go to the next Okay.  Let's go to the next slide. Thank you very much. We are home and the last few years. So to get this session.  So I'm happy see you, with the work and work have us. I thank for joining and thank you all for today for panel.  Okay.
+
+25:36 - Sergio Goldman
+  Perfect.
+
+25:42 - João Landeiro (joaolandeiro.com)
+  Perfect, I'm going to switch down Syria. I'm going to maybe put the address there.
+
+25:49 - Sergio Goldman
+  Forward, forward, forward, Okay.
+
+25:55 - João Landeiro (joaolandeiro.com)
+  hope you got to see me on the key.
+
+26:00 - Sergio Goldman
+  What do have Uh-huh, now if you know what to do is Okay, may I praise him quite Now I've no way to do it.
+
+26:41 - João Landeiro (joaolandeiro.com)
+  It isn't quite okay, perfect You know what's up? was able keep up with if you come back on that Mrs.  Just told me and then the key man Oh man My convicts You What did you He I sort of said didn't work He said he didn't work well.  Who did exercise?
+
+27:13 - Sergio Goldman
+  I was did work well.
+
+27:17 - João Landeiro (joaolandeiro.com)
+  He said he said he was a student. he was he me to teach. That's what I'm saying.
+
+27:28 - Sergio Goldman
+  Bonnage, ciao, ciao.

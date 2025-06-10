@@ -1,0 +1,358 @@
+---
+title: Design sync
+date: '2024-11-19T13:00:00.000000Z'
+duration: 180m
+participants:
+- João
+- Abbey Lin
+source: https://fathom.video/calls/183736028
+encoding: utf-8
+scrapingdate: '2025-06-09T19:39:00.758089+00:00'
+---
+
+Design sync - November 19
+VIEW RECORDING - 28 mins (No highlights): https://fathom.video/share/2mx5vUHoxBSKYayyxZ1xyZKAAa63-yGA
+
+---
+
+0:00 - Abbey Lin (fortifai.co)
+  So, how are you?
+
+0:01 - João Landeiro (joaolandeiro.com)
+  I'm good.
+
+0:02 - Abbey Lin (fortifai.co)
+  How are you doing? Good, good.
+
+0:05 - João Landeiro (joaolandeiro.com)
+  Back to my battle station in Gritiva.
+
+0:09 - Abbey Lin (fortifai.co)
+  Yeah.
+
+0:10 - João Landeiro (joaolandeiro.com)
+  Yeah, so you're in Portugal now, right?
+
+0:13 - Abbey Lin (fortifai.co)
+  Still? you... Yeah? No, I'm back in Gritiva.
+
+0:18 - João Landeiro (joaolandeiro.com)
+  Back in Brazil.
+
+0:19 - Abbey Lin (fortifai.co)
+  Oh, back in Brazil, okay. I thought you were there for two weeks. Has it been two weeks already? No, it was for a week and I just arrived yesterday.
+
+0:27 - João Landeiro (joaolandeiro.com)
+  Okay. In three weeks? In three weeks, you go back?
+
+0:33 - Abbey Lin (fortifai.co)
+  Yeah, yeah. There's like three flights.
+
+0:38 - João Landeiro (joaolandeiro.com)
+  So I take Porto to Madrid, Madrid to São Paulo, São Paulo to my city. The longest stretch is 10 hours.
+
+0:46 - Abbey Lin (fortifai.co)
+  Oh wow, okay.
+
+0:48 - João Landeiro (joaolandeiro.com)
+  It's a lot of fun. But it's funny that actually do you manage to sleep during fights? It depends.
+
+1:02 - Abbey Lin (fortifai.co)
+  I can sleep sometimes and sometimes not, think, but I think actually last few ones I have slept, but they've also been really bad times.  if you get up at like three and then you're exhausted, know, and then you're asleep on the flight. Are you able to Can you hear me?  Hello. Oh, there you are.
+
+1:42 - João Landeiro (joaolandeiro.com)
+  I can hear you. Okay, I froze. So you were saying the last few flights you've managed to sleep, think.
+
+1:50 - Abbey Lin (fortifai.co)
+  Yeah, I have managed to sleep because they've been like, you know, six a.m. flights and they get up at three a.m.  and you're exhausted and then, trying to get there before you sleep. yeah. It's it's I think it depends if I'm traveling with kids or not without kids like if I'm You know, it's hard very hard to sleep, but then without kids a little bit easier.  So yes Yeah, I have three kids Yeah, so six nine and twelve.
+
+2:19 - João Landeiro (joaolandeiro.com)
+  Yeah six nine and twelve That's a good age for them to have like these whole different personalities and ways of looking at things, right?
+
+2:30 - Abbey Lin (fortifai.co)
+  Yeah, it's quite funny. Do you have kids?
+
+2:33 - João Landeiro (joaolandeiro.com)
+  No, I I'm an uncle now. I've just got promoted to to be I was one of the one of the reasons we went there.
+
+2:41 - Abbey Lin (fortifai.co)
+  Oh Okay, yeah, she's really young.
+
+2:44 - João Landeiro (joaolandeiro.com)
+  She's like two months and a half Yeah, it's really funny because Yeah, certainly you trigger something in you.
+
+2:52 - Abbey Lin (fortifai.co)
+  Yeah Definitely yes, you have a sibling in Portugal then I do yeah yeah yeah yeah she's uh she's younger than me quite a bit like six years oh okay she beat me to it I guess I'm just taking but that's good let's let's let's pressure on you you know you're going to be like okay exactly you know you're getting out of time I'm Romeo all right uh we were talking about uh kids uh I don't have kids but my sister as as a daughter no but it's true it takes off the pressure from the parents they complain less about me not being close to them and it's great exactly you got a few years and then she has a second kid then you have a little more time so I don't know if Mal is joining I think it's uh he was uh not responded so I think it might be just BS which is I think it's fine that's okay I think I think it's joining I believe so  But I can just, you know, share the screen with you because, yes, in this stuff, yes in this stuff, and the moment it joins, you'll get the context.
+
+4:12 - João Landeiro (joaolandeiro.com)
+  So, share window for the fine-tuning workshop. tell me if you see my window. Yeah, I do. Okay.
+
+4:21 - Abbey Lin (fortifai.co)
+  So, the idea for today's session is about the employee portal, right?
+
+4:26 - João Landeiro (joaolandeiro.com)
+  And the employee portal already has some stuff in time, so it's not a fully clean slate. Yeah. And our objective with this would be like, okay, try to find places where we can be the most useful, but not try to reinvent the wheel or try to suggest, oh, this needs to be fully reworked.  Yeah. That would not make sense, right? Mm-hmm. Okay, so we're just trying to pick up the parts where there wasn't enough time to drill down into it and go there.  Yeah. Let me just say I got a message. Oh, okay. So Mauricio is waiting for me to let him in on the, me or are you?  He's not in the meeting.
+
+5:09 - Abbey Lin (fortifai.co)
+  no, I don't, I don't see, I don't think I have the ability to do a lot of things because he's not in the, is he in the right one?  You can maybe send him in this chat. I'm giving you a meeting link because you can see if he can join that meeting link here.  Mm-hmm. Well, okay. I got the chat. will send it to him.
+
+5:26 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+5:30 - Abbey Lin (fortifai.co)
+  Did you guys have a chance to look at the kind of the flow too or that, um, from before and what your thoughts are on that?  We're waiting. Yeah. Yeah.
+
+5:38 - João Landeiro (joaolandeiro.com)
+  So we, we've been pulling together the, the different observations, observations on the flow and the components. And there's like this level suite, like the more component, which more practical aspect, like the buttons and stuff like that.  And now we're, we're. Do we lose it?
+
+6:04 - Abbey Lin (fortifai.co)
+  And then bringing it into something more packaged.
+
+6:09 - João Landeiro (joaolandeiro.com)
+  This is informed. What we will see today is informed by that, is not. Okay. Great.
+
+6:16 - Abbey Lin (fortifai.co)
+  And then have you guys been able to log into the app? I know they put the logins in the Slack, but have you been able to log in?  I could not. I didn't do it, no. Did you try and not been able to get in or you just haven't tried yet?
+
+6:32 - Mau Medeiros (doisemes®)
+  I've tried, but I think it was something to do with my internet back there.
+
+6:37 - João Landeiro (joaolandeiro.com)
+  was with my cousins and yes, some sort of weird VPN thing.
+
+6:41 - Abbey Lin (fortifai.co)
+  I don't know if this is a regular thing, but I could try now, yeah. Yeah, if you guys can try, because that also, some of it is also ready.  Like they're really putting out one of the flows, so it could be good to see and get your feedback on that.
+
+6:54 - Mau Medeiros (doisemes®)
+  But yeah, but let's start on this part. Or have you said something?
+
+7:02 - João Landeiro (joaolandeiro.com)
+  Mousin.
+
+7:03 - Abbey Lin (fortifai.co)
+  Mousin?
+
+7:03 - Mau Medeiros (doisemes®)
+  Mousin? he's in.
+
+7:05 - João Landeiro (joaolandeiro.com)
+  Oh, oh, hi, Mousin.
+
+7:08 - Mau Medeiros (doisemes®)
+  So let me send the link to everyone here so you can join on the mirror. And this is not password protective, but we can just add the password protection afterwards.  Yes. It's just to make it easy right now.
+
+7:22 - João Landeiro (joaolandeiro.com)
+  Yeah, that's fine. OK, so I'll bring everyone to me.
+
+7:35 - Mau Medeiros (doisemes®)
+  And I think everyone sees what I'm seeing.
+
+7:38 - João Landeiro (joaolandeiro.com)
+  So quick overview of what we'll be doing today.
+
+7:43 - Mau Medeiros (doisemes®)
+  We went through the flows and we checked also the employee portal.
+
+7:49 - João Landeiro (joaolandeiro.com)
+  And the employee portal, some of the things that appear both in comments from the Fortify team, but also from those experts that you were interviewing.  in past exercises, some things came about like the world of introducing new tools to a company, right, to our organization, and I think this appeared a few times.  we begin by making a little bit of an overview very quick, this won't take much, about the different systems that are related to Fortify as a whole, and then we hone in on the employee portal.  We nailed down some quick definitions just to make sure we mean the same things by employee portal, not just in terms of what it is but what it could be or what kind of purpose it has, business objectives it carries, right?  And then around here, frame four, we would pick a little bit of the two profiles that will use this the most, right?  On one side we have the compliance officers, on the other side we have the breadth of the employees that have their own responsibilities, their own things, not necessarily
+
+9:00 - Mau Medeiros (doisemes®)
+  they're related to ESG and then we match, we map these things, desires, these pain points, with what is already designed, right?
+
+9:15 - João Landeiro (joaolandeiro.com)
+  So we connect, we see that they have this thing that they're struggling with and we try to address that with this thing that we have designed, which is a good thing.
+
+9:23 - Mau Medeiros (doisemes®)
+  This will hopefully show us some opportunities to make small adjustments that could leverage things and lead to a bigger impact.
+
+9:32 - João Landeiro (joaolandeiro.com)
+  At that point, we get this stage, which is more, perhaps abstract is the word, or more systemic approach on what are the main behaviors, and this is, you recognize this for sure, because this comes from the background, and here we have another kind of a simplified version of that, which is kind of the operating model of the employee.  Finally, this is a much more like closing sort of
+
+10:00 - Mau Medeiros (doisemes®)
+  Besides, we'll just go into like, oh, what needs to be done right now afterwards and later? our intention with this is to make it easier to prioritize so it doesn't feel like oh if we don't do it now We'll never do it Yeah, because when we feel like that we struggle to prioritize And that's what we want for the employee portal.
+
+10:19 - João Landeiro (joaolandeiro.com)
+  Okay Is there anything you you think it's missing?
+
+10:24 - Mau Medeiros (doisemes®)
+  No, I think it's good start Okay, okay So I believe people are still following me. Okay, so I got I I usually do this thing which is I start talking right away and I barely give like good mornings and and everything I'm in same way.  So I don't even notice.
+
+10:50 - Abbey Lin (fortifai.co)
+  So sorry I keep I keep doing this.
+
+10:53 - Mau Medeiros (doisemes®)
+  Oh, I'm Maurizio.
+
+10:54 - João Landeiro (joaolandeiro.com)
+  I hope Okay, so it's So basically
+
+11:00 - Mau Medeiros (doisemes®)
+  This is the the most abstract high-level way we have of thinking about 45, right? So we have views which are these things in the middle and they are between the different actors and 45 as a whole.  Yeah, that's a good way of looking at it.
+
+11:18 - Abbey Lin (fortifai.co)
+  Yes.
+
+11:22 - Mau Medeiros (doisemes®)
+  Hello.
+
+11:23 - Abbey Lin (fortifai.co)
+  I think, oh, Zhao's internet is not the best. Now are you there? Yeah. Did you miss me for a second?  Yeah, it might be better without your video maybe or it's like you're freezing a little bit maybe. okay, let's take that out.  See you later.
+
+11:41 - Mau Medeiros (doisemes®)
+  Okay, so, okay, so we have the admin view for 45. We have the employee view.
+
+11:51 - João Landeiro (joaolandeiro.com)
+  Yeah. We also see that it is likely that the third party view is similar.
+
+12:00 - Mau Medeiros (doisemes®)
+  Hello?
+
+12:01 - João Landeiro (joaolandeiro.com)
+  Hello?
+
+12:02 - Mau Medeiros (doisemes®)
+  Thank you very much.
+
+12:05 - Abbey Lin (fortifai.co)
+  Maybe it's now, I'll put you on mute. Okay. Go on.
+
+12:10 - João Landeiro (joaolandeiro.com)
+  So the first employee view and the third party view, we see them very similar because they have this thing of not being the administrative view and they should be easy to log in into.
+
+12:22 - Abbey Lin (fortifai.co)
+  It's interesting because I noticed there's something missing here, but maybe it needs to be and we can discuss this, put into the employee view because there's the compliance officer view.  Then in between deployment, you need to get to somebody to confirm, do we agree with this? Do we need to edit the document?  Do we get confirmation before we can send it to employees to view? So it's like whether or not then that is just more of an  an additional admin view, you know what I mean? if it's, uh, so if I, if I'm the compliance officer and like Mao is my manager and I, and I need to, I need Mao to confirm that it's okay before, you know, before I can even deploy it to the employees for them to view, would Mao look at it in his employee view?  Like, you know, like he has his own employee view and then in it, there's like additional approvers than like a standard employee.  Or is there like a third point for like midterm approvers? And this is the same thing with line managers.  If they need to approve some of the things in the employee survey, you know, like, so is there like approvers?  Uh, like call it like an approver view or something like that. Um, uh, that might need to be in, but the approver, the approver view could also be in the internal employee view, just like another section, right?  it's like admin part of the
+
+14:00 - João Landeiro (joaolandeiro.com)
+  employee view.
+
+14:01 - Abbey Lin (fortifai.co)
+  That could be it too, but I'm not sure. Yeah, what I mean, because that approval view can be in the employee portal too if we wanted.  Just that then that's like they know they need to go to the employee portal to do anything. So you have two views.  Yeah. I think I understand what your point is.
+
+14:24 - João Landeiro (joaolandeiro.com)
+  So when we're talking about the employee view, I'll paraphrase so you can correct if I got it wrong. When you're talking about the employee view is a bit more almost a passive sort of way of doing things.  And the approval view is the more, you know, authoritative executive function to it, right? Yeah, the check mechanism of it.  And the other one just needs to confirm like so or put something in.
+
+14:50 - Abbey Lin (fortifai.co)
+  So it's kind of like a but I do think that approval view could be in the internal because the approver will also be an employee, right?  Is it that maybe they have an additional section with in their employee portal, which is called like approver portal or something like that.  You know what I mean? And then other standard employees are going to have this extra section for approval.
+
+15:10 - João Landeiro (joaolandeiro.com)
+  Because the approver will have to approve and have to be act as an employee, right?
+
+15:14 - Abbey Lin (fortifai.co)
+  So it's like Mao approves that the changes, but then when I deploy it, Mao isn't also an employee and he needs to sign off for it.  So I don't know if it makes sense for him to have two views or if it's within his, he gets a special employee portal or like, you know, admin people get an extra thing for them within their portal.  I think that probably makes more sense. you don't end up having like him being confused later on, being like, oh, do I go to admin portal to approve this?  And then do I go to a different portal to approve my policy once it's been deployed? Does that make sense?  It makes sense to me.
+
+15:48 - João Landeiro (joaolandeiro.com)
+  In my mind, I'm thinking about just a type of task that usually employees don't have, but employees with approval, privileges would have.  It's like additional thing they have.
+
+16:01 - Abbey Lin (fortifai.co)
+  Yeah. Something like that, right? Exactly.
+
+16:05 - João Landeiro (joaolandeiro.com)
+  It also allows us to reuse a lot of the stuff.
+
+16:09 - Abbey Lin (fortifai.co)
+  So I got that. I think it makes a lot of sense.
+
+16:13 - João Landeiro (joaolandeiro.com)
+  It's useful to bring that up now. Just to be sure, we were looking at the third party aspects. So we compare it to one of those procurement platforms like SAP Ariba, stuff like that.  Is this the same mental image have of the third party thing? Which part of the third party thing?
+
+16:41 - Abbey Lin (fortifai.co)
+  Like the external view or the actual, what do you mean? Okay, perfect. Good question.
+
+16:49 - João Landeiro (joaolandeiro.com)
+  So the third party that is not part of my organization does not have the same email address.
+
+16:54 - Abbey Lin (fortifai.co)
+  What do they see?
+
+16:55 - João Landeiro (joaolandeiro.com)
+  Is it like that?
+
+16:56 - Abbey Lin (fortifai.co)
+  Yeah, I think it's actually also something very similar to Employee internal employee portal, but more simplified often times that they can sign off on a policy like I confirm, you know, the I confirm receiving the policy or the training if you wanted to do that.  It could be also they could be like a whistleblowing hotline there that they can submit any kind of whistleblowing that they might see if the question is, I don't know how easy the technology, why to have an external person out of the organization.  Do it, but like they might need to respond to questionnaires and that could be their questionnaire that they respond to, you know.  I mean, in software, everything is possible.
+
+17:35 - João Landeiro (joaolandeiro.com)
+  Just a number of along the way, but I see a point.
+
+17:40 - Abbey Lin (fortifai.co)
+  I think we are in.
+
+17:42 - João Landeiro (joaolandeiro.com)
+  I mean, I think we share a vision on this. And finally, it's just like something that doesn't need any sort of login, a login, which would be like the integrity hub or more.  Outside facing outward facing. Okay, perfect.
+
+17:58 - Abbey Lin (fortifai.co)
+  So for today, we'll focus on.
+
+18:00 - João Landeiro (joaolandeiro.com)
+  internally please. So bringing everyone here and you'll see that some of this stuff is already seeded let's say with things that we got from the past workshops and I think instead of me just reading it out I can just give us a couple of minutes you read it out and those that stand out the most to you we'll just discuss those.  Okay okay which thing this which thing does stand out to you the most to you from which box we can start anywhere but then afterwards we'll  go from left to right, but you can start from any box right now.
+
+19:08 - Abbey Lin (fortifai.co)
+  I think it's, I don't know, maybe a definition on it, but I think that one it gathers all related information and tasks, but I think it could be like a learning portal also where like people learn like around like ESG and it could be also a place where you engage.  So it could be a learning platform where you add more information. So it could be like fun things like around that, or it can also be like something more gamified to make them want to go and do the actual work, know, like whether it's points or do something to like make it a little bit more entertaining.  I guess it's like, it's like their central hub for ESG. So it's kind of, that's kind of the same topic that the top one is.  But Yeah, so I think that Gameify Learning gathers ESG. I think that's pretty much what it is there. I think eventually it could be an app, but I feel like right now web interface is probably the best, but it could be eventually an app for that.  There's so many ways of building apps right now, progressive web apps and stuff like that. So I think it gathers all ESG-related information and tasks for employees and it allows for employees to be more engaged in ESG.
+
+20:42 - João Landeiro (joaolandeiro.com)
+  It allows employees to be more engaged and active with an ESG. Quick question. So when we say engaged and active, I suppose that you have like in your...  mind specific behavior.
+
+21:03 - Abbey Lin (fortifai.co)
+  Yeah, I for uh I think for me it's like that kind of behaviors oh yeah like I think that people will check it and we'll do it um so like checking it and like you know doing the work that is needed on it um I think one of the hardest things in in compliance is also often getting employees to do something because nobody loves doing compliance right like it's like pulling teeth right so how do you make it so I don't know this is going to be interesting like how if it's even possible that they don't mind actually doing it you know they actually want to proactively give data you know like I think that like if we can get them proactively like oh I want to give my I want to give my commuting uh you know information so that you can calculate the carbon or like I want to report on like supply or like  If you get it to the point where they want to do it and give them information, think then we want, because most people will not do a compliance tool unless, you know, I'd like to stick on them being like, you have to do it, you know, so it's a way to try to get them to practically do it.
+
+22:27 - João Landeiro (joaolandeiro.com)
+  There's, yeah, okay, okay. I just found, was thinking of course, this is a little bit of a parenthesis, I was thinking of course, the other day about series games, and one of the examples was exactly what you described.  So they have this Dutch company that was trying to create an app for people to carpool for sustainability reasons.  And one of the things they realized was that there's different profiles of gamers, Some people compete for getting the highest score, no, different motivations.  Yeah.
+
+22:58 - Abbey Lin (fortifai.co)
+  And what they've realized is that for...
+
+23:00 - João Landeiro (joaolandeiro.com)
+  that specific challenge was the socializers they wanted to focus on the socializes so the people that would brag about it and talk about oh i'm carpooling way more than you guys so i see a connection there yeah like exactly like something that they can like yeah i think that they can brag and be like oh i've done this or i've been able to track this or or even get points like i was thinking at one point you could every you every you submit something you get a point and after a hundred points like the company donates a hundred dollars towards you know a tree a tree like you know doing something you know like something so then it's not just because they're doing it because they have to do it for the company but in doing it they get to do something better for society you know let me change the writing on this so this aspect of the gamification is um i think it's a little bit of an iceberg so it looks relatively easy on the surface but yeah it's like an economic model  of all points and incentives are, but there's definitely things that are more, you know, at hand that we could bring it.  Okay, so thank you for this because I think the engage in active it's useful for us to have like a specific behavior that we look for.  And when we come to the purpose it serves, again, about the employee portal, this is collected as you see is collected from previous exercises.
+
+24:41 - Abbey Lin (fortifai.co)
+  You agree with the stuff?
+
+24:43 - João Landeiro (joaolandeiro.com)
+  you think something is missing?
+
+24:44 - Abbey Lin (fortifai.co)
+  Do you think something should be corrected?
+
+24:46 - João Landeiro (joaolandeiro.com)
+  Makes it easier to check if you're there.
+
+24:48 - Abbey Lin (fortifai.co)
+  It's a very single place. The purpose it serves on the employees and then like create a single place and then allows I would say on the compliance eyes, it allows compliance to have an overview of the status.
+
+25:03 - João Landeiro (joaolandeiro.com)
+  But the compliance officer, they check the admin, right? Yeah. Okay. the purpose, like you're talking about the purpose that the employee portal serves?
+
+25:15 - Abbey Lin (fortifai.co)
+  Exactly. The employees or not for the compliance officers? Because the employee portal, okay, because it makes it easy for them to so then the compliance officers can follow up, but maybe it's the other way.  Yeah. Yeah, that's the thing. the compliance officers are ultimately interested in aggregated data and data that is easy to manipulate.
+
+25:37 - João Landeiro (joaolandeiro.com)
+  But to get that data, they need to make it easy for the participants to surrender that data, right? To provide that data.
+
+25:44 - Abbey Lin (fortifai.co)
+  Okay.
+
+25:45 - João Landeiro (joaolandeiro.com)
+  So the employee portal is a tool to make it easier because in an ideal world, we would not need employee portal, right?
+
+25:55 - Abbey Lin (fortifai.co)
+  People would just give this information because they want to do it. Yeah. But they won't. The problem is the way that it's done now.  It's like me sending an email to Mao one day and be like, hey, can you do this? And then Mao forgetting to do it and then stuck in his inbox.  And then like me going back and be like, okay, how do I do this? And then me sending Mao another email being like, hey, can you do this?  And then Mao's like, oh, where was that email? me go to the first one. Oh wait, that link's not working.  Let me go to the second. Okay, let me go to another task because this is too difficult. You know, and then forgetting to do it.  And then me chasing. So it's like, if you have everything in a central place around ESG that they know, and you just like, okay, every time I need to do something, I get a reminder.  I need to do it. It takes me to this link to do it. I just do it and then it's done.  like when I do it, it's like, it's not like, okay, yeah, thanks. It's like, oh, great. you know, you've now helped, you know, do some, like you do some kind of motivational things and then they feel good about doing it.  And then, and then it, yeah, they're more likely to do it again. So, I think we lost, we lost the show.  and that process.
+
+27:13 - João Landeiro (joaolandeiro.com)
+  Hello, I'm back. I usually don't have this stuff with Google Meets. Would you be opposed to us changing into Google Meets?
+
+27:22 - Abbey Lin (fortifai.co)
+  Yeah, yeah, yeah, that's fine.
+
+27:23 - João Landeiro (joaolandeiro.com)
+  Do you want to send an invite?
+
+27:24 - Abbey Lin (fortifai.co)
+  then I can. I'll send you an invite. On email or just send it here. OK, OK.
+
+27:31 - João Landeiro (joaolandeiro.com)
+  So chat. OK, me know if you can sign in.
+
+27:47 - Abbey Lin (fortifai.co)
+  And then OK, great. Everyone, everyone.
+
+27:56 - João Landeiro (joaolandeiro.com)
+  I see you got in. Be perfect. Everybody's in right now, okay, so I'll quit this one. I'll quit the teams.

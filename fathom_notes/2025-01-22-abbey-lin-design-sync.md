@@ -1,0 +1,628 @@
+---
+title: Design Sync
+date: '2025-01-22T15:00:00.000000Z'
+duration: 30m
+participants:
+- João
+- Abbey Lin
+source: https://fathom.video/calls/216558883
+encoding: utf-8
+scrapingdate: '2025-06-09T19:27:26.770475+00:00'
+---
+
+Design Sync - January 22
+VIEW RECORDING - 63 mins (No highlights): https://fathom.video/share/MMzUkCf2FsukftrxrymYaPyqaDguMTei
+
+---
+
+0:04 - Abbey Lin (fortifai.co)
+  Good. Good. Oh, yeah, sorry.
+
+0:47 - João Landeiro (joaolandeiro.com)
+  Hi. Sorry. No problem.
+
+1:00 - Abbey Lin (fortifai.co)
+  Oh, is it Levy here? Oh, no.
+
+1:03 - João Landeiro (joaolandeiro.com)
+  Oh, sorry.
+
+1:05 - Abbey Lin (fortifai.co)
+  Maybe Levy's not here. What day is it today? Today? Wednesday? Sorry. Yeah. Top is on the phone, but maybe it will come out after.
+
+1:15 - João Landeiro (joaolandeiro.com)
+  Well, maybe Levy's not picked up yet. Maybe Levy.
+
+1:17 - Abbey Lin (fortifai.co)
+  My son is looking for his friend. Say hi, Casper.
+
+1:21 - João Landeiro (joaolandeiro.com)
+  Who is that? It's someone I'm having a meeting.
+
+1:23 - Abbey Lin (fortifai.co)
+  It's a colleague I'm having meeting with.
+
+1:25 - João Landeiro (joaolandeiro.com)
+  Hello.
+
+1:26 - Abbey Lin (fortifai.co)
+  Hello. Okay. Okay. Levy? Oh, yeah. No, is it Levy coming today? Is he here? He's coming. Okay. Sorry. He's not here.  Okay. You guys, you can wait till he comes. He was looking for Levy. Most likely. I haven't checked it either.  Maybe call to it. Okay. Yeah. Okay. All right. See you later. All right. All right. Okay. You guys have a meeting.  All right. Sorry. Okay. No problem.
+
+2:02 - João Landeiro (joaolandeiro.com)
+  So I was checking out the comments you put on the two tasks. Yeah, I'll just wait a couple of minutes for the rest of the...  Yeah, yeah, that's fine. You you Hello hello so I guess that says right yeah I think so I don't know if I was joining or not
+
+4:00 - Abbey Lin (fortifai.co)
+  Because Ivan is a travel, yeah.
+
+4:05 - João Landeiro (joaolandeiro.com)
+  But given that Mao said it would make, I think he said something about, I'll ask him. It's OK. It's OK, too.
+
+4:17 - Abbey Lin (fortifai.co)
+  We all could just start without it. so let's start.
+
+4:20 - João Landeiro (joaolandeiro.com)
+  Perfect. So I'll share my screen. Yeah. Share screen, tab, then screen, share. OK, got it. So we've got a couple of comments.  And I'll just check them out here in the review. So for inviting a user, I saw that you put in comments on room.  I brought a comment here just to have everything in one place. So a way to avoid employee feeling of information.  Yes, that's possible. So when the compliance officer signs up, that new person, they would even
+
+5:00 - Abbey Lin (fortifai.co)
+  that the information for that person or whenever we upload an Excel file not for this version that Excel file could have all the information and it would be possible for the employee to just confirm yes yes that's my name that's my department and so and so on it should be editable still right yeah yeah we're like press like you know edit button if it's not correct um but I'm just wondering like how does it work because I'm really hoping that we're going to get like single sign-on otherwise to be honest like like yeah we need to be able to get and this is what I need to talk with Yvonne like we need to get some kind of single sign-on option there through Google or through Microsoft and and that to make it work because our tool I just know having worked in this like it won't work if we need to get 600 people to go in and log in and do that and chase people up to log in and like our tool like we need to have some kind of single sign-on functionality now that will make people be able to get in the tool and be  I just turned the tool based off of their sign-in function so that's why but I think I need to talk to Yvonne how they're going to be setting it up but in a short term like yes maybe while we're testing it but in order for our like to successfully launch and have 600 people and just having worked in this industry chasing up people to complete a 100% training is hard enough trying to get like 600 people to log in like click a few different things log into the third-party tool submit their information confirm it before you can send it out it's like not ideal I would say for the success of our product.  No correct absolutely I don't I don't see a v2v solution not having a single sign-on yeah but yeah given that we are designing this for this version I think the quickest but do we need to design I'm just my my point is like we know we need single sign-on and I know the guys are working on it like do we what what kind of design do we need do we need to make it based off of what I mean like what or a magic link or like something like that like what do
+
+7:00 - João Landeiro (joaolandeiro.com)
+  We need to create if we know that this is going to happen. Will the single sign-on be ready for the testing phase?  That's a good question.
+
+7:11 - Abbey Lin (fortifai.co)
+  The single sign-on is really working on Microsoft, and I know that they were looking into for Google. But from my understanding, it's really working for Microsoft.  It is working for Microsoft, because I use Microsoft to do it. But that could be a question, like we could add the chat for Yvonne around that.  Just think it quick.
+
+8:00 - João Landeiro (joaolandeiro.com)
+  Thank I have no experience working with a single sign-on. I know what it is, but I don't know how it works, so if it's developed, we need to Should I try to bring Borna into this call?
+
+8:32 - Abbey Lin (fortifai.co)
+  wouldn't do it right now, because otherwise we'll just detour the call into solving that specific problem. But this is something we need to figure out.
+
+8:46 - João Landeiro (joaolandeiro.com)
+  So regarding this specific task, it's hold, right?
+
+8:55 - Abbey Lin (fortifai.co)
+  I mean, we can do these things. Yeah, I think we can, like, what was Yvonne asking for in this part?  Like, I didn't totally understand, like, the user, like, the feeling behind on, what was he looking for? Was he looking for exactly what you, like, what you drew out here?  Or is it not clear? Because he left before he gave comments.
+
+9:29 - João Landeiro (joaolandeiro.com)
+  So Yvonne wants to have a flow of all these works, right? And the way we've been running this project is mostly around the way the platform looks like, right?  screens.
+
+9:42 - Abbey Lin (fortifai.co)
+  And that's useful whenever we're dealing with, you know, frontend stuff, like the appearance of the app.
+
+9:47 - João Landeiro (joaolandeiro.com)
+  But it is insufficient if we're dealing with stuff that happens on several systems. So this visualization just allows us to see how these things get  on a very, very broad level. Yeah, yeah. So we can design anything. It's just that to avoid designing something and then realizing that the flow doesn't make sense, we were trying to see if we can agree on the flow before designing things.  So your suggestion can be applied to this.
+
+10:21 - Abbey Lin (fortifai.co)
+  doesn't change it that much.
+
+10:26 - João Landeiro (joaolandeiro.com)
+  But yeah, that's it. So basically what Yvonne asked, I don't think Yvonne made any specific request in terms of the format of the information.  He just wanted to know what to do.
+
+10:39 - Abbey Lin (fortifai.co)
+  And every time we spend a little bit more specifying what needs to be done, we have to wonder for this one, because I also don't want it to hold up on my development, because I know they said they're waiting for something for user management, but I'm wondering if we should invite board.  I know it's not going to derail, but I feel like this is also... But this is not the user management.  This is not the user management. Group management is not part of user management. Yes, but this is a subset of user management.
+
+11:11 - João Landeiro (joaolandeiro.com)
+  This is inviting a user. these are the tasks. And we have user management here, and we have group management here.  And the thing we were looking at was a separate thing, which is this thing. Okay. Employees sign up flow.  Okay.
+
+11:36 - Abbey Lin (fortifai.co)
+  Yeah, no, I don't know enough about the employees sign up. For me, I just think single sign on, within single sign on, you'll have all of the information.  It will automatically be within Microsoft or whatever all the information that we can upload. So it's more like what is the entry page for Google or whatever, and then when they go in, they just go into the tool and everything's already kind of set up for them in the settings.  I don't know how How does it usually work for a B2B SaaS that has single sign-on and I would kind of like to just draw and then process there and then draw that out, maybe.  Draw the single sign-on process?
+
+12:13 - João Landeiro (joaolandeiro.com)
+  Yeah, I guess I don't know, I don't think we need to be like super creative, reinvent the wheel.
+
+12:19 - Abbey Lin (fortifai.co)
+  It's like, how do you sign up, like if somebody is signing up for a B2B SaaS that's being launched in their company, you know, what, you know, they click on that, like what is the usual flow, like just copy a flow of somebody doing it, like for Sprinto I feel like when I signed in I didn't have to like, I was in the thing and I just like, I don't know, like what is a typical flow for a B2B SaaS almost copy it because I don't have a strong opinion on like how it, you know, it should be set up, if that makes sense, like.
+
+12:46 - João Landeiro (joaolandeiro.com)
+  No, no, it makes sense, so the point is, if everything is related to all these things are, development is orchestrated, right?  So if single sign-on is being developed. and it will just happen. But they're going by email address.
+
+13:07 - Abbey Lin (fortifai.co)
+  My understanding, looking at, they're looking at, they have Microsoft. Microsoft is done. They're looking at Google and then they're looking at Magic Link.  Those are the two options that they were looking into. Board might have an update on where they are on those two processes, but I think that's where they were.  I wonder if we can even look into their design board. You can see where are you able to get into their design?  Yeah, their software.
+
+13:36 - João Landeiro (joaolandeiro.com)
+  Then you're not able to see it maybe or? I don't think I am. wonder if I, let me see if I have it.
+
+13:43 - Abbey Lin (fortifai.co)
+  don't know if I have it. I don't know if I have it either.
+
+13:52 - João Landeiro (joaolandeiro.com)
+  Yeah, I don't have the development.
+
+13:58 - Abbey Lin (fortifai.co)
+  I don't know if I have it. I think I just saw something. in the chat group on Slack being like, okay, they're working on the sign-on and like they're doing things or something like that.  could look at it later on, yeah, okay.
+
+14:14 - João Landeiro (joaolandeiro.com)
+  So the decision we need to make for this task is this task even relevant?
+
+14:22 - Abbey Lin (fortifai.co)
+  Yeah, and that's why I feel like the call with Borna might be interesting to understand. Is there anything on the design side that is stopping him from being able to set this up?  I seriously doubt that there's something, some blocker, in that case, my suggestion is, let's use this design seek to validate then the other things that Romeo has been working on so we can get them done and send them to the development guys.
+
+14:51 - João Landeiro (joaolandeiro.com)
+  Okay, so design final, sorry, just so I can tag this and know exactly what's happening. I'll tag this as...  Perfect, so coming at this, coming at this, design final quiz, design final quiz for end of trainings, okay. So that you've made some comments there.  Let's see. I made some changes. It looks good. I would take away the not now button and just make them take the quiz.  Let's go here. Share the step instead. Okay. Where's the note? no. Okay. This thing.
+
+16:07 - Abbey Lin (fortifai.co)
+  Either I change it to back like after the first, after the first one, either go like I think after the first one, it can either be back and then save like if you want to save your progress, but not now doesn't totally make sense.  Like they either go to the quiz and then they save it their progress or they go back like if they go after the first question say okay, I want to go back to the other one.  And now that I see this is I don't think you should have like the code of conduct. Yeah, I think I kind of mentioned that but that code of conduct policy and third party management policy on top in that teal color.  It should be deleted and then the the applicable button should be deleted there.
+
+16:58 - João Landeiro (joaolandeiro.com)
+  Okay. Ok, Rumeu, are you there? Yes. Ok, for some reason I had to put a knock now, I didn't understand his logic.  Ok, you What did you I'm still in the camera part of the quiz, and I want to answer that.
+
+17:30 - Romeu Rodrigues
+  So I have to close it, save it, maybe I'll to keep shooting. Ok, so let's just remove it, ok?
+
+17:40 - João Landeiro (joaolandeiro.com)
+  Ok. Because the guy has to start and finish, are there only three questions? Yes. Ok, so yes, we've agreed on...  Can you close it again? Abby, do you think it's important the person can go back to the previous question?  I would suggest we can have the button.
+
+18:00 - Abbey Lin (fortifai.co)
+  I would say either it's probably more important to save in case they're like want to like leave before they finish or something that they don't feel like they've lost their way not as important to go back on on this I would say because you can't answer the question until you get it right you know so it's more like but um but the not now is a little bit strange it's like it then needs to be like save maybe save and next question or I would discourage having a save button okay then maybe next question yeah just just keep the the this one right just keep the yeah or back yeah like a next question yeah this one next question because when we give them a save progress we are inviting them to not finish the test and then they forget they were they have started yeah fair that's a good point okay got it let me see if there's a looks good we'll take away
+
+20:19 - João Landeiro (joaolandeiro.com)
+  Okay, Romeo, is clear the adjustments we are making? Yeah, perfect. We can just do that. And I'll bring this one back to introverse.  Create a basic wireframe view for group management. Looks good to me, but we can wait until it is back to confirm.  Good. So this was 18 hours. ago. Will Borna say something specific?
+
+21:04 - Abbey Lin (fortifai.co)
+  I don't know.
+
+21:06 - João Landeiro (joaolandeiro.com)
+  I don't know if Borna will say something specific. Like, don't know if we should just keep it on the to do until Ivan signs off for it, or one of the two.  I wonder if Borna even has access to this one if you don't have access to the other one.
+
+21:22 - Abbey Lin (fortifai.co)
+  Okay, so I'll just keep it a little leave it in the review because we're waiting for you.
+
+21:27 - João Landeiro (joaolandeiro.com)
+  And so for this, we really need a, okay, this is waiting, so I'll put a waiting here.
+
+21:36 - Abbey Lin (fortifai.co)
+  Let me grab some water, let me go. Okay.
+
+21:47 - João Landeiro (joaolandeiro.com)
+  Okay. I'll be able to talk about this on the call, okay Romeo? Do you anything that you want her to look at?
+
+22:09 - Romeu Rodrigues
+  No, in fact, she has already looked at those two, but this is still a feedback. So, after that, let's adjustments, and then in relation to the user and the group, why do you want edit OK too?  Yes, here we the adjustments, correct, and here we are just waiting.
+
+22:29 - João Landeiro (joaolandeiro.com)
+  This one I'm going to leave here in progress. Perfect. Basic Warframe for User Managements. OK. Ah, OK. You were waiting for this, after commenting?
+
+22:55 - Romeu Rodrigues
+  No, I don't know. OK, do you any news here?
+
+23:00 - João Landeiro (joaolandeiro.com)
+  If you're blocking it, it's in progress, isn't This one, just a little bit is the group, isn't it?
+
+23:08 - Romeu Rodrigues
+  Uh-huh.
+
+23:09 - João Landeiro (joaolandeiro.com)
+  So we've already formed the Alia. No, but you're starting to use the cards with the name changed, so this one...  You can it.
+
+23:18 - Romeu Rodrigues
+  Let me click here on the link.
+
+23:20 - João Landeiro (joaolandeiro.com)
+  Here it your... You do it, so here it The two are the same for the cards as well.
+
+23:25 - Romeu Rodrigues
+  Then it's missing, so in fact, just a bit Let's move the order from here to the link of the manual.  Ah, we're to change this as we it.
+
+23:36 - João Landeiro (joaolandeiro.com)
+  I'll it here. But I can correct this, right?
+
+23:44 - Romeu Rodrigues
+  I can correct it directly to I think the order is from the manual. Yeah, let's wait the time when I'm done with this.
+
+23:51 - João Landeiro (joaolandeiro.com)
+  Perfect. Can you take the fig links or play here? Because I don't think so. Just like that. It's 512.  I'll minute or Oh, okay. So these two are done on the design side, just waiting for approval.
+
+25:09 - Abbey Lin (fortifai.co)
+  My suggestion is that we just wait on those and look at the other ones then, and maybe in the meantime, because we just need Yvonne to confirm those two.
+
+25:26 - João Landeiro (joaolandeiro.com)
+  Honestly, I wouldn't do that, because otherwise Yvonne's probably days that become more more. so we just wait until Monday to approve it, right?
+
+25:34 - Abbey Lin (fortifai.co)
+  Or like, it doesn't matter, we just move on to the other ones, and then he has more to approve.  I think you kind of got as far as those. And then unless Borna comes back, and I can ask, maybe I'll ping Borna tomorrow around single-side, I don't understand more clarity, but I could just ping him for a ping Borna, but I think we can wait.  Got it. So, V1 Wireframe for approval, sorry, apologies.
+
+26:01 - João Landeiro (joaolandeiro.com)
+  So, we have discussed this, and we are waiting for the single sign-on decision. We have discussed this, and we have clarity on a couple of corrections that Romeo will do.  We have not discussed this yet, and we will now discuss this one, the wireframe for approval process. Yeah.
+
+26:17 - Abbey Lin (fortifai.co)
+  Okay.
+
+26:18 - João Landeiro (joaolandeiro.com)
+  I saw your comment here, and maybe I could have explained myself better. Yeah. So, I understand, so this is the picture, right?  Compliance deploys a policy, policy is created on the back-end, it sends an email to the audience, the audience receives an email to a unique link, and this link takes them to a specific place in the employee portal where they can just approve or acknowledge, and then they acknowledge or approve the back-end registers, the back-end updates the records, and the compliance officer, you can see that.  I understand that what you're saying here is, oh, there's a misunderstanding.
+
+27:00 - Abbey Lin (fortifai.co)
+  process is about the step between the compliance officer and the final policy Approver, yeah, maybe it's the word deployed you had like you so you when you just explain it now It sounded like it was towards the compliance officer and they're a prover When I thought about deploy it sounded like you're actually Deploying the policy to all the employees versus sending the policy for approver Okay, so the compliance officer deploys the policy So that's I think maybe where I got the compliance officer Asked for approval.  Maybe it's the name, you know, and then And then you would follow that flow So maybe that was the misunderstanding there or Because yeah, you notice like I guess like one is like There's two kind of processes, right?  Or maybe it's the same. Why I send Romeo a training.
+
+27:53 - João Landeiro (joaolandeiro.com)
+  Isn't the same If you think about it, I think it's the same An extra step, right?
+
+28:01 - Abbey Lin (fortifai.co)
+  if I ask Romeo as a regular employee to approve, he approves it. It's done. no more deployment. If I ask you as my like line manager and approver, you approve, then I get the, then I get the auto stamp that saying that he approved and then I go and deploy it to Romeo.  Yes, yes, but yes, but yeah, that's correct. I'll just change it.
+
+28:36 - João Landeiro (joaolandeiro.com)
+  Okay, this. Okay, I've changed the writing is sent policy for approval instead of deploy. Okay. than that it's and we need to change something here but it's kind of the same thing right as a compliance officer I have this thing I've worked on and then I say I need the next step from someone else So I'll send an email to that person With a link where they can just go and do that thing.  I need them to do it It could be acknowledged.
+
+29:20 - Abbey Lin (fortifai.co)
+  could be approved different people have different roles.
+
+29:22 - João Landeiro (joaolandeiro.com)
+  Yeah, no, that's true.
+
+29:23 - Abbey Lin (fortifai.co)
+  Yeah.
+
+29:23 - João Landeiro (joaolandeiro.com)
+  Yeah, yeah right Uh, so is this process? Is um, correct for you. Yeah, I can't see what the small green one is on the on the top right, but I think so Okay, so this is the process the compliance officer sends a policy for approval policies is uh, okay policy Policy approvers just to be sure Approver But then like let's say the policy approver like I asked you as my line manager to
+
+30:00 - Abbey Lin (fortifai.co)
+  prove. Where is that going to show up in my compliance officer view that you have approved it?
+
+30:08 - João Landeiro (joaolandeiro.com)
+  Like, does that show in the deployment one?
+
+30:11 - Abbey Lin (fortifai.co)
+  then, like, how would I differentiate you as an approver of a policy versus Romeo as the approving that he has received it?  No, let's use different verbs to make it easier.
+
+30:24 - João Landeiro (joaolandeiro.com)
+  It's okay. Let's agree that if I'm a regular employee, like no special responsibilities, I don't approve it. I acknowledge it.  But if I'm on a leadership position, I might approve and acknowledge different things, because I'm always an employee. need to acknowledge everything.  So remember, like we said, something about the tasks, right? The compliance officer has a set of obligations. Some of those obligations are broken down into tasks, right?
+
+31:00 - Abbey Lin (fortifai.co)
+  these things. Obligations, different responsibilities.
+
+31:04 - João Landeiro (joaolandeiro.com)
+  So if I have the obligation of I need to get a new policy for, I don't know, carbon something, right?  So the first step of that obligation is that I need to get my policy approved. So that's a task within that obligation.  And the other task that I have within that obligation is getting everybody to acknowledge that new policy, right? Every policy every new policy goes through these two stages of police, right?  Approval and then acknowledgement, right? So here I send a policy for approval.
+
+31:39 - Abbey Lin (fortifai.co)
+  Let's just say if there is there also just the complicated things like slightly as you think about it, not all everything needs to be go for approval.  But like, you know, some things like depending on how high you are in the organization or who we have, like for example, Lars and Hydro and Occur Biomarine, he doesn't have anyone underneath him.  He's the chief of Well, he can just like, I agree the policy and move on and deploy it. So in our tool, I don't know if like, Romeo needs to draw something as like a toggle on and off, like approval needed.  If yes, deploy to them, you know, and then it goes through this thing. If not, it just, you know, send to employees for acknowledgement or something like that, or does he need to send it to himself for like document trail that he approved it?  And like, or does he have to send this up to review it? like, we could also just make that a role.  It's a little bit. Yeah.
+
+32:35 - João Landeiro (joaolandeiro.com)
+  So, yeah, definitely, there's different ways of solving that. I think a few different options, right? First option, Lars is Lars, right?  name Lars. Yeah. So Lars is registered as someone with high policy approval privileges. platform automatically. Oh, I'm ready.
+
+32:57 - Abbey Lin (fortifai.co)
+  And the platform could tell them, Lars, you are the big boss.
+
+33:00 - João Landeiro (joaolandeiro.com)
+  your say is final, are you ready? I'm ready. And it goes, doesn't send to anyone.
+
+33:05 - Abbey Lin (fortifai.co)
+  This is a possibility.
+
+33:07 - João Landeiro (joaolandeiro.com)
+  It's a possibility that hinges on special cases.
+
+33:11 - Abbey Lin (fortifai.co)
+  It's not a problem, it's just a thing.
+
+33:14 - João Landeiro (joaolandeiro.com)
+  And a more vanilla possibility would be, and I was a little bit annoying, but maybe for a first version it's acceptable.  It's a large, do you want to send this for approval? And large yes, I want to send for approval.  And then it pops up on his email. And it's like, yeah, I then he approves. Then Lars on his desktop, his message, oh, Lars, yeah, yeah.  this would be more generic, maybe annoying, but surely not a problem. I like, do you want a secondary reviewer?  You can call it that.
+
+33:47 - Abbey Lin (fortifai.co)
+  So it's not an approver or something. But yeah, okay, that's fine.
+
+33:52 - João Landeiro (joaolandeiro.com)
+  Maybe we need a screen for Maybe you need a screen to show off. Okay. And coming back to this.
+
+34:51 - Abbey Lin (fortifai.co)
+  Even like, you need a secondary approver? Yes, then you send it. No, then you don't. Like, can we just add like a question in the UI or UX?
+
+35:00 - João Landeiro (joaolandeiro.com)
+  from that it's kind of like that edit button that toggle you know like edit yes the changes to this or does that complicate it if it like not on the not on the design it just creates more exceptions on the back end individually none of none of these exceptions are a big issue as they start to stack up you find edge cases we can put that in maybe maybe this is useful because people want to cover their the process so yeah I'm just gonna prove it yeah and then if yes send to that person to review and confirm yes see how this uh look at these all these branches out and they can choose someone so we can deploy it yeah we need a list
+
+36:00 - Abbey Lin (fortifai.co)
+  Unless it could just be like an email. I'll go. Yeah, because it has to like link to their employee portal or like it could go some email confirmation.
+
+36:10 - João Landeiro (joaolandeiro.com)
+  I'm not sure I understood it like I'm just wondering, could it just be like a pop up kind of like we have on like on the deploy.
+
+36:17 - Abbey Lin (fortifai.co)
+  It's like deploy. And then you just pick a name where you write an email like Romeo at fortify or something.  And then they send him an email and then in the email, he could just say, okay, or like, oh, in a tool.  I'm not sure what if Romeo doesn't have privileges to approve it, approve it.
+
+36:35 - João Landeiro (joaolandeiro.com)
+  I think just, I think for the first one, it doesn't matter about the privilege.
+
+36:39 - Abbey Lin (fortifai.co)
+  It's like, if they get a link and they can, that means they have the privilege to approve it. Like, if it shows up in his employee portal, then he has the right to approve it.  No, but okay, let's, this is about the, this is not about design.
+
+36:53 - João Landeiro (joaolandeiro.com)
+  So this is about the business rule, right? So let's say I am approving something and I have
+
+37:00 - Abbey Lin (fortifai.co)
+  Privilege is to approve it on my own, but I want somebody else to be together with me, right? And I I click on the toggle and says yes, I want to I want a secondary approval, right?  Yeah Do I see an email type An email input box where I could put anyone's email from my company Yeah In that case I could send it to somebody that is not allowed to approve anything because they're not high up enough in the Yeah, it's it's true, but I feel like Gosh, do we have to like Like for this Toyota version, do we need to like put in all hierarchy controls or just assume that they will like Put the right person in like to to approve it Um, I just give them the option and think like okay, you're smart enough to put somebody in that fits the hierarchy kind of thing But that's just more like my like short term for that like but Mm-hmm Yeah, but I don't know
+
+38:03 - João Landeiro (joaolandeiro.com)
+  Okay. Yeah.
+
+38:08 - Abbey Lin (fortifai.co)
+  Right. Got it.
+
+38:11 - João Landeiro (joaolandeiro.com)
+  We can, we can do that for sure. So for. So this is the policy for approval. So now we have created a.  Yeah, or it could be like, yeah, it could be anybody internally that that, you know, that needs to that goes into a third point portal.  So pulls up.
+
+38:39 - Abbey Lin (fortifai.co)
+  You know, yeah. I'm not sure I follow what you mean.
+
+38:45 - João Landeiro (joaolandeiro.com)
+  I'm just saying, like, instead of allowing external emails in it, it has to be like somebody with the email address, you know, of course.
+
+38:52 - Abbey Lin (fortifai.co)
+  Yeah, yeah.
+
+38:53 - João Landeiro (joaolandeiro.com)
+  And I think that's easy to do. I think that's easy to do. Yeah. Yeah.
+
+39:30 - Abbey Lin (fortifai.co)
+  We're not one help, one needs approval. We don't want them to help edit it. We just want them to approve.  A secondary approver or something like that. Okay.
+
+39:53 - João Landeiro (joaolandeiro.com)
+  And it's a different process, but it's basically this process as well. The approval of the policy. Okay, so and at the end the compliance officer can see that their policy was approved.
+
+40:22 - Abbey Lin (fortifai.co)
+  Is this roughly in the correct direction?
+
+40:27 - João Landeiro (joaolandeiro.com)
+  Yeah, I think so.
+
+40:30 - Abbey Lin (fortifai.co)
+  So, it's pretty much.
+
+40:35 - João Landeiro (joaolandeiro.com)
+  Share this there, come here. Okay, cool. Cool, cool. So, yeah, now that we have this process designed, specified, we will
+
+41:00 - Romeu Rodrigues
+  now create designs for this which is good this is not on waiting so i'll drag it back here yeah it may work where are my risk assessment no, this one, we need to evolve a bit more content about this task i we still have the content to work with it, because we didn't understand it I understand this task here, we still didn't have the control to advance to another stage, but I think that's why we had paused it there, let's see if it works.
+
+42:02 - João Landeiro (joaolandeiro.com)
+  I don't know what it is, but this is a series of formulas, right?
+
+42:08 - Romeu Rodrigues
+  We made a prototype, and I made some changes in comments but if I'm mistaken, yesterday she told us to pause for now until she your questions and comments with those docs there, you know?
+
+42:22 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+42:29 - Romeu Rodrigues
+  Okay.
+
+42:31 - João Landeiro (joaolandeiro.com)
+  So, Abby, about the different forms that need to be made in that folder, I think you've made a folder on SharePoint.  Are all of them already there? Or are we missing some?
+
+42:45 - Abbey Lin (fortifai.co)
+  I think they're all, at least I don't know if we set up the SharePoint yet, but they're all in that email like I sent back then, but I don't know if we should be working on that first versus the things that we discussed.  There maybe they for now am I yeah cuz risk assessment is coming a lot later first next one is controls.  Um, so controls would be the next one that we need to focus on.
+
+43:20 - João Landeiro (joaolandeiro.com)
+  Okay, so this thing. I'll bring it here is not in progress anymore. Okay, so let's let's look at the.
+
+43:32 - Abbey Lin (fortifai.co)
+  We have.
+
+43:34 - João Landeiro (joaolandeiro.com)
+  Yeah, let's put five minutes just to make sure everything is clear for next steps. So basically now we have two things on hold for approval.  We have some things to correct here. This will be quick things, I believe. And. Judging by priorities, we have the one wireframe for approval process.  which is the thing we just decided now. will need to put together with the colonial create a bare bones version for the design.  There's also this test, add buttons to policies trainings and comms which is create new item, create new policy.
+
+44:18 - Abbey Lin (fortifai.co)
+  But do we need to feel like I did this for training? Could I do it?
+
+44:28 - João Landeiro (joaolandeiro.com)
+  What is the video?
+
+44:29 - Abbey Lin (fortifai.co)
+  I think I did that already with the Figma, right? bringing it into three and buttons, create new item, create new policy.  feel like, yeah, so that add, if we go to the original Figma then then that should be already added there now.  Or it's a very fast fix. If we go to the Figma where policies is. It's the one, I think, to the left of.  Yeah that one so it's maybe just checking that update because now we have the three different sections and then we have ad policy and maybe the only difference is like you know fixing that like this is the I think this is the feedback from Melinda and then like adding like you know those hopping buttons in the middle that says add new policies they might not need to be on the left side I just didn't know how to move it to the right end because it's like set to the left you know but it could it could stay on the left side I don't really mind that either but I think that's what this means like to like to finish this the last touches up and I think the main difference is that there's an add new button in each of them versus in the original one which is only one of them and then we change the name of them I think yeah okay that's it so that one hopefully won't be too won't be too long oh and then yeah the colors no that's right yeah so that's um that one so
+
+46:00 - João Landeiro (joaolandeiro.com)
+  or Romeo, this is very simple, just look for those buttons and guarantee that the passments are right, okay. Update design for policy deployment overview screen.  This test, I know if we time to look at it, I don't it's supposed to explained to her, my question of the type is clear, is this clear what needs to be done?
+
+46:27 - Abbey Lin (fortifai.co)
+  Then an old style and a new style, what was the old style versus the new style?
+
+46:37 - João Landeiro (joaolandeiro.com)
+  Okay, so Okay, so this is the new style Okay, okay, and this is the old style
+
+47:01 - Abbey Lin (fortifai.co)
+  No.
+
+47:02 - João Landeiro (joaolandeiro.com)
+  This is the deployment part.
+
+47:05 - Abbey Lin (fortifai.co)
+  Okay, so maybe Romeo hasn't done a new deployment part for the new style. I understand that.
+
+47:18 - João Landeiro (joaolandeiro.com)
+  So the task is update design for policy deployment. Yes, correct. So right now we have deployment overview in this style, which is the old style.  We do not have deployment overview over here in this style.
+
+47:41 - Abbey Lin (fortifai.co)
+  Okay.
+
+47:42 - João Landeiro (joaolandeiro.com)
+  So if we were to change between policy overview and deploy overview, they would change styles, which is not ideal.  So what's the task here is just to make what happens here look like this.
+
+47:57 - Abbey Lin (fortifai.co)
+  Yeah.
+
+47:58 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+47:59 - Abbey Lin (fortifai.co)
+  Romeo, yeah. Understand that then I think that's I think that's fine. I didn't notice that my eye is not that distinguished I like that like the old one kind of look like just because the colors or a kind of matching But if we have a style that we use then that's then that's fine Then we can change update that but I don't think it's the most urgent but but yeah, okay What's the other task then that we have?  So the other desk Yvonne say something about that he wasn't didn't want to change the deployment part because like oh We already have it set for the other ones.  Do you say something like that? Do you remember? I don't understand the question I feel like at one point like yeah I'll just update the deployment and that's why I feel like there's one point he was like oh We don't need to change it.  We could change it in another iteration But I'll just have Romeo work on that part coming. Okay, then let's look at the next test then on that then So include a description field in policy trainings and comms.
+
+48:53 - João Landeiro (joaolandeiro.com)
+  So when we have that right?
+
+49:00 - Abbey Lin (fortifai.co)
+  Let's see, is that on the front page or on the actual policy itself?
+
+49:07 - João Landeiro (joaolandeiro.com)
+  Let's let's see No, there's only for the title, okay I feel like now it was as welcome to the policy review Okay, but this is not in the script, okay I think what Eva mentioned with the description field was So when we open a policy we see the full policy, yeah, yeah, yeah Oh, yeah, like if you actually look in our real tool right now, it doesn't look like that.
+
+49:49 - Abbey Lin (fortifai.co)
+  Yeah Yeah, you just kind of jump in yeah there. Yes.
+
+49:54 - João Landeiro (joaolandeiro.com)
+  No, no, but wait What I mean is just to be sure, right? Yeah let's say, because right now I have the policy open, correct?  This is spread out. But let's say that I have a policy here, like, where do I set up this text?  I have the lines for ethical and responsible behavior in the code. There's no place to set up this secondary text right now, like this thing.  This is the title, and this is the description. So we have a place for the which is here. We do not have a place for the description.
+
+50:30 - Abbey Lin (fortifai.co)
+  That's what's missing.
+
+50:31 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+50:35 - Abbey Lin (fortifai.co)
+  Okay.
+
+50:36 - João Landeiro (joaolandeiro.com)
+  Is that needed?
+
+50:37 - Abbey Lin (fortifai.co)
+  Yeah, it is. That's fine. Okay. I don't have a strong opinion on that.
+
+50:45 - João Landeiro (joaolandeiro.com)
+  think that's good.
+
+50:46 - Abbey Lin (fortifai.co)
+  Good. So there's another task here, which is for me, actually.
+
+50:53 - João Landeiro (joaolandeiro.com)
+  So this is when I should text. Are you showing something on your screen?
+
+50:58 - Abbey Lin (fortifai.co)
+  So
+
+51:00 - Romeu Rodrigues
+  We've just discussed this one.
+
+51:02 - João Landeiro (joaolandeiro.com)
+  We're going to talk about them.
+
+51:03 - Abbey Lin (fortifai.co)
+  We just discussed this one. All of these are highest priorities Yeah, the next one for highest priority is It's about this.
+
+51:11 - João Landeiro (joaolandeiro.com)
+  Okay. Yeah.
+
+51:12 - Abbey Lin (fortifai.co)
+  So this text right now is Very contextual for somebody that uses this for the first time.
+
+51:19 - João Landeiro (joaolandeiro.com)
+  Yeah, okay and What even suggested and to me it makes some sense is to make this text Just shape it a little bit.  Yeah So that it doesn't look like it only makes sense the first time you use it So when I say welcome to the policy review and this is like the 15th time I've used Yeah, yeah, yeah a lot of sense.  Yeah, okay But this is like a cosmetic thing.
+
+51:45 - Abbey Lin (fortifai.co)
+  It's just yeah, just to make it nice.
+
+51:47 - João Landeiro (joaolandeiro.com)
+  But all of these things they are related to The release the the epic so I'm sorry Please So I'm sharing the JIRA now, and I've put on a filter, and the filter is, I only want to see things that are related to the release of V1 of policies, procedures, and trainings.
+
+52:12 - Abbey Lin (fortifai.co)
+  And so when we finish all of these tasks, should be ready for the policies, procedures, and trainings, at least as far as we can see, right?
+
+52:20 - João Landeiro (joaolandeiro.com)
+  And what we did today was we went through all of them, and now the last thing we just did, the explanation text in this one, which is good, because there's nothing big for policies.
+
+52:36 - Abbey Lin (fortifai.co)
+  There's like nothing on the design side, because I just went through the policies, procedures, and trainings on our app, and there's like quite a few things that need to be fixed.
+
+52:44 - João Landeiro (joaolandeiro.com)
+  I put it on a Word document that I need to go through with Ivan on Monday, but I don't think they're more designed.  I think they're more bugs within the software.
+
+52:52 - Abbey Lin (fortifai.co)
+  So I think that's good. So I think if we can go to controls, either we could do it tomorrow, or could do it today, depending on
+
+53:01 - João Landeiro (joaolandeiro.com)
+  Yeah, I need to create some tests for that. And then also the map.
+
+53:10 - Abbey Lin (fortifai.co)
+  I realize our compliance map can be updated too. yeah, but then I think at least there's enough for today, right?  for Romeo to do up until our meeting tomorrow and then tomorrow, we can kind of discuss what can be done for the controls for E, Yeah, yeah, you have them there.  Yeah, if you want control.
+
+53:31 - João Landeiro (joaolandeiro.com)
+  So yeah, so those.
+
+53:33 - Abbey Lin (fortifai.co)
+  And then the integrity hub, yes. And then the compliance map is on here. It's here. Yeah, exactly. So it's related to the.  Oh, I think one thing I just wanted to get your opinion on because I'll just show you here on my screen.  As we go to launch, right? as we as we go to. And then it should just make myself. second, can you get the soup?  Yeah, just put that in the thing and then I can I eat it if you're not Yeah, yeah, just put it all in and then we could all eat it when it's there.  Yes. Hello. Okay. Okay. Um, sorry, where is um, where was the thing I was just showing you? Um, the compliance map.  Okay, hold on a second. Okay, here. So that do you see the compliance map here? We are going, we're about to go to one.  This is not updated with the new designs that Romeo did. So I think that would be nice to have.  almost like I would like if it's like a kind of a temporary solution, I was going to tell that we almost like disable all of this stuff.  Um, and we can and we disable all of this because I don't want people going in because all they need is to look at this, right?  If we're going to hydro rain, I don't want to access everything else because they'll click it like that. And then we just like kind of redesign like maybe only the boxes that  launching so every time there's a thing we increase the boxes so they can see which parts are actually being used then we disable maybe some of the view ones so they can't go in here when they're launching.  But there doesn't totally match with the new design and then also Lumina has kind of disappeared from everything else that we've done.  So just smaller things but it's not the bigger deal it's more like how do we disable this and then maybe how do we make it more visually appealing like even like you know these boxes could fit under the way that Romeo has made those numbers and like kind of update it and like update the ones that we are if you don't want to update the whole thing we could just update the ones that are launching so then people know to go there and then either gray out the rest of them or take away the view button from the other one so they can't access it when they're testing it.  Does that make sense?
+
+55:46 - João Landeiro (joaolandeiro.com)
+  So it's more of a more of a design. Kasper I'm almost done.
+
+55:50 - Abbey Lin (fortifai.co)
+  Okay yeah. So I don't know if like the compliance map so some kind of update to be done before we launch to block people from looking at it then maybe updating it slightly.
+
+56:05 - João Landeiro (joaolandeiro.com)
+  Blocking them is a back-end thing.
+
+56:08 - Abbey Lin (fortifai.co)
+  But that's also a design aspect to make it more visually clear that these are the only ones you're working on and then gray out the rest, maybe, or I don't know.  We can just hide the other ones.
+
+56:17 - João Landeiro (joaolandeiro.com)
+  Is a definition in the front-end code that you can just say, this thing is not visible?
+
+56:23 - Abbey Lin (fortifai.co)
+  Not even gray, it's not visible? Yeah, or it might look weird if it's not visible, because it goes together.  But anyway, we can worry about it later. think that it's more, yeah, if there's time that the compliance map needs to be updated anyway.
+
+56:38 - João Landeiro (joaolandeiro.com)
+  OK. Got it. Thank you.
+
+56:42 - Abbey Lin (fortifai.co)
+  OK, but then, yeah, we can meet more tomorrow and then see where it goes from there. Tomorrow, won't be able to make it to the sync.
+
+56:52 - João Landeiro (joaolandeiro.com)
+  Is there any other time or you won't be able to make it at all? No, I can make it earlier.
+
+58:01 - Abbey Lin (fortifai.co)
+  And I'm thinking, where's the control thing?
+
+58:04 - João Landeiro (joaolandeiro.com)
+  think I'm reporting clouds. Or just give like one assignment at a time. I don't think, and I already designed the overall aspects of the controls, the cloud and the office carbon thing.  So I think that's enough for Romeo to work on. I will make this connection with Romeo.
+
+58:27 - Abbey Lin (fortifai.co)
+  OK. OK, then we could just cancel it tomorrow then. then there's enough to follow up on for tomorrow. So then by Friday, it will be at least some starting on the design of or it can now make it tomorrow too, because we could also do it with Mao and then.  I wouldn't do it like that, because if Mao didn't wasn't here today, we'll spend a lot of time tomorrow just getting up to context.
+
+58:53 - João Landeiro (joaolandeiro.com)
+  just we can send a lot of screenshots back and forth. I think that's helpful. But I think it's a.  Okay, so then I said then by Friday then when we have do we have a design seeing on Friday actually I see it in the calendar.
+
+59:08 - Abbey Lin (fortifai.co)
+  No, I mean the mail. I don't have it scheduled. Yeah, so we there's something at three we can put in the schedule.  We can. Okay. Can you send that invite? Yeah, I'll do it now.
+
+59:21 - João Landeiro (joaolandeiro.com)
+  Then like.
+
+59:25 - Abbey Lin (fortifai.co)
+  So just like, so let's just agree what kind of like the deliverables of the understanding what's going to be given on Friday.  It's going to be the rest of those things over there and then starting on some of the controls that are that are there.  That's kind of like, so we have the other the ones you have right now on to do is are kind of some of them are pretty short right like they're like small like just move a button over here.  And then and then like, so those policies, procedures, trainings, all of that stuff from what we understand will be done and then maybe some controls like there should be like one control or two touched upon for Friday.  Right because you have all day like today and tomorrow to do the rest of the policy procedures, and then you have some summer fight I don't know like that's what I'm trying to figure out like so what are we agreeing on that will be done by then Got it.
+
+1:00:13 - João Landeiro (joaolandeiro.com)
+  So Arrumeu, do you we can put buttons here, here?
+
+1:00:21 - Abbey Lin (fortifai.co)
+  This one should probably take too long for the better ones Arrumeu, I understand, sorry.
+
+1:00:30 - João Landeiro (joaolandeiro.com)
+  I'm going to ask you if you put buttons like this. In the end we need to give an estimate of what we have some confidence that we deliver on Friday Various of these tasks are relatively simple, okay?  But I don't want to get here asking things that I'm going to do, I like to do that. The other one, the one that we passed, I can access only that one that I haven't evaluated yet, that you asked me to take a look at What was that one?  Help me remember. This one, this one, this one, right?
+
+1:00:57 - Romeu Rodrigues
+  I don't have enough time to do that. Okay.
+
+1:01:01 - João Landeiro (joaolandeiro.com)
+  So, update the design for policy department of review. It's a little bit more unsure. The other ones should be okay.  Okay. And then how much time would he have for kind of the other stuff then?
+
+1:01:15 - Abbey Lin (fortifai.co)
+  It's impossible to predict with that level.
+
+1:01:18 - João Landeiro (joaolandeiro.com)
+  For the control part.
+
+1:01:19 - Abbey Lin (fortifai.co)
+  Like I'm just saying, like is there one that he can start on for control? Which one of the controls would be?  I was like generic task management also. I think any one of those, either the reporting on the cloud or the employee feedback, like one of those is like you go through the flow.  Because we still need kind of the main control pages too, don't we? And then the next in there. Yeah.  So one of those three I would say like employee feedback forms, the form and then carbon reporting cloud, carbon reporting office maybe.  like that process, maybe carbon reporting cloud or maybe carbon reporting cloud because that matches with the with the carbon reporting that he already did, right?  Because it connects to the work that he already did. Got it. Got it.
+
+1:02:15 - João Landeiro (joaolandeiro.com)
+  Yeah. Yeah. Okay. I'm going to talk to you about this to what we can Okay. Yeah. All right.
+
+1:02:32 - Abbey Lin (fortifai.co)
+  Thank you for your help.
+
+1:02:32 - João Landeiro (joaolandeiro.com)
+  Then we'll see you on Friday.
+
+1:02:34 - Abbey Lin (fortifai.co)
+  All right.
+
+1:02:34 - João Landeiro (joaolandeiro.com)
+  you. Bye.
+
+1:02:35 - Romeu Rodrigues
+  Bye.

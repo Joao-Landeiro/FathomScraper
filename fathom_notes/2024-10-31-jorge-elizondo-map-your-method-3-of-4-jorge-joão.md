@@ -1,0 +1,490 @@
+---
+title: Map Your Method - 3 of 4 - Jorge + João
+date: '2024-10-31T22:00:00.000000Z'
+duration: 90m
+participants:
+- João
+- Jorge Elizondo
+source: https://fathom.video/calls/173547796
+encoding: utf-8
+scrapingdate: '2025-06-09T19:40:53.377718+00:00'
+---
+
+Map Your Method - 3 of 4 - Jorge + João - October 31
+VIEW RECORDING - 98 mins (No highlights): https://fathom.video/share/dcMZ3SE2YUSvQN7hpTaSTxBKzQuED4hq
+
+---
+
+0:00 - João Landeiro (joaolandeiro.com)
+  um yes yes it's kind of like that okay okay because that's the only that's the the reference I have but it's this is interesting um so I'm I'm quite excited for today because I I saw that you brought some stuff in and also I I've made a little change in the the in the program and I think it's going to be more useful let me just rephrase my mirror is a little bit wonky it's okay and and I was thinking as well if you think this will take us more time or more session I'm open to it but you decided you're the master and expert I think okay thank you for that openness for me it's really important that we get somewhere useful and applicable um in the assessment sessions we agree of course I'm not again  the idea of exploring more stuff but I would prefer to close a chapter and then maybe open another. I don't want to keep extending the chapter because we lose the vitality of the discussion at some point and it just you know you know and I would like to avoid that.
+
+1:18 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah that sounds better because it's also a sprint we want to get something a prototype right away.
+
+1:25 - João Landeiro (joaolandeiro.com)
+  so I'm sending you the link now and I'll also share my screen so it stays in the recording.
+
+1:33 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay and by the way you look different in the picture you have as a like the picture you have in your profile picture you look different from now maybe because you don't have that facial hurt.  You mean the one in email or on LinkedIn? Yeah the one in the email and LinkedIn. I think I
+
+2:00 - João Landeiro (joaolandeiro.com)
+  get a couple of extra kilos then I'm not sure you need to update it in a way you know say again it's it would be nice if you update it you know it will make you look like another picture you know more recent yeah maybe I should you're not the first person to say this so yeah it's it's rather I'll tell you the story of that picture of your memory remind me it's it's not funny so I'll bring it to me and then we'll explore this together okay okay so in last in the last session we went crazy with a pen and made a lot of drawings and then I saw that you brought a lot of stuff here and I decreased the zoom size really but then I put it back in the same in the same place so I've read this I've read all of the  text, but I'd like to begin by asking a little bit more about the images and what what they like you made this mood board and I think there's things you want to say and explore with these mood boards so can you tell me about it.
+
+3:21 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes maybe some of them it's just to there's something I like about us so the first one I want to be quick this is it's we were talking about like kind of exploring new wars and new horizon and it was just an image because I'm also using these canvas with you so I can land my ideas I really like these so I did this in touch with the of you know how how does it look you know someone exploring there where these are more like like maps like it could also serve as frameworks you know like maps of the unconscious I don't know if if maybe  That's for me to just have but I like to maybe this kind of framers or this kind of perhaps it will help me To really like tell people about like where are you know when when I do also like different kind of experiences I show this to the people when you go to the unconscious if you want to find your insecurities things like that You need to go through the fear then you will go through the learning that it's where you get the translation into wisdom and The growth comes when you go back to the experience when you come back to the To the integration and then we can innovate, you know, and like but you need to go through the pain So having like this kind of also framers of telling people like Like in a more simplistic way you need to go to look into the fear if you want to become If you want to have more courage if you want to have more coverage, so I find these two  To like having this kind of maps to explain the exploration phase would be nice I found this picture of what the astronaut and you know, so I found it interesting and I With this one, I don't know if in I connect the idea of you of the book You told me, you know selling with the sketch noted and I was thinking it should should be Nice if I have like these little illustrations in the frameworks or it's just something that I I need to Maybe Developed later.  Maybe it's not a priority, but you know, like I'm doing the frameworks It really it was really fun to see when like where you put the tropical activity someone going down so I Saw like people looking at these images.  Well, well, it makes it more fun in a way So the other parts are more about the archetype that I was looking.  Okay What kind of archetypes are we talking about so I was doing my research on into the people that I've been going through  And the four archetypes that I really have in mind, it's the healing seeker, the purpose or potential explorer, the burnout warrior, and the psychonaut.  He wants to explore, explore, explore. So I map different obstacles, pains, things like that that maybe could be some good information to develop the framework of the archetypes.  Oh, it's blocked. What's the password?
+
+6:30 - João Landeiro (joaolandeiro.com)
+  Of the mirror? Yeah. It's Jorge, Jorge, I think.
+
+6:34 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah.
+
+6:34 - João Landeiro (joaolandeiro.com)
+  Yeah, because he took me out.
+
+6:36 - Jorge Elizondo (expandiendoconsciencia.com)
+  OK, I'm here. OK, so we have the healing seeker. Also about the level of consciousness and all of this thing, maybe just as well.  I just wanted to have the ideas there about the maps, the frameworks of the maps of the unconscious. You know, the different energy levels.  Because at the end, it's about just the emotional side, but also navigating the energy. And maybe with people explain like what does it mean each energy?  Maybe that's another framework, et cetera, yeah. I think that's it. And yes, about the archetype, I was just connecting dots.  maybe with this, I have the first iteration of the four archetypes. Maybe I need to map more questions, map the challenges, map the patterns more.  But I think with this, I have the basis of the first prototype of the graph we can do together.  Cool, cool.
+
+7:31 - João Landeiro (joaolandeiro.com)
+  I think we'll do more than one graph, but OK, this is good. This gave me a lot of context.  And also, it brings up a question that I think could be interesting, which is there are frameworks that you own that are yours and that we will create here.  And there are also frameworks that you don't need to create from scratch.
+
+7:56 - Jorge Elizondo (expandiendoconsciencia.com)
+  You can just refer to them like this, like this you're showing me, right?
+
+8:00 - João Landeiro (joaolandeiro.com)
+  So, actually, I think that's even, it communicates rigor when you use frameworks that are not just your frameworks, right, because if you just use your own frameworks, could be saying anything really, but if you say, oh, this is based on so and so on this research and you intertwine your own frameworks with these existing frameworks, I think that lends a lot of credibility to what you say.
+
+8:33 - Jorge Elizondo (expandiendoconsciencia.com)
+  So, that's interesting. Cool.
+
+8:37 - João Landeiro (joaolandeiro.com)
+  So, let's go. Let's go. I'm excited for this.
+
+8:42 - Jorge Elizondo (expandiendoconsciencia.com)
+  Let's move as fast as we can. I'm ready to put in my nitro, you know, like let's go full speed.  Okay, full speed ahead.
+
+8:53 - João Landeiro (joaolandeiro.com)
+  So, we have right now how you work and how you work, right? And actually, this emerged naturally organically because the initial plan was that we first develop or codify your world view, and then we do that for the process.  But our discussion was a live discussion, and then things moved into their own ways, which is not a problem.  But then my suggestion is that we adapt this thing. So my plan was for us to collect data about your process on this meeting.  But we did that in the last one, right? So I think what we can do now is to start to build up these different frameworks.  And I have an idea of how many frameworks we could potentially make. think we could potentially make 12 different small frameworks.  And some of them are more ready the ones in green because based on what you told me and the way we communicated about things I think they're pretty almost ready and the ones in pink or red I think there's a little bit more work.  Do you want to go through this stuff?
+
+10:18 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes, okay.
+
+10:21 - João Landeiro (joaolandeiro.com)
+  So I divided them into groups right and one of the things that you it comes across many times in your conversations is balance between science and emotion and you also mentioned a lot the qualification of people and maybe we can have like visual frameworks that communicate how you think about these things because you certainly have an opinion on these things which makes it easier if you did not have an opinion on these things we'd have to make it up but you have one so that's good for us.  This one is I think you also have an opinion on the red ones it's just for me it was difficult to do it on my own so I left it here for our conversation.  So why this isn't just a Pacha Mama thing and I also suspect that you can see a trend in what people are asking of these transformations like when you mentioned that on the different clients you have or like the tech people want something even the archetypes you there's a sense that you can sense that you can look at the market and understand what trends are there and this is also very interesting when we talk about frameworks around your process well the first one is the process which is basically these five stages this is already something you already have it's ready right and then we have the four profiles which you just because this was also based on what you  brought into the Miro and what you told me last time this strategies for each profile is similar to this thing no okay and Experience flow for the exploration stage Anyway, you'll see what all of these means we'll get we will return to this, but let me just show you what I mean Okay so They look ugly.  Don't worry about that, but we're just trying to figure out They're not ugly.
+
+12:38 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah, but they're functional.
+
+12:40 - João Landeiro (joaolandeiro.com)
+  Yeah, they're functional perfect much better word They're much more functional than aesthetic right now So let me connect each one of them and you can see they're open space.  So We will fill up together But I think these are good Uh easy architectures to talk about these things.  So when we talk about the balance between science and emotion, there's a few things we can pull here, right?  You can pull, for instance, the advantages of science or the cost of science. And you can imagine like you and I in this conversation right now, we can imagine what happens when it goes too much into the science and we add another post-it here like, oh, it becomes too clinical or when it goes too much into the emotion, it becomes a little bit wishy-washy, you know?  We can fill this up. And I'll just explain this other one. And then I think you can just start working on it.  Okay, perfect. So this other one, my perspective is you place a lot of emphasis on people being prepared, right?  And you've mentioned this at several stages. Even, before they become a customer, do you call them customers, clients, patients?  What do you call them? I would like to call them clients, my patients, yeah, or users.
+
+14:13 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay, okay.
+
+14:15 - João Landeiro (joaolandeiro.com)
+  So I'll call them clients. And my point is that this is a little bit like a funnel, right? A lot of people might be interested, but if they don't have something or if they have something that they should not have, they leave the funnel.  And at the end, you only have a few people, right? So we could also fill up what are the conditions that could take someone out or bring someone in, okay?  And this would communicate, if you use this sort of image, a funnel, this would communicate, like what are the filters you have, what you're thinking behind this.  And also in a more subtle way, it tells the world that you're not taking everybody. So the that get through, they do have something special.  And also, you're not afraid of saying no, which is a very powerful thing for an expert, right? You're like, this is not for you.
+
+15:10 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes, I'm excited. Okay.
+
+15:14 - João Landeiro (joaolandeiro.com)
+  Cool. So can we work on this one? The balance between science and emotion? Okay. We have a few more stuff, okay.  So this is the session with the longest number of slides, and there's more stuff. So I'll put timers into this.  And I'll try to be a little bit ruthless on this. Yes.
+
+15:35 - Jorge Elizondo (expandiendoconsciencia.com)
+  Put timer and I'm gonna play music and I'm just gonna go all over. Okay.
+
+15:40 - João Landeiro (joaolandeiro.com)
+  Stop this one. I'll put five minutes. No song. You put the song on your side. Okay. Tell me when you're ready and we do it together.  I'm ready.
+
+15:54 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay.
+
+15:55 - João Landeiro (joaolandeiro.com)
+  So when you think about this balance between science and emotion, And you think about the advantages of the science side, what are those?
+
+16:22 - Jorge Elizondo (expandiendoconsciencia.com)
+  It doesn't matter if it's specific or negative, but just what I see in science, right? OK, yes, yes, we can select them later.  Thank you. Thank you very Thank you Thank you very Thank you very much.
+
+18:38 - João Landeiro (joaolandeiro.com)
+  I'll restart the timer for the emotion side. Okay.
+
+20:00 - Jorge Elizondo (expandiendoconsciencia.com)
+  you you you Thank you.
+
+22:37 - João Landeiro (joaolandeiro.com)
+  I don't know if I did it right or wrong, but let's see. No, what we need now is seeds for discussion.  So there's no wrong way of doing it. Perfect. My challenge now is, can we find three things on each side that are very unique to the  method. And I can give you one example. For instance, my perspective is that the scientific method is very exclusive to the science approach.  The personalized care could be also on the more emotional kind of approach, depending on who does it, right? But this thing, this is unique to side, right?  It's a unique advantage. So this is what I mean. We can select three of each side that are really strong on that side and they're not present on the other one.  Can you choose three and maybe change their color or just make them bold? Whatever is easier for you.
+
+23:48 - Jorge Elizondo (expandiendoconsciencia.com)
+  Three in each side, right? Yes, please. But why I just to clarify, it's why I believe it's important or what I say.  And it has no what's the question again?
+
+24:04 - João Landeiro (joaolandeiro.com)
+  Yeah, I don't think I was clear on the question. So the question is some of these characteristics, they are really strong on one side, but they also exist on the other side.  For instance, personalized care. I could imagine that is not something that is exclusive to the science aspect. I could imagine that some people that have a more emotional based approach, they also do the personalized care.  But some other things, they really only belong on one side, right? And that's that's what I would like you to to select, like the three strongest points of each side.
+
+24:42 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay, okay, okay, I see, okay. I don't know if it's the same like, like there's like an authority or rigorosity, you know, in science that sometimes it's too scientific, too technical that it loses.  So, you know, like it's super mathematician, so I don't work also like what's what's a good thing about science is evident base, you know, when we do alternative process, people work with emotional but in the spiritual way, so they don't always do emotional through evidence base, you know, so evidence base means professional, so Also, I'm I'm between what I don't know if it's this one, but evidence base for sure, rigourosity, I think that's more like the alternative part of science that it's very rigorous.  And with that, it's kind of the same like there's a clear understanding of certain mechanisms, you know, what's happening in the neurons, what happens in the brain, what's happening in this psychology of the people, but also it's important, the safety and efficacy.  If it's not getting like good responses to the scientific method, it doesn't want to work. So I think evidence-based and safety and efficacy is kind of the same.  So I will go also like evidence-based is this most proven protocols because so evidence-based is also it talks about the clear understanding of mechanism.  Evidence-based means most of all of these things.
+
+26:44 - João Landeiro (joaolandeiro.com)
+  It groups a lot of things.
+
+26:46 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes. So evidence-based scientific method, science was working with motions you know through different lenses or different models of work I think they don't always can penetrate the rational mind but science penetrates the rational mind so so you know it's it's a train horse you know that's there's a book called the bigger picture and it it talks about the scientific way of doing things it's a train horse so people can open their mind to see that it doesn't work just in the clinical side it works also to do social transformations and to do ecological transformations and things like that so I think it will go from for this one that's really interesting because I understand the basic idea of hydrogen horse but I did not understand the nuance of what you told me and now I see it it's really interesting and maybe yeah good stuff good stuff can we do the same for for for the emotion side okay  there's there's science not always mean a deeper self-awareness or self-understanding well just self-understanding but not self-awareness science it's not like well it's I don't know it because in a way there's also like a mapping of emotional to the scientific lens but I think what would be the question in emotion like what's so something that okay so this thing of this thing of cultivating resilience hard work I think it's real I mean from an outsider kind of newbie perspective it seems to me that to be is a really almost exclusive  thing to emotion it's it's really strong on the emotion side right and so if I were to pick one I would pick that one but I should not influence you because you are the expert here but it doesn't like does it is this related to the psychedelic thing or just what I think about emotion or what I think about science now in the in the context yeah perfect question in the context of what you do in your method and your approach to things also as I told it's it's a hard work it's it's it's it's it's kind of experience experiential learning about cultivating resilient because it's about getting in touch with the motion of size so I prefer to change it and also emotion it's the one that  uh maintains the narrative inside of us so I'm between working with motion it's also like to to do this profound change of identity but it's also like between all of these you know because if I have a different perspective then maybe that different perspective opens my empathy my self-compassion it gives me self-awareness it gives me this emotional intelligence I'll go for this one because I just need I want to move on so let's okay um so what happens now if we have more stuff on this side and this this uh balance comes this way what's what's the problem what's the what's the risk of having too much stuff on the emotion side can you write it here like one major one  How do you say, like, it's too emotional, doesn't mean too proactive approach, like in a way it's not like, it's not biased to action, you know, it's more biased to feel.  So in a way, this is feeling and this is about learning and doing and understanding, you know. Emotional is also about understanding, but maybe people just want to feel, you know, it's about feeling, it's about just holding, you know, so it can, like, I don't know, how do you get like a stagnant, like a stagnant.
+
+31:46 - João Landeiro (joaolandeiro.com)
+  I think I understand. Do you, do you want to try to say it in Spanish to see if I get it?
+
+32:00 - Jorge Elizondo (expandiendoconsciencia.com)
+  Mm-hmm It's I just think it's it's as there's a quote of a Mark Luther King, know, like mm-hmm a Poders in a more like love without power.  It's fragile, you know, okay And in power without love, it's destructive So we could see maybe science. It's too rational the risk of this is too rational and here Stuck in in feelings in a way, you know, like It's I Don't know if it's the world like fragile, but it's he also said, you know, like Love without power, it's, you know  way anemic you know like it doesn't have power you know it's almost impotent almost yeah okay okay i think i'm saying what you mean now we're just looking for the right word but i understand the meaning of what you what you yes it's the phrase is power without love it's reckless and abusive you know sometimes you know science can be very abusive because of the rational mind very analytic you know in love without power is sentimental and anemic you know it's just sentimental you know and and sentimental that's why word doesn't like you know the the motion or the sentimental side because yes and and then what just move on you know and that's why they push them over and people they don't want to feel their feelings because they they are always rejected because emotions or the downside of always just being sentimental it's you know like giving away the power in a way so power at its  is love implementing the demands of justice and justice at its best is power correcting everything that stands against love.  So how can we put that you know like let's say power is science you know it's this masculine energy and love and love is emotion it's the feminine energy so at the end I could say like it's feminist in a way you know like too girly and the other it's too masculine to Mexico we call the machista you know like it's it's a way of you know like I pay the bill so I I own you you know I decide what to do so in a way the science is it's what I say it's what's true you know like I don't care about your feelings so so that's I don't know how to put into words I'm just throwing my ideas right but so one word came to me but of course you don't have to take it but something about dominance
+
+35:00 - João Landeiro (joaolandeiro.com)
+  because of the machista comment you've made. Because science is a bit arrogant, right? But anyway, maybe I think you'll also enjoy having more time to think about the specific labels of this.  But we can move into the next one. at least you get more stuff to work on later on.
+
+35:27 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah, what we put, it's OK, right? Right now. Yeah, it's OK.
+
+35:32 - João Landeiro (joaolandeiro.com)
+  Absolutely OK.
+
+35:33 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah, one, it's really rational. The other one, it's too sentimental. One, it's neglecting the feelings. And it's more practical.  But at the end, other, let's just live like that for now. Yeah, yeah.
+
+35:54 - João Landeiro (joaolandeiro.com)
+  But I think it's very coherent right now. we understand each other. Coming into this side, to the right side, I'll bring you to me.  When we look at this, okay. I'm just leaving that now.
+
+36:13 - Jorge Elizondo (expandiendoconsciencia.com)
+  Science without emotion is called and disconnected. And emotion without science is on grander and fragile. Science at its best is emotion implementing the demands of truth.  And truth at its best is science correcting everything that stands against genuine emotional connection. So let's leave that phrase, I think.  I just made it up with chat GPT now. It's trying to get into something, but I think it's nice.  Are you there? I am, I am. I was checking out who said this because it's a great phrase. you say chat GPT came up with it?  Yeah, well, I told him, you know, there's this phrase for Martin Luther King, the power without love is reckless.  Make a different one, just changing power with science, love with emotion. And it's, I want to get a balance required.  R&P were both scientific rigor and emotional depth are crucial to it. So it gives me so it's my own negativity.  Yeah, nice, nice.
+
+37:11 - João Landeiro (joaolandeiro.com)
+  Cool, So a really good sentence. that's interesting. So looking at the qualification of people and the assumption is people start at the top, a lot of them start at the top and they have a couple of gates.
+
+37:27 - Jorge Elizondo (expandiendoconsciencia.com)
+  I've put here three gates, this was completely arbitrary.
+
+37:31 - João Landeiro (joaolandeiro.com)
+  We don't have to be three, could be two, could be 18, 18 seems a lot. But let's try to fill this up.  what kind of people come into you? What kind of people demonstrate interest at first? Like the very, very top layer.  We can also use what we already told me about what they're looking for. or what goals or objectives they have and this sort of thing and we characterize the people that appear.
+
+38:09 - Jorge Elizondo (expandiendoconsciencia.com)
+  Let's put some time in and let's start. Okay, so this is more about the first people that come right?  Yes, correct. Okay, here at the beginning is try to have a lot of depressed people. or if it's stuck or not.  How do you say blockado? Like stuck? Yeah, I think so.
+
+39:10 - João Landeiro (joaolandeiro.com)
+  Stuck.
+
+39:14 - Jorge Elizondo (expandiendoconsciencia.com)
+  Blockado in English. Yes, stuck. Stuck. Performance. Activity. So this is like the most common things, right?
+
+39:44 - João Landeiro (joaolandeiro.com)
+  And what is important to say, as they start to leave your funnel, what I would like to look at is not why they lose the wheel or they don't have the money.  to focus more about like your method like what kind of things you see in someone that says oh you're not ready for this you know like your own filters I think this is the biggest thing so I'm gonna put here filters we can use filters change the color so whatever we write in red is is a filter for instance so sorry you
+
+41:37 - Jorge Elizondo (expandiendoconsciencia.com)
+  I just ate some nice shrimps a while back, I like to also eat them, it's delicious. I love shrimps.  That's my favorite thing. Let me go to find some questions that I ask frequently, above the chat, before the pentals.  Thank you.
+
+43:20 - João Landeiro (joaolandeiro.com)
+  Okay, that's the next level of filtering. So now you've already taken out you get people that come with looking for something you check out the first questions and there's only a few that make it true.  Now this is that you do second level filter.
+
+43:53 - Jorge Elizondo (expandiendoconsciencia.com)
+  I'm gonna play some music. Okay, so the next level.
+
+44:00 - João Landeiro (joaolandeiro.com)
+  Or, all the filters you do, you have already placed them here, we can just move them around in the graphic to make them fit the correct stage.
+
+44:09 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay, because it's also about... Okay, we can just move them around in the to make the correct stage. Mm-hmm, we like that expression trauma informed you want me to add more more stages more lines I don't know I'm just getting my mind okay You
+
+46:17 - João Landeiro (joaolandeiro.com)
+  Is this the part where you say balls? Oh, OK. OK, I love that. Is this a common expression or is it your own approach to things, the productive vulnerability?
+
+46:34 - Jorge Elizondo (expandiendoconsciencia.com)
+  I don't remember what I got, but I love it, you know. Because it's not about, again, it's not about saying, oh, poor me or the victim.  I said, oh, well, word was that I were done. It's kind of like kind of prone or fixed mindset, you know.  So in a way, let's find out about the mindset. And when I call about the productive vulnerability, it's about, you know, I'm able.  And I'm also open in this position to talk about my feelings, you know, in order to learn from them.  So I want to learn from them, you know, I'm not here just to say for me, you I'm here to learn.  So also, I think it's about openness, community courage.
+
+47:42 - João Landeiro (joaolandeiro.com)
+  You can just refer, you could just check out, like, your checklist of questions that you asked in the beginning.  Because this is something you already do, right? Yes.
+
+48:16 - Jorge Elizondo (expandiendoconsciencia.com)
+  So the initial question I have here, one, it's about medical condition for existence. Then it's, do you have a family member or yourself with bipolar and psychosis or schizophrenia?  But I don't know if that's on psychological disorders.
+
+48:40 - João Landeiro (joaolandeiro.com)
+  Maybe psychological vulnerability or fragility or condition or fragility.
+
+48:50 - Jorge Elizondo (expandiendoconsciencia.com)
+  I like that. Thank you. I think I'm trying to use that as an evidence. Thank I'm putting psychedelic experience experience to see if they have experience in psychedelic experience, you know.
+
+49:52 - João Landeiro (joaolandeiro.com)
+  Yes, I think I'm done with this one.
+
+49:56 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay.
+
+49:57 - João Landeiro (joaolandeiro.com)
+  Cool. So now we have we have two, you know, skeletons for frameworks. One is about the mix between science and emotion and the other is about the way you qualify people and how you think about making sure that the right people are having this experience.  Cool. Can we move into the next one? Yes.
+
+50:21 - Jorge Elizondo (expandiendoconsciencia.com)
+  Which is great because the next one is done.
+
+50:23 - João Landeiro (joaolandeiro.com)
+  You've already done it, which is the four profiles. I mean, of course, there's always room because I sensed from what you said that you always like to fine tune things.  But basically, you have them, right? Just the fact that you have these four archetypes and you have this structure to talk about them is a framework that you can already use.  These silly images were just part of Miro, maybe something that, in terms of communicating this framework, it's like what you said in  in the games, maybe there could be some images of people embodying those roles. But from a concept point of view, you have this already.  It's done. I just picked up stuff that was on the other page. Is there anything on this stuff that you want to change right now because you really don't like it?  Not just fine tune it, but something you really want to correct. Otherwise, you can move to the next one because the next one depends on this one.
+
+51:50 - Jorge Elizondo (expandiendoconsciencia.com)
+  OK, sorry. It was a mute, but I was speaking. Oh, it's OK. I like that. I think for now, could leave them like that.  I think it's. Okay.
+
+52:02 - João Landeiro (joaolandeiro.com)
+  So this next exercise is basically that version of this thing here, right? But what I've noticed is that your process, it has five stages, right?  But given that we're talking about the challenges for the different profiles, my understanding is the most useful thing is to tell them about the challenges they will face in the future, right?  So if the moment you show them this framework, they already passed one or two steps, I don't think it makes a lot of sense to tell them about the challenges they will face in the steps that they've already been through, right?  Just the future ones are the relevant ones. How do you feel about this?
+
+53:04 - Jorge Elizondo (expandiendoconsciencia.com)
+  But can you repeat the question map, the challenges?
+
+53:11 - João Landeiro (joaolandeiro.com)
+  Yeah, so let's use this one because we did it together, maybe there's shared memory of this. When you do the qualification and you find out that, this is me, let's say I'm your client.  And you figure out that my profile is the burnout warrior, for instance. And you say, okay, so you are this guy, you are the burnout warrior.  And you have this set of characteristics, these ones, you tend to deal with stuff in this grade is the kind of things you're looking for.  And based on that, and based on my own experience versus Jorge's, I can tell that probably the second stage of my process, there's one thing that will be difficult.  for you. And it's this thing. But I also know that there's something in the second stage of my process that because of your profile, you will like and you will enjoy it.  Right? So do you remember the moment where we created this in the last session? So the idea is to give them a way of self identifying.
+
+54:25 - Jorge Elizondo (expandiendoconsciencia.com)
+  Is it like reading your horoscope?
+
+54:28 - João Landeiro (joaolandeiro.com)
+  Yeah, that thing. realizing, oh, if I face difficulty that Jorge told me I would face. Okay. That doesn't mean I'm a loser.  just means this is a difficult thing. And my profile deals with stuff in this way. So this is what I would like to fill in here.
+
+54:52 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay. Okay. Let's put some time. Let's go.
+
+54:55 - João Landeiro (joaolandeiro.com)
+  Okay. I'll put it five minutes and then we do One by one? One character by character? Okay, let's go.
+
+55:03 - Jorge Elizondo (expandiendoconsciencia.com)
+  So right now what I'm doing is one by one, right?
+
+55:08 - João Landeiro (joaolandeiro.com)
+  Yeah, one by one. So we figure out the healing seeker and what is easier for them in the exploration phase and what is difficult for them in exploration phase.
+
+55:38 - Jorge Elizondo (expandiendoconsciencia.com)
+  Thank you seeker, the corpus explorer, the... Do you like more than the name the burnout warrior or the wounded warrior?
+
+56:03 - João Landeiro (joaolandeiro.com)
+  I don't know, when I think about burnout, I think about companies, which I know is one of your target markets.  And wounded to me is more towards that emotional side. Yeah, the healing seeker, yeah. Yeah. The green ones are yours and the red ones are chat APT, right?  Yeah.
+
+57:47 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay. But what's the difference between greens and pink ones? It's the same, just two different colors, right?
+
+57:56 - João Landeiro (joaolandeiro.com)
+  No, no. Now the green one is what's easy for them and the In one or the red one is like what's difficult for them?
+
+58:05 - Jorge Elizondo (expandiendoconsciencia.com)
+  But I mean actually the way you're answering is kind of that so Maybe it's a coincidence, but I don't know what's easy Okay, I can write the labels if you want Yeah, what's easy.  Maybe it's So There's uh, oh agent And uh You Thank Thank you. Thank you. Thank you. Thank you.
+
+59:58 - João Landeiro (joaolandeiro.com)
+  you.
+
+59:59 - Jorge Elizondo (expandiendoconsciencia.com)
+  Thank Can you give me some more minutes?
+
+1:00:07 - João Landeiro (joaolandeiro.com)
+  Of course. I'll give you five more minutes. Yeah, just five more minutes.
+
+1:00:13 - Jorge Elizondo (expandiendoconsciencia.com)
+  It's okay. I'm about to be done.
+
+1:00:17 - João Landeiro (joaolandeiro.com)
+  It's quite a bit of stuff you're doing, so it's very good.
+
+1:00:50 - Jorge Elizondo (expandiendoconsciencia.com)
+  Thank you.
+
+1:01:19 - João Landeiro (joaolandeiro.com)
+  Rebalancing life around rest and productivity, do you think it's easy for the non-warrior?
+
+1:01:28 - Jorge Elizondo (expandiendoconsciencia.com)
+  No, that's maybe a challenge.
+
+1:01:30 - João Landeiro (joaolandeiro.com)
+  Okay, then I think it goes in the pink card. Because the pink card is what's difficult and the green one is what's easy for them.
+
+1:01:54 - Jorge Elizondo (expandiendoconsciencia.com)
+  Thank you. You you Ready. Cool.
+
+1:05:18 - João Landeiro (joaolandeiro.com)
+  I have just one question. Okay. The burnout warrior, the first green thing. I mean, you are the expert here.  I'm just being a sound board. Okay. Okay. That to me feels more into it.
+
+1:05:36 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah, because they actually don't want to. They don't want to work their emotions. I don't have anything, you know, you know, I'm okay.  I'm okay, but they're really burnout. So I think for them it's not, it's, it's, it's nothing emotion. I'm just tired, you know, but at the end it's all about emotions.  They have in process, know, as well. So what's easy for them in the first, in the exploration phase?
+
+1:06:00 - João Landeiro (joaolandeiro.com)
+  acknowledging, okay. Perfect. Cool. So when we take a step back here, what I like about this exercise is that, of course, they all relate to the phases, right?  But one can clearly see that if you belong to a certain archetype, you're not having exactly the same experience.  I'm very satisfied with the stuff you put here because I think it's really helpful for someone to work with.
+
+1:06:37 - Jorge Elizondo (expandiendoconsciencia.com)
+  Cool.
+
+1:06:38 - João Landeiro (joaolandeiro.com)
+  Can we move into the next one? Yes. Okay. This was really good. So let me bring you here. So this is based on those stages of the exploration phase, right?  And basically, specifically, I think that you have this, right, this kind of curve. And I've also included the integration here as a stage that is kind of outside the curve, because my perspective is when you have a framework that also hints, suggests other things that are outside of that framework.  I think it communicates really strongly that you have a worldview that goes beyond whatever little framework you're showing right now.  So by including integration here and putting it kind of, it's kind of in parentheses, right, because it's gray and it tells people that this curve is incomplete and there's something else over there.  Yes. They're not seeing, it's like your expertise is much deeper than what is in image conveys, the image conveys something, but there's even more, it generates curiosity.
+
+1:08:06 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay, love it.
+
+1:08:09 - João Landeiro (joaolandeiro.com)
+  Okay, so this is, I think this is pretty much done. This is your, your framework. I would like, I would just like to ask you, do you think there's a name for this vertical axis?
+
+1:08:29 - Jorge Elizondo (expandiendoconsciencia.com)
+  Like a scientific name?
+
+1:08:32 - João Landeiro (joaolandeiro.com)
+  No, no, like, well, if there's a scientific name, you can start.
+
+1:08:36 - Jorge Elizondo (expandiendoconsciencia.com)
+  Otherwise, we just invent one. I like that. This psychedelic cure or like maybe like kind of Let me rephrase my question.
+
+1:09:08 - João Landeiro (joaolandeiro.com)
+  What I'm asking is not so much the title. What I'm asking is the name of this thing here. Because this is time, right?
+
+1:09:20 - Jorge Elizondo (expandiendoconsciencia.com)
+  This could be like, I see, I see, I This is time and experience, yes. And the other one, it's outer state, you know, or like a level of consciousness in a way, it's the peak.  has to be, you know, I'm aiming for a mystical experience, you know, I'm getting to a extraordinary state of mind from my ordinary mind.  So down there is the ordinary mind, and up there it's the extraordinary state of mind, all the outer state of consciousness.  Yes. Planet Earth. in outer space. Yes, of course, you know, that's where people find the answers, you know, when they have this overview effect, you know, on the peak.
+
+1:10:19 - João Landeiro (joaolandeiro.com)
+  That's from seeing the Earth, right?
+
+1:10:21 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes, it's like the astronauts, when they see the planet Earth from that and they're like, oh, we are one, you know, this is beautiful, that's the view of it.  So we want to deliberate, consciously, we want to design the experience of the overview effect. That's so powerful.
+
+1:10:47 - João Landeiro (joaolandeiro.com)
+  Because in that case, I think it's interesting, if not this, maybe, but maybe this, we have some sense that
+
+1:11:00 - Jorge Elizondo (expandiendoconsciencia.com)
+  I see what you're doing, sir.
+
+1:11:05 - João Landeiro (joaolandeiro.com)
+  Because now we have the overview effect, and we have illustrated that in the framework. Amazing. It's like, how do say escape from the sound?
+
+1:11:16 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah, I was on the layer.
+
+1:11:18 - João Landeiro (joaolandeiro.com)
+  Awesome layer, yes.
+
+1:11:20 - Jorge Elizondo (expandiendoconsciencia.com)
+  Oh, you know a lot of Spanish, man.
+
+1:11:24 - João Landeiro (joaolandeiro.com)
+  I don't feel very confident talking, but I can understand I think everything you say and even read. Be confident, you know.
+
+1:11:32 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay, I'll practice for the rest of the session. I didn't know, it's okay, but you need the psychedelic experience.  That's what I'm saying. I don't doubt that.
+
+1:11:44 - João Landeiro (joaolandeiro.com)
+  My brother-in-law has been trying to convince me of that, and he was super excited when I told him about our work together.  He was really like, oh, you need to read this book, and it's more experienced with that. Okay, okay.
+
+1:11:57 - Jorge Elizondo (expandiendoconsciencia.com)
+  In Brazil it's legal. Yeah, I think so. Yeah, I think so.
+
+1:12:06 - João Landeiro (joaolandeiro.com)
+  Okay, so we have another framework, boom. I think we have five frameworks now. I mean, they need to be cleaned up, basically these are mental images you can use.  This is about the integration, right? So there was the mood board stuff that you do. And to me, and I'd like to understand from your side, how we look at this.  Oh, sorry, I don't think I pulled you. I was moving in the iPad, but not in the computer. So the way I see it is that the mood board is a lot about the heart, right?  Like the feelings and so on. And the prioritization matrix is a lot about the hands, right? What do you do?
+
+1:13:00 - Jorge Elizondo (expandiendoconsciencia.com)
+  Is this correct?
+
+1:13:02 - João Landeiro (joaolandeiro.com)
+  Am I distorting your thing? No, it's okay.
+
+1:13:07 - Jorge Elizondo (expandiendoconsciencia.com)
+  It's all right.
+
+1:13:09 - João Landeiro (joaolandeiro.com)
+  Okay, so in that sense, I think there's couple of directions we can move through this. We can try to come up with a framework that is very literal in the sense that it looks like the exercise you do with your people, with your clients.  So it's a little bit like a canvas, okay, which looks a little bit like what we're doing now, like space for images and something like this.  But I don't think that's the best kind of framework for the stage you are at right now, which is I want to have tools to talk about my methods, right?
+
+1:13:56 - Jorge Elizondo (expandiendoconsciencia.com)
+  So on this one, I need a little bit of help because I
+
+1:14:00 - João Landeiro (joaolandeiro.com)
+  got a little bit stuck, but considering like we work together on the other ones, so we already have this kind of calibrated mind, right?  We can see each other's thoughts. How do you think about your action-oriented integration stage? Because that's important for your method.  It's really relevant.
+
+1:14:29 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes. What do I think about it? How do you think about it?
+
+1:14:35 - João Landeiro (joaolandeiro.com)
+  Not what, but how do you think about it? when you're explaining like, let's picture this, you're explaining the action-oriented integration or the way you approach integration.  You're explaining this to somebody that you met in the line for the bus. I don't know. Somebody that doesn't know anything about you, you don't have a lot of time, maybe they are not super informed.  about your world but you need to talk about just integration phase and why you make sure it's action-oriented. How would you explain that to them?
+
+1:15:12 - Jorge Elizondo (expandiendoconsciencia.com)
+  I always say experience without change or without integration is just going to Disney you know. You compare not just for the experience you compare because you want to influence change because you want to break a pattern because you want to overcome something you want to learn you want to discover so the purpose of this and of the commitment is to work together to really nurture different new behaviors so maybe there's something called like the three takeaways no like if that could be seeds like what are the three seeds that you want to nurture in that so  important, it's moving from other states of consciousness into other traits, ultra-personality traits, know, because again, personality, it's our personal reality, you know.  So in a way, we do the psychedelic experience to get out of our mind, to get out of our personality, to understand it and to change it, you know.  So the action oriented, it's about how do we align our new values with new behaviors or it's it's like okay so like how do I it's about designing the personality designing the identity like lifestyle design you know with new values come new priorities and with that with new priorities it's lifestyle change and with lifestyle change it's new identity design and what we call about the integration or the follow order deeper integration it's the community you know mm-hmm so I I saw these framework data I forgot to put it in I'm gonna  Right now But I found that really really amazing So This one is called archetypal metaphors that it's about the liminal spaces when you go to the The peak experience you go to the liminal space, you know You are not what you used to be and you are not what you are going to become So you're like in this inception movie like am I dreaming am I dreaming in a dream?  So what helps that liminal space? It's actually the Community, you know the ritual the coming together, you know, so while I'm developing as well  branding I came up with the name arcai that means arca the arca de noe you know the arca it's helping the animals transition to a new life or you know we want to hold this for a new terrain in a way you know so the animals are coming to a new identity to a new fertile ground so what contain it it's it's a container it's the arca de noe so arcai means arca the arca and cai the kairos kairos there's there's kairos and chronos chronos the timeline like logical timeline and kairos it's that maybe that divine timeline you know like it's a special moment in life like something happened in that crucible you know so that it's it's an openness in the vertical life not the horizontal life so there there's something going over in that you know so  What's important about action-oriented is because you actually need to move, you know, the experience is giving you the way to let's, let's, let's launch outside of this, the old personality.  But there's also like this theory that we are a rubber band, you know, we can expand where we're going back towards obviously we don't make changes.  So we're opening up to a new awareness, emergent, emergent awareness with an emerging awareness. It's a new body, a new personality, a new set of values, you know, that's that that awareness we want to give the structure.  And you know, so the action-oriented is how we give it the give the structure. It's deciding values, deciding priorities, deciding my purpose, deciding my mission and laying down the foundation for my new lifestyle.  So I can develop my awareness and I can guide my newfound awareness into something new. That's something that's in my new personality.
+
+1:21:05 - João Landeiro (joaolandeiro.com)
+  I think I got something that, because the bridge analogy, that's very common, right? But I was thinking about, so the YARC, right?  But if people have the ORS, the faddles, it's the community, and it also implies effort and communities. We are moving.  We are not staying in the same place. We're taking this life in our hands, right? And when you're traveling, you are in between places, right?  Which is a little bit of that metaphor. So, I think our challenge now for this specific exercise is to select one analogy world and stay with it.  it's uh without me being too many others uh but i mean we are in the exploration phase of course so i i like the space and or or arca it's the spaceship right or what do you say oh okay okay i didn't i thought about it uh no no is arc but i see your point yeah yeah yeah oh man i see so many cool illustrations on this um but but yeah it could be a spaceship i think we should have something that conveys that people are not just passengers that people are making that thing move you know if you can do that with a spaceship i think it's uh it's really powerful it's because also in the spaceship we need mechanics we need pilots we need like everyone is doing something right but how it's the thing it's how do we communicate that visually yeah  Because what I'm thinking is, this is why I said something about the registration style. By the way, question will make sense.  Have you tried interest? Yes.
+
+1:23:14 - Jorge Elizondo (expandiendoconsciencia.com)
+  Okay.
+
+1:23:15 - João Landeiro (joaolandeiro.com)
+  Was it useful for you for the study research?
+
+1:23:18 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes. For the branding research purpose, yes. But at the end, I found that at the beginning it was, wow, so many new things, but at the end, I found like it's limited, you know, it's not like a really big or immense library of things.
+
+1:23:36 - João Landeiro (joaolandeiro.com)
+  It learns what you like and eventually starts showing you all the stuff that you already like. But yeah, so the reason why I asked this is that maybe, if you haven't, you could search for illustration style.  Well, first of all, it's really fascinating to see illustration, regardless if you need it or you don't need it.  I think your kind of brands and I don't think I'm the guy to do this so I'm not selling my own services.  I think your kind of brand could perhaps do really well with good illustrations.
+
+1:24:13 - Jorge Elizondo (expandiendoconsciencia.com)
+  I've already contacted the people that have done the Google X illustrations, for 10 illustrations they charge 10,000. Okay, so we need to find someone else.
+
+1:24:32 - João Landeiro (joaolandeiro.com)
+  Yeah, I've been trying to get a...
+
+1:24:35 - Jorge Elizondo (expandiendoconsciencia.com)
+  I'm having a meeting tomorrow with what's she's called Lucy? Lucy Agolini, maybe it's different, maybe not the illustration I'm looking for, but maybe if it's also a framework that we can translate into mirror, into mirror workshops, that will be also really really nice, know, like at the end it's everything branded.  Yeah, yeah, yeah.
+
+1:25:02 - João Landeiro (joaolandeiro.com)
+  Okay, very well. So the reason why I asked this is, depending on the illustration style, we could make the arc, the Noah arc in space, but not silly, know.  So are you into anime?
+
+1:25:28 - Jorge Elizondo (expandiendoconsciencia.com)
+  you like anime? No, but just by just saying that, they recommend me in my HBO TV show that it's really good.  I've been, you know, like thinking about, you know, just now thinking about how would it look like in an anime way kind of thing, you know, because people are not used to it.  So also it will be different, you know. Yeah, just sharing something with you.
+
+1:26:04 - João Landeiro (joaolandeiro.com)
+  So this was like one of the first animas ever and this happens in space and it's so strange because this is a boat that looks like one of our boats from from earth but it's a spaceship, right?  They change a little few things in the bottom and they put these things here but it's clearly inspired by a real boat from the 20th century but it's in space, right?  So I think my point is that there's some visual languages that could be used to connect this idea of the Noah art which I think is really powerful into the theme of space which is the thing that you're moving through.  So anyway, this was just a little reference. I'm coming back to the Bureau.
+
+1:26:53 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yeah, they recommend me also, know, like there's some movie called about I don't know Do you know Scarlett Johansson?  Yeah, Lucy.
+
+1:27:09 - João Landeiro (joaolandeiro.com)
+  There's another movie, anime movie.
+
+1:27:12 - Jorge Elizondo (expandiendoconsciencia.com)
+  Oh yeah, Ghost in the Shell.
+
+1:27:15 - João Landeiro (joaolandeiro.com)
+  Ghost in the Shell. You need to watch the original one, the one that is Japanese.
+
+1:27:21 - Jorge Elizondo (expandiendoconsciencia.com)
+  They told me I have to watch that, but I don't know where to find it, because it's too technological and kind of these consciousness and things like that.  That's really interesting.
+
+1:27:33 - João Landeiro (joaolandeiro.com)
+  Well, it's a classic for that kind of thing. Maybe it's on Amazon Prime. Anyway, in Akira, you also will like Akira.  Well, I love this stuff, so thank you for bringing it up. So for this framework, given that we are a little bit over time, let me just, I'll try to make a schematic of this with maybe the...  because the bridge I mean we'll always have the bridge sort of thing it's kind of easy the the crezalis I think is also interesting very powerful as well this liminal space that you told me what I really liked about the archive is that it felt really yours you know the crezalis is also strong metaphor and analogy that sometimes other people use but this the ship in motion with people that they're not home but they're not arrived yet it's really strong yeah sorry sorry for for for the interruption but I was thinking a lot of people are lost you know and they're not coming just to find an experience they're fine they're coming to find connection you know because they're not home they haven't arrived they don't know where to go they're just looking for light you know
+
+1:29:00 - Jorge Elizondo (expandiendoconsciencia.com)
+  For how do you call that the pharoel pharoel like the I was yeah It's Lighthouse lighthouse. Yes, the lighthouse.  they're looking for the lighthouse It's also a little bit like that the book the Odyssey right because they keep traveling because they don't want to go home Anyway, so Look, I found something I Thought chat in PT to do something I put an arc in the space It's not an arc, but I found it interesting, you know, I see I don't know how can how can that become a framework or I Don't know if it is a framework needs to be just illustration It can also be put like projected in I kind of
+
+1:30:00 - João Landeiro (joaolandeiro.com)
+  in a scene like in your experience you know like sharing to people it has to be simpler right it doesn't like yes I think there's a that's a great question I think there's some frameworks that they are they act a little bit more like they are representative and some of them are more evocative and some of them are more practical like if these things here and then it moves in this way so there's different ways of making frameworks but that's this these images are amazing so let me just show you a little bit of the map so far right I'll bring it to me okay so we've done this we've done this as well and this one is not fully done okay the green ones  And I suggest to you is on our next meeting, we try to do this, this, the other ones. And just to make sure because the next meeting is supposed to be our last and even if we do more things, would like, as we said, to just close it off.
+
+1:31:31 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes.
+
+1:31:32 - João Landeiro (joaolandeiro.com)
+  So just to be more on the safe side, could you give it some thoughts and from these, choose like which ones you're really more interested in and just give it some sort of priority.  me, so I'll create three markers here, one, two, and three. And I'll ask you in between sessions. just look at this and you figure out you know what I want this one this one is the third priority this one is my first priority this one is my second priority and then we start with those and we guarantee that even if you don't do the the six we get the three that are the most important to you and you don't oh this is done right there the green one are done but the green ones are done in the blue ones the blue ones is just a label so this relates to this this relates to this right you don't need to to reply now you can just think think a little bit about that and oh I have another question for you yes would you be open to us rescheduling our next one because it's on on Thursday but I'll be in  Portugal and the time zone will be terrible for me to Of and what's the time worth for you?
+
+1:33:09 - Jorge Elizondo (expandiendoconsciencia.com)
+  Which one you want before or after?
+
+1:33:13 - João Landeiro (joaolandeiro.com)
+  I'll be in Portugal for actually, no, apologies, let me just check my agenda again. No, no, on the next one we can do it, apologies.  No, no, in two weeks from now I will be in Portugal, but the next one we are good. So we don't need to reschedule.  If we do anything afterwards?
+
+1:33:33 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes, this is fine. Sorry, I was just. Okay, so I think for now that's it and I'm excited for what it's going to be the final product of my frameworks.  I'm excited. Cool, I'm excited too.
+
+1:33:51 - João Landeiro (joaolandeiro.com)
+  has been really, I mean, it's a pleasure to work with you. So I've been learning a lot from you as well.  I will tidy these up a little bit and send you some images a bit more without all the notes on top of them, because I think then you have something to use with designers and putting your materials and stuff like that, that it's more solid, more standalone.
+
+1:34:24 - Jorge Elizondo (expandiendoconsciencia.com)
+  It would be amazing, that's for sure. Do you think, do I have to give my frameworks for free or is it part of my program or it's to bring people to me, what do you recommend?
+
+1:34:42 - João Landeiro (joaolandeiro.com)
+  It's funny because that's the second time I'm having this conversation today, so it's an interesting point. I'm not super experienced on this question, so I'll just share my own thinking on this.  I think these frameworks, especially the ones that are not especially the ones that are more like images but they're not a canvas especially those I think they're very useful for growth and distribution so we just give them away all the time we keep talking about them all the time and people come to associate them with you and at some point they're like oh I really like this idea from Jorge I would like to hire that guy and there's this principle that I've learned recently that I think is really good it comes from people that write to a newspaper article okay and it says don't bury the lead right so the lead is the main point of a story and when we are in school and we learn how to write we write in a very we build up the story right that's how most people write but if you are a journalist you're always competing for attention right so the way a journalist writes a story it's that they begin  in with the main point of the story and then they give you hints that there's more stuff that makes it worth to keep reading, right?  And I think it's the same thing with frameworks and insights. If you hide the framework, which is like your finest or one of your finest assets in terms of intellectual property, if you hide it after a payment page or something like that, most people will not see it, right?  So I think the great advantage of having this visual stuff is to have something that is really easy to share.  I've written something about this on LinkedIn this week. I don't think you've seen it or not, but I'll just send you the post because I've been thinking about this stuff.
+
+1:36:47 - Jorge Elizondo (expandiendoconsciencia.com)
+  Yes, send it because it didn't show up, right? think I'm subscribed to your newsletter, but it didn't show up.  And okay, maybe we need to like forward it on or maybe... working together maybe we can develop a different set of frameworks for my processes you know like once you're here so then I can send them to or maybe we together working to the workshop design team in how like let's experience the frameworks together you know and you know how our workshop design for the healing seeker have a workshop design for this one you know and and have this fun instructions and and way of working but yes for now I think that will be the second stage more what one would finish it it's the developing of like the the workshop design maybe today workshop you know just like I can have that method so I can just scale it okay but for now I think we're good I need to go yeah me too this is great thank you Jorge it's always great to meet you and talk to you and work with you
+
+1:38:00 - João Landeiro (joaolandeiro.com)
+  Have a great one. I'll send you references and stuff, and we'll meet you on the next day. Thank you.
+
+1:38:08 - Jorge Elizondo (expandiendoconsciencia.com)
+  Have a nice one. Ciao.

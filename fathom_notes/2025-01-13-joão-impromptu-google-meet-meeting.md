@@ -1,0 +1,261 @@
+---
+title: Impromptu Google Meet Meeting
+date: '2025-01-13T12:27:49.000000Z'
+duration: 15m
+participants:
+- João
+source: https://fathom.video/calls/211538966
+encoding: utf-8
+scrapingdate: '2025-06-09T19:30:42.617356+00:00'
+---
+
+Impromptu Google Meet Meeting - January 13
+VIEW RECORDING - 49 mins (No highlights): https://fathom.video/share/efJDLhxo6_TNuKm7tzffR-_464XqHzz5
+
+---
+
+0:00 - Mau Medeiros
+  Eu? How you doing?
+
+0:03 - João Landeiro (joaolandeiro.com)
+  me vê? Ah, agora sim. How you doing? Boa ano, boa ano. Como estás?
+
+0:13 - Mau Medeiros
+  Tudo bem, tudo bem, você? Também, também.
+
+0:16 - João Landeiro (joaolandeiro.com)
+  Cheio de decisões novas. Eu não sabia. Eu sabia que seria claro.
+
+0:25 - Mau Medeiros
+  Não parece as palavras de mim. Ah não, é, senhora. Você é muito blunt. Muito bem. Já foi todo mundo assim, ai, faça, saúde, amor.  Gente, não. Resiliência, paciência e flexibilidade.
+
+0:40 - João Landeiro (joaolandeiro.com)
+  Ok.
+
+0:41 - Mau Medeiros
+  E dinheiro, quanto dinheiro também?
+
+0:43 - João Landeiro (joaolandeiro.com)
+  What?
+
+0:45 - Mau Medeiros
+  Aí, pode entrar na sequação.
+
+0:48 - João Landeiro (joaolandeiro.com)
+  É que os primeiros são mais decisões. O outro é mais um desejo, né? Exato.
+
+0:54 - Mau Medeiros
+  Como foi a viagem, claro que foi boa. Foi boa.
+
+1:00 - João Landeiro (joaolandeiro.com)
+  Eu não começo, a gente começou naquela parte da França que é encostada na Alemanha, ela disse que estava doente, é tudo muito bonito, eu não sabia se que eu sabia, mas tipo muitas das coisas da Disney são inspiradas naqueles lugares, então tipo a história dela é o monstro, a gente foi na vila, um dos animadores da Disney foi fazer uma pesquisa sobre aquela escada, é engraçado pensar que aquilo é real e é que Portugal é uma enclave da África, Portugal é na Europa, no papel, mas nós não temos aquela vibe, então foi tipo, acho que no Brasil talvez o contraste ainda maior disse, caraca, isso é real, se os moram mesmo nessas casinhas em xameltos, com madeirinhas, então isso foi curioso.  Mas porra, as francesas são mais simpáticas que o que eu achava que ia ser, então também foi bom.
+
+1:56 - Mau Medeiros
+  Que bom! Acho que o prazer é simpático, está tudo estranho, viu? É, pois é, pois é.
+
+2:06 - João Landeiro (joaolandeiro.com)
+  Enfim, por isso a gente foi de carro até o sul, e aí foi ficar melhor, temperatura foi mais legal.
+
+2:11 - Mau Medeiros
+  Aham, que bom. Ah, que bom. bocadíacos?
+
+2:16 - João Landeiro (joaolandeiro.com)
+  Não sei, eu tenho alguns.
+
+2:17 - Mau Medeiros
+  Ah, que bocadíacos. É que o outro não torce. E aí eu... quer dizer... Depois que eu entendi que, assim, ter um óculos é mais uma coisa que não ter nenhum, aí eu comecei a fazer um estoque de óculos.
+
+2:32 - João Landeiro (joaolandeiro.com)
+  Sim. Então, me conta aí, do teu lado tudo bem também? Foi uma grande testa no ano novo?
+
+2:39 - Mau Medeiros
+  Pois... ah, foi ok. Mas foi que, novamente, é.
+
+2:44 - João Landeiro (joaolandeiro.com)
+  Então, tudo bem também. Foi legal.
+
+2:47 - Mau Medeiros
+  Testa mais de 100 anões para o mundo.
+
+2:48 - João Landeiro (joaolandeiro.com)
+  Aham, exato.
+
+2:50 - Mau Medeiros
+  Ok. Aham. Tem aqui São Paulo, Beto. Eu fui para Floripa no Natal e depois fui para São Paulo. Boa.  Então, está pronto para trabalhar?
+
+3:07 - João Landeiro (joaolandeiro.com)
+  Vamos lá.
+
+3:11 - Mau Medeiros
+  Bom, a gente... o que aconteceu nesse meio tempo? queria muito que a gente fizesse trabalhar durante o período. Então ela mandou aqueles forms todos para a gente redesenhar.  Enfim, muito no aspecto de fazer alguma coisa, alguma coisa que está sendo feita. Muito mais do que ter um plano específico.  E foi isso que a gente fez. Então, nesse período, tiveram algumas reuniões que a gente fez com ela para tentar entender o que ela queria com esses forms e tal.  Enfim, aí a gente acabou desenhando alguns fóruns para ela e a gente... até ir apresentar, apresentou um pouco na sexta-feira passada, mas durante a semana passada, apareceram várias demandas, o e-for.  Eu vi no Slack, assim...
+
+4:10 - João Landeiro (joaolandeiro.com)
+  Ah, já agora, mete uma coisa, já agora, mete uma coisa, já agora.
+
+4:12 - Mau Medeiros
+  É, aí eu falei assim, gente, vamos... vamos coordenar e foi aí que a gente fez uma reunião na sexta-feira.  Sobre, tipo, tem quatro solicitações, né, tudo é urgente, e aí a gente fez uma reunião que foi super confusa porque, no final das contas, é o característico do projeto, né?  Ela, muita informação, ela quer agilizar as coisas e atropelar as coisas. E aí, não sabe bem o que quer e tal.  Aí o invô vai dando um pouco mais de direção, orientação para ela. Não, vou fazer assim, é assim que dá tempo de fazer.  Isso é legal, porque ele, com o desenvolvedor, ele é bem pragmático e mais ou menos um tempo disponível. Sim, sim, sim, sim.
+
+5:01 - João Landeiro (joaolandeiro.com)
+  Eu tenho uma boa equilíbrio ali, eu acho. É, então eu também acho legal ali.
+
+5:05 - Mau Medeiros
+  Então, aí foi uma reunião, mais ou por volta de 11, daí eu pedi a gravação para o Romeo para tentar dar uma entendida ali, o que eles solicitaram, que que dá para fazer, e ver o que que o Romeo também está por toda a reunião, então eu esperando ele se pronunciar.  É, como o Teo Launt, no final agora de janeiro, está correria, obviamente, eles querem lançar várias coisas, e aí a gente entra agora, acho que eu falhei para ela, neste mesmo tempo eu entro em um modo planejando o futuro, mas dando para a visão as coisas que precisam ser dadas, e ela sugeriu que a gente fizesse deles na semana, todo dia um pouquinho de informação.  Se eu, princípio, disse que ok, que eu ia verificar com vocês disponibilidade ou não, e aí entender se realmente vale a pena fazer isso, Porque tem que ser dele e desse nesse formato, né?  Tem que ser bem orientada, bem dirigida para ser lá os seus 15, 20 minutos no máximo, e com objetivo claro, não para ficar discutindo e debatendo cores.  Então, assim, a gente está com essas demandas para essa semana, e aí eu acho que hoje a gente pode fazer uma dele de você voltando e aí vendo assim, como é que a gente vai fazer, coordenar o que a gente tinha planejado, que você fez os dois workshops, como é que a gente vai tocar isso, quando a gente vai tocar isso e quando a gente vai atender as demandas atuais, que vão aparecer talvez até dia 15.  Então, acho que a reunião de hoje é muito mais um... Tá, João voltou, a gente tem isso pra fazer, então a gente vai acordando, eu vou sugerir que a gente faça isso.  Enquanto a gente tá aqui recupando aqueles quatro demandas lá pra a gente fazer e se orientar e fazer, manda pro Ivan.  São desadas de algumas telas específicas, com algumas particularidades e fim, e depois a pode passar junto com você pra você dar uma olhada.  Então é isso, eu acho que o projeto tá nesse nível, um nível de ansiedade maior em fim. A gente precisa entender como a gente toca isso, né?  Temos 15 dias e 15 dias de avançar e aí que precisa realmente estar lá na plataforma o que falta, a princípio são essas quatro demandas e a gente vê como a gente consegue operacionalizar elas e ter feio pra gente ter.  algumas dessas telas né dos quatro solicitações já para o final da semana e as outras para o outro a outra semana e para a quarta-feira que vem para a gente ter até um deadline assim porque eu puxei muito dele sentar mas que dia que vocês pensam para amanhã a gente faz para amanhã precisa para ter a gente faz para ter mas eles não conseguiram dar uma data assim né principalmente o e eu acho que o e vale se ele trabalha como um hub também mas ele vai chamando os desenvolvedores de acordo com o volume não sei eu tenho essa perspectiva mas não tem 100% certeza acho que eu suspeito isso assim como você não tem a certeza absoluta e aí é aquilo que você tinha falado não estava diagnosticado é uma plataforma bem robusta grande  e isso vai com o você já tinha feito lá um plano bem maior. Então, eu acho que aí gente tem que ver uma coisa que você já tinha apontuado, obviamente eu já estava com a cabeça, e também passando a semana que trabalhou no Romeo, eu acho que eu não sei se continuamos com o Romeo, ou a gente chama outra pessoa, pelo menos que fale inglês bem.  Porque o Romeo além dele não é uma dificuldade de falar, como se eu tinha falado, de alguma forma traduzir tudo para ele.  Para ele, ele é mais enrolado ainda, ele não cumpre os prazos, diz que o entrega não entrega, não se comunica, enfim, se a gente for pensar que a gente vai ter uma coisa maior, ou a gente acha um formato para trabalhar com ele, porque eu acho que ele tem desempenhado legal no termo de...  criativos e tem coordenadas, gente tem que achar um outro jeito de trabalhar com ele caso ele fique hoje de pensar até se a gente vai precisar de ele mais um ou o cara ele não sei, eu estou aberto essa, você já tinha ponto lá do slap que acabou tendo que fazer algumas coisas que não necessariamente não era do seu supo mas eu fiquei meio na dúvida se a se a gente não se enrosca muito pro futuro e se a coisa aumentar de trabalho, mas gente faz como é que a gente opera de uma forma mais eficiente, mas não sei tá, não sei, sim, é, acho que estáis uma opção chata assim que, mas não sei, acho que concordo bastante
+
+11:00 - João Landeiro (joaolandeiro.com)
+  com a leitura, o trabalho que ele faz é legal. Essa questão de, ah, vai estar pronto, demora mais um pouco, não sei o dizer, é mais difícil.  Aí tem aquele tema que a gente falou, eu estou meio que pensando em vos alta, né? Claro, Eu tenho aquele tema que gente falou de construção de confiança, pelo sentido de desabontado para fazer as propostas e tal, mas também quer dizer, esse é um processo que tem que começar a resultar meio rápido, né?
+
+11:35 - Mau Medeiros
+  É, é, a gente já está trabalhando lá, praticamente, né, então, dois meses e meio, o inglês dele não vai melhorar.  Sim, essa questão, eu acho que não é por aí que a coisa muda muito a figura, sabe? E como é um plataforma complexa, que a gente, né, cada vez mais entendendo os poucos,  ali tem dois trabalhos, entender a plataforma, entender o universo do inglês, isso mesmo que eu usei a inteligência artificial aqui, que a gente use e tal, mas eu acho que existe uma certa dificuldade, isso seria, porque assim, se a gente for pensar nessas duas trilhas, trilha estratégia que você está fazendo, né, longo prazo, enfim, é, né, num plano mais estruturado, como a gente achou, né, a gente usava qualquer com mais independência pra ir fazendo as coisas, né, que são mais tipotáticas.
+
+12:37 - João Landeiro (joaolandeiro.com)
+  Sim, eu acho que, sim, concordo, acho que isso, em termos muito tangíveis, se manifesta em sugestões produtivas, tipo, agora a gente não falou de tal coisa, mas eu acho que isso é importante, e acho que isso é muito, ainda mais no remoto, pra que se a gente estivesse no escritório, cara, vai, perguntas.  Eu a dúvida e tal, não sei o no remoto acho que fica ainda mais importante isso. Eu acho que, pronto, isso relaciona com a questão da confiança, tem que, né, então...  Talvez do caminho que seja mesmo esse. Eu não sei, mas eu acho que... Você me começa a pensar no sentido que é...  Eu não sei se há um aspecto e de... Se há uma conversa que vale a pena ter sobre olha, qual é o mundo ideal e qual é o projeto que você gosta de trabalhar?  Porque essa produtividade que talvez eu não tenha no projeto, talvez eu também não tenha para ser claro no sentido de olha, isso não dá para mim.  Você diz que sim, depois não dá, não sei... Então não sei se passa por aí. Porque eu imagino que eu esteja fazendo outros projetos também.  Sim, sim.
+
+13:49 - Mau Medeiros
+  É, mas assim, para mim é o seguinte, para mim é mais assim, ele já teve algumas recorrências, gente já fala de uma maneira muito tranquila, olha...  Unir, que falem... Enfim... e ele... ele é enroscado assim... tipo... a gente me entrega no dia seguinte... e aí eu fiquei até 10 minutos antes desse rumo do Cadê, pelo amor de Deus...  tipo, eu tinha passado... eu me reuni com eles algumas vezes durante a semana... e aí da tipo... 10 minutos antes de entrar na reunião...  eu disse assim... tá... mas cadê esse formulário que a gente combinou ontem...
+
+14:24 - João Landeiro (joaolandeiro.com)
+  e ele fez em 10 minutos...
+
+14:27 - Mau Medeiros
+  antes de começar a reunião... eu disse... não quero mais passar por esse pânico... Vem... Então assim... aí chega na hora...  porque daí você fez uma coisa em 10 minutos... na hora... ah, não é bem isso... Não, é inevitável...
+
+14:43 - João Landeiro (joaolandeiro.com)
+  Claro...
+
+14:44 - Mau Medeiros
+  obviamente ia ser assim... Mas não sei... eu só estou dividindo com você porque... a gente assumiu uma responsabilidade do projeto...  médio... longo prazo... porque você desenhou lá pelos quartos... o a gente vai ter, por exemplo, ela está lançando essa plataforma agora com desenho que a gente fez, tipo, muito rapidamente, né?  E a gente vai ter que redesenhar tudo isso de novo com um novo layout. Então, assim, ela vai dizer quando isso vai acontecer e tudo mais, depois de teste e tal.  Só uma reflexão, gente não vai tomar nenhuma atitude agora, eu também não tenho ninguém disponível. Mas assim, gente vai ver o volume e assim, eu tentei ao máximo, nunca comi o meu papel especificamente de entender profundamente a plataforma ou saber o termo de serviço fluxo.  É, gente sempre dividindo eu numa visão geral, dando mais apoio e suporte a vocês. Era uma coordenação macro, você ia estar dentro do estratégico e coordenando isso.  Então, todas as partes têm que funcionar assim. Então, assim, eu ainda tenho algumas dúvidas da plataforma e, na verdade, aí eu fico um mais tranquilo, tranquilo por um lado, tranquilo porque, assim, ah, não sou eu, perigalote, o outsider, mas é o jeito que se trabalha hoje que é muito complexo, né, porque o Ivan e ela estavam tendo discussões de como fazer algumas coisas, então, assim, não estava bem claro o que tinha que ser feito, ah, se for um lado a fazer dessa forma, se for um lado a fazer da outra forma e tal, mas eu só estou te dando uma fotografia, uma fotografia agora de como que a gente trabalha, aí eu não sei, porque assim, quando você saiu, né, fez o workshop logo depois já entrou de férias, assim, qual que é a tua visão geral, como que tu saiu, né, dessa, esse planejamento macro, né?
+
+17:06 - João Landeiro (joaolandeiro.com)
+  Se eu me organizar aqui, eu acho que em linhas erais, a estratégia de lançar uma coisa tão completa não é ideal, mas acho que já está permitida e ela acho que não enxerga um caminho de renegociar combinados, ela sempre fala, não, ela só não espera, ela só não espera, eu acredito, tenho fé de que renegociar os combinados não seria tão dramática assim, que tem formas de o fazer, mas acho que não é caminho que ela não enxerga esse caminho, ela está muito agarrada a essa questão, nós temos isto, temos que fazer isto.  Tente essa realidade, de fazer todas essas coisas. Nenhuma das coisas individualmente é muito complexa, ok? o problema não, o difícil do projeto, eu acho, é falta de clareza muito mais de complexidade tecnológica.  Não é um projeto que tecnologicamente é muito complexo. Fica complexo quando as pessoas fazem uma coisa, agora ela consegue entender o que é aquilo e agora ela consegue dar feedback sobre se ela conseguir, mas não consegue ser mais claro no que ela quer, haveria menos retrabalho, projeto andaria mais seguido.  Só que ela tem muita dificuldade com isso, acho que ela não consegue ter estado de uma forma muito abstrata, então pronto, é com isso que a gente lia.  Sendo assim, para a gente se adaptar um pouco a ela, eu acho que um caminho, eu tendo a achar, o peixe não sabe se está molhado.  Eu costumo sempre ir este lugar. e pode ser que não seja um melhor lugar, mas é forma como eu penso.  Seria deixar uma visão muito bem documentada de quais são as coisas que são necessárias, onde é que, qual é o estágio em que elas estão?  Eu imagino isto na planilha, que tem uma linha que diz, olha, a área de formulário de recebimento de presentes, isso está feito.  A área de formulário de conflito de interesses. Isso está desenhado, mas não está programado. Para mim, isso seria muito importante.  Só que eu não trabalho muito meio de cor no fazer isso. Eu não tenho problema em fazer isso, só que não consigo fazer isso sozinho.  Porque depois a gente usa isso como mapa do projeto. Olha, gente já fez isto, a gente já não fez isto.  Eu acho que que é difícil é, como ela não tem essa visão muito geral, ela fica refazendo para refazer coisas que estão ok.  Ok, vou parar de descrever o problema, passar a sugerir a solução. Eu acho que uma coisa que nos ajudaria muito, seria ter essa visão de planilha, como é estamos em cada ponto.  E isso pode até acontecer dentro do próprio Figma, pode ser uma parte do Figma que a gente monta como se fosse uma planilha, é mesmo uma matriz, tem as exceções, tem estas estágias de desenvolvimento, só que aí são conversas muito parecidas com conversas que a gente teve antes de férias, que são longas, são chatas e não dão senso do progresso.  Então acho que aí tipo, qual é a dor que ela aceita sofrer, ela aceita sofrer a dor agora, ter algumas conversas que porra, parece que estou só perdendo tempo, mas para a frente ela não perdendo tempo, ou ela prefere a dor de ir tentando fazer e depois batendo com a cabeça e andando para trás e não sei.  Está me mostrando alguma coisa, te mostrei.
+
+21:00 - Mau Medeiros
+  você, mas eu penso que, como, para mim, tá? Acho que para mim, talvez para todo mundo e para ela, principalmente, eu penso como que a gente faz isso que está falando nessa organização de uma forma mais visual.  Você tem que ter visual, concorda?
+
+21:19 - João Landeiro (joaolandeiro.com)
+  Então, eu acho que o planilha ela vai se perder.
+
+21:22 - Mau Medeiros
+  Eu acho que tem duas coisas para mim, tá? É, de novo, se a gente conseguir se desenhar um mapa, o fluxo total mesmo que seja, eu acho que falta, porque assim, eu mal disse, mas é bem particular.  A minha dificuldade hoje é saber onde é que as peças estão se encaixando.
+
+21:41 - João Landeiro (joaolandeiro.com)
+  Sim, sim.
+
+21:44 - Mau Medeiros
+  Então, eu acho que gente não vai se abrugar enquanto a gente pelo menos não tiver esse fluxo inteiro desenhar assim, mapa, seu I-frame, qualquer coisa que queira chamar, para ela ver.  Ah, tá. Eu acho que dentro disso aqui, como a gente for fazer e tal, a gente conseguir pontuar isso aqui já está em desenvolvimento para o lançamento para o teste.  Isso aqui não foi desenvolvido ainda, isso aqui depois o teste vai ser redesenhado, sabe? Tipo, dentro de um mapa, não sei nem como fazer isso, mas assim, eu não como fazer isso não, mas eu não sei se existe alguma técnica, alguma coisa dentro de o X, além do airframe, mas assim, é meio que juntando o airframe e o fluxo junto com o que que tem que ser feito, que que não ser feito, quais são as dependências, é um grande mapão, sabe?
+
+22:45 - João Landeiro (joaolandeiro.com)
+  Porque o que que eu vejo?
+
+22:47 - Mau Medeiros
+  vejo que tem tudo muito na cabeça dela, o Ivoa está bem entende já qualquer, esse fluxo na cabeça dele, o pedido envolvido, ele está muito dentro de um aspect  ali mais de desenvolvimento de microfluxos, você tem, né, já entende a plataforma beta e tudo mais, e aí eu acho que não sei, me falta isso, aí é como se a gente pegasse essa planilha e colocasse aqui.  Ela sugeriu o Diara para a gente utilizar como gerenciador de tarefas. Eu acho que a gente vai se perder no Diara, não é nem a gente, acho que ela vai se perder no Diara.  Sim, também acho, concordo que não tem. É, porque daí precisa de um alto nível de de de de de gerenciamento ali, mas eu estou te mostrando isso porque assim, o que que eu fiz quando estava muito complicado, o que ela queria, ela podia passar dessa lista, né, dos outros formulários a gente fazer, né, então assim, coisas que dá para desenvolver agora e tudo aqui dentro do WIC não está nada,  envolvido, né? E eu falei isso? Não, tudo isso aqui é dentro do do envalamento por causa das isis. É certo, é certo.  E aí eu falei assim, tá, tudo bem, eu vou desenhar uma tela de um formulário, mas faz parte de um fluxo.  E é difícil desenhar um formulário por ser formulário sem entender um fluxo, né? Mas tudo bem, aí o que que eu peguei aqui, aí eu dei uma organizada pra ela, aí ela tinha passado um documento super confuso, depois ela deu uma simplificada aqui, Em cada uma das etapas a gente fez as telas, né?  De acordo com isso. Aí pra cada uma das etapas ali sobre etapas que a gente fez, aí eu fui colocando assim, quais são os documentos que iriam, em cada uma das partes, organizando pra ela, e ela foi trabalhando aqui em cima de uma maneira mais objetiva, sabe?  Ok.
+
+25:00 - João Landeiro (joaolandeiro.com)
+  sem meu objetivo.
+
+25:01 - Mau Medeiros
+  eu estou te mostrando isso porque no final das contas eu achei um método bom de trabalhar. Aí o que eu fiz?  Aí a partir do momento que a gente desenvolveu algumas telas, depois de entender o processo, nem avaliou ainda, eu colei aqui, ah, então esse processo está relacionado com isso e tal e tudo mais.  Ah, então as formulárias viraram isso. Então assim, o trabalho que a gente fez era aquilo que a gente fez.  Então assim, eu fui criando essas histórias aqui porque aí eu achei mais fácil de conversar com ela. E assim, ela tinha um documento que falava, né, de todo esse, esse processo aqui, né, de dar isso e aí depois ela foi vivendo os testes, simplificando, simplificando e aí eu fui colocando aqui, né, numa forma visual.  E aí no meio das contas que apareceu essas quatro, Efez aqui era do Serém Feitas, que apareceu lá no Slack.  E a gente discutiu um pouco sobre elas na sexta-feira, mas foi bem rolada, por isso que eu quero ouvir a dervação, assim que o Romeo liberar.  Então, essas telas, uma a gente já tinha previamente desenhado, que eles tinham pedido, simplesmente ela tinha pedido para redesenhar, para deixar mais legal, aí eu fiz perguntas para ela, e ela era só um desenho visual mesmo, aí na verdade quando a gente chega na hora de fazer, tem outras sessões a serem feitas aqui, que não estão desenhadas aqui.  Esse aqui é uma parte importante, que gente tinha pedido para a gente redesenhar, porque tem um exemplo que eles já fizeram, aí tem os comentários aqui, a gente tem que dar uma olhada.  Aí tem duas tarefas relacionadas com a lista de usuários. e também o grupo de usuários. Então, tem algumas indicações aqui como a gente pode desenhar isso.  E aí tem uma outra tarefa aqui também. mais simples, digamos assim, que é deixar isso aqui mais visualmente agradável, não é?  deixar... Estão ficadas.
+
+27:21 - João Landeiro (joaolandeiro.com)
+  É, exatamente.
+
+27:22 - Mau Medeiros
+  Pode ser centralizado, enfim, e tudo mais. são coisas, principalmente algumas razões simples e outras um pouquinho mais complexas que eu acho que é essa aqui, que é, assim, a tela mais complexa no final das contas, não é?  Precisa analisar com mais calma. Então, é isso que a gente entende de tarefa, tá? Então, os formulários a gente desenhou algum só pra ela ver como ficariam.  Acho que a gente espera desenvolver tudo aí pra poder aplicar isso de uma forma mais eficiente. Então, temos isso desenhado.  E essas são as demandas pra semana, por enquanto. Só pra você saber de jeito nenhum. Esse miro é o miro du ex, esse miro du ex que está meio bagunçado, mas eu também não quero divulgar porque a ex fez o máximo que pode em muito pouco tempo e aí eu estou criando partes novas também por dois motivos, né?  Eu acho que é interessante o 1 pelo que a gente já falou de ela ter uma conseguir organizar melhor a partir do momento que ela vê as coisas e outra até por documentação de desenvolvimento do projeto.  Então assim, estou te mostrando isso para a gente ver como é que a gente pensa isso que você falou na questão de organização versus uma forma interessante de ver porque eu não sei quando uma planilha ser eficiente para ela, sabe?  Não, eu concordo, eu concordo, eu acho que...
+
+29:02 - João Landeiro (joaolandeiro.com)
+  Não, acho que ele não vai criar planilha. Mas isto que tu me mostraste, acho que é um bom intermédio.  assim, isto não parece uma planilha, mas está tão estruturado quanto uma planilha. Então, eu acho que isto é bom.
+
+29:20 - Mau Medeiros
+  É, isto precisa ter resposta agora, mas para a gente analisar com calmo, sim. É, aquilo que você tem naquela...  Teu gráfico assim, agora, semana que vem, a outra. Não lembro como que se chama, mas você tinha aquelas coisas de urgência, sem urgência e...  Seja uma tabelinha lá, em algum momento, você fez em um dos vídeos. Num dos últimos, né?
+
+29:46 - João Landeiro (joaolandeiro.com)
+  É, eu acho que até foi mais do início, Ah, já sai, já sai, já sai. Sim, nós temos isso.  Acho que uma das dificuldades que eu começo a sentir no projeto... E acho que se nós sentimos e se ela deve sentir isso ainda mais, é os vários documentos, né?  E cada documento tem uma parte do mapa, mas nenhum deles tem um mapa completo. Então fica um bocado assim, ah, onde é que a gente teve essa conversa?  Putz? Foi naquele momento. E aí, mesmo para nós, que acho que temos uma forma de pensar mais organizada, começa a ficar, putz, onde é era?  Para ela deixa eu disser. Eu acho. Então, pensando se é o caso de... Posso fazer isso? Não é um problema fazer isso.  Tentar centralizar as coisas num lugar só para não haver aquela questão de... Espera, deixa eu procurar aqui um negócio que eu vou te mostrar.  Então, dá-me um solinho. Tá. Agora o meu Miro vou ter meia desliga, não sei porquê. Ok, eu vou compressar a tela contigo.  Esse aqui foi o Miro que eu fiz para falar com um cara que eu estava a perguntar, era um cara para fazer uns projetos juntos, a gente estava vendo as 5 horas referências de cada um, o que eu podia fazer e tal, por aí fora, certo?  E o eu fiz foi, isso é tudo o Miro, né, naturalmente, e tem... e tem estes tópicos, são coisas que eu acho legais, ok?  Então deixa eu mostrar aqui com zoom.
+
+32:05 - Mau Medeiros
+  É azul, gel e verde, certo?
+
+32:07 - João Landeiro (joaolandeiro.com)
+  Então, quando eu abro o link do miro, começa aqui. E tem três temas, né? Então, feitos, coisas que me interessam.  Vibes, tipo o modo bordo, né?
+
+32:20 - Mau Medeiros
+  E aí, esses coisas e links, né?
+
+32:22 - João Landeiro (joaolandeiro.com)
+  clico aqui e isso é fácil fazer. Quer dizer, é fácil. Dá trabalho, mas não é... É demorado, mas não é difícil.  E eu tipo, ah, então tem estes três produtos que eu fiz. Então, olha, este produto pode explicar aqui, ok?  E ele vai para aqui e explica o produto todo, certo? Essa navegação do miro é bem boa, na verdade.
+
+32:41 - Mau Medeiros
+  Eu já o sei bastante.
+
+32:43 - João Landeiro (joaolandeiro.com)
+  E eu acho que, talvez, seja um pouco isto que a gente pode fazer aqui. Tipo, olha, abre o miro, o miro do fortify, ok?  E no miro do fortify, abre, tipo assim, tem como se fosse um menu, né? E tipo, putz, o que é que se fez?  A gente clica aqui e vai para x. O que nós fizemos para resolver, e pelo menos fica tudo num lugar, e quando a pessoa não sabe, ah, onde é está, onde é que não está?  Não tem vários links para andar à procura, sabes? Eu acho que talvez eu... Enfim, teremos que se vir, se vale a pena ou eu acho que pode ser uma coisa que ajuda, não sei.
+
+33:19 - Mau Medeiros
+  Eu acho que é válido pelo sentido, tipo, a gente teve uma reunião que ela queria trabalhar, e um momento na questão de login, e aí depois isso virou uma outra coisa, e as discussões aumentaram, não é?  Então... Agora eu nem, eu nem, nem eu senti que desenvolveu essa tela, que a gente estava conversando bastante com ela, não.  Não é demanda disso, mas assim, a gente viu que não era só login, né? gente entendeu que era uma coisa maior e tal, então...  Aí a gente orientou ela para o outro caminho, não é? O que eu gosto desse tipo de sistema... Total Design System, que ele está relacionado com a gente, dependendo de a gente for.  Ele é documental, ele também é de desenvolvimento. Ele tem links, exemplo, se a gente armazenar documentos, um único Drive.  O link vai para este Drive. Se esses documentos estão online, estão sendo atualizados frequentemente, eu sei lá o que, a gente precisa dar um...  A gente precisa dar um... Atualizar, um Red Zap e tal, tudo mais. Então, assim, eu acho que a gente pode propor, né?  Eu acho que, por isso que eu digo assim, a tem dois momentos agora. Esses próprios dias, as tarefas aqui têm que ser feitas, repensados e repistas.  o Romeo está no disponível. Acho que sendo da nós três, ali está no tempo para você... olhar, entender para ver o está sendo feito e a gente sugere para ela ao mesmo tempo a gente fazer esse mapa geral e talvez ela possa ajudar, né?  Não sei se é uma sessão que eu faço sozinho, ou ela pelo menos ela mostra a estrutura toda do site, né?  Porque eu não vi isso, eu vi que a EGS valhou em jornadas específicas, né? Eu não vi isso se tinha uma estrutura que mostrava tudo do site, né?  Mostrava tudo da plataforma. Esse desenho que a gente está falando esse mapão geral, eu não lembro que cabeça se tinha isso ou não.
+
+35:43 - João Landeiro (joaolandeiro.com)
+  Eu acho que não, eu acho que não, até porque o mapa fica desatualizado imediatamente, né? Tipo, gente faz o mapa, a pessoa começa a desavirar uma coisa, aquela coisa já está feita, não sei quem, então assim.  O ponto, eu acho que é por isso que talvez ter um mapa só, um documento só é bom, que é só um lugar para atualizar, é?  Estas coisas, pronto, vão ficando desatualizadas e aí gente já não sabe se pode confiar naquele documento ou não e aí fica na dúvida e aí vai perguntar ao cara, o cara demora a responder, são as coisas que fazem o projeto demorar.  Então eu acho que o mapa do site faz sentido e, pois, é como muito teste. Dentro do mapa do site a gente pode ter o link, olha, esta parte do mapa do site, está a do input e portals, este é o link que vai por cima, tem o input e portals, algo assim.
+
+36:45 - Mau Medeiros
+  É, vamos pensar e sugerir para ela, então. Mas tu acha que a sugera nesta conversa agora ou prefere se a gente se preparar melhor?  Então, inclusive, a gente pode conversar com ela, falar olha, até se você quisesse um a molhar, mostrar esse modelo, com uma ideia de estrutura, que não é estrutura, mas a gente entender de uma forma mais elaborada e tal.  E aí combinar com ela, fazer os combinados com ela. Eu acho que o que a gente tem agora são tarefas específicas que a gente vai vai olhar e vai fazer para semana e a gente vê na verdade o que ela quer dizer com essa dele, que ela a princípio marcou todos os dias.  E aí a gente olhar, hoje é fazer o combinado, foi uma coisa... Que ela sugeriu, eu a princípio disse que sim, vamos ver como é que a gente faz, por exemplo, porque...  Aí entra uma outra camada. Por exemplo, o Romeo diz que tem disponibilidade X para o projeto, como se tivesse meio período toda semana.  Se ele for participar dele todo dia e depois repensar, ele não tem horas suficientes para trabalhar. Aí, a pergunta é para ela.  Você quer esses profissionais de acordo, obviamente, com a locação dedicada a esse projeto? Você quer trabalhar dessa forma? Aí é uma questão de negociação, é?  O que é ela aprende mais precisa, não é? Sim.
+
+38:35 - João Landeiro (joaolandeiro.com)
+  Eu acho que uma pergunta que é muito importante é a gente tentar perceber porque é ela quer as delas.  Ok? Não estamos a dizer que a ideia é ruim, mas é importante perceber porque, qual problema que ela acha que a dele resolve?  Se o problema que a gente tem é falta de clareza dela, a dele não resolve isso. A dele é até complica, porque como ela não tem clareza, cada vez que tem uma dele, ela vai revisitar decisões dela.  Então, se o problema é, eu não sei o que está sendo desenvolvido, nós temos que... Muitas vezes, isso já aconteceu outra vez, a gente também deve ter acontecido, que é o cliente que começa a ficar um bocado perdido, ou na dúvida se a gente está fazendo o que é preciso e feito, e quer começar a de mais perto.  Só que aí acontece, eu também estou a descrever, é que a gente começa a gastar tempo só fazendo os status report.  No contexto de uma empresa que paga salário e não paga mais por reunião, isso é uma coisa. No contexto de uma que paga por tempo, é outra coisa.  E no caso dela, ela paga por essa alinhamento. Então, assim, qual é o problema que ela quer resolver com ela?  Eu quero saber o que está acontecendo. Tá bom. Eu quero ter mais discussões para definir as features... os negócios.
+
+40:00 - Mau Medeiros
+  É o outro tipo de situação, né?
+
+40:03 - João Landeiro (joaolandeiro.com)
+  Eu acho que também parte do nosso papel é... Acho que nós temos, e parece-me da parte dela temos essa abertura, é trazer a se olhar de encontrar os ferramentas certas para o problema certo.  Ela não tem muito repertório dessas coisas. Então, ela já ouviu falar em Daily, e Daily é uma palavra que também me é igual para os políticos, mas se calhar o que ela precisa não é Daily, se calhar o ela precisa é...  Não conversas todos os dias, mas toda semana a gente tem uma sessão de hora e meia para tratar de um assunto e não pode sair daquilo...  Essa também é uma questão que é assim. Eu estou falando do pai nosso a papo, né? A forma de ela trabalhar, afecta muito o projeto.  A partir de qual momento é que a gente diz, podemos fazer uma sustana... uma forma a trabalhar, porque nós estamos tentando nos adaptar a isso, né?  Estamos fazendo isso com bastante sinceridade e interesse pelo cliente. Mas eu acho que importante ela ter a noção, e às vezes mais simpáticos e mais poluídos de dizer isto, que ela também, quanto founder, tem que dar uma evoluída algumas coisas.  Eu não sei como lhe dizer isso, mas acho que é claro que isso afeta o projeto. É muito sensível não ter que me dizer isto.
+
+41:38 - Mau Medeiros
+  Eu não sei, João, porque ela teve um momento que ela disse, eu quero vocês, né, como nas áreas estratégicas e em uma empresa que me oferece, eu estou comprando só serviços de UX, eu quero que eu deixe aberto aqui para vocês me dizerem o que eu devo fazer.  Então ela já deu essa abertura para a gente. E ela é muito... Acho que o objetivo, eu não acho que ela se...  Não, é o Tafúmino. Ela não se... Como é que é Tafúmino? Tafúmino, ela é uma mulher forte. Sim, sim, sim.  Então, assim, e ela... Além de ser uma mulher forte, pragmática, precisa fazer as coisas acontecerem, que ela também se ferrou com...  saída de um... E assim, foi... Ela deu essa liberdade. Então, assim, a gente pode, de maneira ótima, muito diplomática, não vejo você fazer as filhotrações.  Ah, não sei que você tenha mudado, nos últimos 15 dias. tipo, olha, a gente analisou muito o processo todo, o processo de trabalho.  A gente quer que ajudar e a gente está propondo este sistema aqui. Pode ser que você não seja familiarizado com isso, mas a gente, como expertos, gente quer trabalhar dessa forma.  que é implementar esse sistema para que a gente possa ser mais eficiente. ela se sentir, acho que esse é o discurso.
+
+43:07 - João Landeiro (joaolandeiro.com)
+  Ok, não, eu acho que um quarto tem que entender o ponto.
+
+43:11 - Mau Medeiros
+  Se ela fosse uma pessoa muito rígida e tal, aqui assim ela não consegue trabalhar de outra forma, porque ela está com um pipi não, não, não.  E ela tem uma grande oportunidade de negócio, que é legal, é um projeto dela de startup. Ela tem investidores que acreditam nela.  Ela está com dificuldade de manejar tudo e família e tudo mais. Então assim, ela nunca me pareceu, ela quer na verdade me ajuda, me solucione isso e tudo mais.  Então acho que é bem tranquilo a sua conversa, tá?
+
+43:52 - João Landeiro (joaolandeiro.com)
+  Ok, perfeito, visto desse ponto de vista, entendo o teu olhar. A é, ok, de eu abrir mais, o ponto é, gente vai ter uma daqui a bocado, o foco dessa que a gente vai ter daqui a bocado é mais situar do que é acontece entretanto.  Eu confio, né, se eu te ver errando. E também tentar entender a seção das dailies, né? Quero saber, olha, o que é tu gostaria de resolver com as dailies?  Porque as dailies são boas para isto e para outras coisas. Aliás, eu posso fazer essa preparação se quiseres, não preciso de momento nenhum, é só uma lista de argumentos, de coisas que não são dailies, que talvez ajudem com o problema que nós vemos.  Aliás, isso te ajudaria? Sim, sim.
+
+44:54 - Mau Medeiros
+  Mas não, acho que assim, a gente vai mostrar caminhos para ela e olhar assim, gente... Foi uma reunião bastante comum.  complexo, tenta organizar de uma certa forma organizou e a gente falou assim, vamos falar mais vezes durante semana pra gente ir e tirando os nossos.  Então assim, nada nada nada nada significa que a gente não possa hoje chegar assim, a gente ouviu, a gente já não tá voltando, gente tá pensando em como otimizar todas essas questões e a gente sugere tá duas vezes por semana, duas vezes por semana, enfim, aí gente pode sugerir, acho que foi uma coisa é o que ela falou, né, parte, às vezes por essa conta a gente fala só na segunda e sexta e a gente tem demandas mais urgentes, aí talvez fique muito espaçado pra gente chegar, apresentar e dizer que não era bem aquilo ou mudou no meio do caminho.  O que nos diz é assim, vamos olhar com mais profundidade pra cada uma das questões.
+
+46:02 - João Landeiro (joaolandeiro.com)
+  Ok, bem, então nesse caso, obrigado pelo contexto, vou dar aqui uma pesquisa da cálcula só para não entrar pelado nessa reunião de argumentos, e aí a gente explora possibilidades que não sejam deles, porque tem dois questões na dele, três questões, uma assim, é evidente aqui entre nós que gente não quer participar em deles, acho que é um mau uso do tempo.  A gente põe o contador a funcionar e cobra por isso, mas é um mau uso do tempo. O segundo ponto é que sempre que a gente se reúne com ela, coisa se expande mais, ter a Daileys é aumentar isso ainda mais, né?  E terceiro, a Daileys rouba um tempo que pode ser usada para desenvolver coisas, especialmente no contexto em que as pessoas não estão empregadas full-time.
+
+46:55 - Mau Medeiros
+  Eu acho que é bom que abriu de novo a discussão com ela. O que eu vou conduzindo é só, a gente está analisando o a gente foi conversando a sexta-feira, está organizando a sexta-feira, ninguém trabalhou a de semana e também a sexta-feira tinha outros projetos.  gente está chegando hoje, a gente atualizou o João, então gente vai trabalhar com o João nessas demandas para ele não entender se situar, a gente conversou hoje a gente conversou sobre um plano maior e a gente quer sugerir uma forma de trabalho que ao mesmo tempo que a gente não, que a gente atenda essas pequenas necessidades para o dia 25, para o lançamento que ele já falou que ficaria para primeira semana de fevereiro, a gente não deixa ir trabalhando estratégicamente e entendendo o nosso papel estratégico do projeto inteiro.  Então acho que esse é o meu discurso aqui hoje para a gente conversar, porque não sei que ela tem alguma coisa mais específica também para trazer.
+
+47:59 - João Landeiro (joaolandeiro.com)
+  Perfeito. Ok, isso então. Mas acho que essa extraição do Poppins Hospital também é relevant.
+
+48:08 - Mau Medeiros
+  Então beleza, estão os combinados então. We are combinated. We are combinated.
+
+48:15 - João Landeiro (joaolandeiro.com)
+  Qualquer coisa, né, passa um mensagem legata que a gente fala.
+
+48:21 - Mau Medeiros
+  Então tá bom, John, welcome back.
+
+48:25 - João Landeiro (joaolandeiro.com)
+  Wee, preferi para França. Agora tá com o stack francês.
+
+48:30 - Mau Medeiros
+  Tipo Pepe Le Pew. Lembra desse desenho?
+
+48:35 - João Landeiro (joaolandeiro.com)
+  Lembra desse desenho? Era um terado, né, no fundo era um terado. Sim, um dos melhores desenhos do mundo.
+
+48:44 - Mau Medeiros
+  Hoje não passa mais essas coisas.
+
+48:47 - João Landeiro (joaolandeiro.com)
+  Não, não passa mais nada.
+
+48:49 - Mau Medeiros
+  Eles não poderiam ter criado um gambá mais associado que é um assim, não desiste, é fedido e é francês.  Tá perfeito, tá perfeito. É muito bom isso que eles dizem.
+
+49:07 - João Landeiro (joaolandeiro.com)
+  Falou muito bem agora, de verdade.

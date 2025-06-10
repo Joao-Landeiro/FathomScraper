@@ -1,0 +1,309 @@
+---
+title: Impromptu Google Meet Meeting
+date: '2025-01-15T16:03:06.000000Z'
+duration: 15m
+participants:
+- João
+source: https://fathom.video/calls/213515039
+encoding: utf-8
+scrapingdate: '2025-06-09T19:29:34.072721+00:00'
+---
+
+Impromptu Google Meet Meeting - January 15
+VIEW RECORDING - 60 mins (No highlights): https://fathom.video/share/gxBskKhj8tfb5pCPdMDx_RoQpxzXhdae
+
+---
+
+0:02 - João Landeiro
+  Bom, eu acho que se o carro se instala de novo, tem algumas questões que ela falou, eu acho que realmente eu bati o cabelo e só vou levar teu cabeça no mesmo tempo, mas também, além dos tempos, não serem muito corretos.  O pedido não foi tão simples, então, claro, sim, e é assim que as coisas brilharam. Por isso que eu perguntei, né, Romeo, porque quando a gente veio hoje, eu estava com uma visão bem clara da plataforma, eu não tinha a visão, estou melhorando, e aí as vezes, né, parece que tanto eu quanto você, a estava falando muito paralelamente, a gente falou que a pessoa mora.  Então assim, pelo menos, é como ter um breakthrough. e eu assunei essa questão, então bati um pouco de cabeça na exploração.  E talvez a minha tentativa de tentar organizar, organizar, organizar, foi aí que a gente estendeu muito tempo, e aí ela achou que não pode ser assim.  Então, isso é uma questão para a gente avaliar. Então, como a gente está feliz com o resultado do trabalho, criativamente a gente chega lá, gente tem uma visão estratégica, para médio e longo prazo, e mais para as coisas mais imediatas, tem ainda muita batição de cabeça.  Eu não acredito que a gente consiga, ela apropela muito. Então, assim, não sei se vai haver algum processo que resolva isso.  assim, só a minha questão. A reunião é sempre muito caótica, porque como ela está olhando 24 horas para isso, então, de novo, eu volto naquilo que gente conseguisse categorizar, arrumar as cores aqui, x horas.  Revisar o fluxo aqui, de tal horas. Aquilo que a gente vê agora na tela do formulario, é colocar uma tabela na história, como é o ganho que a gente tem com relação ao usuário.  Ela quer fazer isso agora, ela precisa fazer isso agora, pelo que eu vi, ainda a fez uma versão muito simplificada.  Você fez uma versão simplificada do formulario, mas se copiar e colar direto, é isso que a fez. Então, os comentários gerais, para a gente acertar uma forma, o meu João está com uma cara feliz, eu acho que ele sabe o que ele quer, o que ele pode fazer.  Esse é um comentário geral da reunião, tem uma certa infraestração, em nenhum momento ela aprecia, está feliz com o trabalho, claro, só era uma bagunça, a história que está rolando.  E aí, com a Elisa, experimenteu um contato diferente com as pessoas. Não acredito que o Rui tenha despendido mais tempo nos Outro Shops aí, colocaram a final para ficar falando e executando tarefas.  Então só olhando o cenário que a gente tem hoje, com a ficação comentário geral. Ainda não sei, eu tentei estabelecer um processo ali, mas com o erro que a tem que a que falado, parte de derrute, se você é tão processual, tem que ser uma coisa mais certa, mas aí hoje quando ela vem com uma série de pedidos e não ter um processo, aí eu fico, como que a gente resolve isso se a gente quer resolver isso?
+
+3:40 - Romeu Rodrigues
+  É, concordo bastante, compreendo assim, realmente, apoio essa ideia de que o João está muito mais imerso na plataforma lembra que é a gente.  No momento ali que eu acredito que eu entendi o fluxo ali, eu vejo que quando a gente faz aguentar ele ficou faltando alguma coisa.  Esse exemplo dos formulários ali, eu tinha entendido o que ela tinha falado. para criar um formulário com base aqui nesse excel aqui.  Aí pelo que a gente mostrou hoje ali, eu que não era ver o que ela queria, queria um frio, então aí eu não sei se ela não sabe, na hora da solicitação ali, ela não soube o solicitar, ou se a gente teve um entendimento raro da tarefa, então por isso que eu acredito assim, que realmente esse processo que a gente comentou com o Ivan, aquele que talvez não precise, talvez não da parte dele, que ele é um pouco mais direto ali nas tarefas, é mais ouvindo dela assim, Ah, quero um design disso aqui.  Eu vejo sempre quando ela faz as solicitações, nesse meio tempo ali, no entendimento, como sei, quando gente entrega ali, parece que ficou faltando alguma coisa de entendimento assim mais, não sei se ela não soube explicar, a gente não soube entender o ela pediu, e aí está tendo esse ruído ali, então, apresenta hoje também ali, o João mostrou aquela tabela da tarefa nova, que tem ali o check list e o link e tal.  Aí pelo que eu entendi, beleza, não tem um função onde ela colocar, só que o design disso aqui,
+
+5:00 - João Landeiro
+  um momento ali então e esse ela tá meio nebuloso assim quando ela solicita essas pequenas coisinhas assim ainda né eu vejo que ela quer uma dinâmica mais a mais rápida não entende muito mais mas com riso ali de cada tarefa né acho que isso que a gente tá eu também e tem uma coisa que eu falo aí tá adicionando que é assim ela ela não tem não é como ela mesmo falou e acessando as áreas ela mexa e ela tava no fígado já mexendo em coisa que ela deveria mexer então deveria não tem como é o processo que a interessa mas a gente já sabe que ela ela ela muda e ela vai ver a partir do momento que ela ver uma coisa desenhada ela não consegue ter esse poder de abstração então quando ela quando ela enxerga as coisinhas acho que fez maldinha ou enfim não era disso que esperava ou enfim tudo mais  pegar esse exemplo do formular que a gente acabou de ver. O desenho que você fez é super simples. Aí é de novo volta o pedido, né?  A gente... primeira coisa é eu ganho de digitalização um processo. Então, assim, o brief tem que ser mais claro.  Porque eu quero desenhar uma tabela igual exatamente só, mesmo formular, mesmo formar, só que lá dentro da história. Resolve o problema, eu acho que não resolve o problema.  Porque assim, tem campos limitados, aí eu não sei. E é muito mais a construção de plataforma, né? É isso que eu estou imaginando.  Uma coisa do Excel, você pode se perder um testemunho óbvio, a tabela vai aumentar automaticamente. Enfim, já não tem se não há plataforma, isso vai acontecer, entendeu?  Então, tem essas pequenos detalhes que... Eu, no meu ponto de vista, a gente sabe que quando ela veio, ela era bem isso, não era bem isso.  Aí ela confundia também que eu preciso ter esse entregue, mas, ao mesmo tempo, Ivan, ontem, falou que não quero nada disso.  O que precisa ser entregue, a gente tem que focar nisso aqui, são assim, esse menino, esse, eu não tenho.
+
+7:06 - Romeu Rodrigues
+  Esse aqui é o mesmo que ela mandou ali, eu tinha suprimentendido que aquilo ali seria um campo onde ela pudesse imprencher ali, Alguns campos são fechados, outros não, né?  Mas eu entendi que ele seria uma etapa de algum formato que ela ainda vai usar, que ela ia não tem ainda o fluxo, ele vai colocar essa forma aqui, mas a gente já precisa criar ele.  Aí quando ela viva ali eu vi que era uma outra coisa que eu não entendi ali, sabe, nessa solicitação dela.
+
+7:30 - João Landeiro
+  Vamos lá, você.
+
+7:37 - Romeu Rodrigues
+  Ok.
+
+7:40 - João Landeiro
+  Quando a pessoa fala assim, ok, por onde eu começo? Eu acho que as pedras do projeto que são muito complexas por causa do repertório, causa da experiência e da alcance de produtos digitais.  E por causa da proximidade que ela tem com o tema e coisas desse tipo, acho que e da organização, claramente a organização é um problema, como a verdade das coisas, como ela explica as coisas, isso é um problema e eu acho que isso é um pouco como o tempo, a gente não muda o tempo, a gente põe um casaco.  Então agora há uma questão de nós temos casaco, nós queremos pôr um casaco, são questões diferentes, mas o tempo a gente não conta, a gente se adapta a ele.  Então, considerando isso, acho que o projeto sempre vai ter um nível de caos diferente do que se fosse um cliente super organizado, isso vai sempre existir.  Então, o casacos nós podemos pôr? Que coisas nós devemos fazer, que ainda estão dentro do domínio do gay, compromisso, nós não vamos ver as cravas da mulher, não é sobre isso.  Mas que tipo de coisa que nós podemos fazer que ajudam a atinuar um pouco isto, ok? Eu acho que a nossa comunicação nas Coles é um problema.  Não é só questão da língua, eu acho que é uma questão de nós passarmos a imagem de que a gente está focado na parada.  Então, por exemplo, não sei, a mim me ajuda a ideia de que a gente está na cole e está olhando para o slack.  Eu tenho uma árvore do slack para estas Coles, estou sempre a olhar para ela e estou fazendo perguntas e tal.  E isto não é um trabalho adicional. gente pode fazer isto, não custa mais, gente faz isto e ajuda na hora.  E esse é um ponto. Outro ponto que ela pediu agora e que a gente pode começar a fazer é mandar prints em completos, em perfeitos.  Tipo, eu estou indo nesta direção. Se achas, joga no select, tá feio, joga no select, ok? Eu não sei se é uma coisa que é possível fazer, porque eu também dependo do jeito de trabalhar, mas às vezes, cara, é pegar num caderno, fazer umas caixas, tipo, é isto, foto, teia, desfocada, torta, manda, é isto.  Porque apesar de reconhecer todas as dificuldades e insuficiências dela, alguns pontos... Eu, se tivesse num caderno, teria muito intenso.  Eu entendo o lado dela, como assim? Falamos sexta-feira, hoje é quarta-feira, final do dia de quarta-feira, para ela, ainda não sabe...  A pergunta que ela está a fazer agora é uma pergunta de estimativa. A pergunta que ela está a fazer é, quanto tempo é que demorou para fazer isto?  Esta pergunta é um sinal muito forte daquela que que pouca coisa foi feita. Se nós não achamos que pouca coisa foi feita, nós temos que comunicar isto de uma forma diferente.  Se isto é muito mais complexo que que aparece, se isto, para quem não sabe, parece que mora 15 minutos, mas para quem sabe, demora 4 horas, a gente tem que comunicar isto antes dela sentir a dúvida.
+
+11:14 - Romeu Rodrigues
+  Então, o foi isso, Mau, foi quando eu peguei aquele formulário todo dela, transformei nas etapas, deu errado, aí te chamei, você tentou me ajudar também, gente foi meio que reduzindo ali.  Naquela coisa toda, se transformou em dois formulários, eu acho que foi a sensação dela. Se a gente passou tanto tempo entendendo, fazendo vários negocinhos ali, e aí no final a entrega realmente foram dois ali, só que o por trás ali, os rastros que a gente tinha feito, que até estavam os entregáveis que eu te passei, ela não viu, então, para a sensação a feita, todo o tempo de processo foi aquele de duas telinhas, acho que é isso que o grupo está falando.  Exato.
+
+11:47 - João Landeiro
+  E a não mostrou hoje ali também, estava acima dessas duas formulárias, e que isso, eu acho que assim, é só pegar os pontos, para tentar achar uma solução.  Por exemplo, quando a gente estava lá entendendo os desenhos formulários, que a gente chegou no concordado, no entendimento, e tudo mais, começaram a ouvir...  Isso é outra coisa. É, o cliente também nunca considera, apesar de não ser bem honesta com a história. Tanto que tem uma coisa no exáculo que é muito obrigado pela facilidade de parar os formulários para pegar essas tarefas aqui.  Então, assim, o que eu entendo, em mesmo um desenho de processo como você está falando, a mãe do cliente manda alguma coisa, para resolver coisas rápidas...  Eu não estou colocando na minha cabeça como fazer isso, como se ela precisasse ver o exáculo do tempo, para ficar com ela fazendo as coisas.  Aí eu fico que precisa da gente. Então, assim, para quem que ela precisa a seela, no sentido que eu estou falando a eu e o João, na verdade eu estou aqui mais do que eu deveria, né, porque eu combinado, assim, mas tudo bem.  Então, aí, para conseguir o cliente, assim, como é a história toda, para manejar o cliente, para ter esse job que é muito legal.  Mas aí eu fico pensando, se ela quer isso, para algumas coisas, então, eu não sei, eu não conseguia ainda entender como resolver isso, entende?  Mas, assim, a pergunta que ela fez, né, estava relacionada com uma coisa que a gente deveria ter apresentado na sexta-feira, que são as três formulárias que a gente combinou, e aí a reunião foi a outra coisa que daí foi, justamente, entender o que o Ivan estava querendo pedir lá, nas quatro, cinco requests lá, e a gente não apresentou para ela, porque eu gostaria de ter apresentado, e também não mandei para ela.  Só que daí, assim. Eu percebo do jogo que ela está falando e ela está falando e é que, assim, três horas, o que ela não entendeu, acho que ela tem outra lógica.  Se eu levar uma hora para fazer isso, ele já tem que sair fazendo, entendeu? Sim, não é isso, comparto contigo.  É, então assim, não é porque dá uma hora, uma hora e, assim, é aquela coisa do sono. Ela está em dúvida, a gente tem os relatórios que podem comprovar isso.  Então, eu vou passar com o meu relatório, a nossa baterção de cabeça, da linha, enfim, aquela coisa toda. Isso é o que foi feito enquanto o tempo foi feito isso.
+
+14:45 - Romeu Rodrigues
+  Então, a gente tirar a dúvida dela de como é essa sensação de que a gente talvez... Não sei como posso usar o tempo, eu sei que ela tem a sensação de que está demorando muito uma tarefa ali.  Será que precisa dar tudo isso mesmo? Será que será que as não estão enflando as horas ali, sei lá, não sei, no entendimento da tarefa, né?
+
+15:06 - João Landeiro
+  Eu acho que quando ela pergunta sobre a duração, a forma que eu interpretei não foi tanto, tipo, aquela desconfia que a gente está enganando o erro, como que se vê assim.  Eu acho que eu senti que é ela cantando, aprendendo, tipo, ok, então quando eu peço isto demora isto, então se eu pedir isto, vai demorar quanto?  E claro que vai ser difícil ela ganhar esta capacidade de previsão ótima, como se tem difícil. Mas com o tempo ela vai começando a perceber, ah, então não é só um botão, né?  Quando eu pedi só um botão, na verdade, vocês sentem várias telas, porque... E se a gente for explicando isto, ao escolher o tempo, ela vai começando a perceber, por exemplo, essa checklist é muito mais complexo que ela está falando.  É toda uma tela, onde é que você vai? Onde é que eu ponho a checklist? Então a gente tem que mostrar isso, eu acho que ela ver o processo...  Eu estou aberto a ser outra forma, tá? Muito coisa assim, a gente mostra o processo lentamente, ela vai criando esse entendimento.  E outra coisa que ela também possa ajudar, eu não sei, é sugerir-me, jogando na mesa. É quando a gente fala de algum trabalho que foi feito ou apresenta algum trabalho, a gente ter uma noção dos bullet points assim do que é aconteceu para que o trabalho estará ali na frente.  Então, por exemplo, tem que estes formulários. Nós começamos a fazer um formulário, nós fazemos um teste, recebemos uma coisa, depois recebemos um feedback e tal.  É meio que um mini-histórico. Mas três pontos, não mais disso. Porque ela não tem experiência suficiente em design para olhar para uma porada e dizer, olha, isto aqui dá muito trabalho.  Ela não tem esse sentimento. É, por exemplo, isso do fome mesmo, ela tem um fome.
+
+16:55 - Romeu Rodrigues
+  Por exemplo, tem cancos ali que a gente pode já trazer como select, preenchendo com alguns dados. que já tenho para facilitar o fluxo do usuário.  Só que no campo dela estava aberto, a gente deixa sempre o campo aberto, no modelo mais antigo do cara de digitar tudo, a gente facilita a vida do usuário trazendo campos pré-entiros com alguns select com algumas categorias.  Então, assim, hoje que eu tentei traduzir no fome, ali na hora que ela viu, eu não sei se ela tinha entendido isso, né?  beleza, você já explicou, eles são press-holders e tal, na que a gente está só especiando os campos. Eu não sei se ela vai entendendo mesmo o que eu estou falando.  Eu acho que, pronto, a gente também está aprendendo.
+
+17:28 - João Landeiro
+  Coisas que funcionam com ela, ela vai ler de forma muito literal, certo? se a gente põe um placeholder, que ela é uma expert, vamos dizer que tem um formulário, e ela é uma expert em SG, ok?  E a gente precisa de um placeholder e a gente escreve qualquer coisa de pegada de carbono, ok? Só para encher o espaço.  Só que para ela, pegada de carbono quer dizer uma coisa muito específica, olha para aqueles, pera, pera, a gente teve a compagada de carbono.  Mais vale por um lorem ípsum. Acho que passou, eu e Rumeu a gente tinha comentado isso, porque até o Rumeu foi como iniciativa, o chato do PT, para que se achava algumas respostas, mas nesse tipo de questão, se você não tiver um contexto para dar pro chato do PT, ele vai te responder errada.
+
+18:24 - Romeu Rodrigues
+  Então, as categorias que eu puxei ali foi tipo isso, joguei, tipo, mais ou menos no contexto do que era o formulário, pedir umas categorias para preencher os types ali.  Eu já vi que não sei se ela só queria isso. Mas aí vai daquilo que o João também comentou ali, por exemplo, essa pedida agora do check list, que a gente criou a tarefa.  Aí ontem eu comentei, falei, você precisa de um pouco mais de papo com Ivan para entender a viabilidade técnica.  Sovamente eu consigo só colocar o check, o link, o formulário normal. Mas precisa de mais contexto da web, o que é isso aqui?  É só colocar um design ali. Isso, tudo pronto, só isso. Aí, acho que é aí que não é como hoje vamos falar, esse check list é um outro mundo ali que precisa ter mais compreensão e contexto para poder fazer.  Não só ligar, traduzir aquilo numa tela de wide design ali e botar um check list que entrega assim.
+
+19:19 - João Landeiro
+  Vocês conhecem uma ferramenta chamada Scalidrol, deixa-me ver se o nome é... Posso comprar a tela com vocês? Claro.
+
+19:28 - Romeu Rodrigues
+  Claro que não.
+
+19:29 - João Landeiro
+  Você está vindo de praça aqui. Muito bem. Eles estão se explorando batch na conversa, realmente.
+
+19:35 - Romeu Rodrigues
+  Essa aqui, então, é um trabalho traduzido, acho que é sensacional, essa red art.
+
+19:41 - João Landeiro
+  Ok, então esse aqui, deixa-me ver. Ah, eu, tá. O que, o que? O risco, aí, é foi eu, tá.  Você? Ah, é dele, é Fanto.
+
+19:52 - Romeu Rodrigues
+  É, é Fanto.
+
+19:54 - João Landeiro
+  Você fala o que é, você quer ver mais... Ok, então deixa-me mostrar aqui para vocês. Esse calidró é gratuito, só usar a parada, árvores já começam a E a questão é que ele deixa essa vibe meio...  Para quem se lembra do passado, de balsamic, parece um juboso, certo? Então gente, isso é bom porque ela já percebe que não é...  Não definitivo, né? Então ele diz, o que você está falando é por uma checkliste... Aqui... E ela diz, ah...  E ela diz, não, não, na verdade não é aqui a checkliste. Na verdade a checklist... Nós perguntamos, ah, é aqui a checkliste?  ela diz, não, não, não, eu quero a checkliste aqui, ok? Esta interação em que a gente tira aqui um print screen, né?  E joga no Coisa e pergunta aqui... É muito... Isto é muito rápido... É muito rápido de fazer, mais do que fazer no Figma E tira essa dúvida muito...  Muito depressa, Por exemplo, só tava aprovado aqui, eu não sei se o seu caso é cheio. Ah, ok.
+
+21:06 - Romeu Rodrigues
+  Então, pera aí.
+
+21:09 - João Landeiro
+  Mas vocês tavam vendo... Até não? Apresou só agora com os campinhos, mas acho que deu pra querer. Então aqui, ó...  É, vocês já perceberam, mas a questão é que esse desenho é super rápido, super tosco. O facto de ter essa aparência tosca também mostra que isso não é nada sério.  Mas já tiramos o desenho muito rápido, né? Então, às vezes eu acho que isso... Porque ela tem que ser educada a fazer briefing.  Ela não só fazer briefing, então temos que ser nois até puxar essa conversa. Acho que pode ajudar, mas também acho que vem aquele...
+
+21:42 - Romeu Rodrigues
+  O mal comentou ontem, Tipo, a gente tem pelo menos um matofluxo, né? A gente entende. Parece que vai entrar um lado onde, né?  Hoje ela comentou, beleza. Vai ter um audite ali e aí vai ter aqui o... O Shaquille, só que ela...  Eu espero que a gente não se entende de errado. Ela falou que ainda não está definida ainda, a gente está construindo aqui, vai dar onde que está pra que vai entrar esse...  Esse check-list não foi o que a falou, não. Então nem ela tem ainda onde vai entrar esse check-list, não é?  Vai ter o audios ali, mas não tem ainda o resto, não é? Vocês ouviram isso também?
+
+22:12 - João Landeiro
+  Sim, eu acho que sim, acho que você está certo. Eu acho que também...
+
+22:21 - Romeu Rodrigues
+  É, eu vejo você construindo coisas soltas assim, a cabeça se dá a trevar do mesmo tipo, onde que eles devem seguir isso aqui, sabe?  A vai ver esse check-list, esse fome, que tem um monte de ponta solta. gente não conseguiu apresentar isso para ela, então eu senti assim que ela teve essa necessidade de ter visto o que a gente tinha feito esses últimos dias, gente não apresentou nenhum fluxo do risk ali, nem esses formulários.  A minha sensação é talvez agora, como ela viu o bode ali do Gira, opa, a Laura está trabalhando isso aqui, isso aqui.  Não sei, a minha sensação é que o Gira passe para ela ali um pouquinho mais de tranquilidade, porra, está correndo isso aqui, que é bom aqui, oriento aqui, e jogamos para a aqui.  Porque para mim, assim, estava tipo todo jogado. Estava na 5, as telas ali, mandava por e-mail, apelha por e-mail, respondia pelo e lá.  Acho que agora, pela gira, assim, todo um pouquinho mais tranquilo assim, do que o estátua. Sim.
+
+23:12 - João Landeiro
+  Teclamentos diferentes dão visibilidade de aspectos diferentes do projeto, né? gira é bom para dar visibilidade do que que está acontecendo no projeto.  O gira não é bom para dizer o que falta no mapa do projeto, né? Então, a gente está percebendo isso, que a gente precisa ter formas de tirar a dúvida para coisas distintas.  Essa questão do mapa, a gente vai ter que fazer, porque surge várias vezes, mas no gira concordo, o gira ajuda com isso.  E outra coisa que acho que a pode pôr no gira, é quando a gente está fazendo uma tarefa, e isso também serve...  Sabe para todos nós que eu também tenho que uma tarefa que eu tenho que fazer, é por uma ideia estimativa, nem que seja no comentário, no card.
+
+23:53 - Romeu Rodrigues
+  Eu acho que o gira tem uma cartinha de horas da tarefa.
+
+23:58 - João Landeiro
+  Sim. O gira tem... É certo de fazer isso, mas nem precisamos nos preocupar com esse formalismo todo na minha opinião.  É só tipo, olha, esta é uma terça de dois dias trabalho. Eu acho que vou conseguir entregar isto no dia tal.  Acho que isso já começa. o que estamos lidando aqui? É uma pessoa ansiosa. Pronto, é uma pessoa ansiosa. O que é que tira a ansiedade uma pessoa ansiosa?  Ter um pouco de previsibilidade, o que está acontecendo? que é que falta acontecer? E a medida que se vai acontecendo, até eu acho que ela vai ficar mais relax, e ela vai melhorar a forma de ter as tarefas.  Ela nunca vai ser master a plaster, mas ela vai perceber que quando eu peço assim, fui mais rápido. A gente precisa menos de divindas.  Ela vai entender isso. E se ela começar a ficar com mais confiança, tipo, ok, eu percebo o está acontecendo, ela começa a pedir menos dele, e se começa a questionar menos, quando ela recebe um arquivo, ela deixa de estar para a cura de telo louro.  Então, é um gostoso. Eu acho.
+
+25:04 - Romeu Rodrigues
+  Você vai ver. É, acho que...
+
+25:12 - João Landeiro
+  Vamos ver como é que ela também quer ver, assim... Eu tinha começado a ser uma passada, então... Eu trabalhei com vocês.  Aí eu fiz ali um número para tentar entender como estabelecer um processo para ela. Isso não vai acontecer da noite com a tia.  E talvez nunca aconteça. Mas eu acho que a gente tem que ter isso na nossa cabeça. Porque até para...  Para poder fazer isso, se gente não está vindo para a toa... Para para ela, e ela tem noção disso.  Então assim... E ela está trabalhando meio com quatro horas. Tipo, eu pedi alguma coisa hoje... É, gente. alguma coisa ontem.  Aí... demora duas horas, eu já gostaria de ter visto um andamento disso. Eu estou tentando imaginar essa história. Até por isso, para eu ter que falar que com a Pinar ela tinha muito mais troca, porque aí a tem que entender se é a nossa questão da língua mesmo, falta de prensa ali e tal, se isso é um fato que atrapalha ou não, ou se a gente vai ter que achar uma forma de ter como que isso se tente ao outro, ela quer ter uma pessoa que ela possa comentar ou ligar e falar esse tempo inteiro.  Mas aí é uma outra dificuldade de negociação em alocação de trabalho, e eu não acho que a Pinar também estava 100% para ela, sabe?  Talvez a Ex tenha vendido para ela por um período, aí ela tem que... A negociação começou ao outro, porque a gente só fica tendendo os sujeitos dela, e ela está fomendo.  E aí, assim, ela fomendo. maior de nego do esquema todo que precisa ser feito, né?
+
+27:05 - Romeu Rodrigues
+  É, porque assim, mesmo nessa necessidade dela que eu sinto ali que ela quer, Tipo, ela falou que você não passou 15 dias já, né, que a viu até aqui.  E aí, o público que entendi também, ela quer, ela perguntou, né, se tinha disponibilidade de talvez pegar dois ou três dias de fulga, né, pra tentar tirar uma sursa da frente, né?  Mas aí eu não sei como é que você lia a interação. Eu acho, tipo, um pouco produtivo essa coisa de sentar ali, né, pessoa do lado, ela vai fazer um sentimento, ela vai mexer no sentimento, vai mexer no sentimento, no e isso aqui, sempre não é já muito nenhum, causa assim, há muitos anos que eu trabalho nessa área, tipo, eu nunca consegui render essa bandeira, assim, tipo, ó, você tá aqui, abre a tela, bora lá, bora, vamos fazer esse leão aqui, bora fazer esse fluxo aqui, né?  Sem organização nenhuma, com ela pedindo ali em cima, assim, sabe? Eu não sei, eu acho muito assim que a gente conseguisse, pelo menos tentar, né, organizar essa coisa das tarefas, né?  Tirar as demandas da frente dentro de um fluxo, assim, que deixa ela confortável e sim, pra ler a atração, né, nas atividades.  Mas eu não sei se funciona ainda muito essa coisa ali do... Vamos abrir a câmera aqui, eu e ela e bora passar a limpeira que tá trabalhando, sabe?  Sim.
+
+28:01 - João Landeiro
+  Eu concordo com você no sentido de só ser uma pessoa que é totalmente conhecimento de visão de tudo que está pedindo ali do lado, entendeu?  Alguém que não é o caso dela. É uma questão de uma série de refações. Ela vem, muda uma coisinha, ela ouve uma coisa, muda outra coisa minha, só que não tem um problema jamais.  Bom, esse próprio aqui ele é meio em círculos, né? A gente vê que por enquanto a gente pode pensar em uma situação, é engraçado que eu voltei hoje e o meio eu pensei, né?  Tipo, ela assim, agora que o João chegou, é tudo que organizou. Não, mas tinha coisas que a gente pensava na passada, tinha que não apresentar e tudo mais.  Mas obviamente, aí eu acho que é importante, a presidência do João traz uma segurança, até mesmo que a gente tenha alguma dificuldade de entendê-la.  entender a plataforma e o João vem e consegue ter esse nível de confiança mesmo. Porque a minha ia trabalhar com o Paz, né?  Ah, então, mesmo porque, no final dos contos, o João faz um exercício de retorno e tá muito bom, assim.  Se eu entendi o que você falou, então essa é muito estratégica, né? Tem. A tentativa é essa.
+
+29:27 - Romeu Rodrigues
+  Esse mesmo que o João faz aqui, se não fosse, eu acho que eu tava parecendo, tipo, um sério em um modo, assim, de tudo conversar, e o pai é vermelho, sabe o o João consegue traduzir bastante em tratamento dela, né?  Pegar, Opa, isso aqui, ó, perfeito.
+
+29:40 - João Landeiro
+  É, é, é, o que eu acho que é, mas tudo bem, porque ela já conseguiu, né? Eu acho que por dois motivos, né?  Porque o pessoal conhece, né? Tem respostas ápitas, tem mais conhecimento de produtos digitais, e além disso, também, já fez um trabalho estratégico com ela, é aqueles dois workshops que...  aconteceram, né, lá na tarde, também podem morrer por conta de um desespero. Então assim, ela teria uma confiança e tudo mais.  Bom, tentando resumir agora, as quatro caretas, sim, que travessem o I4 e o I1, o I1 pediu a semana passada, estão sendo entregues até amanhã.  Claro. Não, não. Tem duas delas que estão pendentos de uma coisa que vou fazer hoje, que eu posso compartilhar aqui a tela com vocês.  Que é o seguinte, o Romeo vai entregar até amanhã estas duas e havia quatro pedidos, Eram, para criar uma nova seção, o uso de maneiras é o grupo de maneiras, ok?  que a gente precisa fazer, a gente não, eu preciso estar aqui atribuído a mim, eu preciso fazer uma coisa parecida com isto, um live frame básico de o que vai, como seriam essas telas no geral, e confirmar com o IVA, oh, então para fazer essa tela de gestão do grupo, provavelmente vai ser assim desta forma, ok?  Quando isto estiver feito, aí é mais caça para o rumeu traduzir o design, até usando os componentes canais, já existindo figo e tal, né?
+
+31:36 - Romeu Rodrigues
+  Você viu que eu não tenho, quando eu perguntei para o editor da barra de lateral, tipo a gente vai ter usas, vai ter isso, vai ter aquilo, parece que não, isso aqui neste momento a MVP ainda não pode chegar com um avançado assim, vai ter vergonhamento e nada, então essas questões aqui hoje eu não estou puxando, ajuda muito, né, a questão de como a gente vai traduzir na tela ali, porque da cabeça dele ele sabe, né, que isso aqui, nessa etapa, vai ser desse jeito, né?  Então, assim, tudo, tudo que está, tudo...
+
+32:00 - João Landeiro
+  é meu e depois tem esta aqui do romeu que eu acho que vamos ter que se soltar, soltar, soltar tudo que está aqui tudo é meu e tem romeu eu sei que agora é o meio eu acho que tudo vocês ainda não almoçaram né então hoje a tarde é que tu vas fazer isso né vas pegar naquele lume que eu eu não sei o vais fazer sobre ela, não sei qual é a tarefa exatamente essa tarefa aqui o romeu é uma tarefa simples né que eu vou pedir o aqui eu estou comentar né tipo a sugestão de widescreen né passar as medidas como pode ser as colunas do control do central só para deixar a tarefa entre a ele mas ela já está em, já está em progress então isso já, para que ela fique emocionante também tá, então vou arrastar aqui para progress esta tarefa aqui  O mostrou hoje para ela do Shakurist? Isso, mas está claro para você agora o que você precisa fazer ou ainda não?  Não, ainda não.
+
+33:09 - Romeu Rodrigues
+  Eu perdi um pouco ali que o botufo falou, mas eu entendi assim, de termos de tela assim, mas onde que vai vir?  Você comentou que poderia vir ali no Austin, mas interno, a gente vai ser de algum fluxo, gente vai fazer ela separada mesmo?  Vamos tentar fazer aqui um bug update.
+
+33:31 - João Landeiro
+  É que você acha que eu estou no negócio errado? O que você acha mesmo? Vamos ver, poste-me. Interation, está a ser aqui.  Então vamos lá. O que eu usei com ela foi... A gente sabe que não é o último design desta secção.  Estou a trazer isso só para... e desenhamos aqui rapidamente, então tem uma secção que se chama Outfit, aqui, né?  Aqui está a gente já está no Logida. Ah, meu Deus. Ok, eu trouxe aqui a Xcalidro e a gente sabe que este design específico é antigo, a gente já tem o mais moderno, eu estou pondo aqui só para ser rápido, tá?  E depois, aqui em cima, o que a gente vai ter... Eu estou tapando esta azul só para tapar, ok?  E depois a gente vai ter aqui um check list com tarefas. Este check list tem que ser reconcível, é?  Ocupar mais ou menos espaço. E a tarefa tem... Ah... Pronto, ela é tudo do engano. Ah...
+
+35:10 - Romeu Rodrigues
+  Trenho, ok. É um Jomaco ali, um chat, e coloca um link, né? E tem uma pergunta, né? Eu acho que não tem link, não.
+
+35:22 - João Landeiro
+  Só tenho a pergunta.
+
+35:24 - Romeu Rodrigues
+  Não link, não. No frente dela tem um campeão de site link. Espera aí.
+
+35:31 - João Landeiro
+  Você acha que tem link aí do negócio?
+
+35:34 - Romeu Rodrigues
+  Estou aqui, sei o Quer que eu mande? Manda para mim aqui no chat, por favor.
+
+35:40 - João Landeiro
+  Tá na tarefa do Giro.
+
+35:41 - Romeu Rodrigues
+  Acho que se dá um hausto. Em qual das tarefas?
+
+35:47 - João Landeiro
+  Essa do...
+
+35:48 - Romeu Rodrigues
+  Eu acho que se dá um hausto.
+
+35:52 - João Landeiro
+  Tá no todo o meu.
+
+35:54 - Romeu Rodrigues
+  É, tem 20 lá.
+
+35:57 - João Landeiro
+  Você está aqui, né?
+
+35:59 - Romeu Rodrigues
+  Eu acho que se dá um hausto.
+
+36:00 - João Landeiro
+  Ah, insert link, ok, entendi, ok, entendi. Aí tem esse campeonete que eu entendi, a pessoa vai lá, tipo, marca, como o...
+
+36:09 - Romeu Rodrigues
+  Beleza, o primeiro topic ali é resúcho, off internal audits, tem de compliança, eu falo isso, então, eu estou checando aqui, eu tenho isso aqui, mas, beleza, o link de inflamação, né?  Eu copio o link, vejo qualquer, jogo meu RRL lá, tá isso?
+
+36:23 - João Landeiro
+  Eu entendo, sim.
+
+36:25 - Romeu Rodrigues
+  Mas essa é uma boa pergunta, vamos...
+
+36:28 - João Landeiro
+  Então, vamos lá. Vamos aqui, vamos aqui, vamos aqui, insert link, ok? Ela disse que gerou isso num chat de APT, né?  Sim, mas o chat de APT muda o conteúdo, mas não é formato, né? Então, vamos é que você tem um botão, link source, ok?  E vamos dizer que esse botão... A gente clica nesse botão... Então, enquanto cliquem nesse botão, abro um pop-up que se chama e esse pop-up tem essas paradas aqui, link source, vai por cima, é preto, ok?  Você está voando para o presidente, é o presidente do modelo, afinal de feio.
+
+37:33 - Romeu Rodrigues
+  Ok, quando vocês notam que eu estou falando muito com isso, podemos dizer não.
+
+37:37 - João Landeiro
+  Desculpe. Ok, então quando cliquem nesse botão, abro esta tela e encabe um modelo. Faz sentido para vocês? Não sei se...
+
+37:46 - Romeu Rodrigues
+  Eu tinha pensado deixar o campo aberto aqui mesmo na esquerda, tipo a pergunta, o campo, será um campo de textilharia, não sei onde ela cola o link, mas pode ser mais usado, as habilidades pode ser assim também.  É que ela clara o link, dá um ok, e aí meu ok. Nexa, link daquela nexa, que é isso, é essa ideia?
+
+38:03 - João Landeiro
+  Uhum, Nexa, sim, Nexa aqui neste modalzinho. Pronto, perfeito também.
+
+38:09 - Romeu Rodrigues
+  É para entender isso assim. Isso aqui entender, minha cabeça funciona assim, isso aqui quando ela mandou, valeu, beleza, acho que pode ser assim a interface.  Aí o contexto da onde que esses, essa... Uhum...
+
+38:27 - João Landeiro
+  Vamos ver isso aí, esse é ok, porque...
+
+38:36 - Romeu Rodrigues
+  Ok.
+
+38:37 - João Landeiro
+  Onde é que isto vai? Vai aqui, vai na secção audit, aqui do lado. Ok. E depois aqui vai ter um também texto para a chamar do audit.  Ou os outros, Ok, e nós outros, acho que também costuma ter uma descrição, Sim.
+
+38:58 - Romeu Rodrigues
+  É só copiar o que a gente tem nos outros.
+
+39:00 - João Landeiro
+  Então, para não ficar com muitas diferenças, ok? E é isso, este checklist naturalmente tem um nome qualquer, que eu não sei o é.  Me calça o meu nome. Task Management Review for Audit. Task... Audit... Task for Review, ok?
+
+39:31 - Romeu Rodrigues
+  Perfeito, reprinta, joga lá, fala... É isso aqui, Abby. Então, ok, pronto.
+
+39:37 - João Landeiro
+  Ok, então assim, eu vou... Se eu printar só, ela não vai saber exatamente qual é pergunta e o está acontecendo.  Então, vou por aqui, no teste. Button that opens up up where it uses places. Ok? Vou até agora puxar isto aqui.  Ok, aqui fomos tudo done checkbox, ok, e fomos aqui uma setinha pra isso, aqui, aqui, aqui, aqui, ok.
+
+40:25 - Romeu Rodrigues
+  É que a gente fez hoje, senão não entender aqueles campos hoje.
+
+40:37 - João Landeiro
+  O é o processo de desenvolvimento se chega ou usa em uma fase como essa mesmo?
+
+40:55 - Romeu Rodrigues
+  Mal, quando tá no início do projeto, sim, como a gente já tem, tipo, uns RSI, tem uns componentes todos...  que nem é o caso deles, já faça direto, porque tá fácil assim, sabe, mas quando a gente tem a trágica, o rasco mas nesse caso da Eva aqui, eu acho que vai funcionar melhor fazer o nosso rascunho mesmo, assim, pra perder tempo, tem que antes da tela É, só pra gente saber porque o João tá fazendo...
+
+41:18 - João Landeiro
+  É uma boa forma de...
+
+41:25 - Romeu Rodrigues
+  Depende do cliente, realmente, assim, quando o cliente nesse nível, Eva, acho vai funcionar bastante, mas tem os clientes já faz em nível...
+
+41:38 - João Landeiro
+  Quando gente entrou no projeto, a gente tinha uma melhoria de experiência visual, expectativa e melhoria de visual A primeira etapa do projeto tem muito isso, né?  Você começa só de criar, colocar criatividade dentro do processo muito... rápido e ágil que a desenvolveu. Agora a gente entrou numa outra fase e depois a entrou numa fase de um planejamento mais longo, que é projeto em síria, gente tende a maior, que seria o espaço espaço.  E agora a gente entrou numa outra fase de apagar em sério. É um delivery, é uma coisa mais, entrega-se.  Ok. Então agora eu esportei a imagem, eu estou acolando esta imagem no Slack e vou perguntar, Evie, só para ter certeza que estamos certos, é numerada, fizemos a e-mail.  Acho que vai também para o sinal 1 e a 4.
+
+42:59 - Romeu Rodrigues
+  Ah sim, boa, pode despegar o link e colar a imersa enquanto escrevam a outra mensagem? agora, vou fazer isso aqui já oh não, não vejo quanto você tem aqui, não oi?
+
+43:17 - João Landeiro
+  ah foi o segundo link que fotify, talvez ok, então agora fazemos aqui um upload from computer recentes add loads let added ok, pegar o segundo desktop ok, isso ok tu mandaste aqui o link o chat ok, eu estou aqui o chat o chat  Ok. www Eu acho que assim por inscrito a gente não fica tão dependente do vídeo, né? Eu sei que o Lú mais vezes é útil, mas pode atrapalhar para falar e tal, metem inscrito Deixe a senhora organizadinha, as perguntas bem separadas, porque assim ela vai aprendendo a responder a perguntas específicas.  Qual que ela vai pegar nesta mensagem e respondendo do jeito que tem de vetor, mas a senhora faz a nossa parte.  Quando ela conseguir ver o valor de quanto que ela economiza tempo, sentando um pouquinho entendendo e colocando a mensagem.  Ela vai ver que esse processo que você acabou de sugerir. vendo assim, é válido, porque quando a gente mostra o processo, gente pode redesenhar o processo que a gente está falando ali.  Então, ela deu request. Aí a gente também pode estabelecer alguma série. O que vocês acham? Preferem que o request venha no e-mail?  Ou no Slack ou na reunião? O vocês acham? Essa é uma pergunta para nós? Ou tu estás a simular uma conversa com alguém?  Para nós todos, inclusive eu.
+
+46:39 - Romeu Rodrigues
+  Eu gosto de mim, porque fica registrado, O Slack, eu acho que pode se perder de boche de conversa, caso o fluxo seja maior.
+
+46:48 - João Landeiro
+  Mas eu acho que o Slack é muito bom para o Ivan nos ajudar. No e-mail, é diferente. prefere pedir que são coisas táticas, práticas, se não exergue.  A ebe pede, mais ou menos o que ela pediu para o professor, para o Ivan, ou tem uma outra coisa, ela pede por e-mail.  Eu quero dizer que é como é que a gente pode estabelecer uma regra, ou tem caras, sabe, que esse processo que a gente fez é rápido.  A gente mostrou a tela para ela, ela disse alguma coisa, a tirou umas dúvidas depois da reunião, manda para ela, ela vai fazer, a gente diz que ganha qualquer coisa.  Então isso foi um processo ágil.
+
+47:32 - Romeu Rodrigues
+  Perfeito, ainda essas solicitações, o João, não sei se vai ficar carregado, diz que ele pega, traduz, ele o pediu e criou uma tarefa, não gira?
+
+47:41 - João Landeiro
+  Sim, pode ser, mas eu acho que... A resposta é sim, mas se você ver se está uma tarefa que está só, as peras de canela, porque ela não está no gira, mete um draft dela, e diz, olha João, já puse aqui, já tem um cara.  Esse cara não é perfeito, mas pela... Como se não virou... Obrigado também. Não, isso tudo bem, porque assim, se ela vai escrever, vamos lá, tá gente?  Eu só quero tentar... Sintomatizar o negócio e tentar, tá gente? Não é uma coisa assim. Se a gente colocar um...  Se a gente pegar um canal lá, um...
+
+48:18 - Romeu Rodrigues
+  Request... Que não esteja dentro de design...
+
+48:22 - João Landeiro
+  Aí todo mundo pede por lá, por exemplo. Uma ideia, tá? Então, sim, também é um registro. Então, e assim...  Vou dar um exemplo do que, assim... Ah, a vai receber um request. A gente vai analisar... Duas horas. A gente te manda...  Um draft desse, como foi, sobre entendimento da história. Vou ser pra vida. E a gente começa a desenhar. É um processo, tá?  Porque, assim... E a gente... Então, assim, gente precisa, pelo menos de um dia, tá? Entender isso, assim, ela manda um...  Então, assim, a gente não estava 24 horas, 24 horas, o que eu falava, mas a gente aloca o do para ela, né?  gente tem a diferença de fuso, gente tem uma série de questões, então, assim, até para a gente saber se é legal, todos os pedidos vêm, sei lá, por e-mail, então, ou pelo canal do Svec, mas assim, eu queria concentrar os pedidos todos em um lugar.  Por que que eu digo isso? Porque ela vai pedir uma coisa e o imbo vai acabar olhando também. Então, ela já pode comentar, é, isso aqui não é, tipo, calma aí, que não é bem por aí, ou ele vai comentar, eu preciso de isso e tudo mais.  Então, veja um pedido que depois vá para o Xira. É, o Correio Comatinho pediu, mas, pelo menos, a gente tem a fonte daquele lugar, depois de ele comentar, ele tem um textinho relacionado com cada uma desses pedidos, entendeu?  Porque assim, a gente não pergunta, é só todo, a gente tenta assim, a gente quer que a gente continue precisando por e-mail Eu acho melhor não ser por e-mail.  Tá, então esse já estabelece o processo, tá? O que é que acha do Slack? Porque é mais conversacional, né?  O Gira chama coisa mais para e-mail. Então, eu estou assim, vem o request. Você sabe que é legal esse canal, só request?  Ou no design já resolve isso? Eu acho que no design já resolve.
+
+50:40 - Romeu Rodrigues
+  Não sei se quer mais uma e não sei se vai bagunçar os temas, Tipo, esse aqui é só pedido, esse aqui é mais entregue, a conversação, não sei.  Por enquanto, para mim, assim, eu acho que não iria bagunçar assim, as solicitações de viás sem no design não.  Como você pode ver um dos jogos. Mas se você quiser criar um só para isso, para mim, para mim, para mim.
+
+51:04 - João Landeiro
+  Eu acho que no design funciona. Então vamos no design. Eu vou pegar aquele miro naquele desenhozinho e vou implementar com a Samsung Spark.  Então assim, pegou e aí de novo. Eu vou pegar uma categoria de pedido simples, né? O que a gente considera um pedido simples.  Então assim, aquilo que ela sobre a tela, que ela fez o documentário, já mudou alguma coisa. Como é a gente categorizaria aquilo?  É que eu acho que na verdade a categorização só acontece depois que a gente entenda o pedido, Ela mesma, por exemplo, assim, se nós temos um processo que para o símbolo começa no jeito, e para o complexo começa do projeto, ela teria que ser capaz de saber se o pedido dela é simples ou complexo e começar do jeito certo.  Eu acho que ela não consegue. Eu acho que o nosso trabalho é dizer OK, obrigado. Olha, esse aí que você está pedindo, é bem simples.  Ou isso aí já não é tão simples, mas eu acho que ela tem que mandar tudo no mesmo lugar, na minha opinião.  E nós dizemos, olha, isso é meio complexo. Tá bom.
+
+52:16 - Romeu Rodrigues
+  Eu acho que, eu acho que vale mal a gente subir essas entregas que a fez quando o João não estava, aqui também.  Porque assim, gente fez quando o filho matava. Aí ela viu hoje, mas tipo, não comentou. Aí fez aqueles comentários rápidos ali, né, no final da reunião.  Eu acho que várias vezes eu estou aqui de novo, vou começar a documentar isso aqui. Foi a solicitação do fone, né, para a para a para a Para a gente evoluir e fechar as tarefas, para não ficar solta da metas assim, sabe.
+
+52:41 - João Landeiro
+  Tudo bem, você pode subir isso, como a tarefa já entrega, então. Eu posso.
+
+52:47 - Romeu Rodrigues
+  Eu posso, João, aí depois você dá uma olhadinha só, né. Não sei, eu não lembro ainda. Não, beleza. Não, só vou lá e deixe em review, tá.
+
+52:55 - João Landeiro
+  Porque ela tinha falado, ah, algumas coisas você sempre já está feita, mas não está em review. Eu entendi que se a gente deixar em review, até fica mais evidente como ela às vezes um pouco gregá-la e ela tem qual que é verdade, tem que comentar sobre isto.
+
+53:08 - Romeu Rodrigues
+  Rápido, só compartilho aqui a tela também, isso aqui é uma aula que a gente também fez e ela não...  deixa eu ver aqui a tela para não estar montando a vertical. Vamos dar para vocês as visualizações. Essa aqui também, mal, gente fez esse fluxo para entender se realmente ia subir a barrinha para cá, né, do...  inserindo aqui o formulário, inserindo aqui as outras duas telas, gente terminou e morreu aqui, a gente não levou a Inga, para ver se não sabe que está pronto, não sei.  Eu entendi um clube na sexta-feira que ele não aconteceu. Na outra viragem, vai subir também para começar a gerar a história e toda essa conversação que você pediu aqui, sabe, só para...  Exatamente, só as três telas.
+
+54:00 - João Landeiro
+  de formas que a gente fez, combinou até a gente ser interrompido, né, você não vai ter isso, mas até gente ser interrompido com o request do Ita.  Não, pode falar sobre isso. Não, é só pro João entender que a gente já tinha tido o foi uma passada.  Hoje ela entendeu que o que a gente mostrou hoje é porque o João chegou a ver o aconteceu. Então eu não quero que ela tenha a ideia.  Porque vocês não ficaram à espera, Exatamente. O João chegou a ter batado na gente e pode trabalhar, só funcionar quando o João chegou, né?  É, então, mas você vai perguntar isso aqui. Então estamos comentando aqui o review. Eu vou saber isso agora então, aí depois a gente...  Então vamos lá, só para a gente fazer assim.
+
+54:55 - Romeu Rodrigues
+  É...
+
+54:55 - João Landeiro
+  Vou estabelecer, chega o request no canal design. a gente vai analisar isso de um dia para o outro e trazer perguntas para ela e a gente pode tirar essas perguntas na reunião de um dia para o outro, acho que é importante, a não ser que a gente consiga já na hora, isso aqui é bem simples, daí a gente coloca lá no Vizek e entra no pipe, aí as coisas que vêm lá, tanto do Vizek, a gente vai colocando um pipe.  A gente recebeu um dia, no outro dia a gente faz perguntas, aí a gente já estabelece o prazo, quantas horas a gente vai fazer e o deadline.  Acordado isso com ela, a gente vai para o programa de entregas. Acho que tem que ser dado para o proté.  Acho que funciona assim. Então, um a gente revertir o Vizek, a gente vai analisar isso. 24 horas, eu não quero colocar menos horas para isso, porque a gente precisa ter uma fólda, enfim, tem um diferente tipo, mas a gente vai voltar no dia seguinte com perguntas mais diretas e objetivas, às vezes até com esse tipo de bem draftizão que o igual fez, gente conversa sobre isso na reunião, ou em outro canal se preparado, mesmo no SLEC, dependendo das coisas, para a gente invadir com ela o que tem que ser feito, prado, deadline, e a gente começa com essas tarefas mais simples para eu estar pedindo.  Eu vou desenhar isso e faça pra você também no Miro, que o de cumprir e tal, para falar uma mais rápida e ágil.  A minha pergunta é, agora, tem esses quick fixes que ela quer fazer, porque ela vai percebendo, vai fazendo, e assim...  O João pediu a só 4 ou 5 tarefas que algumas são de desenvolvimento e outras já estão sendo entregues.  Daqui pra frente, é possível verificar o que mais vai precisar ou não? Eu queria entender a pergunta, mas acho que não entendi, não sei responder.  Não, mas não é pra gente responder. A gente pode perguntar pra ele, tentando olhar pra frente, entendeu? Eu acho que talvez ele não tenha respostas também, não.
+
+57:33 - Romeu Rodrigues
+  Eu acho que no dia a dia ele vai trabalhando, o pessoal aqui pode melhorar. pessoal aqui também não tá legal, vai mudar pro Romeo, o pessoal aqui também.  Eu acho que ele não tem entrevistão assim, tipo de opo, já trasei tudo pra cá e que já tarefas e deixares da tarefa.
+
+57:45 - João Landeiro
+  Eu acho que não.
+
+57:48 - Romeu Rodrigues
+  Entendi dele, mano.
+
+57:50 - João Landeiro
+  Então gente, mágica é isso, qualquer coisa que me chamem, eu vou... Vocês dois demandaram relatórios? de horas, vou fazer um review bem pertenioso do que a gente entregou, do que a gente mandou com a cabeça, do que a gente fez, para gente calcular essas horas.  Aí a gente estabelece o processo para ela e depois uma relatoria de horas, assim que ela tiver mais consultado com a história.  Uma da relatoria de horas agora, se não tem um monte de questão, porque gente tem que sair primeiro desse estado de não mais desconfiança, mas desconforto dela sobre o meu entendimento, dela sobre o que e depois uma relatoria de horas.  Um ponto. Outro ponto ao longo dessa desenvolvimento, último ponto, a gente vai começar, tudo o que a gente tem feito, somente o Romeu, essas farefas mais táticas, de repente a gente fazer uma lista para ela.  Olha, a que existe dela, é duas horas, gente tem ela já, né, grau de complexidade e o tempo... sentido.  Mas isso não é pra agora. Eu sou pequena minha cabeça, porque eu já fiz isso com o cliente anteriormente, sabe?  Olha, esses clientes que não sabem o estão pedindo, tipo, resolve tudo no Powerpoint, por exemplo, né? Então, mas isso é uma questão na parte.  Powerpoint é o quepeito. Oi? Powerpoint é o quepeito. É, então... Edita um vídeo complexo. Ah, não ia só fazer um vídeo.  Sim, sim. Powerpoint, enfim. Mas é isso aí. Obrigado, gente. Valeu. É. Já estamos nos nós aqui. Nós estamos nos aqui.  Obrigado.
+
+59:44 - Romeu Rodrigues
+  Até mais. Ui! Obrigado.

@@ -109,7 +109,7 @@ class FathomScraper:
         
         try:
             # A single navigation to the home page is sufficient for an authenticated context.
-            await self.page.goto("https://fathom.video/home", wait_until="networkidle")
+            await self.page.goto("https://fathom.video/home", wait_until="load", timeout=60000)
 
             page_num = 1
             # --- First Page Check ---

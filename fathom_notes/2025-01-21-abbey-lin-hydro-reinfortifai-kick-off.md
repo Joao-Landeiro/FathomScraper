@@ -1,0 +1,448 @@
+---
+title: Hydro Rein/Fortifai (Kick off)
+date: '2025-01-21T13:00:00.000000Z'
+duration: 60m
+participants:
+- João
+- Abbey Lin
+source: https://fathom.video/calls/215947064
+encoding: utf-8
+scrapingdate: '2025-06-09T19:28:12.516401+00:00'
+---
+
+Hydro Rein/Fortifai (Kick off) - January 21
+VIEW RECORDING - 62 mins (No highlights): https://fathom.video/share/-5yRZC7qy7CnkgzoKYovyEc634xw8HHs
+
+---
+
+0:00 - Abbey Lin (fortifai.co)
+  Hello, okay. Linda has access to that. She should be joining, probably a little late, but it's okay.
+
+0:14 - João Landeiro (joaolandeiro.com)
+  Let's see.
+
+0:16 - Abbey Lin (fortifai.co)
+  Share my screen. There she is. Let me not share my screen. Hi, Linda. Hello. Hi. How are you doing?
+
+0:31 - João Landeiro (joaolandeiro.com)
+  Happy new year.
+
+0:33 - Linda Marie Bere Pettersson (Hydro Rein)
+  It's a bit late now, but...
+
+0:34 - Abbey Lin (fortifai.co)
+  I know, I feel good. That's why I wonder when I see people I haven't seen before, happy new year, but it's a little bit late.  Yes, happy new year. you had a relaxing holiday. I did.
+
+0:46 - Linda Marie Bere Pettersson (Hydro Rein)
+  never had such a quiet and relaxing Christmas break. We have in the rain introduced silent periods. two weeks during summer and two weeks during winter where we're not allowed to send emails to each other.  Who is in this? In our company. Really?
+
+1:13 - Abbey Lin (fortifai.co)
+  Yeah. Oh that's cool. When like two weeks you don't get to send emails to each other. That's pretty cool actually.  Then you really get to kind of, that's actually pretty cool. I mean if something like, or just, but it's like no and it's, so yeah, very relaxing.
+
+1:31 - Linda Marie Bere Pettersson (Hydro Rein)
+  That's pretty cool.
+
+1:32 - Abbey Lin (fortifai.co)
+  When I like, but the period is set like during like July and like like December when there's less people anyway, but it's like a good rule anyway.  Okay, so it doesn't disrupt places.
+
+1:40 - Linda Marie Bere Pettersson (Hydro Rein)
+  But you can work if you like, it's just that you have, if you need to interact with people, tough luck.
+
+1:47 - Abbey Lin (fortifai.co)
+  It has to wait until.
+
+1:49 - Linda Marie Bere Pettersson (Hydro Rein)
+  Oh wow. That's pretty good.
+
+1:51 - Abbey Lin (fortifai.co)
+  Like, that's pretty progressive. it like that thought of that? Or is it? Yeah, I'm not sure where the, but it's, it's now
+
+2:00 - Linda Marie Bere Pettersson (Hydro Rein)
+  So now I've experienced during the summer and now Christmas for the first time they've had it for I think two years now That's the first time I've heard of that actually so it's good to hear your feedback on it because it might get more popular Some people can guess but I guess but I want to work then I but you can work Go ahead, but you you just have to do your own thinking during that time and then Prepare for the interaction and it's yeah But that's actually smart because I think it like I also noticed that's now doing a startup Is that you're constantly doing doing doing and you can't think reflect for strategic Things because you're constantly like trying to do things that this kind of forces you to have a strategic like thank you Very good.  Okay.
+
+2:46 - Abbey Lin (fortifai.co)
+  So we have a presentation to kind of walk through you through as we get ready for kickoff So it's and then to get your feedback on it But you see my my screen it's coming.  Yep.
+
+2:58 - Linda Marie Bere Pettersson (Hydro Rein)
+  Okay. Yep.
+
+2:59 - Abbey Lin (fortifai.co)
+  Shall you see my screen? Okay, let's see if I can move it to this question. Yeah, so since the last time we met, we showed you some overall designs and management, and we started building the app from scratch starting in October, when we started in September when we were working with eggs design and then planning for kickoff.  And the goal of it was to kind of ease of use functionality and making sure we're at the right level of like third party management.  We don't go too deep or not. now, you know, since we've last talked, we kind of updated the actual design even more, and we'll show you some screenshots of that to make it easier to implement for different stakeholders.  And then policies, trainings and communication is ready for deployment. So we want a testing actual usage of it, because I know we've been talking a lot, and I'm like, this is the idea, but now it's actually ready for you to kind of log in and test.  And we're building out the environmental section, which is not so important for you, but we have some customers that really want the environmental section too.  And then afterwards it's we're going to launch the controls part of it, but first policy procedures, trainings and communication and so the main focus is how to start testing the solution in house and then how to get the right feedback from you.  So that's what we're going to discuss moving forward and just let me know if you have any questions. So this is the new kind of design of the policies page and the trainings page looks very similar.  We have something called, you know, company wide documents so where you can documents you want to send to the organization and say please sign off and review it.  Then we have internal documents ignore the name because they could be anything internal documents is more documents that you might have for yourself but not all employees need to sign off on it but you want to know that you have it like working procedures.  And then I know you had mentioned this one you know like adding a new policy if you wanted to have your own policy that's outside of the template ones that we gave you.  Then you can add like a competition policy or some other ones and have that and decide how you want to.  And then we've also updated the employee portal so it's easier for employees when they need to go on and sign off for that.  And we'll give you access to the tool so then you can kind of play around with how it looks.  So what we wanted to kind of talk to you about, one is, you know, and we can go, we can come back to these two, but are there any documents, trainings or communication that already exist that we can, you know, put in into this portal and then have it.  So when you go in and test it, you're testing it with your own documentation. You don't have to answer now, but these are more thinking, you know, questions.  Can we start putting some of these in so you can see what it looks like. So then you can make in the tool, you can like kind of edit the policies you can see if you want to mark some of them as not applicable.  If you want to try uploading your own policy, if you want to try sending it to somebody like a friendly person to deploy and see if it works for them.  And the same thing is like, you know, on the employee side, if you were to deploy a policy, you can test it on yourself or like a friendly colleague and say, how does that  work in terms of receiving the policy procedure and communication. So that's that and we can come back to these slides as I go through them.  And then so then our question to you is like how do we test this in a safe way for you so that you feel comfortable testing it?  And you know what stakeholders if any you know would you like to join to to review with you? And then you know how could we review it?  Would you like to individually just test it out and get the link? Would you like to immediately test with like some stakeholders?  Or do you want to say you know some customers are like okay well we want to test it out with the wider like one business you know like so there's like 10 people and just like test out so we could see the flow with different ones.  There's different options. We just want to kind of hear that from you if you were to start using and testing it.
+
+6:52 - Linda Marie Bere Pettersson (Hydro Rein)
+  I think to to to actually test it I think you need more than yourself. I guess. So, but for me, I'm just thinking like three or four people that are, that will then, I mean, they, we are all group functions, so to speak, but it doesn't matter because we can test it out between ourselves as being like employees or recipients.  Yeah, but I'm immediately thinking like that we would be just three or something like three or four.
+
+7:34 - Abbey Lin (fortifai.co)
+  Okay. No, I think that's actually a number to get different varied feedback, but it's not so large on that.  then, and so what kind of feedback we're looking at is. It is just more like some we can talk it like if you give us the name of the three, we can also set up a call with them to kind of explain, but it's more like.  I like this feature here the most this is what I really like keep this if you're going to not change anything but like I like this.  this button doesn't make sense to me here. We'll be launching this, so you guys kind of first pilot, so it could be like I clicked it, this and nothing moved ahead.  So really trying to get that feedback before we make the greater launch because this is the beta testing here.  Then I'm confused on this and it would be great to see this in future iterations there too. Then I guess the other question is communication and how to get the best feedback.  Do you guys use Slack by chance? No. Or you guys are using Teams?
+
+8:36 - Linda Marie Bere Pettersson (Hydro Rein)
+  Or yes.
+
+8:37 - Abbey Lin (fortifai.co)
+  Okay.
+
+8:39 - Linda Marie Bere Pettersson (Hydro Rein)
+  There's something like that.
+
+8:40 - Abbey Lin (fortifai.co)
+  It's funny we had one customer that only uses Slack and then we tried to use Teams and it just did not work out.  So I opened a Slack account for them, but we can look at maybe an external Teams to get some feedback from you guys.  I like sharing some documentation like if you wanted to share some of the policies you want us to upload already prefilled or like trainings for example if you already have some.  trainings if or if you don't want to do that you know you could we can decide that and then in terms of when it comes to policies we have a bunch right we come from hydro family after all so we have a bunch but I guess so we can I guess upload them ourselves I think or you can upload themselves or it might be I think it depends I think if there are some that are gonna go like company-wide we can help upload because right now I realized that just even in talking to you shout like our upload section is mainly we kind of put it in in separation some go into group wide I'm just saying like the way that we've said it is like company-wide policies and internal policies and then new policies so then if you were to update them all they would come here and then you need to deploy them through here and then there but there are yeah yeah like but if you know which ones are ready like these are gonna be group we can also help them just for the for  But I can have a think about, Xiao, do we need to add new policies on each of them? But I just think technology-wise, there was a reason why we separated it out.  think there was just for the MVP version. There was a reason why I think Yvonne wanted it separately here, just because it's a whole other section of your own policies and that versus the deployment.  But I can have a conversation with Yvonne about that.
+
+10:26 - Linda Marie Bere Pettersson (Hydro Rein)
+  In your question, I'm not sure if we covered this, I can't remember, but in terms of workflows, here this is like the on-the-top company, why that's more like for your sign-off or existing, so this is the expectation.  then the internal documents are...
+
+10:51 - Abbey Lin (fortifai.co)
+  What's the internal workflow? I think the internal documents was maybe more like procedures, was more things like... have to go through like we are also looking at it based off of the ISO methodology and within the ISO methodology even on the view side you have to have certain documents like document control the document handling procedures that you needed to have exist but you don't need to be sent to everybody um so then in terms of like kind of the approver it can't be sent um it was meant to be sent for somebody to review and then to deploy it that's kind of how it is and we have to look at the review function because I know that was like kind of a temporary thing but like that's the the thinking of it like so they're actually quite similar but I think it was more in the head of following up you know if you just had a list of like 10 like some of them you need to follow up with because they're company-wide documents other ones are just like going to be sitting there as internal policy you know policies or procedures aren't going to be touched as much so that's why we visually kind of did it this way so you know like these are the ones that you're going to need to follow up on but Xiao yeah so uh Lida I I interpreted your question in terms of
+
+12:00 - João Landeiro (joaolandeiro.com)
+  So, there's the screens that we're showing you, right, and maybe kind of a chart of boxes and arrows. This is the first step.  This step leads to this step. Is this what you mean when you say work for a long, time?
+
+12:14 - Linda Marie Bere Pettersson (Hydro Rein)
+  For instance, I mean, way, I just, because I, the first one, I understood that it's more so as is like the examples that you have here are typical governing documents or policies, whatever you want to call them that, that are yes, they are company-wide and in addition, you as part of your compliance program, this is an expectation that all employees are actually verifying that yes, I've read and I agree type of thing.  So it's a control mechanism connected to that. The, and then my question was, so that's the kind of functionality behind that you have  visually also looks what but the second one my because the separation between new policy and documents because the rest all in my head like so you are company to have like a library of governing documents they're relevant at any given time and some of them you have a process for actually reviewing what kind and then the rest as you say I'll be it's like in best case scenario you have those typically really interested go and look at them from time to another but they're governing and the work files or a question and then when you have answered it abby because what you need with that like kind of library you best practice or requirement you need to verify them within a regular interval so the document owner or whatever you call them they they you can have like
+
+14:00 - Abbey Lin (fortifai.co)
+  work for so it's an atomic reminder okay Mrs or Mr the document owner now you need to either verify that the content is still valid or you have to update so my question is it's that type of workflow intended it was kind of meant for that like in the internal document once you would just kind of save it and then go like one is a next review and then it's kind of saved and then it's just kind of you get a reminder in a year of that date of when it's due to review it so that's kind of the thinking that it wouldn't be necessarily deployed but it would be there but now I was thinking it's deployed on a company level though right it's not like a sign off yeah it's not deployed for a sign off but that's also like it can be deployed that it just shows up on the employee portal you know so that they have access to the policies but they don't have to sign off for it so they can still find it so I think that's a good point that we could talk with Yvonne about and then around like the new policies  are we able to add new policies on each of these sections so then they can add it in here or in here?  I'm just thinking the technology wise, there was a reason why we put it on the side because it was a little bit difficult in this first instant.  But I think talking to you does make sense. would have kind of almost two, right? One is as you deploy to the portal kind of the back, it shows up there and they can look at it they want.  And then the first one is like, okay, you actually actively have to sign off on it. And then you can decide which of the two.
+
+15:28 - João Landeiro (joaolandeiro.com)
+  Yeah, my interpretation of this point is mostly around the architecture of documents management, right? So there's perhaps a list where all the documents are, there are different kinds of documents, some of them are policies, some of them are references, some of them we need to send to a group of people, some of them need to be sent and collected back with a check, some of them  just need to send. Is this kind of the analogy you're using?
+
+16:03 - Linda Marie Bere Pettersson (Hydro Rein)
+  so the different workflows, I mean, in a company, you... So, for instance, in HydroRain, we on an annual basis, actually, it says that we're updating all governing documents, which I find a bit ambitious, because maybe you don't have to update it, but I agree that it's good if you verify.  So, but we don't have any system for that. But so what we, you know, in a very basic manner, we have, in SharePoint, we have a list of all our governing documents, if they're code of conduct, or if it's a policy or a procedure.  And then the person in charge of those governing documents, the process, she just tells everyone of us that are document owners that are listed there, they now you have to update them.  And then we... have to, we have to upload this document to a SharePoint folder. And when we all say, now they've been updated and or actually sent to the board of directors for approval, then she will upload them in another SharePoint library.
+
+17:18 - Abbey Lin (fortifai.co)
+  Do you see that?
+
+17:19 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yeah, It's a manual process. So for me, mean, but us being we as an employee, I mean, okay, so let's the real end game, I guess, is that each employee only have visibility to those things that are mostly relevant for the process that this governing documents for the process that they are involved in.  So they don't have to be bothered by the rest of the list. But that's kind of tricky to get to.  so the next in line is that at least they should be easily available, all of the governing documents or reference documents, as you say, because politics.  And then there's a separate workflow or responsibility for those of us that owns these different documents to make sure that whatever this employee is looking at is actually valid.  So that's a process in itself, but the employee doesn't need to care about that. It's as corporate group functions, so to speak.
+
+18:38 - Abbey Lin (fortifai.co)
+  So right now you use SharePoint, it's a common pattern.
+
+18:43 - João Landeiro (joaolandeiro.com)
+  And I know SharePoint is not ideal, people don't love it, but there's surely some problem that SharePoint solves, which is why people use SharePoint.  What's the good thing about SharePoint?
+
+18:56 - Linda Marie Bere Pettersson (Hydro Rein)
+  You can, well, it's it's easy for everyone to have access, it's fairly easy to provide overview and structure, and if you do it well, which we don't, so we don't do that well, but you at least have this metadata functionality, so you could create, at least in theory, we don't do that well, but like different views based on the metadata.  and it's storage and you have the tracking of, you can see, yeah, you have like time sheet type of thing.
+
+19:35 - Abbey Lin (fortifai.co)
+  And we would have that built in into our tool, because that's the requirement of the ISO, it's kind of like, you know, the audit trail, the documentation was at last revised and that.
+
+19:45 - Linda Marie Bere Pettersson (Hydro Rein)
+  But on the backside, of course, chef point, if you don't build it up separately, you, I mean, people can change whatever, right?
+
+19:56 - Abbey Lin (fortifai.co)
+  Okay, have no real... We're controlled.
+
+20:01 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yeah.
+
+20:05 - João Landeiro (joaolandeiro.com)
+  Perfect. Thank you so much.
+
+20:06 - Abbey Lin (fortifai.co)
+  I think at one point, wanted to be really specific, you can almost say we have a government relations policy.  And we put it in, but we only send it and check off to the people in the public sector team.  You can be that specific, like not everybody who doesn't work with government sector. So it's like, if we did that in our tool, it'd be like, I don't know, somewhere between company wide and internal documentation.  But it's something like where you can kind of deploy to more than one person. And it could be a group.  And then you can have a sign off there for that. I think something with work.
+
+20:42 - Linda Marie Bere Pettersson (Hydro Rein)
+  wouldn't, but that's something for you.
+
+20:43 - Abbey Lin (fortifai.co)
+  internal, company wide and internal.
+
+20:48 - Linda Marie Bere Pettersson (Hydro Rein)
+  If you look at company wide and internal, it's really, because the company even sent out. Yeah, so that's what kind of why I also had to ask, because I guess that all governing documents, if you call them that, or policies, are internal, it's company internal, but some of them you actually make public, but then on your website, for instance, and but...  Like document reading sign-off and non-sign-off documents? How would you...
+
+21:28 - João Landeiro (joaolandeiro.com)
+  Yeah. Yeah, it's a good question.
+
+21:31 - Abbey Lin (fortifai.co)
+  Yeah, how would you name it if you...
+
+21:33 - Linda Marie Bere Pettersson (Hydro Rein)
+  Could you know what I'm trying to get at here? So, I mean, I can come back in my feedback, the internal documents I would just call it like, I mean, I don't know, I mean company policies and procedures, because that's what we follow and then company-wide documents.  But you would just check for me again. This is the compliance, so what am I looking at the governance right now, but what's the employee view that they see?
+
+22:14 - Abbey Lin (fortifai.co)
+  So they would see something like here, like this is their employee portal that they would go in, you'd get an email being like please fill it in, they would come here and then it would be like read government officials policy, right, and then click on it and then they'd get it there and then there's a little sign-off, so they just, they see actions and perhaps links to things, like you see, so for instance, so for me in my, so what I'm looking at here is on the left-hand side, that's the, what's the view here, is that, it's not policy's view, it's, yeah, this is the, this is the policy's view and then here it's like, if you were to like start from scratch, there's zero, right, like you're not started, so there's,  means like you have a code of conduct, you haven't reviewed it, you haven't sent it out, you haven't approved it, just sitting here on the queue.  And you can either, so you're kind of given, so if you think about it maybe like a company that doesn't know anything.  this is the compliance functions view.
+
+23:16 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yeah, this is the admin view.
+
+23:18 - Abbey Lin (fortifai.co)
+  Yes, sorry, sorry.
+
+23:20 - Linda Marie Bere Pettersson (Hydro Rein)
+  yeah, yeah, none with you.
+
+23:21 - Abbey Lin (fortifai.co)
+  None with you.
+
+23:22 - Linda Marie Bere Pettersson (Hydro Rein)
+  So if you would have like a policies view, so if you see on portal the policies, what would come up then?
+
+23:32 - Abbey Lin (fortifai.co)
+  Yeah, so a policy is like when you click on it and you would see well how we have said it is kind of a list of all the policies because this is like all of actions that they need to do.
+
+23:42 - Linda Marie Bere Pettersson (Hydro Rein)
+  And then a policy library eventually where they would be able to see like all the the policies. Okay, okay, so sorry, now, so what I'm looking at here, admin view, it's the process related actually to policies, some of them and then  So, yeah, so it's kind of like, you know, not started in progress for review.
+
+24:07 - Abbey Lin (fortifai.co)
+  Yes, we've already, you know, it and, you know, saved it or something. And they're, or it's not started or not relevant or it should be actually not applicable.
+
+24:15 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+24:16 - Abbey Lin (fortifai.co)
+  That's a company.
+
+24:17 - Linda Marie Bere Pettersson (Hydro Rein)
+  So, yeah, what do you call them? call them.
+
+24:22 - Abbey Lin (fortifai.co)
+  Yeah. So it's like in this section of pre-populated documents, make sure that, yeah, change ready to deploy to your organization based to confirm.  And then in the section, you review, these are internal documents that do not need to be reviewed outside your immediate team.  like that's I was going to say, but it can be like different names. So I'm happy to change the name.  That makes sense, especially if it's confusing for you. But yeah, I think you know what I mean. It's like some are going out.  And the reason why I had split it because eventually in our first version that we had shown you, it ended up being like, you know, 15 document, you know, like when you have so many different ones and you kind of lost track of which one you need to send out, which one do you need to follow.  So I kind of broke it down being like, okay, here now because these are. don't have to chase up.  These are the ones I don't and there are different processes so in a way the way I at least the way I look at it because it's I guess it's what you're saying it's that you have typically like an annual or if it's called annual sign off so that's the one workflow and then but the second one could be then I that it's supposed to be but here you're also or it's thinking of like sending out an action template is to read or or yeah for the these top ones like the company company wide ones would have an action to it and then these would be more like kind of internal approval and kind of save and then reminder of when you need to update them it's internal either way right but that's yeah they are internal I meant to be like internal within like kind of the team approval process or review process there's not going to be so many people but yeah that's the the naming can be better I think that you know talking to I was just trying to  find that. But now I understand.
+
+26:04 - Linda Marie Bere Pettersson (Hydro Rein)
+  But in this view then, it's more the workflow, so the company why it's policy for annual verification or something, you call it the process rather than what type of document it is because it doesn't matter.  It's the process that separates these right?
+
+26:26 - Abbey Lin (fortifai.co)
+  That could be actually a way like annual review or like some people might have I don't think you'd have more than quarterly right?  It'd be like annual.
+
+26:37 - Linda Marie Bere Pettersson (Hydro Rein)
+  Sign off, sign off, like documents needing employee sign off, documents requiring employees sign off and then and then I don't know the other one document not requiring a document verification or I mean I don't does yeah I so  They must call it something like regular education.
+
+27:05 - Abbey Lin (fortifai.co)
+  Yeah, they just call everything kind of internal. So this is more and more why we're kind of like splitting up.
+
+27:10 - Linda Marie Bere Pettersson (Hydro Rein)
+  they have a customer focus, of course, I thought.
+
+27:15 - Abbey Lin (fortifai.co)
+  But we can think about it.
+
+27:16 - Linda Marie Bere Pettersson (Hydro Rein)
+  I think that's a good point.
+
+27:17 - Abbey Lin (fortifai.co)
+  could be something like company-wide documents, needing annual review, know, or internal documents, not needing review, like internal documents.
+
+27:28 - Linda Marie Bere Pettersson (Hydro Rein)
+  Because it's not really reviewed to be fair. employees are not asked to review. No. Review is like you review when you come with feedback, but it's not.  It's a sign-off.
+
+27:41 - Abbey Lin (fortifai.co)
+  It's a verification or...
+
+27:44 - Linda Marie Bere Pettersson (Hydro Rein)
+  I mean, I know that, yeah, but they do review if they feel well.
+
+27:47 - Abbey Lin (fortifai.co)
+  But do you really... Some really curious employees will go to the policy area and internet and look at it.
+
+27:56 - Linda Marie Bere Pettersson (Hydro Rein)
+  But do they have any other choice one to say yes?
+
+28:00 - Abbey Lin (fortifai.co)
+  I read and I confirm that I've read it right they don't have I think you should change the human rights section Yeah, yeah They don't really have as choice in the environmental section.  You can request that but um, but no, I I agree. So I think that uh, yeah, so company for deployment You know non-deployment non-deploy documents and deploy documents.  We could have a think about that Yeah, have a thing because you do deploy. mean every company have a set of policies Although it may be very few.
+
+28:36 - Linda Marie Bere Pettersson (Hydro Rein)
+  They for sure had some documents that are deployed and are typically Costly valid as long as they Either in a timeline or until they're being replaced The code of conduct What with this is just because the best practice in the department of justice thinks that It's important that which is a misplaced  It's also a best practice that you have to ensure that your employees are aware of their obligations under the code of conduct.  So you send it out and ask them to sign off that they have read it. They never read it, but you have a document trail of a sign off that they have.  Yeah.
+
+29:23 - Abbey Lin (fortifai.co)
+  But Ja, what are you thinking based on like, as you know, you hear really kind of two subject matter experts just kind of going back into the nuances for like, you're like, you would be like a typical employee, like kind of receiving it.  Like, do you have any thoughts on, yeah, what we should call it, each section or like, yeah, honey.
+
+29:40 - João Landeiro (joaolandeiro.com)
+  So I'm thinking more about the verbs that we can do with each document than the specific names at this point.  So from what Linda said, it clicked with me that when we say review, there's a set of expectations. we just say acknowledge, I've read this, there's another set of expectations when it's  they approve there's a different so like these three different things they could happen to the same document by different people and they meet in different things so this is one one thing that i got from linda yeah and and the other thing that i got from linda linda please correct me uh this is the suffix of a depression so you think more in terms of like the starting point of your mental model of this is documents you have a list of documents and you have things to do with these documents right and the starting point that we display on these screens is tasks we we begin thinking about tasks so there's i think this could relate a little bit with the share point in different views can i look at this from the document perspective can i look at this from the task perspective different people have different preferences no but i'm just yeah yeah this is trying to paraphrase yeah no but this is the clip so now when i
+
+31:00 - Linda Marie Bere Pettersson (Hydro Rein)
+  because of, you know, when I haven't seen this much, I understand it. Yeah, but this is an administrative view for when it comes to policies, and for that it makes sense to probably stress them up in these types of, but for me it's that different workflows or processes, which makes sense, so to me it's the verbs, and I understand as an administrator trying to keep overview, it makes sense that there are different processes, but it's not document type, it's what I'm supposed to do or what's happening.
+
+31:33 - Abbey Lin (fortifai.co)
+  Like documents needing acknowledgement, documents needing savings.
+
+31:38 - Linda Marie Bere Pettersson (Hydro Rein)
+  Because I guess because what will happen with the internal documents and even, I guess, new policies in a way, they lead to a workflow of some sort, but the two they will end up in policies, and the two, like if we would have a policies page.  Then if they are approved or verified, they would end up there and the top two, they are already there, but they need to have this regular employee style of action.  So they kind of... Document requiring employee action.
+
+32:24 - Abbey Lin (fortifai.co)
+  Document requiring employee action. Document not requiring employee action.
+
+32:30 - Linda Marie Bere Pettersson (Hydro Rein)
+  The second bolt is probably where you have, if I understand it correctly, it's more than what we have now, for instance, where we update our governing documents.  What happens in reality is like, I have a... For supply chain and business partners, it's actually... We collaborate between three functions.  This is the inability function, it's compliance function, and basically it's a finance function. we have different requirements into a procedure so when we update this it only goes to the three of us so are we okay with these changes and we say yes and then if we agree and something changed it of material kind like now the commercial organization have to contact us every time or never then we have the upcoming communication and training but you know I think that I've heard that some people send out which you cannot send out like an email so now this procedure is new which of course you could do but unless you attach it to training people will never read it so that's what it could be through our tool right because then you could also acknowledge the new one in there.  Exactly but that is what I think that the second bulk is frozen.
+
+34:00 - Abbey Lin (fortifai.co)
+  just like it's and then but it varies and you can probably use other parts of the tool but like so I created like a like because before like our first version that I showed you that we had in our tool before after it was just listing everything right and I thought it was just for myself it was like suddenly like 10 or 15 documents and I felt like it was like a long list so I purposely broke it into sections but then you know now like but do you think that complicates it that are better than our section it was just the words the truth okay I think it makes sense to have this because this is I understand this is more the view of when it comes to policies these are the different things that are happening and yeah yeah okay so yeah and then at the thing I'm trying to get even on our tech he said he'll join in a few minutes to see kind of the that so like this is our thinking is like this is only the kind of internal check and then this would be actually the deployment part of it and then the new  policies it's kind of we have separated it I think because of technology why like something in the short term to get this published but like ideally it would be you would have some company wide documents that you might want to create that would go out but we can see when he joins and we can ask him that question around that um but then yeah so kind of going back and kind of testing we're hoping in um everything goes well in early February so in a week and a half you'll be able to have like kind of a log in and and set that you can kind of play with and this is also if you have some documents for us like if you have five documents we could put them in some of the sections so you could actually see what it would look like um and then you could also create your own as part of that so to send that and along with the email but in terms of like um a testing feedback um I think we talked about teams we could set up a team site and then get that and then in that team site you can add the documents that you want us to put in there and then terms of feedback which  You prefer to kind of test on your own and then have a call, you know, in 20 minutes, or do you want to just, as I got, you know, don't want to do that or just have like a walk through where you were here.
+
+36:10 - João Landeiro (joaolandeiro.com)
+  We don't have to have a separate call and you just kind of click through it to give us a media feedback.  Yeah, I think I think I lean to the first to to check myself.
+
+36:26 - Linda Marie Bere Pettersson (Hydro Rein)
+  And just because then I can do it between the things that I'm doing and and have some time in thinking through and but then hopefully with opportunity to send you off some questions if I have.  But do I understand this correctly? this the intention? So I guess I guess the downside with that is that if but but I think I would like to just get the opportunity myself just get familiar with it.  Then think through but it would have I think it would.
+
+37:00 - Abbey Lin (fortifai.co)
+  helpful if we can and we can just like take any dummy thing of documents for instance or to use as the testing like sign off and also like yeah we have some already pre-filled in here but it's always good like you know if you see your own things and how they can look in and kind of formatting and add because there could be some formatting difference so if there are some of policies you can kind of visualize how it would look in your own and we can also you know same with communication because we've been talking a lot about policies there's actually you have your own training LMS but we could also put like any kind of PDF in in there and then also send it out for deployment and check off and also communication which is like if you want to have quarterly communication we have like pre-formed communication you can send out being like hey reminder it's New York Christmas time for gifts and entertainment you know some of these can also be deployed monthly or quarterly in the communications box so it's not just a policy that we wanted to  it's all three. So yeah, so if you have some, then you can put it in there or you can kind of use the ones that we pre-populated, but I think it's also good since you guys, you know, already have existing ones also for us to see like how different are they from us, like are there any formatting issues that we might have that we might not be able to put like tables and into that to see.  So that's why it would be good to get some feedback from you. And now we have Yvonne on the call.  Yvonne, we had a bit of a discussion around this admin view for policies, so I just wanted you to hear it also directly from Linda in terms of, and Linda, you can actually, why don't you say it, Linda?  So I don't seem like I'm paraphrasing from you, but like kind of your feedback or your thoughts from this one?  No, that's so high.
+
+38:46 - Linda Marie Bere Pettersson (Hydro Rein)
+  No, it took me a while just to, it took me a while to just understand what I was looking at.  Because of the words that were used. And I so, for instance, since company-wide documents, documents versus internal documents versus new policies where for me all governing, all policies or procedures are internal and you typically have them available at some airport so employees can find them if they like but then I figured that the three different sections they were more the reason for that was not because of the document itself but but what the process represented it represented so for instance the above one was the action is so the documents will be I wouldn't use the word deployed because deployed well you do you deploy in action for sure you deploy in action so I am with you but when it comes to policies company-wide all governing documents are deployed  But then the action in the first instance is that it triggers an action that is an email or whatever sent out to all employees and they click on something or they have to scroll and click and say, I have read it or I agree or something.  But where the midsection, thought, I guess that was more, okay, so we have to, some of us are working on the documents, let's say, so the workflow is to update the document instance or that it's sent out to a more narrow group.  So it was more the questions around what lies, what is the work process behind what we're looking at.
+
+40:48 - Abbey Lin (fortifai.co)
+  Yeah, and why are they, yeah, and why, like internal documents, it's kind of like you would like Linda would maybe internally review it with just a few people, and then they would just kind of close it and then it'd be a.  task reminder saying in one year you need to like you know update this document for the internal documents as we call it now and then the company wide is something that needs to be sent to employees for sign off and then we're trying to think okay those names don't really make sense and then we're talking about new policies right and I was like Yvonne I know there's like a technical reason why we've kind of kind of set it set it up separately but ideally I guess it would be like there are like some company wide documents that Linda would want to create and send out and add new company wide documents and there would maybe be some internal documents can we split it that way or like I mean it's not a problem so we can assign a category to each policy and we can have them we saw this so initially when we were adding these categories we said okay can we uh when once user adds a new policy does it make sense to be outside of the initial two groups just because uh initial two groups will be usually related to some standards right so if you are trying to fill in for ISO or some kind of certificate
+
+42:00 - Ivan Celic
+  education or not. I don't know exactly exact names and everything, but you get the point. And then the new policies might not be part of that.  We cannot guarantee that someone is compliant with ISO 123 if they are adding their own policies, right? I'm not sure if that's how it works, Abby, please help me there.  that's one of the reasons why we put them in the separate groups. But in case someone doesn't need to get ISO certificate, if they need a place to manage policies, documents like some companies that have their own processes, in that case, then what you are suggesting makes sense.  Then you would need to be able to add into the top group, bottom group, or create your own group.
+
+42:41 - João Landeiro (joaolandeiro.com)
+  yeah.
+
+42:43 - Ivan Celic
+  Yeah, and it's almost like we could do like company wide document, add your own internal.
+
+42:47 - João Landeiro (joaolandeiro.com)
+  I'm just going to use the name for probably going to have to change it.
+
+42:49 - Abbey Lin (fortifai.co)
+  And then maybe we need to have an ISO policy section. Like we just like put all the ISO policies that are there and then there might be some additional ones in between.  And then and then add a new policy.
+
+43:00 - João Landeiro (joaolandeiro.com)
+  and change the names of like kind of deployed like policies needing employees sign off and then policies not requiring internal sign off or something like that to change the names of those but yeah do you have a question yeah uh yeah i think uh can i share my screen very quickly yeah okay uh this will be a fast okay so i this is just a an illustration right so what i've got from this is that imagine there's a list of documents and these documents are related to specific processes some processes have more than one document right and some people look at the table like this and they want to organize it by document name right but some people would like to filter it just to the to do and then think to do and then think right so this okay so then i know what's missing so it's the same set of information but i can have different views on it right so uh  or I can just filter these related to... Are these policies? Like document name, like document one, two, and three, and then you want to see...
+
+44:11 - Abbey Lin (fortifai.co)
+  Yeah, so creating different views, right?
+
+44:13 - Linda Marie Bere Pettersson (Hydro Rein)
+  For, like on a policy, because you have whatever the name is, but typically, I guess it differs depending on what the requirement is, but a company at least would say that.  But the work process, I would think, is different between if you, as a company, decided we are reviewing our documents on an annual basis, or at least every third years, let's say, but then, but there may be another reason for doing an action, like a code of conduct, for instance, that's not...  It's not about... The content of the documents is still valid, but it's... requires an action, as in sign-off. It's not the same because what you do policies, what you have to keep in mind, I think, also is that it's not employees that approve documents.  It's like hierarchy. So you typically have some documents are board approved, or you have the CEO approved, or you have the head of something approved.  I think that's what you say. We could add like a column of responsible. But what you draw, you're the metadata for the policy, so to speak.  am I? What does this mean? by using it, you create different views could do.
+
+45:49 - João Landeiro (joaolandeiro.com)
+  Yeah. So we would organize the documents in a very flexible way, and then we present them on the front end of things.
+
+45:56 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yeah. Okay.
+
+45:57 - João Landeiro (joaolandeiro.com)
+  Yeah. Thank you.
+
+45:58 - Linda Marie Bere Pettersson (Hydro Rein)
+  And what we did in here do exactly. to the process which you can do here also that at least we try to create the metadata so that the process or document owner would have to say to which he I mean the company process is it related to sales procurement kind of but that is yeah it's a it's a whole different game but it's would be really helpful but at least what you indicated here for instance to say that this this is important for the ISO this is important for I'm sure that's also one way of making it easier I think as you say so yeah but yes I see what you that that's what you yeah that's what I got from your companies and different people have different but this is like the metadata that would be kind of helpful to have so you can create this different workflows and different and
+
+47:00 - Abbey Lin (fortifai.co)
+  or different views with the right method that every company can find this way yeah okay yeah yeah i'm just uh yeah so i was sharing something on my screen putting it together i just i kind of took a screenshot of what we had and i i tried to would be this something make more sense i deploy documents needing the voice sign off um and then documents not needing sign off and then like iso specific you know well you wouldn't have this because you're not doing iso but i sorry and then you'd have like ad new policy granted this would probably be on the right but something more like this yeah so the first one makes perfect sense and then the second needs more because it still needs something so if you it's document administration or document management or something like that because yeah something like that and then so then like um yeah  So, this one just says more needs internally, oh, maybe I did it wrong. This one needs more internal approval.  You don't need to deploy it and then like, you know, you need internal approval sign off. reviewed it saved with a reminder of when you need to, so like, yeah, so this one needs internal reviewers, approvers, and then task assignment for review in one year or something, right, or one year, something like that, right.  And then this one is just like, approver and deployment, or just first deployment, you know, to employee portal, yeah, base, something like that.  And then this one would just be maybe, this is probably the same one that you would need the same one.  But what's process between the, just take me through it again.
+
+48:56 - Linda Marie Bere Pettersson (Hydro Rein)
+  The ISO specific, what's the process or what's the Eastern process, why should you have that separate?
+
+49:04 - Abbey Lin (fortifai.co)
+  Yeah, in this view, it's more like there's a lot of ISO documents like, you know, context of the organization or like document handling procedure.  Like there's like very like administrative technical, like you kind of need it for ISO to check out the box, but you're really not going to use it in like your day to day activity.  like, so these two could be together, but it goes back to that like, suddenly you'll have 20 documents and ISO ones will be hidden.
+
+49:29 - João Landeiro (joaolandeiro.com)
+  So it's like, kind of almost like you can hide the ISO documents where you don't need it.
+
+49:32 - Abbey Lin (fortifai.co)
+  And then the ones that you're going to use on a regular day to day basis, that was kind of the thinking, but you could have them both in it and just have, you know, all of them in there.  It was just more of like, just visually for me, it's like, I was thinking if I were to do this, I'm like, okay, I was not, yes, we agreed.  It's put it away in the bank until you need it once a year.
+
+49:52 - Linda Marie Bere Pettersson (Hydro Rein)
+  know, and then, yeah. So that was just the thinking about it.
+
+49:56 - Abbey Lin (fortifai.co)
+  Yeah.
+
+49:58 - Linda Marie Bere Pettersson (Hydro Rein)
+  So it's also to
+
+50:03 - João Landeiro (joaolandeiro.com)
+  to declutter the view for everyone else. mean you as a responsible for this you have to be aware that these procedures of policies are relevant just to manage all this.
+
+50:17 - Linda Marie Bere Pettersson (Hydro Rein)
+  It doesn't provide value, it doesn't create any action for any out in the organization besides you.
+
+50:25 - Abbey Lin (fortifai.co)
+  that kind of the yeah there's some of them that you need to get like signed off but like there's a lot of that you are just more like you know that are just more like documentation that you need to show that you have a process for it.  So it's not like it's not like they're not all relevant I would say in a typical compliance or sustainability officers role like these are just things that you should you should have and I'm trying to think you know like yeah so I think I narrowed it down for Cognite 9 you know like and I cut out a lot you know they don't need to have a hazard as a thing they don't have to have this but you have to have kind of nine  It's like, do you have like a job description for the ESG lead? know, you have to have that documentation, but you might not need that in your role as like, you don't need to have your job description found in a place where somebody can find it easily for an audit, you know, like these are some of the ISO requirements.
+
+51:15 - Linda Marie Bere Pettersson (Hydro Rein)
+  so that's the, that's the, so what it's, yeah, it's like, no, we don't have to go into, but it's kind of your, it's a, it's, this is a mix between, Yeah, it's like actions workflows that are happening with certain type of document, and the third one is more static that you just need to have in case there are questions or just if there's a, if you have like an auditor visit or something, they can look at this view or Yeah, yeah.  So, so these can be, I think it depends, right?
+
+51:59 - Abbey Lin (fortifai.co)
+  Because some companies
+
+52:00 - João Landeiro (joaolandeiro.com)
+  they don't have any existing policies, right?
+
+52:02 - Abbey Lin (fortifai.co)
+  So if you think about that, and they take their ISO policies as their Bible and their God, and these are all policies, right?  Then they can be kind of in the same section, right?
+
+52:12 - João Landeiro (joaolandeiro.com)
+  If wants, but then for other companies that are saying, okay, I want to do the ISO, but I do have my existing policies and stuff that I actually manage on a day to day basis.
+
+52:20 - Abbey Lin (fortifai.co)
+  And ideally, you know, we're helping you make sure that they actually align, so you don't have one policy for your own that doesn't, you know, some of them can align, like if you already have a code of conduct that can be your ISO code of conduct, right?  So that was kind of like kind of a hybrid.
+
+52:32 - João Landeiro (joaolandeiro.com)
+  You could then you have kind of a mental map, these are the ones I work with day to day, these are the ones I have to have.
+
+52:37 - Abbey Lin (fortifai.co)
+  But it could be that it's like, you know, for companies that don't want any ISO, then it's easier to just like kind of take that out and be like, okay, I'm just gonna have my own mental map.  For ones who are having both, could be good. Some who don't have any policies of their own, they like ISO will probably just be what they have because that's all their policy systems.  So that's kind of like trying to find the right hybrid. And I think... it gets a little bit complicated because we have different maturities between the companies, but that's kind of the thinking behind that and I just don't want it to like kind of clutter because when I started like seeing all of the documents it just started in my head it started like oh my gosh there's like 20 different documents and it's I need to kind of sort like which ones do I need on a day-to-day basis which ones do I need that so that's why I trying to group it to help with the mental load there yeah.
+
+53:23 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yeah and I guess for here you also there's a difference between what you consider as policies and procedures or governing documents and documentation for proof or evidence for your D&B audit, audit which is not necessarily the same thing.
+
+53:49 - Abbey Lin (fortifai.co)
+  Yeah yeah so okay yeah like it could be like this you know document me I saw documentation something like yeah yeah yeah like like something like that but um even  Rao, do you have any questions or anything from Linda and that? we can make sure. Absolutely. a minute.
+
+54:07 - Ivan Celic
+  Yeah. But yeah, I think, I'll see the notes from the meeting since I joined later, it's more or less clear that this page needs to be customizable at some point so that they can have names that are relevant to them.  in this case, Linda has, they have their own system, which is probably relevant to them, but maybe other company will have a different naming system, which they will maybe prefer.  So it's a question of finding the right balance between having customizable something and having something that's, you know, still strict enough so that we can say that you are certified if you follow our guidelines.  yeah, I would say it's a fine balance between them.
+
+54:48 - Abbey Lin (fortifai.co)
+  Yeah.
+
+54:48 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yeah. I had to jump out.
+
+54:50 - Abbey Lin (fortifai.co)
+  Sorry. Sorry about that.
+
+54:51 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yeah.
+
+54:51 - Abbey Lin (fortifai.co)
+  No, thanks for joining. You want to schedule for this call? that's good.
+
+54:54 - João Landeiro (joaolandeiro.com)
+  Okay. Thank you. Thank you.
+
+54:57 - Linda Marie Bere Pettersson (Hydro Rein)
+  So Linda, I think what we'll do in the next...
+
+55:00 - Abbey Lin (fortifai.co)
+  We go on practice pretty soon as I'll set up a team site so that like at least you have that and then in that site you could maybe upload any kind of documents or trains that you think could be interesting so we can pre kind of add it in for you and then maybe think about some names you could either write in the chat or an email talk to your colleagues and see who would like to join and then we can set up another time in like two weeks when we have everything ready and kind of show you and your colleagues how to play around with that but how do you have any questions yes and easily very fast so can I share my screen quickly yeah okay my point is not to go through this it's just to understand because Linda mentioned a few times the process or the workflow and basically the orange stuff is the big steps right and yellow stuff like the variables we need no steps is this the sort of visualization Linda that would have
+
+56:00 - João Landeiro (joaolandeiro.com)
+  help you understand the workflow.
+
+56:03 - Linda Marie Bere Pettersson (Hydro Rein)
+  Yes, I mean, this is now I look at it very quickly, but yes, this is, I guess, what you do.  OK.
+
+56:12 - João Landeiro (joaolandeiro.com)
+  Would you like what did, sorry, go on, Joe. We don't have time to validate the content of this visualization, but the important question for me was is it better to talk about our process from the screens or from a more abstract view?
+
+56:31 - Linda Marie Bere Pettersson (Hydro Rein)
+  This is what I would like behind the screens kind of expect, but a comment, Joe, it could, it doesn't necessarily have to be a just document.  It could be verified also that, yeah, it's valid. Nothing, no changes needed.
+
+56:48 - João Landeiro (joaolandeiro.com)
+  That's the only.
+
+56:51 - Abbey Lin (fortifai.co)
+  Yeah, like a document, they could just be or prove document or like, you know, let me take this or verify what you do, but what will you do with?
+
+56:58 - João Landeiro (joaolandeiro.com)
+  Then you say, yes. was verified.
+
+57:01 - Linda Marie Bere Pettersson (Hydro Rein)
+  So nothing has changed, but you do have a change, but yeah, no, this is what I in my head.  This is why it goes on in my head when I think about governing documents.
+
+57:17 - Abbey Lin (fortifai.co)
+  I have a question in the short term, like, is there I'm just wondering the approval process because I know that even with kind of pushing back on the approval process in the short term, like, you know, there's like, you know, like going back and forth, right?  it can go many versions, right? Like I can go five rounds of back and forth, and then it starts getting complicated technical.  Likewise, if it was me, like just being like, send it to somebody, you go, you kind of do that offline on email in the temporary form while we're doing the MVP, and then you get to the final version when it's agreed, and then you just need that person to sign off.  It's approved. So it's in the document. Could that be a temporary? You know what you could do with maybe it's not like, but maybe you have sort of something completely different.
+
+58:00 - Linda Marie Bere Pettersson (Hydro Rein)
+  what we did in in in hydro so we actually had the document itself like word document was in SharePoint and it was there and it did change but the workflow like that was tracked was that something was sent out and someone did click approve or send reject with comments and then the person had to go into the word document and do it again so the the solution didn't do like the workflow didn't do more than it didn't have the document it was just the do you approve to whatever version is somewhere okay I don't know if that helps yeah I think so and I would have a think about that because I know yeah Ivan was a little bit worried about like all the back and the tracking of all the changes and doing that and that technologically well but I think if we're able to do some kind of approval like yeah like send it
+
+59:00 - Abbey Lin (fortifai.co)
+  approve or read this version I approve this version and it moves to the next person. I read this and like that that might be a simpler one.
+
+59:07 - Linda Marie Bere Pettersson (Hydro Rein)
+  it's not like document and tracking perhaps but I don't that's how we saw that so it the document was like in SharePoint and yeah but the the workflow was just whatever you look at there is that okay yeah kind of okay yeah and I can have a think about yeah that but does it have to go in one certain order like step one person before two can look at it before three person could find a sign?  No we didn't have we we had predefined so we say that for I mean me as a document owner I had to make sure that I engaged this and this and this function but so whenever I said it's ready now for approval the document approver would take my word for it that it was fixed but either but I
+
+1:00:00 - Abbey Lin (fortifai.co)
+  the approver said I like it or no it's something has to be changed and then I had to go back and email okay but that can be offline okay so yeah then that would be easier then that can be like yeah yeah you can send them a note approve or not and then they go no then you do all the changes offline and then go back approve no that might be a shorter term because what you need is to track this approval and not necessarily the exact details of the document that's not really in okay no that's that's good and that's helpful because I know that was like a kind of a debate with me and Yvonne is like technologically wise to kind of become like a word where you track everything it's like quite difficult but that might be a kind of interim solution to do that but if you like take the whole let's review this document together but I still you still could do so everyone involved but the document is somewhere in it but it's not it's not connected really I mean it's it's not the intertwined

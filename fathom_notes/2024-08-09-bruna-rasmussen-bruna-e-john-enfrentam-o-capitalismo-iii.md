@@ -1,0 +1,271 @@
+---
+title: 'Bruna e John enfrentam o Capitalismo: III'
+date: '2024-08-09T17:15:00.000000Z'
+duration: 75m
+participants:
+- João
+- bruna rasmussen
+source: https://fathom.video/calls/131359761
+encoding: utf-8
+scrapingdate: '2025-06-09T19:47:34.843563+00:00'
+---
+
+Bruna e John enfrentam o Capitalismo: III - August 09
+VIEW RECORDING - 81 mins (No highlights): https://fathom.video/share/W4ueR5xNrX3GJAFy6ishfkgwAezaDUgs
+
+---
+
+0:01 - Bruna Rasmussen
+  Yeah, it. Today. To the banks.
+
+0:05 - João Landeiro (joaolandeiro.com)
+  Yeah. The better.
+
+0:07 - Bruna Rasmussen
+  There's a fair four.
+
+0:10 - João Landeiro (joaolandeiro.com)
+  Thank God it's Friday. Love.
+
+0:15 - Bruna Rasmussen
+  Your work is in part to see our community in the country. if it where I want to be. People are coming to and I know the thing I keep.  I keep screaming . No, I keep screaming .
+
+1:00 - João Landeiro (joaolandeiro.com)
+  the money, the women will actually to this, and the do this, that means to Women invited you, opening in the field.  You are awesome! Choose an account. What? What are you about?
+
+1:37 - Bruna Rasmussen
+  Thank you very I would like say thank you very you you Okay.
+
+2:10 - João Landeiro (joaolandeiro.com)
+  Okay. Thank very Thank Thank you.
+
+2:41 - Bruna Rasmussen
+  You Okay.
+
+3:22 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+3:52 - Bruna Rasmussen
+  Thank you very I'm not I know. I I'm sure. Okay.
+
+4:05 - João Landeiro (joaolandeiro.com)
+  Okay. Okay.
+
+4:07 - Bruna Rasmussen
+  Okay. Okay. have to do the good thing.
+
+4:16 - João Landeiro (joaolandeiro.com)
+  I'm So, I'm Thank you. And build a position to follow. No. Build a Channel for more. No. up. I like.  The first I say not going to speak English, but I'm not going English. I'm not English, but I didn't know the of the work because you have not seen but except so it's a because the so it's a very like this foreign the but in six minutes particularly that is so the of regesh, estan is vulgar, the, the machinism, so too.  it has been recommended that we understand that what we hoping working needs a lot of but so could it be different for time talked so but probably lot if it rim That's all and to something in terms of what is going on in on in terms of is going on in of terms of what terms of what is going terms what is going on terms of what is in terms what is going in terms of what in terms of what is going terms what in terms going in terms of what is in terms what on on on in terms going on  Yes. Here is a big So, if you want go to figured of project...
+  ACTION ITEM: Provide more details on project - WATCH: https://fathom.video/share/W4ueR5xNrX3GJAFy6ishfkgwAezaDUgs?timestamp=426.11990000000003
+
+7:11 - Bruna Rasmussen
+  What did you do with project? It was a project.
+
+7:20 - João Landeiro (joaolandeiro.com)
+  Yes.
+
+7:21 - Bruna Rasmussen
+  that the project. I think so. The project is... 5% year over year. I yell at me, yell in grass.  And it's the most savage. And... Now, the for that is me. was much used to concealment. And I don't work out Regularly enough.  there are no studios near me. not enough, you don't need to live. It's because you don't have live. And if you have live, it's not enough, it's it's not enough.  why it's not. Is there anything you need to I'm a about you're years. Thank you very much. I think it's problem statement.  I think a problem problem statement.
+
+9:22 - João Landeiro (joaolandeiro.com)
+  I think problem statement. No, it's not a problem statement.
+
+9:33 - Bruna Rasmussen
+  I'm not problem it's problem statement. I happy that you a great experience. I am so glad that you that you Thank Thank Thank you.  you. I think the first part of show is that we have out regularly enough to pay for the plant.  So it's been long the city I tried to food and food community. I had a lot of food at the time.  I'm sure if I'm they didn't notice, but they didn't notice. Okay. Yeah, you putting. you're to get a future back?  Okay. Okay. Okay.,ancing. I'll, to the last for the the a the the the the for the best sense of the premium plan.  Jizen, primero, heite, who's benefits the premium plan, is he going to do that with the business plan? Is the career awareness?  The children, the kids, the kids, the children, and the kids. There are know if they are in the wall, the house in the house.  There was was the house. I think that's the only way from and why problem last of I'm not what I'm saying, but I'm what I'm  Thank you. I'm questions, you if you you have or you or if if or questions, you have It's a easy thing, but lot in this game for We're working here We have lot lot of lot of lot of people have a lot have lot of people have lot people have lot lot people lot have lot people have lot of have lot people lot people a lot of people who of  Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, Thank What is your favorite interest?  What's favorite interest?
+
+17:12 - João Landeiro (joaolandeiro.com)
+  Okay, so what your favorite But it?
+
+17:28 - Bruna Rasmussen
+  Okay, let's give all you a bit.
+
+17:31 - João Landeiro (joaolandeiro.com)
+  I will here the future.
+
+17:36 - Bruna Rasmussen
+  Thank you. you. will offer a gift. Thanks. you for Abutneò crew. Thank say congratulations. I project this way. How you build a feature?  Tell us more about Jesus Christ tonight. it was business journey and an virtual subscription. So, finally, we will do this about working work.  that is what a private team doing. very to from a We want to talk about emerging flows, Okay, and the ability The end of pozieronizs POLI in business judgment the I was just So, keep in mind that I am going to boss, that's what I am going  I thought I had problem, but I then in the end that.
+  ACTION ITEM: Send link to video recording to Bruna Rasmussen by end of day Friday - WATCH: https://fathom.video/share/W4ueR5xNrX3GJAFy6ishfkgwAezaDUgs?timestamp=1143.359899
+
+19:08 - João Landeiro (joaolandeiro.com)
+  Indeed. Yeah, I asking go to the house. I wasn't told so I thought that a very I didn't know how the key.  Oh, I mean, yeah, in God's, I can handle key. need to press my as a process, the drill down, the contract also hazy.  energy. ! ! I'm life, working together. and I'm not how to protect models and excited be here, and we've next decade for In fact, it's because I've been here for years, think that I will be here I will be the able be there.  I'll see in next one. And In Tom prison Tom double diamond primera fuzz of a the sponge sound I call it a reframe a switch He'll put to your father's legal process If it's a fast converged nakry a song do move the other hilly bad Get a problem statement Fuzz provide make function on go ask a good desk.  can say get that that that it was good to see it is Okay, don't give him kick a contest says it's the spare to a key No Combassness to spelt To quizzes put them for zebra upper dias a spat.  Yeah, you've all touched and dear if we second pretend still Aluma quizzic to your bring you a year out in the primary day to put some time or what for Numbra mini bidacious to use to do it am going to force myself, I am going to  I think not the case. I'm not sure how to make it easy to not do it, but I think the case.  case where if make it easy, I think case. I'm not sure happen, happen, I'm not sure if happen, happen, I'm not sure if it's going I'm not sure if if I'm sure if it's to I'm sure if  In the end, you will have specific cost of $5. of inputs in the new outcomes. cost $5 is You will have cost of $5.  And you have You will have a $5. to be able to to be able to be able to be able to be able to be able able to be to be able to be able to be able to be able to able to be be to be able be be be be able to be to be able to be be able be able be able to be be able be be able able will more one two years.
+
+24:00 - Bruna Rasmussen
+  and then we have good process. I'd like to thank you very much for the question. I think that key rotation decreased about 5%.  I think that key is very It's not a key, right? Now, if this could be, then, is that key?  So, again, actually kind of Uh, are you? We also sign a problem statement before and correct it for the same tool of the trial users then convert and convert wasn't able to go to a class at that time.  And now this is for Alice's, this is a number of options as this And now is a of this a number of options Because the average face, average face, average face, face.
+
+27:02 - João Landeiro (joaolandeiro.com)
+  To To Water for model average to a temporary opportunity solution tree Keep to us this can you're Percast the me from see on and if it was good, we could not do it again.  And if it was something it was good it was in the world. So was something that as then it was not as So, your problem is You  I have to know what your sound effect is. It's not a I'm good engineer. I learned lot because of people.  are way. Okay, and I can that problem. I'm not quite sure now. I'm not sure is correct. I have the problem as It was my first time acting.  It was time. I knew do that. That's right. I guess I'm in the top.
+  ACTION ITEM: Make a video - WATCH: https://fathom.video/share/W4ueR5xNrX3GJAFy6ishfkgwAezaDUgs?timestamp=1725.559899
+
+28:39 - Bruna Rasmussen
+  I've video video not? cool. yet.
+
+28:50 - João Landeiro (joaolandeiro.com)
+  know how to make this video out, I'm not doing it. some trials. can you thing?
+
+29:05 - Bruna Rasmussen
+  I am a part of video. I am part of this video. I part video.
+
+29:13 - João Landeiro (joaolandeiro.com)
+  part It's a You I don't know. I can't do I can't do that. You You
+
+34:00 - Bruna Rasmussen
+  You
+
+34:15 - João Landeiro (joaolandeiro.com)
+  Okay, come back for, come back for his protein.
+
+34:21 - Bruna Rasmussen
+  And if we can say a time person, she will moment to kill, to survive, but in the world, that's what she used to do.  Moment to kill, he faced a criminal hour, and moment in Kivaya Kaba with his trial. Okay.
+
+35:00 - João Landeiro (joaolandeiro.com)
+  I want to thank you for your time.
+
+35:18 - Bruna Rasmussen
+  I would like thank you for I'm very proud of you today, I hope you enjoyed this and thank very much, and thank very and thank you very and thank Primera, Primera.
+
+36:00 - João Landeiro (joaolandeiro.com)
+  At the beginning point, one of the multiplicaries they ask to take a super-allergic day before and after day day.  In terms of example, the first lesson I have come to train is master of plan, the question is, what do you see that?  the quality of the video. I was going to start with example, the CTA to explore other plans in this screen.  told you a lot about I also thought that that's why not able to handle I'm talk a little bit what's going to happen here.  In terms of what's going to happen, what's going to happen, what's going to happen, what's going to happen. I'm going to talk a little  Thank you they ask. So when you can talk them, you can have a decision, and they because you can decision, don't trust them.  It's a concealer take It's completeure.
+
+38:50 - Bruna Rasmussen
+  It's a great idea because it's an incredible What's
+
+39:00 - João Landeiro (joaolandeiro.com)
+  If you have question, to you I just an of the real slice, that's best I want to tell you a little bit the reason why this slice is not the last I ask make between the two cycles that are slower and that have all of these things.  But need give more decision. For we see we have the plans what you can instance, we have do this again,  I'm if it's not to happen. I'm not if going to happen. But I'm not if it's going to happen.  If it's going to What's for watching! And since it's good. I'm going to send a link to video. And I'm going a link video.  And I'm going to a link video. this a Google list of people who are going post a test for a solid.  So, I'm going to send link to the video. to be to to be able be be able to be able to be able to be to be be to be able be to be be be to be to be be able be to able be be be be be be be to to  Okay, asked you about zero two. If you want to take me to the city, will take you the city.  Okay, you can ask me what's going on city. We use the same information same way.
+
+42:30 - Bruna Rasmussen
+  It's not easy to go through easy. Also, for example, crazy level idea.
+
+43:03 - João Landeiro (joaolandeiro.com)
+  It was crazy level, because it's not much severe, so it's a positive impact to the internet. It's bad. It's not bad, but it's not It that we need to do some applications.  first one is more that we require So, that's I to do some application. I might — but you didn't that.  seen question I'll give you for that's it something that will Thank you much. Thank I think it's good I think it's a good it's question.  I think it's a good question. I it's a question. I question. good question. I think question. I think it's a question.  think a good I think You really?
+
+44:36 - Bruna Rasmussen
+  a Yes.
+
+44:37 - João Landeiro (joaolandeiro.com)
+  are going to work on that principle.
+
+44:40 - Bruna Rasmussen
+  This is good is a good question. It's a good question.
+
+44:55 - João Landeiro (joaolandeiro.com)
+  it's a good question. made it. I don't know how to say that, but I'm not sure how say I don't I don't to say that, but know say don't know but I know how say that.  I don't know that, know. But how to say that, but I know very much how say that. don't know say that, but I don't want  So, I'm going you a little bit of the video. I'm going to a video. first time a video, I'm going to show you a little video.  and and and and You I would like to ask you a little question. I would like you a little bit about question.
+
+47:21 - Bruna Rasmussen
+  So, thank So, we need some truth.
+
+47:29 - João Landeiro (joaolandeiro.com)
+  Sorry, I can't... I can't ask questions for this problem. I'm thinking heads. think heads. I asked the question, we go, what's up?  I asked a intercyst community with the proposal to bring the group and say that in one regard to some...  reason is that they don't have any... If they don't have know, they just don't have any questions. I don't know anything it.  If don't have I don't a lot but we don't don't have to talk it, I don't need to talk about it.  This of multimedia. to him week. I don't have I am doing this.
+
+48:22 - Bruna Rasmussen
+  See?
+
+48:23 - João Landeiro (joaolandeiro.com)
+  So, I'll go the next go any other school in the future? Me did go to future? I don't Thank you  and the that and Okay, let's go to the presentation. Okay, let's go Amen, tahai saitim e e tahai So many users feel intimidated when trying new classes or visiting unfamiliar studios.  Creating a welcome environment and providing support can help alleviate these feelings. Okay, so we have to start few more examples.  We examples. So we have to start with few more If you go website, you can go go to website can to  the way they approach are much happier, but so don't vote, we got butter. You You You Thank you much.  You You
+
+57:30 - Bruna Rasmussen
+  What? You
+
+58:15 - João Landeiro (joaolandeiro.com)
+  Yes, please.
+
+58:16 - Bruna Rasmussen
+  But me talk about I'm very all of time the office. Yes, you.
+
+58:29 - João Landeiro (joaolandeiro.com)
+  I'm that would like to thank for the opportunity to be I would like opportunity to Thank very you. Thank you.
+
+58:49 - Bruna Rasmussen
+  Thank you for the opportunity to be here today. Thank you opportunity to be here today. and what's the fitting things back to the jord naabe?  I think it's the first I've ever this but magical to be sure to videos on social media, It is so canal, actually, yeah, it is something that we are going to have to do with for a month, so I think this is a key to maintaining over life, I think it a key to this.
+
+1:00:02 - João Landeiro (joaolandeiro.com)
+  It's because when you walk on the road you to at these can you look the other We're on the other side of I'm have any questions, I'm not if have any I'm if have sure if you have any I'm you have if sure you you have any  If there is a where are going to be in the universe, is not possible to in the universe. You are going to be in the You are be the Okay.  Okay. I'm take you a few minutes you I'm going to go to next I'm going to go to next one.  can see. You know, sesquale esta apoquent, inadequate community building, farmers are subsequently diagnosed with challenge. Users may feel isolated when using the platform, leading to lower engagement, creating community-driven features such as group classes or social events can enhance user activation and retention.  Thank you very While I asked it, I'm about to submit it to some of my seasonal variability and engagement.  Using engagement may flow to each seasonally, lower in summer or around early days, impacting active issue rates, developing seasonal campaigns or promotions can help maintain consistent engagement.
+
+1:03:26 - Bruna Rasmussen
+  What's your name?
+
+1:03:27 - João Landeiro (joaolandeiro.com)
+  What's Okay. Don't disappear. there is lot of time in time, So, I'm be here. video, but I'm glad to be Thank you very much, you time, you very to be and I Thank you you very much, thank you very But, it's not say in the past, but it's not very word to say in a very difficult word to say in the past.  But, of course, I it's a very word.
+
+1:04:55 - Bruna Rasmussen
+  I don't want be
+
+1:05:00 - João Landeiro (joaolandeiro.com)
+  I want say thank you, Thomas, and Let's go to the next always ask about the question question.
+
+1:05:13 - Bruna Rasmussen
+  you much. You You .
+
+1:08:21 - João Landeiro (joaolandeiro.com)
+  . .
+
+1:08:56 - Bruna Rasmussen
+  . .
+
+1:10:00 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+1:10:29 - Bruna Rasmussen
+  So, we are to talk about the community building. But we are going to about the community building. we are to talk community building.  Yeah, if you want to put my jushes in jerei then it's If want to cut both time, for example, I'm saying, know, could I do for a month, eight years?  It's always another opportunity to start. Perfect.
+
+1:11:25 - João Landeiro (joaolandeiro.com)
+  Thank you very Thank you very Thank you much. you much. Thank you very Thank you very Thank you very much.  Thank you much. Thank you very Thank you Thank you very you very much. much. much. much. Thank you very much.  you much. Thank you much. Thank you Thank very much. And have a very diverse digital online present. very exciting thing, I think we have a very very innovative engagement.  One of the things that I I'm not give you stress. If you feel that you're not give me a I feel you're going to give me a stress.
+
+1:12:37 - Bruna Rasmussen
+  I would say if I was a person, I would say it.
+
+1:12:50 - João Landeiro (joaolandeiro.com)
+  say it's term for the minutes of the time, but. Okay. Yeah, I'll go with it.
+
+1:15:07 - Bruna Rasmussen
+  Yeah, I'm it can be way going be different.
+
+1:15:36 - João Landeiro (joaolandeiro.com)
+  See if you make video, if make a video and see if So I'm going you how make a video.  It's going to be little it's going to be bit different. Adios! I know you say anything word, but it be I know the word is word, why.  I can't anything about word. don't I don't think that's the way I I don't think that's the way would Yeah, I'm Yes, I'm okay.
+
+1:16:34 - Bruna Rasmussen
+  You're going to get to realize that you're wrong. Erm, argument is no.
+
+1:16:41 - João Landeiro (joaolandeiro.com)
+  May they have a $1 per hour reverse, may they? There's no $1. I'm not going to keep up so in 10.  He's not going to to reach the world. if he's going to have to reach the I don't if he's the world.
+
+1:16:56 - Bruna Rasmussen
+  the world.
+
+1:16:56 - João Landeiro (joaolandeiro.com)
+  I don't know if What you here?
+
+1:17:01 - Bruna Rasmussen
+  When you you will see a factor in.0.0, difference and.0?
+
+1:17:15 - João Landeiro (joaolandeiro.com)
+  $1.0 and $1.0, and $2.0 is $1 it's not a way to that. I don't know why. I think a really good I think be able to talk about in a little bit.
+
+1:17:45 - Bruna Rasmussen
+  But I think allowed you think that we have experience? I think we have a going You and how I'm little bit I'll not I'm in a sense.
+
+1:18:18 - João Landeiro (joaolandeiro.com)
+  I've been the past. just to be in going place like to be place like to be able place. I'm place I'm going ask you, I'm going to ask you, I'm going ask you, I'm going ask you, I'm going ask you, I'm you, I'm going to ask you, I'm going to you, I'm you, I'm going to you, I'm going to ask you, I'm going to ask I'm to ask I'm going to ask you, I'm going to I'm going ask ask going going going I'm I'm
+
+1:19:03 - Bruna Rasmussen
+  I'm not just be talking about I'm Max. And I'm saying for today, I'm a good Okay, and then going to I'm doing No, no, no, no, no, I...
+
+1:19:31 - João Landeiro (joaolandeiro.com)
+  Mr.Cess, can you make me... ..and... ..and do you think this? And do you it's okay to Do you have any Thank you much.
+
+1:19:51 - Bruna Rasmussen
+  Thank you. What about Vou? I can't do it.
+
+1:20:10 - João Landeiro (joaolandeiro.com)
+  You ask me customs It is not a Because to go And I know this is with everything?
+
+1:20:23 - Bruna Rasmussen
+  What and do. that what we to do don't a hard topic go.
+
+1:20:28 - João Landeiro (joaolandeiro.com)
+  It's short It's hard It's also for me to entertain. I'm not doing that. I've that. Yes, yes. Mr. Seven, why are you I'm not that.
+
+1:20:43 - Bruna Rasmussen
+  No, I'm not doing that. I'm not doing that.
+
+1:20:52 - João Landeiro (joaolandeiro.com)
+  Bye, You

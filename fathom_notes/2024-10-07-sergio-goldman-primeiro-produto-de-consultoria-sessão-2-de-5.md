@@ -1,0 +1,415 @@
+---
+title: Primeiro Produto de Consultoria Sessão 2 de 5
+date: '2024-10-07T13:00:00.000000Z'
+duration: 90m
+participants:
+- João
+- Sergio Goldman
+source: https://fathom.video/calls/159111744
+encoding: utf-8
+scrapingdate: '2025-06-09T19:44:22.400361+00:00'
+---
+
+Primeiro Produto de Consultoria Sessão 2 de 5 - October 07
+VIEW RECORDING - 97 mins (No highlights): https://fathom.video/share/B55sWQ_Dtc5JRM5tUjmMqExjRpdZQgW6
+
+---
+
+0:00 - Sergio Goldman
+  I know I'm sick I You're sick I'm sick It's not fair It's not fair I'm Okay That's the reason what right now.  Go ahead. Okay.
+
+0:28 - João Landeiro (joaolandeiro.com)
+  Okay. Don't. Stop. Don't. we. No, Ss. this is the best, but not sure I'm it's the best thing in world.  interesting thing.
+
+0:51 - Sergio Goldman
+  I'm if not sure what I'm not sure if I'm not sure what not Well, a bit special because I didn't want him do I don't have not want do this.
+
+1:16 - João Landeiro (joaolandeiro.com)
+  kind is from so, I say you go, don't even move a lot. You're of wrong. I think you're going yourself wrong as as So, could I think of myself as as Thank you very much.  Okay. Intro. because that's I am here giving the opportunity to I think the goal is to do something with skills is to to do something And after that, I do something the skills that to do.  I believe that is who they are. I don't think it was a miscegeno. I was just a tacky, a constrassant to share my memories, but I had to do it in a minute.  It a lot of fun, isn't I think it's a lot with the expertise. a lot but lot of I think it's a lot fun, but I lot fun.  It's lot of So, yeah, it's of people, a of will able to see this, or to be reach their own nooks, when for nooks to find their nooks.  And there's a lot not see this nooks. think they're find nooks. Thank much. a lot. Yeah. Live some of the business of expertise.  So no comment. I have a comment that I have a comment that have comment that I have a comment that I have comment I have a comment that I have comment I have a comment that have comment have comment I comment comment that I have comment that that I have a comment that I have comment that have comment that I have comment that I have I have a comment that a have a that comment comment that have comment that I have a comment that I have comment that I have a that I have a comment that I have a comment that comment comment that I have a comment I have comment a comment comment I have a comment  This example of having a memory is a very game. But it is the beginning our story here, will about, and how of us are in this have scope of these and a very simple The first a very simple one, There's a lot of people with the speakers.  I'm sure what I have tell about ask, a few people have to speak. I'm what going do. And we'll see you next time.  I I think a good point. a good point. I think it's a good point. I think it's good point.  it's a good point. think good point. I think it's a good point. think good point. I think a good point.  point. I think it's point. I think good I good point. I it was a good That an Koenig maybe.  La conchia. It's quite an easy way be able to I don't understand anything. I think it's very speak. It's very a little bit, it's very speak a little bit, The point of view is that the point of is that the of view is that the point of is the point view is that the point of view that point is that the point of view point is that the point of that the point view that that point point view is view is that point is that the point view that point that the point that the view point that the the  So the in preamble. the first thing we is, we can see two three of us. And we got the difference between three us.  And we in the war. be see the difference between the Thank you very much! I hope you enjoy this video, and I hope you enjoy it.  Let's put it to what happens in the structure. I think it is empty I can't this. At this point, moment where would that could just background effect, I I think is an even to Okay.  I will see you the next video. Yes. Hi. you English? Yes.
+
+10:02 - Sergio Goldman
+  going to speak English I'm going to speak in English. Okay. I'm going to speak English me. Yes.
+
+10:20 - João Landeiro (joaolandeiro.com)
+  Yes. Yes.
+
+10:20 - Sergio Goldman
+  going speak English. Yes. already as well.
+
+10:57 - João Landeiro (joaolandeiro.com)
+  you, the pre-mercissant. The first one is the first And now are to be in the end. Do we be in end of this?  Yes. Yes.
+
+11:21 - Sergio Goldman
+  Yes. Yes.
+
+11:46 - João Landeiro (joaolandeiro.com)
+  Okay. Okay. you very
+
+12:00 - Sergio Goldman
+  Dude, that´s what's goal of week and That's I´m not I made here. I´m still not I made something law of law.  All things are nothing, right? Okay.
+
+12:22 - João Landeiro (joaolandeiro.com)
+  you, Okay. had a couple of questions.
+
+12:29 - Sergio Goldman
+  Okay.
+
+12:36 - João Landeiro (joaolandeiro.com)
+  Okay. Okay. Okay. two of them.
+
+12:48 - Sergio Goldman
+  What do you think? are I know. Oh, my God, I want to speak with you. I see you. What?
+
+13:09 - João Landeiro (joaolandeiro.com)
+  Come and come for a second, stakeholders, then you have a good evaluation. You will be first understand what you are saying the Chinese movement, how you are going to understand as information.
+
+13:21 - Sergio Goldman
+  I think it's very important understand information. I think information is very think that the very important.
+
+13:43 - João Landeiro (joaolandeiro.com)
+  think context to the evaluation. Thank you.
+
+14:15 - Sergio Goldman
+  I'm not future.
+
+14:15 - João Landeiro (joaolandeiro.com)
+  a lot money in the future. to put lot money future. This is a video. I've been with my screen.  I want my screen. I screen. the screen.
+
+14:44 - Sergio Goldman
+  I'm screen. I'm using screen.
+
+14:59 - João Landeiro (joaolandeiro.com)
+  You Thank you. in the community. The French farmers, the IPOs, IPOs, the IPOs, the IPOs, the IPOs, the IPOs, IPOs, the IPOs, the IPOs, the the IPOs, the IPOs, IPOs, IPOs, the IPOs, IPOs, the IPOs, the IPOs, the IPOs, IPOs, the IPOs, the the IPOs, IPOs, the IPOs, the IPOs, IPOs, IPOs, the IPOs, the IPOs, the the IPOs, IPOs, IPOs, the IPOs,  I'm why. But in the pre-superst, I'm not sure what the category of the is, depending on the of street, the amount of water.  I'm sure what model is. I'm sure that it's the but that the name. I'm going to tell you that I'm not going to friend.  In a little bit.
+
+16:36 - Sergio Goldman
+  I'm going to to the same place. I'm going to go to same place.
+
+16:53 - João Landeiro (joaolandeiro.com)
+  I'm going to go place.
+
+16:59 - Sergio Goldman
+  How did you move? My name I am an English teacher and English teacher.
+
+17:08 - João Landeiro (joaolandeiro.com)
+  I am a English Okay, we will be back in few minutes. I am Chinese I want you this. are doing to tell that I am English which won't see you.
+
+18:00 - Sergio Goldman
+  Yeah, this is a really good place try to do it.
+
+18:04 - João Landeiro (joaolandeiro.com)
+  yeah.
+
+18:05 - Sergio Goldman
+  That's true.
+
+18:08 - João Landeiro (joaolandeiro.com)
+  Okay. I'm not sure if you any questions.
+
+18:15 - Sergio Goldman
+  I'm not if you Yeah, I'm not sure if have any I'm sure if you have any questions. but I've found the point.  So I'm meeting with friend.
+
+18:32 - João Landeiro (joaolandeiro.com)
+  I'm a dad, friend with my friend and in the hospital, and I'm a dad. I'm a dad, dad, be him.  I'm looking forward her and when I'm always tomorrow I'm and I'm not dad, and at home. and you're And You
+
+19:11 - Sergio Goldman
+  And then, I like to recognize the impressions of and were to lot problems with these problems.
+
+19:39 - João Landeiro (joaolandeiro.com)
+  little from the But make sure that problems. So we have to make sure that problems, that can the difference.
+
+19:58 - Sergio Goldman
+  We'll see I'm going to say that this is one of most important things I've ever seen my life. I'm going say that this the most important things I've my life.  What do you want to do? do? do? do? What do you want do?
+
+20:46 - João Landeiro (joaolandeiro.com)
+  What do you want do? What do you do? do? What do to experience, why do you want How do you use
+
+21:00 - Sergio Goldman
+  I'm not very happy to be here, but I'm to be I'm very happy be here. I'm very happy be here.  happy be I'm happy be I'm very happy be here. I'm very happy be here. I'm very happy to be I've never York job.  I was in a big dream, I was more than to be here. I've never been to New my job.  I've never to New York since Okay, do you want to sit for this? Okay. that does my and I Ooh, ooh, ooh, ooh,
+
+23:00 - João Landeiro (joaolandeiro.com)
+  To be honest with other it's very to go very difficult place and to a private area, to make a difference in can live a The other people who here I'm not sure questions, if questions, or if you have or if you have any questions, if you have any questions, if you
+
+24:06 - Sergio Goldman
+  One is to relax. No, no, the point? We're right, outside. I can't step outside. I'm going out right As a difference, it is a difference.
+
+24:36 - João Landeiro (joaolandeiro.com)
+  It is a We are not only interested in this, but also original. We are not interested in we are not in Okay.
+
+25:00 - Sergio Goldman
+  is beautiful. It's simple to describe for example.
+
+25:03 - João Landeiro (joaolandeiro.com)
+  It's just short visuals that you can't And just horizontal mirror, just If you you can't. room. It's it's long time.  So I'm try to explore the lives of the traveling guys in and the religious arts. Thanks time. Thank you very much.  See the latest news. This is the core with last and we should not have said this. I'm not sure if I'm not sure I'm I'm if I'm sure if I'm if I'm sure I'm I'm I'm sure if sure if I'm sure if if I'm sure if I'm sure if I'm sure I'm sure if sure I'm sure sure if I'm sure if I'm I'm sure if I'm sure I'm I'm sure if I'm I'm sure sure if I'm sure I'm sure if I'm sure I'm sure if I'm sure sure if I'm if I'm sure if I'm I'm sure if I'm sure if I'm sure if I'm sure I'm I'm sure if I'm sure if I'm sure if I'm sure I'm sure if I'm I'm sure I'm I'm I'm sure if I'm I'm sure I'm sure sure I'm sure if I'm if I'm sure if I'm if I'm sure if I'm I'm I'm you soon.
+
+28:00 - Sergio Goldman
+  I'm working on the field, I'm doing the same a field, and I thought I'd write a few work audience, to think, that the audience was than skill, I'm not if I'm going to do that, but I'm not I'm going to do that, I'm not going do that, I'm not going do that, I'm not going do that, I'm not going do I'm not going do that, I'm not going going do that, I'm not going do that, I'm not do I'm not I'm not not not not I'm I'm I'm
+
+29:00 - João Landeiro (joaolandeiro.com)
+  I would to you for being here today. I would like to thank you for the opportunity to be here today.  I would like thank for the future. in my image difference on you. I can't respond to the wisdom. I think it's going to a little bit further.  Happy May Day. Thank you very What about formula for the first one, which would be a because I'm a small and it's just that we can do this.  So I've had a lot fun it the same time. So I've been the final things that do. There are some that we've had in our business in this review, but it's so much, so much complex as the keys.  It's a big difference. It's a big difference. It's It's a big difference. I'm going say going going going I'm going I'm going say say that going that going say that going say that going to say that going say that going say going say that I'm going say that going to say that going say that that going to that I'm going that going I'm going to say that I'm say that I'm'm going to say that I'm going that I'm going say that going say say say I'm going say that I'm going say I'm going to that that going say that going that that I'm going that I'm going that I'm going to say that going to say I'm going going say say Thank you.  We are so proud our own expertise, we are very excited, we are not very excited about We are so excited to be a very and diverse, we are very happy we are of the first time we is how many times, is time I was now, we we are very be but there's a key form that's a difference in terms of they it.
+
+32:37 - Sergio Goldman
+  Sir? I don't know to pronounce it but I know how pronounce it but know how but I Okay, well  I am very speak the past. of the public the most, and another in to do more on these things.
+
+33:43 - João Landeiro (joaolandeiro.com)
+  Hello, there's a lot on the public discussion. What do you think about What do think about the public communication the What think?  I also, one form of my experience.
+
+34:00 - Sergio Goldman
+  I would like thank opportunity to with us very Thank you. But, find further information in future. We will able to find in the future, important.  You know, So, I think it's a very thing do, because I important thing do. But, I think it's a very thing to in terms of last do you Carribe for How many cars Carribe for?  I think that believe the Carribe is But I have also said the problem. What are specific things?
+
+36:07 - João Landeiro (joaolandeiro.com)
+  What are the different things have your friends?
+
+36:14 - Sergio Goldman
+  And what are different things?
+
+36:18 - João Landeiro (joaolandeiro.com)
+  are the different things? So, I'm going ask you a few I'm a few I'm going to ask Thank you very  See?
+
+37:00 - Sergio Goldman
+  Yeah, I think it's Okay. Okay. Okay.
+
+37:29 - João Landeiro (joaolandeiro.com)
+  Okay. Okay.
+
+38:30 - Sergio Goldman
+  I don't know if you have question. I don't know if you have question. Okay.
+
+38:47 - João Landeiro (joaolandeiro.com)
+  Okay. will leave you in the next session. I will leave in the next session.
+
+39:00 - Sergio Goldman
+  Didn't I have a from audience. I have a question. I have question, I question, have a question, I would like ask you, I would opportunity to get started.  I'm what you're gonna do. what you're do. I'm what question is, why are is it not here? is here?
+
+39:47 - João Landeiro (joaolandeiro.com)
+  you that I can I I'm not that Thank you very Thank you.
+
+40:09 - Sergio Goldman
+  I'm not sure what to say. have little bit I'm not I'm not sure. It's because it's not of it's just because it's the images.  The look that's what I'm saying image is a little from image the image. I don't want to do that.  OK.
+
+40:55 - João Landeiro (joaolandeiro.com)
+  OK. OK. OK. I'm going to ask you about this.
+
+41:01 - Sergio Goldman
+  The first thing I can do is put take a letter to and from I don't think it's going happen, but it's not happen, but I think happen.  I don't think going to happen, but I going happen. I don't think going happen, but I going happen. I don't think it's going to  It's good.
+
+42:08 - João Landeiro (joaolandeiro.com)
+  a have to speak bit the capital of capital. I understand the capital of capital of capital.
+
+42:23 - Sergio Goldman
+  What think is the most important part of It is most important part of It the most important part of country.  It is the most of It most important part of Okay. and and and The important thing is we are not going be able to do this.  I'm I'm sorry. I we are to country with own own. able to is not country. The country is not in country.  not the country.
+
+44:24 - João Landeiro (joaolandeiro.com)
+  Okay. immediately. Okay. not a guard. See, a form of communication is I don't know if it's or any procedure.  But still, the interaction between the Zappai-Shunade, the entire identity of Zappai-Shunade, I but I how don't know how to pronounce I don't know how to pronounce I'm don't know to pronounce you give a to me?  Yes I'm not person that correct or Let's
+
+46:00 - Sergio Goldman
+  Can you see, I it's a very simple way to say it.
+
+46:13 - João Landeiro (joaolandeiro.com)
+  What is the problem? What is Okay, you know, I lark, is a distinct of the practicum, the Mercado Diocesanise, Síos Paris.
+
+46:58 - Sergio Goldman
+  Arastino. Arastino. Nana orish If you don't think it's possible, I'd say check with you for some time. I'd say no.
+
+48:10 - João Landeiro (joaolandeiro.com)
+  Fantastic. It's important, ceteros, because I think you have to cut, you know, conversant years, it's a good idea. It's good idea.  It's good idea. It's idea. good It's good idea. If you think about the original, you studio. If you've noticed, well, can't think about the original, you can't think about it something different.  You can't think about it, same. Do I've seen bit 17 years ago. It's can't see the difference and we to make sure that we have to we have sure that we have to make that we have to make that we have sure that we have to we have to make make sure that we have make sure that to make that we make that we make that we have to make that sure that we have that have to make have to sure that we have to make sure that we have to have that we have make we to make we have we have make sure we to make sure that we if it was  We don't have do that. Let's see how this to try it. We can see it. I'm going go over to next question.
+
+50:20 - Sergio Goldman
+  Okay, let's go back next And how you help me with the task, as through voice over?
+
+50:38 - João Landeiro (joaolandeiro.com)
+  I'm sorry, I this away now. I'll it. I mean, I'm You Thank you for in is a of the conversation.  Okay, what about.
+
+51:39 - Sergio Goldman
+  If the case in the context of the context, what about the context? in their world. How many people have it?
+
+52:02 - João Landeiro (joaolandeiro.com)
+  Now, I don't think we're going much more time but I don't think we're going to have time. I'm going time...  Because think It's the key for keeps the key the flier plans as you navigate this thing over say I'm not sure going on but what's  I it's a lot more I perspective of the future is a lot I think that's why I am not very much happier.  I think that's a lot more But I lot I think that in reality, more complex. complex. It's supposed to move.
+
+53:28 - Sergio Goldman
+  It's supposed move. It's supposed to It's supposed to move. It's supposed It's supposed to move. It's supposed move. It's supposed It's It's supposed It's supposed It's It's supposed supposed It's supposed supposed move.  It's to move.
+
+53:58 - João Landeiro (joaolandeiro.com)
+  then this looks See?
+
+53:59 - Sergio Goldman
+  just supposed See? other side. See? What do you think the world will to world in the future?
+
+54:12 - João Landeiro (joaolandeiro.com)
+  In the end, I have heard a the world, don't think people the world have I'm not sure. I'm not I'm I'm I'm I'm I'm not not sure.  sure. I'm not I'm not sure. sure. I'm not sure. I'm not I'm not not sure.
+
+54:50 - Sergio Goldman
+  sure. I'm not sure.
+
+54:52 - João Landeiro (joaolandeiro.com)
+  I'm sure. I'm not sure. I'm not sure. I'm not sure. I'm I'm not sure. I'm not not not sure.  Okay.
+
+55:22 - Sergio Goldman
+  the Okay.
+
+55:41 - João Landeiro (joaolandeiro.com)
+  Okay. That's not the question. The question is, what talking Peace be upon you.
+
+56:00 - Sergio Goldman
+  The question is how long have you ago, What Sattish, please speak, Yes, Because you are recently What as Marukad?  Get back to the same When it's going to be available? don't know if possible, but I'm not is possible.  I if is more difficult. The the city all but the same. it's not same.
+
+57:14 - João Landeiro (joaolandeiro.com)
+  It's same, same. All it's not the same.
+
+57:22 - Sergio Goldman
+  We don't see it.
+
+57:28 - João Landeiro (joaolandeiro.com)
+  You know? You know, I a little a in what we're doing in the city. It's not the same, of the COVID pandemic?  Yes.
+
+57:38 - Sergio Goldman
+  of the more we What do have to Do you have to of us? Yes? Thank you much. My grandmother and my grandmother.  I my grandmother. I didn't I though her mother. wasn't didn't know what Okay, what?
+
+58:36 - João Landeiro (joaolandeiro.com)
+  What? I spent two minutes.
+
+58:37 - Sergio Goldman
+  What? was in the place.
+
+58:42 - João Landeiro (joaolandeiro.com)
+  And I in place was a a I don't have What I've been doing, and I place I'm Washington.
+
+59:31 - Sergio Goldman
+  My soul's soul, my soul's soul, my soul's soul, soul, my soul, my soul's my soul's soul's soul's soul's soul's soul's soul's soul's soul's soul's soul's  So, thank you for signing up. Thank you.
+
+1:00:14 - João Landeiro (joaolandeiro.com)
+  Thank you for waiting, your experiences. well, and and and and and and and and and and and and I'm not in this, but I'm not in this, I'm not you're interested in I'm if interested in this, I'm sure if interested in this, if in I'm not sure interested this, this, not interested this, I'm not if interested in this, I'm not sure interested in this, I'm you're in I'm not if you're interested in this, I'm you're interested in I'm sure in this, interested in this, sure you're in this, I'm sure if interested in this, sure if you're in this, sure if you're in this, if you're interested in I'm you're interested Okay.  We now go to that we will see as a question with Ron. And we question You can just tell us what we doing.  In the example of question, we be starting to go to It'll be in some way. start. Primer. I'm going to talk a about  this is the first in the game there is the first game in was a long time ago I've played pretty much every single It was very to see different games as and a country that is known as Western Republic.  We have of but a of ways to get So, there is a of You have to say respect to the North of Africa, Thank you very much watching, and I will see you in the next video.  I think that's why I'm here. I think I think that's why that's here. why here. think why here. I think I'm here.  I think that's why I'm here.
+
+1:04:20 - Sergio Goldman
+  think that's why think that's why why I think that's why I think why think I think think why I I think
+
+1:05:01 - João Landeiro (joaolandeiro.com)
+  When you you don't know, it is a good It a And you to go through this project?
+
+1:05:18 - Sergio Goldman
+  Yes, I to go project. but lots Sorry. are common possibilities of And for I said, it's completely different. So, I'm like, don't have any Oh, Me with the issue  So you've part situation.
+
+1:06:29 - João Landeiro (joaolandeiro.com)
+  in terms of the same thing. Once a thousand production percent, the company has already described the all-impressed security and all-impressed security in the end.  Okay, so what's the most in the end?
+
+1:06:44 - Sergio Goldman
+  Oh, the most important thing in end, with the same problem end of the day, right? Thank you. You know, I'm going to speak in a couple words.
+
+1:07:12 - João Landeiro (joaolandeiro.com)
+  So, the anti-produced product a very interesting topic. Okay. So, we're going to talk about problem. Okay. but it's opposite in the open sector that they need to be produced to but this is the first universe that the secret to me was international there's a lot of content mass my question is who is in the center of creative faith this or creative creative  Fates part to this. Oh, fishe, skait, shait, shait, Open standard.
+
+1:08:12 - Sergio Goldman
+  I'm in the middle.
+
+1:08:14 - João Landeiro (joaolandeiro.com)
+  No, I'm in the middle.
+
+1:08:16 - Sergio Goldman
+  No, They are in the middle. They are in the They are in the middle. Then, we do what it It's easier implement.  that is an issue. For that, I'm not how many in So, it's a good thing to do this, because to do.  I think Mr. Razill, is there a question that is about information of the internet? Why is it programmers understand that it arresting them?  Why people don't the question, dark income?
+
+1:09:22 - João Landeiro (joaolandeiro.com)
+  Yes, they're going to a to the to the to the Thank you very much.
+
+1:10:24 - Sergio Goldman
+  So I have to I think to I think it's a very important thing about. It's a very that it's very thing I think it's a to  And the question is, how do you focus on that?
+
+1:11:08 - João Landeiro (joaolandeiro.com)
+  The question how do you on and how you focus on the focus? So, I'm that you have question. you have question.  question. have question. going to that you have a question. I'm going to ask that have question. Okay.
+
+1:11:49 - Sergio Goldman
+  Okay.
+
+1:11:51 - João Landeiro (joaolandeiro.com)
+  I'm going ask that you have a I'm to ask that you have I'm going
+
+1:12:00 - Sergio Goldman
+  What you mean by the way you are doing think that you I think are doing a lot technology, and you make it then it to make it easier.  So, folks, you mentioned earlier, I'm going to to you So, I'm you bit about it.
+
+1:12:47 - João Landeiro (joaolandeiro.com)
+  So, folks, earlier, I'm going talk to you a bit about it. as you earlier, little bit about it. I'm not here, but It's great tradition, how would you make decision?  I think it's a great thing, It's very conversation. And I there is something very interesting to because not mandatory.  So, I that this is a was there's nobody. I'm a a You don't understand, you still understand? But the other that already see problem.  So you can't listen, but it's problem, can't a problem. It's So, I think that's a good way to make There's still a lot of people It's like can my like  And we will have a about I have I will complex. Now I will put the problem with this problem.  And I will the problem problem. Now I will put it on the it on and then I will put it on the stress.  But, thanks for the question. And the question does if called this question Can explain the again question is, how you tell me?  What the question that will about theory What if you ask me about this question, you are question So what do you do?  as a different Well, you're really I don't want stop main of It's not even really normal client or a good one, that presence can be another and is rational.  It's something it a fact that don't have whether you're a little your personal comment or aren't to give a credit?  Thank you for your support.
+
+1:17:04 - Sergio Goldman
+  Okay. think she had a very sick person, very sick one. Okay.
+
+1:17:16 - João Landeiro (joaolandeiro.com)
+  Okay. Okay. that's the key. going to go ahead. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Now we are going look.  is going on? and I hope you enjoy I'm to make some part of this in just a couple of minutes.
+
+1:18:27 - Sergio Goldman
+  How do you understand thing about the same thing is that we are trying solve problem. yes you no?
+
+1:18:45 - João Landeiro (joaolandeiro.com)
+  Yes. a lot paper, a lot see part of the process of pianism, in the world. Right?
+
+1:19:00 - Sergio Goldman
+  Okay.
+
+1:19:16 - João Landeiro (joaolandeiro.com)
+  Okay, second card.
+
+1:19:32 - Sergio Goldman
+  What do you want to the future? What want do you want to
+
+1:20:03 - João Landeiro (joaolandeiro.com)
+  Okay. I'm sure I might as well keep combing contravant as in a mob here, in the Gosses Minars.
+
+1:20:15 - Sergio Goldman
+  I'm going problem with specifics, there's a lot of work.
+
+1:20:19 - João Landeiro (joaolandeiro.com)
+  So, you much for joining us thank you for joining us today.
+
+1:20:51 - Sergio Goldman
+  I press a couple of press of times.
+
+1:21:16 - João Landeiro (joaolandeiro.com)
+  so they need to But what do it I'm not thinking anything that. I'm not thinking about anything it.
+
+1:21:55 - Sergio Goldman
+  To corporate cheap.
+
+1:22:00 - João Landeiro (joaolandeiro.com)
+  I want to say as key. want to say this is what is called as key.
+
+1:22:10 - Sergio Goldman
+  So, I want to say as key. Yes. Yes.
+
+1:22:31 - João Landeiro (joaolandeiro.com)
+  Thank you. you. Thank you. Thank you. I'm not sure if you can't answer I thank being Thank you for being here you.  I know how to that, but I that, but I how to say that, but know say that, but don't know to say that, but I that, but say that, but that, I don't know say that, but I know how say that, but know but but know how but don't that's what know how Thank you very much for watching!
+
+1:24:00 - Sergio Goldman
+  Second, how do you feel about your knowledge? Let's talk about the practice of with Yes, we be you.
+
+1:24:16 - João Landeiro (joaolandeiro.com)
+  We have to do What is difference between and As the whole website is 3D, so and you why I usually use reports.  so, I think not allowed to use I think we want to use those new uploads And now, sorry. very much.  For you? You don't go for me? I know how to compare the competitive with that, but I think that it's good thing do.  I good thing do. I think good thing do. good thing to do. I think it's good thing do. good thing to I think good thing do.  I do it, but it's not tough story but I would It's very determination about what like Another thing to do this, is because didn't.  It was soon to impress the fans. And also, I'm sorry, I'm sorry, I'm sorry, sorry, sorry, I'm sorry, I'm I'm sorry, sorry, I'm sorry, I'm sorry, I'm I'm I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, sorry, I'm I'm I'm I'm I'm sorry, I'm sorry, I'm I'm sorry, sorry, I'm sorry, I'm sorry, I'm I'm I'm sorry, I'm sorry, I'm sorry, I'm I'm I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm I'm I'm sorry, I'm sorry, I'm sorry, I'm I'm I'm sorry, I'm I'm You don't know why?
+
+1:27:00 - Sergio Goldman
+  in question, and the question, and it is just type of difference. But what from question, why you believe that?  The question is, how you really is, do think you have A question It's also the capital of the inside, the inside.
+
+1:27:42 - João Landeiro (joaolandeiro.com)
+  Yeah. What's coming to you? coming to you. coming to you. It's coming you. I you on the internet. I will not be able to stay at the end of the fresh internet.  I have say, I have to say that I have to say have to say that have to have to have say that have say that have have I have to say that say that I have say that to say that to to that I to say that I to say that I have to that I have to to say have to say that I have say have that I have say that to say that I have to say that have to say that have to say say that have say that have to I to say that I have to say I have to say that I have to to say that I I that I to say that I to say to say that Thank  think of these not only all different things. How do you speak? It's important ask. What are to do hard.  An important thing be familiar about And by the way, that have lock up a system now And by the way, will have to have a system now.  And we continue to break political news I think interesting to see how important it it is to see how is to see how important it is how important see how important it is to how is to see is to how important it is to see how it is to see how important it is to see how important is how important is to how important to see how important it is see how how to see how how is to see important  I more try tip of that, it's not bad if impact somebody's raising power. think if have to give it, it's nothing more I think I do a this for me.  I'm the director or the director of I would very much for being Thank you very Thank you Thank you very Thank you very  How we reach the government? We must go to offices and around, and we will table with promised security. So, unfortunately, we end the third the only place that we will come a So, what going on the place?  We want be with people in terms of the same thing, First of all, there are two characters in the...  ...teaches say... ...that can the stories... ...that you see the thing, you can the same thing. I am very If you want to see now, you can see.  But what do you require? Yer, okay. My name is Kinta, I am current I'm going problem. Okay, I'm going your No, I'm going to leave your friends.
+
+1:32:23 - Sergio Goldman
+  No, It will be good to see a lot people who will be about And, let's get started.
+
+1:32:45 - João Landeiro (joaolandeiro.com)
+  Ok, here, here. You
+
+1:33:00 - Sergio Goldman
+  How do you think this The question is, how you think about this problem? How do you think about this problem?  So, what your thoughts of all of it, but it's right people. That's what it is.
+
+1:33:56 - João Landeiro (joaolandeiro.com)
+  supposed to be a sub-stimate or sub-stimate. Sub-ish-ma.
+
+1:34:11 - Sergio Goldman
+  Okay.
+
+1:34:23 - João Landeiro (joaolandeiro.com)
+  Okay. Okay.
+
+1:34:28 - Sergio Goldman
+  So, we're going do this. I'd love hear what you read the country. Okay.
+
+1:34:34 - João Landeiro (joaolandeiro.com)
+  I'd like to address you. one of first trips. Okay. second weekend one day talk. Thank you. We the best manner of that, but We are to go first and hopefully we can do it a different way.  We will not able to go to in to We going be first stage, and we will be able to it in good to first What you to us that you spend What would you say people you wanted share, which place share these What is the difference between and the city What was difference between the country country's Welcome.  I'm not sure what saying I'm not sure you're I'm sure what you're saying I'm not you're saying not sure what you're saying and I'm not sure what saying not sure what you're saying and I'm not sure what not what you're saying I'm I'm not sure what you're I'm saying and you're saying and I'm not sure what saying and I'm not what you're saying and I'm not what you're saying and sure what you're saying and I'm not sure what saying not sure what you're and I'm sure what you're I'm not sure you're not not sure what you're saying and not sure and I'm not sure you're you're saying you're saying I'm So  Well, we'll be with you in a few Okay, congratulations!
+
+1:37:30 - Sergio Goldman
+  You

@@ -1,0 +1,202 @@
+---
+title: João Marketing Strategy Session With Mike Grinberg
+date: '2025-03-27T23:00:00.000000Z'
+duration: 60m
+participants:
+- João
+- Mike Grinberg
+source: https://fathom.video/calls/262242806
+encoding: utf-8
+scrapingdate: '2025-06-09T19:07:59.471419+00:00'
+---
+
+João Marketing Strategy Session With Mike Grinberg - March 27
+VIEW RECORDING - 47 mins (No highlights): https://fathom.video/share/eFzGkyqa5kTYNd3L5z59PNGTNZU7C6Ec
+
+---
+
+0:00 - João Landeiro (joaolandeiro.com)
+  There's a small part of Bahia. I don't know Bahia too well. Yeah, it's been on our list.
+
+0:07 - Mike Grinberg (proofpoint.marketing)
+  wife's uncle, one of her uncles, he's a marine biologist in my trade and he taught it. I can't remember where.  He's a professor at some university in Rio. So he's troubled all over Brazil and he's like that's his favorite place to go.
+
+0:30 - João Landeiro (joaolandeiro.com)
+  I'll put it in the email. The place I went to was, I really liked it.
+
+0:35 - Mike Grinberg (proofpoint.marketing)
+  Yeah, looked beautiful. It looked amazing.
+
+0:38 - João Landeiro (joaolandeiro.com)
+  Yeah, it was really like as a non-Brazilian, I usually say that's the Brazilian they promised me when I came here, you know, because and I'll say that a moment of reckoning when I was like, you know what, because I'm and people are never not nice to me, to my face.  There's a little bit of that feeling like, oh, these guys.
+
+1:00 - Mike Grinberg (proofpoint.marketing)
+  about slavery and so on and yeah it is true yeah and I was like you know what I get it that they are angry at this because if I lived on a beach like this and then suddenly some dudes arrive we yeah smallpox slavery taxes I wouldn't be happy so yeah yeah I get it but anyway thank you thank you for making the time for this yeah yeah no of course of course um all right so here's what will do yours is a little bit more raw so I don't have nearly we're gonna work through this together first for the for the other folks in the workshop I was able to I like to kind of present something yours is a lot more raw it's it's you're correct me if I'm wrong you're kind of earlier in your journey a little bit yeah so there's not a lot for me to go um I like I read your notes good stuff there's a few things I want to poke them proud at um so I'll kind of I'll show you a couple things and then we'll  And then I'll show you kind of how the cell fits together Thank you for that and for the effort in reading my handwriting.  It was a little difficult I knew that was like I'm like, you know, I'm gonna hate myself for doing this because I'm gonna try to decipher people's handwriting That's okay.  I got most of it All right, so a couple of things I'm going to share So this is sort of there's two slides here in the show.  These will show you I'll put this slide show mode as you can see better how these all kind of how the other pieces fit so Again, your services like this is you mm-hmm.  Okay This is the whole market you plan within that market. You're gonna have this is the whole ecosystem This is partners potential clients Software vendors in the related whatever, right?  This is your total address address will market within that that's like anybody you could work with in theory And you have your ICP which  you did a lot of good work defining, think there's some things I want to push you on today. Then again, if you remember the definition, definitions for positioning is how your ideal client see you in the market you serve in relation to competing services providers, okay.  So how they see you, first of all, they see you through this risk matrix that we talked about, right?  That then influences the differentiation points, right? So that's your IP, the functional and the go-to-market, and that all defines you in comparison to other people who they could work with, It always equals risk and central.  So then we have this, okay, if we look at ICP through the risk matrix is how they see you, right?  You're going to have the question becomes like, what are the IP entry points that help us build trust, right?  is like functional and IP. what are the frameworks And one of the frameworks and methodologies that help us build credibility.  It's IP builds credibility, the functional differentiations should build trust. These two put together, this is what defines your services.  And over here you have what content assets do we need to help us build affinity, right? Affinity, not awareness, there's a difference.  So again, between credibility and affinity, this is what's going to drive your content strategy. I like this visual, it's very, very clear.  Yeah, so this is once you finalize these pieces, then that's going to help you define what are the services and how should I structure them and name them and all that stuff and what should my content strategy be like.  So then what we want to do today is this, this is how, is all these, these pieces fit together.  whoops, this is an example from somebody else's, I forgot. I didn't read it. It doesn't matter, you wouldn't know.  If you want an example of what a position is. No, no, no, it's fine, it's fine. So, you have your IP, go to Market Functional.  You there's your positioning statement, strategic narrative, and what I call IP delivery entry points. the way to think about this is, the main things we should work on today are going to be kind of in this circle and here.  Because everything, like, we're just not going have time to do the whole thing, really. So when you think about your IP, it really has to answer three key questions, which is, why does this problem exist, whatever this problem is, like the core problem that your ideal clients have, and how shall we  think about it. What can I do about this problem and how should I think about the potential solutions? And then how do I then get to my ideal outcome?  So your IP needs to get, needs to answer those three questions.
+
+6:29 - João Landeiro (joaolandeiro.com)
+  So why does it exist?
+
+6:32 - Mike Grinberg (proofpoint.marketing)
+  Why does the problem exist and how should I think about it? What can I do about this problem and how should I think about potential solutions?  And how can I then get to my ideal outcomes, my desired outcomes? Good. So the framing of your IP should be able to get them to see and understand all that.  if they do, again, what IP is all about building your credibility. Because if you can get them, if you can answer those questions, like, oh, wow, this person really knows what they're talking about.  Got it.
+
+7:07 - João Landeiro (joaolandeiro.com)
+  it. So tell me what to do in the context of this conversation. I start? Yeah.
+
+7:13 - Mike Grinberg (proofpoint.marketing)
+  So I'll get that one. I want to make sure all the dots connect and then I'll do that. So that's the IP point.  Once that's there, that's going to guide your positioning statement along with the ICP definition. So your positioning statement is, I deleted it.  I'll put it back here just so I can show you an example. Like as an example, got global enterprise and next generation mission critical digital asset management needs, but global enterprise is with next generation mission critical digital asset needs to prioritize users, use cases, and data that's aligned with organizational strategy.  So that's an example. You can probably guess who this is by the way, this is from somebody in the group.  So that's an example of a critical management. but it's, it really only has one purpose. It's to help you kind of condense and synthesize everything in the one statement.  It's less important than everything else. And then that then drives the story, which is your strategic narrative, which is what's the change happening in the market.
+
+8:22 - João Landeiro (joaolandeiro.com)
+  Yeah, pretty much.
+
+8:23 - Mike Grinberg (proofpoint.marketing)
+  I didn't make that up. definitely follow, I would say Andy Raskin's framework for strategic narrative, like 90%. I really liked it.  Yeah, yeah, he's, he's kind of the he's not the he didn't coin the term per se, but he's definitely like redefined it in a really solid way.  Okay, and then we have go to market. That's how do you evangelize evangelize the IP and the whole point of all your sales and marketing and business development activity is to get people to I call the IP delivery entry points, meaning what is something small that they can get access to that kind of gives them.  test drive. So if you're the car, they want to be able to test drive the car before they buy.  For sure. And then that then takes you into all the functional differentiation, which is your actual full-blown services. So that's all these pieces fit together.  So looking at your notes, before we dive into this, and actually let me pull up. I have the notes here as well.  I can have them on my screen too. Okay, so four ICPs. So I have a couple of things I wanted to push you on.  So these are great. The pieces that are missing, like I want to see more a little more Firmagraphics and Psychographics in here.  So you've defined sort of the problems they have right so I do something abstract You might have to help me read that because I can't remember what this is I know I deciphered it when I was looking at it.  They do something abstract that requires a lot of context to actually work Yeah, so like that that's the problem, right, but this could be In theory anybody but it's just about anybody right They don't feel the usual advice around managing client work is helpful to them.  Okay, that's fine But that also I think is more of a problem definition Okay This is probably better like small working advisory brilliant principles like you see up to 15 that helps Right, so small teams  That's good. This one I could not read. Moving from, what does it say? I'll custom to productization. Yeah, okay.  I'll custom productization, which we'll come back to that by the way. I think there's a key there that we need to unlock.  But like what I want to know is, all right, and you've got a little bit further down. Hold on.  Yeah, it goes here. So indie consultants, right? You get the most referrals from those. So that helps define it.  Now, indie consultants, I'm assuming that means independent consultants? Yeah. Okay. Okay. Working with. Okay, that one makes sense. This is consistent.  an established brand okay that's fine right so that speaks to sort of maybe like the maturity of the organization that helps a little bit too so that's good but like what I want to see is okay are these consulting firms are the advisory firms could this be an architect I don't know making this up right like it's a good question you know like and you might here's it's totally fair for you to go you know what I don't know yet you might not know it might be too soon but those are things that I'd be urging you to consider right like who are based on the work you've done okay where like where's that ICP and then from there you might have different segments that you might want to even prioritize right so like I'll give you an example for me it's consulting advice like booty consulting advisory firms and specifically I've got like multi-disciplinary management consulting firms that's one segment and then I've got  more, again, of like you indie consultants, that's another segment, right. They're, they're both part of the same whole, but they're segments and I can choose who I'm going to target with potentially even slightly different messaging, etc.  But we don't have to worry about segments right now. But again, what I, what I want you to really consider is, okay, can I get more detailed on the, on the thermographics of the psychographics, meaning how do they think and who are they as a firm?  Yeah.
+
+13:31 - João Landeiro (joaolandeiro.com)
+  So everything that I'll, that I'll say now is not in the spirit of being defensive.
+
+13:39 - Mike Grinberg (proofpoint.marketing)
+  I'm very open to this.
+
+13:40 - João Landeiro (joaolandeiro.com)
+  I think I'm getting immense value from this. So just trying to explain my answers, but not necessarily justify them.
+
+13:47 - Mike Grinberg (proofpoint.marketing)
+  Yeah.
+
+13:48 - João Landeiro (joaolandeiro.com)
+  I think, I think the thing you said at the, at the beginning, it's really something that is very true that because I think I'm earlier, I'm still at that stage that I don't have a lot of, there's a lot of noise, not a lot of signal.  Yeah, like, oh, this person said something is a good. So, so totally agree with you on that. And I can tell you a little bit of what I think that would make more sense and I'm trying to shift in that direction.  when I started talking about this stuff, network, the people around me, they were kind of these indie consultants, like curious people that didn't fit corporate and they needed to find a way to pay the bills, right?  But I it's a fascinating crowd, but I don't think it's a good market because every sale is a bit too big to see sale.  It's expensive for each person.
+
+14:36 - Mike Grinberg (proofpoint.marketing)
+  Yep.
+
+14:36 - João Landeiro (joaolandeiro.com)
+  And I'm like, okay, so maybe I think I need to address people that they have a bonus adding on the result of what we do, right?
+
+14:44 - Mike Grinberg (proofpoint.marketing)
+  I'll challenge really quickly. I'm gonna, I'm gonna challenge you on that because that I think is a that B2C sale.  think that's true. But the question is, do you have the right service to service those people? Until I started doing these workshops.  There's no way I could service people like you and people Andrew even who's in your group as well and a bunch of others right because my price points were too high and there was to those two Custom of a service with a one-to-few or one-to-many workshop, which is what you do Or what you help people do That's a whole different story, right?  as a product market feed kind of thing.
+
+15:26 - João Landeiro (joaolandeiro.com)
+  Yeah. Yeah And see that okay, keep going so but but my My my my current hypothesis on parentheses is yeah great crowd love meaning fellow in these Difficult to sell to also because a lot of Very curious like oh, I want to learn about this thing and then they go and they don't necessarily Apply the thing but they also don't buy the thing they just buy the books like I'm this person.  I know this so like, okay, I'll prefer to address companies. within companies, I've been feeling that agencies are a little bit more visible, more addressable, right?  I really struggle to find other boutique consulting firms that could maybe use this. I don't know how to search them.  Maybe I'm bad at that aspect. But it's much easier to find the agencies. I think they're just more present online.  So what I thought was, let me try to become more recognizable inside the agency world, use that as a beachhead, then get some case studies, show up, increase the network, and then start to move into other fields.  Because I know agency and consulting is not the same, but I think they struggle with some of the same challenges.
+
+16:51 - Mike Grinberg (proofpoint.marketing)
+  100%.
+
+16:53 - João Landeiro (joaolandeiro.com)
+  So with these in mind, what I've been thinking is, okay, maybe my ICPS are like small agencies. and there's still a lot of different agencies and I've been, I'm suspecting this is very tenuous suspicion.  I'm suspecting that within agencies, development agencies are made the ones that would be more open to workshops because they have been exposed to agile and agile as workshops and that kind of thing.  But this is very tenuous, I don't know. But it also feels So here's the dilemma I'm sharing with you.  There's a lot of people that talk about workshop, there's a lot of facilitators, right? And facilitators often struggle with selling facilitation.  They're usually in love with the tools but they got into it because they're very curious but not necessarily because they know how to run a business.  I totally feel that. And I thought that I didn't want to be a facilitator. I wanted to know package myself in a different way.  With this in mind, when I started to sell this workshop for agencies and consulting companies, more people started to kind of get what it is, like you.  Like you got what it was very quickly. And that was nice. It was very reassuring. I never got so much such a good response.  But at the same time, it also feels like I've heard the person say, that was the bravest niching down I've seen because that's crazily niched down.  I'm like, I don't know. Is it? It's really unknown for me, how much more specific should I be?
+
+18:45 - Mike Grinberg (proofpoint.marketing)
+  don't know. I mean, again, I don't think it's that niched down, first of all. OK. Because in theory, you can make the argument that your target, just within, say, the  United States prior probably a million a million companies Yeah, I did the I run like like there's a ton.  There's a there's 1.3 million Consulting firms in the u.s. They closer to 1.4 now. So You know, those are all different sizes you're going small so say a million, you know, whatever like it's a ton It's a lot many many many and that I don't think that even includes agencies or anything like that It's a huge number and that's why I'm saying like that's too many because they could you know, think about this way how many Clients would you need in a given year for you to consider this is a successful business?  Yeah, not that many I agree. What's the number like is it 20? Yeah, but less than 20. It's already let's say 20.  So if you if you think that your target your tam is say it's a million and 20 is like 0.001% like it's too small right so your ICP needs to be significantly smaller for you to be effective.
+
+20:10 - João Landeiro (joaolandeiro.com)
+  So here's okay I'm not disagreeing here's another thing that comes to me so I'm starting maybe I'm just connecting to many things and not landing any of them but one of the struggles I have is the whole getting to those people right so on one hand we hear about outreach and email outreach is  up and the algorithms show your stuff to no one and I'm like okay so how do I get to these people if I'm so specific and that's it's a tension that I haven't yet found an answer for so that I mean that gets in the go to market so there are we can talk about some of that later okay well like this is your time so like if that's the biggest problem you
+
+21:00 - Mike Grinberg (proofpoint.marketing)
+  Like, here's the thing, it's very possible, actually, let's just answer the question, how many clients have you done this for?
+
+21:09 - João Landeiro (joaolandeiro.com)
+  I think eight, ten. Okay.
+
+21:12 - Mike Grinberg (proofpoint.marketing)
+  Eight to ten? But not this year, like across the years, this year it was... It doesn't matter. I don't care how many a year, but total, how many clients have you done this work for?  Yeah, ten. Now, of those ten, are there any... I'm assuming you use those ten to answer these questions, correct?  Yeah. Okay, got it. So, if you thought back to those ten, that's a decent sample size, are there any similar firmographics that you can pull out?  in terms of company size, you kind of said, no more than 15, but is there anything else, any specific industries, any specific geographic focus?  That's more demographics, any specific... like practice areas that they have or capabilities that they have, anything specific about their organizational structure or the background of their founder, like those types of things?  I don't see that much.
+
+22:21 - João Landeiro (joaolandeiro.com)
+  I understand the question. I understand the value of the question. And I think my vagueness is because that's like the first batch of clients you get when you start to business.  So it's referrals and people that know you.
+
+22:36 - Mike Grinberg (proofpoint.marketing)
+  Yeah.
+
+22:36 - João Landeiro (joaolandeiro.com)
+  But I see the value of the question for sure. So, no, not a lot of things in common other than size.
+
+22:44 - Mike Grinberg (proofpoint.marketing)
+  In that case, I would say, don't worry about the ICPs now because it's gonna take you some time to define it.  Okay. Right. There's a couple of things you could do. You could do some, like I don't think it'd be a bad idea.  Again, you have a hypothesis, hey, it might be agencies, okay? In that case, go and interview some agency founders.
+
+23:10 - João Landeiro (joaolandeiro.com)
+  Yeah, I'm in that process, yes.
+
+23:13 - Mike Grinberg (proofpoint.marketing)
+  Yeah, so like I would recommend you do that and be very specific about like, hey, how do you address this?  Do you have like, you know, that type of thing? Not only then are you kind of piloting, test piloting your maybe early variations of like your strategic narrative potentially, but you're also then getting feedback on like, hey, do they have this problem?  Is this the right people, et cetera. It's interesting that you brought up agencies because I, for example, I'm the complete opposite.  They don't go after agencies at all because it's a, I feel like it's a crowded market. You got David C.  Bakers of the world and Carl Sackes, et cetera, et cetera, et cetera. There's a whole bunch of agency consultants.  big and small, more famous, less famous. And I also feel, just personally, felt like agencies, especially having ran one before, they're less likely to buy services because they feel like they know everything.  When it comes to like creative services. So that's my opinion on that. On the flip side, boutique consulting firms, they for sure need this.  So interestingly, and this is just more of, we can discuss this at a later point, but there's a lot of, was just, you know, I looking more at your website and kind of thinking about what you do as I was reviewing this and not a great thank you.  What's that?
+
+24:50 - João Landeiro (joaolandeiro.com)
+  Not a great website. That's okay.
+
+24:53 - Mike Grinberg (proofpoint.marketing)
+  There's some context there. There's, I think a good amount of synergy between what you do and what I do.  So I work on the positioning. tell them they need that. They need to develop their IP. I guide them to that point, but I don't create the, help them create the frameworks and the workshops and like that's on, I can guide them, but that's on, that's on them at that point.  You know, when it comes to service design, I'm like, hey, you might want to productize this in a workshop in here so you can think about it, but I don't go and design that thing for that's not my specialty and I don't really want to do that work.  On the flip side, it pretty much seems like that's exactly what you do. Yeah. So and it's almost like we tackle it from two separate, from like opposite sides of the same coin, meaning I go from, hey, you do a lot of great work, but you haven't really synthesized your IP.  You need to go ahead and do that and you go, hey, you already have your processes or whatever. They're great.  Or we just need to package them up, right? So it's a different side to the same coin. So the reason I bring that up is I actually think that the boutique consulting firms are probably an easier sell, because they're all struggling with the problem of we are selling expertise.  Agencies, they sell expertise, but a lot of them sell tactics. And it's a different ballgame, I feel like. There's just not a lot of IP that a lot of agencies actually have, and that's a problem.  That makes a lot of sense. A lot of agencies need to completely restructure their business to get to the point where they need your services, I believe.
+
+26:46 - João Landeiro (joaolandeiro.com)
+  Yeah, I can see that for sure. That's a very good point. So by the way, must thank you. I think you've sent two people my way.  Didn't close anything, just got into conversations. But I think you've sent me some commission, and David, I think.
+
+27:07 - Mike Grinberg (proofpoint.marketing)
+  David, David who, maybe, I don't remember.
+
+27:11 - João Landeiro (joaolandeiro.com)
+  From superposition data storytelling, was that not you?
+
+27:18 - Mike Grinberg (proofpoint.marketing)
+  I talked to so many people. I know, for a fact, I've mentioned your name, and I've sent your LinkedIn profile to a couple of people.  I now forget who I sent it to. I think at least two people can make it.
+
+27:27 - João Landeiro (joaolandeiro.com)
+  So thank you, I should have thanked you before. So a couple of things. First, yeah, the synergy, that's great.  Definitely would love to do that. But your point about agencies, probably having less of a problem with IP, also makes a lot of sense to me.  Yeah, I also feel like agencies, they have a different vibe, more like less nerdy.
+
+28:00 - Mike Grinberg (proofpoint.marketing)
+  Um, I don't know some it depends like some agencies play with the nerdyness. I think I Don't want to dissuade you from agencies.  I think if you say agencies, and I think you really have to think about what types of agencies like It's a big word, right?  It's there so yeah sample your average digital marketing agency or average Content mark or SEO agency or content marketing agency That's just delivering Deliverables and tactics likely just doesn't have the IP to synthesize into anything.  Yeah Like that you they might be able to create a workshop like submit could they in theory? I couldn't see how agency create a I don't know SEO Mm-hmm copywriting workshop or something probably But I think that's a tougher sell honestly  Versus if you think about like a branding agency, a lot of them have some proprietary, but then they've also oftentimes developed these things already.  Right. So again, I just, don't know. my hunch tells me agencies are actually a tougher sell versus a boutique like consulting from like, again, like I'm, I'm literally doing this work right now with another client where I'm a fractional for them and they already have some portions of the IP.  And they already have certain workshops. They run as part of their services, but they haven't really put it all together.  They haven't really answered all the three questions of the IP. So again, I'd be thinking about like, it agencies or is it boutique firms?  If it's boutique firms, what kind? Are there specific ones that maybe often haven't gone there. think the dev shops or like software development firms might be an interesting one.  think that might be a good hunch, honestly, because you're right, they do, they know Agile, they're used to doing workshops, but most of them have never synthesized an actual IP.
+
+30:21 - João Landeiro (joaolandeiro.com)
+  You know what, you've made me think about, and we can jump to the next theme, this is just fascinating, I really appreciate it, but you made me think about, I think that, so you have not fixed my decision, that's not about that, but I'm realizing that my thought process to getting to agencies was a lot related to difficulty I feel right now with finding the boutiques, and maybe that's a skill issue that can be solved, I can just learn how to do that, and I don't need to shift my positioning.
+
+30:57 - Mike Grinberg (proofpoint.marketing)
+  I mean finding them is easy, honestly. Yeah, really, like between like just identifying them, it's sales navigator or and or clay enough you know, like finding the companies.  mean, that's the easy part. And trying to engage with the right people. That's a little bit harder. But I mean, I can walk you through my process.  it's not like, yeah, yeah.
+
+31:23 - João Landeiro (joaolandeiro.com)
+  But I don't want to derail the this this session. So just the fact that you know, it's sales navigator and clay that's really valuable.  Because I was like, yeah, I should just search on LinkedIn. And that doesn't work. So I need to be professional.
+
+31:39 - Mike Grinberg (proofpoint.marketing)
+  And can and no, you won't be able to turn up a company size. can't if that's a filter might be.  But you can, again, I can show you really quickly. It's finding them is not hard. It's finding and you'll be surprised how many of them are actually fairly active.  Also, take a look at a tool called aware if you haven't already aware. Yeah. Uh, you're always here. I technically have an affiliate link somewhere because I generally don't do this stuff, but I really love their platform.  Uh, where is it? Hold on. Where did I post this? should have saved it somewhere. Um, there it is.  And again, I'm not pitching this to you just because I get a teeny tiny. I don't even know what my commission is to be honest.  I don't really care, but, um, it's an awesome tool. I think you're being very generous and transparent, so it doesn't feel um, love the tool.  Love Alex. There's their CEO, um, does great stuff. So anyway, um, okay, let's go back to Let's talk about, so you mentioned productization.  I actually think your why is around reframing what productization is because when you talk about productizing services to a lot of these firms, oh, no, no, no, no, we can't do that.  It's, we're too complex, we do complex stuff, like everything, white glove, et cetera, et cetera, cetera, right? Branding agencies do this, a lot of boutique, management consulting firms do this.  They misunderstand what productization is, I believe. So I think your why, because if we go back to here, where you talk about, if something,  Abstract that requires a lot of context to actually do the work. Yeah, okay well and they you so that's not actually the problem that's a that's sort of a a Description of where they are their problem might be because of this They struggle with having strong consistent margins they struggle with Finding the right clients and you know closing deals because everything is so custom and they have to do a lot of Explanation and whatever Right, so like what are the symptoms that exist?  are the pain points and the solution to it is Workshop based productization or something like that. It's if you think about it and maybe like a category design sense The problem might be Customers  Relation overload and the solution is workshop based workshop based productization. I Don't again. That's just something I can put it up.  So we're working. Yeah, but I think you're that to me At least that's the place I would push you to like I think that's your why Because you're getting them to think differently about okay, well You know, how do they how do they a lot of these boutiques start whether their agencies or boutique firms doesn't matter it's so usually somebody that worked in industry in a high enough position or Or work for the big consulting firm got burnt out because you know what I can do this on my own I know how to do stuff.  Mm And then they go  now. I gotta run a business. Okay, and they build a firm That's maybe one two five million Maybe they've got five to ten employees all of a sudden and I don't know I don't know what to do next and I don't have consistent margins and What the hell is going on like, you know all this kind of stuff?
+
+36:00 - João Landeiro (joaolandeiro.com)
+  They think this guy's so I think I understand the picture and this is really interesting because I was assuming but I trust your insight much more because I talk to these guys every day.  I was assuming that people were thinking productization in two ambitious terms, right? So maybe it doesn't make sense because I was thinking like oh yeah maybe they're thinking about let's launch a software product and because I have a client right now that's doing she's not good at that.
+
+36:32 - Mike Grinberg (proofpoint.marketing)
+  That's the one way that they go but I don't think it's the most common. The most common one is okay we're going to standardize our entire service site.  We can't and then they go no we can't do that we can't productize like that's they have one, productization often gets correlated with cheap or like lower price point which is not necessarily wrong but then also is like oh well now everything is rigid and like this and well my  I'm serving the enterprise. I can't have product services. Wrong. That's incorrect. That's an incorrect assumption. They just don't really understand how to productize or that you could productize parts and have things be modular.  You could take your entire process, productize workshop, workshop, workshop, and then move things around as needed. And then the other 20% you customize.  So I think, again, that's my thought based on everything I've heard from you and what I saw on your notes.  That, to me, I think is the why. Why does this problem exist? Well, it exists because my services are not standardized or productized enough or something like that.  And your initial thing, now that I can't productize my services, but actually you can. You missed. Understand what it means.  How should I think about it? We should think about prioritization this way Okay, I like this I like this so then and again, the reason I was going to your site.  I was hoping to find some visual frameworks and but One thing you posted You're not posted you talked about in your notes was oh one of the moments is when we talk about questions versus activities Right, so like the what is you know what a Workshop isn't about activities or tactics or whatever it's actually about Asking the right questions and getting them to come up with the right answers Which by the way is what the best consultants do anyway, whether it's customized or not Mm-hmm And so to me This Statement is like the base the basis of your what and you'd want to expand vertically horizontally from there  Now the how that's I'm not sure. I don't know if you've gotten that far. I haven't maybe I haven't seen enough But the how again the the how question is how do I get my to my desired result, right?  So you have to think about the problem is I'm not growing enough or I'm not Don't have enough margin in my business or whatever like if you have to figure out what that one or two core pain point problems are and the desire desired outcome looks like Whatever again, you have to figure that out and then based on that you'll need to go.  Okay. Well How does a workshop and developing your visual frameworks? How does that help you get to this desired?
+
+39:51 - João Landeiro (joaolandeiro.com)
+  No, it makes a lot of sense. So when I start to look outside the families because I'm thinking okay, sometimes people think I'm Or there I do the same
+
+40:00 - Mike Grinberg (proofpoint.marketing)
+  And it's all good. So I'm trying to connect the pieces.
+
+40:03 - João Landeiro (joaolandeiro.com)
+  I'll recap to connect it. So the why that you suggest that they explore based on what you see in the market, it seems intuitively very coherent.  Yeah, I can see that you are a principal. You are in love with what you know. You're really protective of your firm.  You don't let other people take away the thing that you've made and you think you're special. Every client, I'm sure it happens to you, right?  Every client thinks, no, no, we are different. Our company is not like the other ones. Yeah. Well, I literally wrote an article on it.
+
+40:40 - Mike Grinberg (proofpoint.marketing)
+  Like everybody thinks they're a special snowflake and not.
+
+40:43 - João Landeiro (joaolandeiro.com)
+  Did you, because I think we come to similar perspectives. maybe I'm...
+
+40:49 - Mike Grinberg (proofpoint.marketing)
+  Actually, yeah, I think you posted something like I just wrote an article about it and I posted it on as a comment.  I think, yes, I think you're right.
+
+40:58 - João Landeiro (joaolandeiro.com)
+  Because it's like the third time this happens. I remember... once we were talking about IDEO and so I think we see the world in in a similar fashion but yeah they think they're special but wait you are unique but you're not special we can you know okay so the what that you found as an interesting thread pool is like don't think of workshops like these crazy circles think of them as activities that answer certain types of questions depending on the questions you have you put these activities together it's easy and clients do it with you in a shoulder to shoulder way okay and now we arrive at the third layer of the middle circle which is I think I'm not communicating that too well on LinkedIn and something like the way I do these right that's the how I need to explain no the how is no the what you're describing is the how is actually the what right like
+
+42:00 - Mike Grinberg (proofpoint.marketing)
+  What do you, this is the, how should I think about the potential solutions, right? So the workshops, et cetera.  The how is me as your potential client, how do I get to my desired outcome? My desired outcome isn't to have a workshop.  I don't give a  if whether it's a workshop or a software or a service or whatever. I want a profitable firm that picks up a certain amount of cash or whatever it is, right?  Whatever their desired outcome is. So it's, how does this, how do these potential solutions help me get to that desired outcome?  How can I, like, you know, it might be like, okay, well, I've got a workshop. How do I then tie that into my broader service offering?  That might be a question that needs to get answered within that. Okay. got my frameworks. How do I split them out into multiple workshops?  How do I sustain innovation within this framework that's workshop based or whatever? Again, I'm making this up. I don't know what the right things are because these are very good illustrations.
+
+43:20 - João Landeiro (joaolandeiro.com)
+  understand what you into the state they want to arrive.
+
+43:32 - Mike Grinberg (proofpoint.marketing)
+  Because otherwise there's no point to anything you're doing. There's no transformation. Again, I would say homework for you is really work on these three things.  That should be your primary thing that you spend your time like. Whatever you're not working on client work, this is what you should be spending your time on.  And again, you can do this in a lot of ways. Like your content you put out, be thinking about that, okay.  Let me create some LinkedIn, put content about reframing productization and see and how people respond to it. You know, let me create some content around this stuff.  Let's see how people respond to it. So you can do that within your existing workflows. And then at some point, once you have enough, you're going to just sit down and start, you know, sketching stuff out and putting things out.  There. Got it. it. Um, okay. And then the other thing to be thinking about from here then is, okay, what could a test drive look like?
+
+44:44 - João Landeiro (joaolandeiro.com)
+  A test drive of my services, right? Correct.
+
+44:47 - Mike Grinberg (proofpoint.marketing)
+  Is the test drive like, and again, this could come in a lot of different formats. was just talking about this with another client earlier today because they got kind of stuck on that.  I'm like, it might just be, you have. your visual framework and you're going to have a monthly recurring webinar that you wrote with Q&A that's about the framework where people can come and ask questions.  That could be your delivery entry point. All right, it's free. These don't have to be free, but they can be.  It could be like a DIY canvas of some sort that they fill out, gets them to sort of identify like is a workshop the right thing for me?  No kind of a self-selection type thing. Yeah, I like archetypes and stuff like that. Yeah, that kind of thing.  Assessments are always good, et cetera. I would say like focus on those things. And then I can show you for the next kind of 10 minutes how do you find these people?  Do you pay for sales navigator, by the way? I don't, but maybe I should. Honestly, it's a love-hate relationship.  It's a useful tool, but it's so clunky and so ridiculously expensive, but there's nothing like it at this point.  Here's the thing.
+
+46:21 - João Landeiro (joaolandeiro.com)
+  Let me take away the recorder.
+
+46:25 - Mike Grinberg (proofpoint.marketing)
+  Oh, okay. It's fine. not going to show you anything proprietary at this point. No, it's just I don't want you to eventually show some password or something.

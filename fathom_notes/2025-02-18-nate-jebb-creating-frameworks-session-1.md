@@ -1,0 +1,433 @@
+---
+title: Creating Frameworks session 1
+date: '2025-02-18T16:00:00.000000Z'
+duration: 95m
+participants:
+- João
+- Nate Jebb
+source: https://fathom.video/calls/234532897
+encoding: utf-8
+scrapingdate: '2025-06-09T19:19:30.330686+00:00'
+---
+
+Creating Frameworks session 1 - February 18
+VIEW RECORDING - 177 mins (No highlights): https://fathom.video/share/N4zN29RWZRqksyu6s6xqXWkJwCrGaN1j
+
+---
+
+0:00 - João Landeiro (joaolandeiro.com)
+  So let's zoom out a little bit. So it will be four sessions, right? Today is a session. And we'll, so this is a little bit odd, apologies.  So basically is the idea around this, right? We're going from the generic to the more specific. There's metal models you'll have about this, about the way it works.  And then from those metal models, we'll try to turn them into frameworks. Some of these frameworks are more about the steps you do.  Some are more about the tools you use and the one. But this is a little bit of a fractal.  mean, we could go on and on and on. So the idea is that we should get to, at the end of the first sessions, I think we should get to between six and 12 visual frameworks.  And some might be your favorite and some might be like, OK, nice to have, but you might not use them too much.  Yeah, but it's kind of a range too.
+
+1:00 - Nate Jebb (Veritas)
+  to give you a feeling, okay?
+
+1:03 - João Landeiro (joaolandeiro.com)
+  So, bringing you down and now we have some questions here that I want to give you some time to answer them.  I'll be on the call, I'll be here looking at you so you can ask me what I think about it, we can think about them out loud, but I'll ask you that you answer them.  So, underneath each one of them, there's a few positive notes and you can just click on them and type in bits of your answer, right?  Sometimes there's more than one. Gotta try one of them and we do it forehands, like playing the piano. Sure.
+
+1:44 - Nate Jebb (Veritas)
+  Okay.
+
+1:47 - João Landeiro (joaolandeiro.com)
+  So, let's start with these ones from the beginning. So, is there a step in your business that used to seem important, but then you realize it wasn't really that important, something you kind of stopped doing?
+
+2:21 - Nate Jebb (Veritas)
+  I'm sure there's something I'm just going through my memories one sec. No problem.
+
+2:34 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+2:35 - Nate Jebb (Veritas)
+  This is this is a really strange answer because I think you're asking for something like concrete. Like I would send them this spreadsheet to confirm.  We understood each other, but I actually have only an abstract answer or not even it's like visceral. I. have believed that being extremely logical and everything making sense to me in my own mind was like the was a top priority.
+
+3:17 - João Landeiro (joaolandeiro.com)
+  But I don't need to understand everything.
+
+3:21 - Nate Jebb (Veritas)
+  People are getting I think getting more out of what's working with me from like my kind of buoyant attitude and like we got this you know what do you think what's the next step in your opinion and that's really hard for me to accept and the more I've kind of let go of like I've got to get all of it and switch more to like hey look I'm I'm just kind of a facilitator I don't need to understand it they they just need to be moving forward it is better so so that's I'm a very subconscious  person, and the more I try to make things conscious, I think the clunkier it gets. Mm-hmm. I feel the same way about myself.
+
+4:09 - João Landeiro (joaolandeiro.com)
+  Yeah. Okay. There's something interesting.
+
+4:16 - Nate Jebb (Veritas)
+  Oh, I've got another one. Okay, go, This one's really hard for me to accept. Preparation. It's almost inversely related.  If the more I prepare, the worse I do a lot of the time. And that's really hard for me to understand because I believe you should prepare for things.  Mm-hmm. I come in, it'd be easier for me to give a speech if someone's like, all right, does anyone in the audience want to give a speech right now?  If I walked on stage, I would do a better job than if I prepared, like, a talk that was really tidy and I think I'd be alive if I winged it.  A was really prepared. think it would be stale. So that's I I don't even want to believe that Mm-hmm I'll stop saying that I relate because I've been relating to yeah.
+
+5:14 - João Landeiro (joaolandeiro.com)
+  Yeah. Yeah. I'm just saying yeah, it's all we're all the same. Yeah Good good so Do you want is there any other question we would I would like to answer all of them Like it's going to you and say I want to address is now we can do that we can jump around No, I think what's one desire that 80 percent mention is like Reduced chaos just like it just has to not be this crazy.  I've got to believe it can be better than this Okay Cool And so what what do you do in your business that almost no one else  does.
+
+6:00 - Nate Jebb (Veritas)
+  I think I have an ability to pay attention at a higher level of specificity like I'm more like a laser beam than a floodlight and I think it's a unique level of attention and in listening.  I think I listen with a level of intensity most people cannot match. I think what it looks like in practice is I don't miss a beat with people so someone from a industry I've never heard of in my life start telling me about what they do and within two minutes I would be able to say back to them the gist of what they do not in detail but like what I say would  to learn. So I will I act like I'm like a really Intent five-year-old. I mean I just Is this it?  No, that's not it. Okay. Is it that like I've lost my sense of shame or self-consciousness around The learning process.  I I really don't care. I'm not even trying to not care. I don't care. I will learn Mm-hmm.
+
+8:23 - João Landeiro (joaolandeiro.com)
+  Mm-hmm Yeah, no ego. I really none And Yeah, so In the way you work There's things you've since the beginning.  There's things you've added later on. What was one thing that's been around for for the longest?
+
+8:50 - Nate Jebb (Veritas)
+  Um, I would call it follow your ignorance Like that's the principle that everything I've done since I was like six years old has been around  And it's, I can sense when I don't know something, and I can also sense if I'm interested in it, and when that, when that Venn diagram overlaps, I would learn it because I basically say, what is this thing that you've said?  You know, like you wrote a post on legibility a while ago somewhere, and I have in my mind, I see that word keeps popping in my mind because I'm like, I got generally what it was from the post.  I know I don't fully grok it. I want to know more. Like I've got this real desire to do it.  So I can, do you ever play the first Zelda, for literal NES? No, I know what it is, but I never played it.
+
+9:43 - João Landeiro (joaolandeiro.com)
+  No. Well, they had a map in the top left that was all black.
+
+9:47 - Nate Jebb (Veritas)
+  And anywhere you walked would then become illuminated forever after. So like you're discovering the map. That's what I do in my mind when I'm learning something.  I like know it's all black to start. then I start exploring areas and the map becomes clear. Mm-hmm.
+
+10:04 - João Landeiro (joaolandeiro.com)
+  Mm-hmm. I know what you mean.
+
+10:08 - Nate Jebb (Veritas)
+  Yes. Yeah. Yeah. That's it. But so I love the map kind of thing.
+
+10:18 - João Landeiro (joaolandeiro.com)
+  What goes to you is I want to see the entirety of the map or would I want to figure out what this shaded bit.
+
+10:26 - Nate Jebb (Veritas)
+  It's more, it's not as cerebral. It's more akin to like if I was on a fox hunt or something.  Mm-hmm.
+
+10:33 - João Landeiro (joaolandeiro.com)
+  Mm-hmm.
+
+10:34 - Nate Jebb (Veritas)
+  I'm, I know I want to catch the fox and it's somewhat elusive and it is like knowledge. Mm-hmm. And I don't actually view it as stagnant.  I view it as something kind of electric and when I grab a hold of it, I'll get in a good way shocked.  Like I've got it now. I've got it. And I have a sense for when I've grabbed it. And so I follow my ignorance because I'm on the hunt.  like I'm on to something and so it's very easy for people to open up to me because they can tell I really want to know and I can sense when like the electricity is basically when what they're talking about connects to something I already know now I've got electrical charge and now I can really work from there because I've got a I've got a handle on their idea now like a literal handle I can pick it up and move it around in my own mind okay loving this was there so I'm fighting actively fighting my desire to just go down rabbit holes yeah anyway so which not the business place did you get your last latest like business inspiration from  yesterday at Target.
+
+12:01 - João Landeiro (joaolandeiro.com)
+  Okay, tell me more about that.
+
+12:03 - Nate Jebb (Veritas)
+  I realized I'm going to buy a pair of the Ray-Ban Metaglasses because I did that and then I was dry.  I saw them there and I didn't realize anything. But then when I was driving home from this little vacation we took, I realized I think the way to document what these very specific trades people know because they don't want to say it with words.  They want to show it and it really needs to be shown to get them all the Ray-Ban glasses. And then when they call each other because they do, they call each other on the phone and ask, like, how do you do this?  And they call the older guys. If there was a way, and I'm sure in the next year or so there will be, to have them make a FaceTime call over the glasses basically, if I could record that call where the mentor is seeing what the student is doing in the field through the Ray-Ban glasses and they're talking each other.  through it and he's explaining what to do. If I could record those, that is by far the best way to gather this knowledge because it doesn't require a separate project.  You can do it as you go.
+
+13:16 - João Landeiro (joaolandeiro.com)
+  So I'm synthesizing that in the sense that the products, which is literally POV, is as low friction for people to see how it is, right?  Yeah.
+
+13:29 - Nate Jebb (Veritas)
+  And I think people just do it and then you can extract.
+
+13:33 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+13:33 - Nate Jebb (Veritas)
+  I think it's really valuable because it will create a searchable library. Of I think this is creating like a private YouTube channel, like a DIY channel for these very niche trades, niche trades, but then also it's a workflow that the guys will actually do.  They have no time to meet with you and do this like as a separate
+
+14:00 - João Landeiro (joaolandeiro.com)
+  Initiative, but if they could just be getting the calls in the field and that was it was like a cell phone to them They would do that I'm writing down references and things that you might like Okay And like yeah, tell me more about the risk for your industry actually before we move into that How would you define your industry?  What's what's your industry? I?
+
+14:37 - Nate Jebb (Veritas)
+  Think succession planning and selling the business Succession planning for employees or or selling a business And what do you think is the biggest threat for that in the next five years?  It doesn't really sound like a threat, but like the thing that would be very difficult that might strangle us would be the older generation kind of gets in immunity to or like a vaccine or something to the words and ideas I'm bringing to them.  So they're kind of like, yeah, I've heard of that, but I don't really think that works. Because older people aren't willing to relay their information to us.  Then there's nothing to talk about. Like if they're not willing to be open, then it's just the knowledge is going to leave with them.  And I think sometimes people get jaded. maybe being jaded is what I'm talking about. If they're like, yeah, I've heard about that, like we tried to do that documentation stuff, but it's just BS.
+
+16:10 - João Landeiro (joaolandeiro.com)
+  That really would mess things up.
+
+16:12 - Nate Jebb (Veritas)
+  then the other would be, well, wait, hold on, you're actually asking a different, you're asking a risk to the industry, not to my product.  So I needed, that's a different answer.
+
+16:31 - João Landeiro (joaolandeiro.com)
+  It is, it is. I made a note here to pull you into the other one, but you can finish that thought, it's okay.
+
+16:38 - Nate Jebb (Veritas)
+  I think, well, what's hitting me is I don't feel that I understand my industry well enough to answer the question.  Like it feels like capture on my part. a guess, you know, um I think succession planning Well, okay. Here's a real threat.  Maybe not five years, but maybe seven years, you know Everyone will have retired Like it's gonna be done at some point This this big Hand off of the people who have been carrying the weight all of these years and when they're done It's happening quickly Okay Do anything else on that that you would like to explore I do also think people are going to get really Smaller business owners.  There's going to be so many horror stories These are frustrations with private equity that I just think people are sick of.  I mean, I already, it's sick, like they're sick of it. It's like these guys come in and have their big ideas, but then they fire all the staff who's knowledgeable and it's, it's hubris.  You know, they think they're going to fix everything, but I don't think they do. And I'm hearing a lot of that.  People are like, I'm over it.
+
+18:32 - João Landeiro (joaolandeiro.com)
+  But again, these things, I don't feel I know that well, but I'm talking.
+
+18:36 - Nate Jebb (Veritas)
+  Got it.
+
+18:37 - João Landeiro (joaolandeiro.com)
+  Nobody have a sense if we talk to these people for a while. Now, now into a more like formal lesson to vibes, more formal lens.  Like training your guts, professional training. Did you get some professional training? Doesn't matter the skill could be a hard skill.
+
+19:00 - Nate Jebb (Veritas)
+  soft skills that's really put everything else into perspective like okay this is a new thing and everything's everything else seems a little bit basic now that I know this thing you when you say basic I mean the training made everything seems simple and and clear or does like the training was so advanced everything else I'd received seems like ridiculously easy compared to the advanced training yes yes the second the second thing um well all of my training typically has come through mentorships that I've pursued like I've done plenty of formal trainings like but the the real learning has come through like asking older people to help me and okay yeah so I just am noting that but um
+
+20:00 - João Landeiro (joaolandeiro.com)
+  So both straining came came more like ad hoc apprenticeship. Yeah.
+
+20:08 - Nate Jebb (Veritas)
+  Well, I don't know if it fans like that's making me think of like I learned something that had a huge level of complexity and then everything else seemed like wow that was all way too simple I can't believe I thought that was like the top of that was the ceiling of knowledge you know but the training I got that I shared with you the sales training it felt the most in line with reality that I'd ever received like it felt like this is actually real everything else was like book stuff but what I am hearing from this sales training is how the world works like it's making sense of my experiences at family Christmas dinner  you know, even beyond just simple business ideas, you know. So that's one. And then, oh, I know the one that it is, though.  I know what it is. It's the book Failure of Nerve by Edwin Friedman. It made everything else seem like so oversimplified.  I was like, okay, this guy's actually talking about reality in a completely upside down way. I think he's right.  And I've always been wrong. I mean, that answers your question exactly. That book blew my mind. And I read it constantly.
+
+21:43 - João Landeiro (joaolandeiro.com)
+  Okay. Can you refer to a specific part of the book or moments just to because I've I've I've written on the book on my book recommendations, but I haven't read the book.
+
+21:56 - Nate Jebb (Veritas)
+  Yeah. Yeah. So moment where you're like, oh my God, is
+
+22:00 - João Landeiro (joaolandeiro.com)
+  Clicks together.
+
+22:01 - Nate Jebb (Veritas)
+  Yeah, it's that the definition of leadership is to be going somewhere and to have everyone being trying to sabotage you.  Sabotage will never go away. That is nature of leadership. And if you recognize that that's okay, then you're not mad at your children or your employees or whatever when they're fighting you.  And your response isn't like, why is this so hard? Why won't people come with me? You're like, because the nature of what I do is getting people to move through their own resistance.  That means it will always be providing resistance to me. That's what I'm doing.
+
+22:42 - João Landeiro (joaolandeiro.com)
+  Okay, okay. When did you read this book?
+
+22:52 - Nate Jebb (Veritas)
+  The summer of 2023.
+
+22:55 - João Landeiro (joaolandeiro.com)
+  Okay. Yeah. I'd heard about it for years, but yeah, it's it's so often that I'm I'm never reading a book that yeah I think I've heard about it about it for like 20 years never got around to it Then I was reading the Prologue Prologue how do you say Prologue Prologue and I was like, oh my god I should have read this because it makes feelings like I'm so I'm reading it I could have read it sooner anyway, so yeah, I know what you mean and Maybe course here as a question is not the right words, okay But baby a learning thing or a package or a product or an aid Something that you wish that existed for you as an entrepreneur Um It would be like A box okay, and it had a red light and a green light on the top
+
+24:00 - Nate Jebb (Veritas)
+  And I would just describe it knew my personality and skills and I would describe to it the work that needs to get done And if and if I shouldn't do it if it's like you're really so bad as you need to find someone else to do it The red light would go on No, no, no, no, please don't do that.  You need to not do that If it was a green light then it's like I might not know exactly how to do it But it's close enough to my skills that I can can go figure it out and not feel like I'm wasting my time going down a rabbit hole And you know that that actually does exist Okay, that would said it's a book called shape up.  Ah Those guys are really yeah, yeah Because what they're talking about is spending enough time defining the work to know whether or not it's suitable and one of the conditions you can Evaluate work on is your own skill sets so that that actually is a product and I and I think of it  You use it consciously enough. Uh-huh.
+
+25:06 - João Landeiro (joaolandeiro.com)
+  Yes, yes. So the book I was reading is from Christopher Alexander, which is the guy that I think influenced a lot of the guys at Basecamp.  Yeah. So it's really coming full circle. Yeah, the shape up, yes. They work in a very specific way, right?  It's, yeah, that the team is different. OK, so let's slide down a little more and see some other questions.  Yeah. How is the base feeling? Do you feel like we're leaving too much things behind, too much? No, this is really good.
+
+25:49 - Nate Jebb (Veritas)
+  I think can you go back to the turbo reliability note? Relateability, yes.
+
+25:54 - João Landeiro (joaolandeiro.com)
+  Can you add two words?
+
+25:57 - Nate Jebb (Veritas)
+  For sure.
+
+25:59 - João Landeiro (joaolandeiro.com)
+  Perspective. Acity. Oh, I love that Where's the guy city is like this? I believe so.
+
+26:09 - Nate Jebb (Veritas)
+  Okay, and then Hold on speed up from these Come on Jeb come on, I believe in myself. Oh I think the word is, um Acuity Slash Aristotle Slash from nieces Okay, now I'll need your help is pH ro You  N-E-S-I-S. I just know, I'm, those are really well thought out concepts in the Nikomaki and ethics. So just that's worth coming back to it.  But that's what that is. Got it. Got it. Anyway, keep going.
+
+27:17 - João Landeiro (joaolandeiro.com)
+  Okay. So now some other questions, and let's see, do you wanna see all of them and then we pick one?  No, I like to go one by one.
+
+27:31 - Nate Jebb (Veritas)
+  It's fun for me.
+
+27:32 - João Landeiro (joaolandeiro.com)
+  Okay.
+
+27:41 - Nate Jebb (Veritas)
+  What's a moment in your life when you stopped, when you decided to stop seeing, is there a two in there?  Yes. Okay. Two stops. My piano. uh oh no this one's really really important. About six months ago I decided to stop seeing my poetry professor from college as a hero and basically accepted he's just a guy like anyone.  Was there a moment that made you reach that yeah I had felt for I had been friends with him since 2009 and I'd really put him on a pedestal and I'd felt as I was emailing him over the past three or four years that I was putting him on a pedestal and it was unfair to him and then it just occurred to me you  That other people had done that to me before and it feels weird and it's just kind of off socially and I just thought Kind of just let him go.  So I sent him an email saying hey, I'm not gonna be in touch for a while like I feel like I've Not really listened to your responses when you've been kind of curt I should have Recognized you were sending me signals to kind of stop emailing you and I I kept going I was kind of tone-deaf So sorry, I love you and I appreciate you, but I'm gonna be out of touch for a while And then when I came back about a year later and send him another email.  He never he never responded I sent like two more and he never responded and I thought That's appropriate like I was I think he knew it was right to let me let him go And it took me a while to come around to that at first I was hurt and then I realized I've been weird and how related to him and I need to just let him have his life, you know, we had a time together was great  Mm-hmm Why do you think you could put him on a pedestal Because I believe poetry is one of the highest apprehensions of reality and and I'm always trying to figure out what's true, you know And poetry is able to take into account things that can't be said they like his words go beyond words And I felt he was good at that.  I Also felt that Like I'm I was raised in a very very Christian like a very Moralistic way like there is a right there is a wrong you have to do the right be feel shame and anger if you do the wrong and I was applying that level of religious Pervert to academics and the high coat of morality in my opinion was poetry and here  like a champion of that. And then I think the last reason is my dad always told me in many counselors there's victory.  so he was always telling me to seek advice from people. And so I never really developed the muscle in myself of saying, okay, these are all the people's advice.  Let me pause now, consider it and make a decision for myself. I was always just acting out on other people's advice, like trying to execute someone else's advice, not filtering it through my own mind.  And so I was still in the habit of that. And he was a skilled person. So I was just following his advice.
+
+31:46 - João Landeiro (joaolandeiro.com)
+  Of course, the postings don't capture all the nuance of what you're telling me. Yeah. Cool. Anything else on that that you want to  No, that's an amazing question though. I would love to hear eventually why you're asking it, but it's amazing Okay, and We've kind of touched on this above because we on the on the first question, but maybe we can Invert that So some beliefs that There's an available separation at the top The questions we we've asked above they were mostly related to the work Okay Yeah, and these are mostly related to Person and obviously the world and so on.  Yeah, so this thing doesn't have to be related to What you do, right? It could be Because you have a lot of connection with what you do, but it could be something else
+
+33:12 - Nate Jebb (Veritas)
+  I think it's, I've put, I put more emphasis now on attitude than outcome, and growing up religious, if I mean I still am religious, but I like if I ever sin in my basically I would think I'm horrible and it would kind of stop me in my tracks.  Now I'm more interested in what you do after you mess up. So I'm not really interested. Are you succeeding or are you messing up?  I'm saying how are you relating to what's happening from your actions? When you're succeeding are you and asked to people and like you feel you're great?  When you're messing up do you feel like you're an absolute failure? Neither is true. I need you to continue to show up and not be discouraged and make your best effort with what you can and my entire life emphasis and focus before was on the outcome and now I'm more interested in the willingness to get up and try again and and that that's just the nature of things.  Mm-hmm.
+
+34:30 - João Landeiro (joaolandeiro.com)
+  Was this change, I mean, can you tell me more about about this change? Was it certain?
+
+34:36 - Nate Jebb (Veritas)
+  Was it over over time? No, it probably took seven years. Seven is an interesting number.
+
+34:42 - João Landeiro (joaolandeiro.com)
+  Why do you say seven?
+
+34:43 - Nate Jebb (Veritas)
+  Uh, because I've been in Holland for about seven years and right when I, Holland, Michigan in the United States, right when I, um, moved here, I had started talking with a friend.  mean, we talk almost every day on the phone and I grew up with them and and and within a couple years of us talking we realized one of the themes of our talking what we call the outcome independence like it's not as much about.  The outcome is it is what you're doing and another phrase we came up with was no sprinting no limping.  You know just keep trying. You know and then I learned in sales finally that I actually can't control. Whether or not someone buys I can control what I do which obviously separates outcomes from activities.  And then in my marriage and from that book on failure of nerve I realized I can't change my marriage or my spouse I can change myself and what I do you know and so more focused on like.  What is in my realm of control and am I doing it or not and I'm not let's try again to do it.
+
+36:03 - João Landeiro (joaolandeiro.com)
+  So this year I'll be married for 10 years and it was, I have a similar, I think this is common actually, but I used to, because me and my wife were very different, and I used to think, oh, if only she thought the same way I did, then eventually I started to see things a little more like the way you're describing them, like I can control this side of the equation, right?  And it's a message that I wish everybody could see, like the moment you start focusing on your side of the equation.  Other things lose their tension and they start to, you know, find their place naturally, and yes, I vibe with what you said.  So now about the personal value, and people say that, you know, personal values, they're only, they're only values if they cost you something, right?  Do you have one that
+
+37:00 - Nate Jebb (Veritas)
+  because you're the most no absolutely um i believe if i if i believe god is asking me to do it i will do it in christian tradition that's called good will but you will obey god but i recognize i don't always hear him clearly so sometimes i'm making choices and they could be wrong but i have to keep doing what i believe is right and the example is you know i had a job and i thought god was telling me to resign and my wife was pregnant and she was about to have the baby was the third trimester and i felt god told me to and i did and it's it's caused years of difficulties in my marriage it was financially an issue it lost trust with people that i know and respect in my friend group and i still believe it was the right thing to do so okay
+
+38:00 - João Landeiro (joaolandeiro.com)
+  That, so that was not so much a matter of, um, you, you heard that clearly, right? You heard that clearly.
+
+38:10 - Nate Jebb (Veritas)
+  And yes, I did, but it could, it still could be like, there's easy ways to see that it was the wrong choice, you know, because the effects were so bad, but it's basically my intuition and conscience is telling me to do it, and I can't understand why I will still do it anyway.  Okay. Because that's, that's enabled me through my entire life. I have a clear conscience. I know I've always done what I thought was right.  And when I failed to do it, I went back and apologized and did it. This, the, as soon as I realized I had done wrong, and I'm really proud of that before myself and God, I feel I haven't.  really.
+
+39:02 - João Landeiro (joaolandeiro.com)
+  That makes everything, everything else so much easier, right? Yeah. No. It's really inspiring also to hear you talk about this.
+
+39:14 - Nate Jebb (Veritas)
+  I'd like to explore this a little bit more.
+
+39:17 - João Landeiro (joaolandeiro.com)
+  So if you want to say like out of everything I am, what is me, it's that.
+
+39:22 - Nate Jebb (Veritas)
+  Okay.
+
+39:26 - João Landeiro (joaolandeiro.com)
+  You know, to me, I don't know, I'll count on your tolerance if I don't get things right. But me, this speaks to a certain confident humility.  Yeah. Something like that. Yeah. That's right. Okay. Anything else you want to put on? on this thing? Or do you feel I should capture?  No.
+
+40:07 - Nate Jebb (Veritas)
+  Okay. And for the future, right, not just for you, but for the pool, what do you think is a really important value?  For anyone?
+
+40:17 - João Landeiro (joaolandeiro.com)
+  Yeah, start to general and then maybe you can go specific.
+
+40:30 - Nate Jebb (Veritas)
+  Well, it's difficult because I, I believe as the world gets even more ambiguous and chaotic and complex, the thing I hold is the highest value is the best value, which is have a thesis and follow it.  You may not believe in God, you know, that's my way of doing it. But you need to have integrity before your own convictions.  And if you believe the highest thing in the world is is Kindness then you have to end everything you do to kindness if you believe war is like a base Reality of existence and you must be brave and strong and protect bad Good people from bad people then you must follow that inclination Because I like live in line with your conscience.
+
+41:22 - João Landeiro (joaolandeiro.com)
+  I would say It's a still voice inside you So this is more generally speaking right? Yeah And I can see how this applies But do when you when you ask like if it was a general or in particular Did it come to you or just clarify the question or did you have like some specific group in mind?
+
+41:55 - Nate Jebb (Veritas)
+  Did I ask that Maybe not for baiting
+
+42:00 - João Landeiro (joaolandeiro.com)
+  So, let's see if I could give a better answer than I gave, unless you feel I need to give a more specific answer.
+
+42:08 - Nate Jebb (Veritas)
+  No, no, I think this is a good answer.
+
+42:09 - João Landeiro (joaolandeiro.com)
+  It's just because it felt that you could see the opportunity to explore different ways into this one. But it does feel like a good answer.  But the one thing is not consciousness, it's conscience.
+
+42:20 - Nate Jebb (Veritas)
+  Ah, yeah. Conscious.
+
+42:25 - João Landeiro (joaolandeiro.com)
+  Oh yeah, that's true. Yeah.
+
+42:30 - Nate Jebb (Veritas)
+  It's like this?
+
+42:31 - João Landeiro (joaolandeiro.com)
+  Yeah. Okay. When you go somewhere new, like new environments, maybe travel, maybe new job, new things, what do you notice?  People.
+
+42:47 - Nate Jebb (Veritas)
+  What do you notice about people? Their shoes, their posture. Sure. How? Their emotions seem towards each other. Do they seem happy?  they seem overwhelmed? Do they seem just busy and distracted Is that is there a question in your mind that you're trying to answer when you go through those I'm looking for beauty a lot of the time I mean I've noticed like when I go to my house even I know that's not new But like it's new to that moment.  Mm-hmm. I often will say things like cool shirt dad or like Nice haircut Marshall like I I'm noticing how things look because I like when things look good Mm-hmm That's probably one of the main things I'm looking for like my grandma used to say I don't remember what we talked about, but I remember what they were wearing Somewhere in that life You  And of those things, do you have like, I feel this is a good answer, okay?
+
+44:11 - João Landeiro (joaolandeiro.com)
+  So when you see me like probing, it's less about me finding that's not a good answer and more like me being exploring the career.  This looking for beauty, looking for, you know, emotions of people, all the move of their posture. Is this, do you think this is from a place of trying to absorb what's there or trying to compare it to something that you appreciate?  mean, is this more like just opening the antenna and getting it in? Or is it more like finding a category and where that fits?  This is a happy place.
+
+45:00 - Nate Jebb (Veritas)
+  Yeah, it's a happy place. think it's more like, what would I like? It's more like, do I want those shoes?  Not like out of greed, but like I'm an artist, and so I'm always looking for materials for my art.  And when I'm seeing things, I'm like, okay, I didn't realize you could pair those shoes with that. Like I didn't realize you could pair chartreuse kind of green with like a golden rod yellow.  I always thought that looked stupid, but the way this person's doing it, like if you have a white denim jacket over it, it's kind of interesting.  know, I'm like, so it's materials, you know.
+
+45:48 - João Landeiro (joaolandeiro.com)
+  Just earlier today, was reading a post that I've written here that I was sending to you about taste and a guy doing things to work on his taste.  Not to improve his taste but to increase his repertoire, right? Yeah, and in that the example he gave was about smells Yeah, and it said like just having a more Accessible understanding of smells Opened this world in a different way like now we can describe what he likes about some food Yeah, okay, very Exactly, exactly.  I mean I read the dictionary, you know, like I just read it because why wouldn't you?
+
+46:28 - Nate Jebb (Veritas)
+  That's like one of the coolest ways to learn new concepts.
+
+46:30 - João Landeiro (joaolandeiro.com)
+  all right there Love it Yeah, I think you like this and So this question is a little bit related to the cost most the costliest Value, okay, but we can try to look at it from a slightly different angle So an opinion It's related to perception and trends  Like how things are moving or patterns that you see that other people don't seem to see Or or maybe they see but they don't interpret in the same way Rationality is overrated.
+
+47:14 - Nate Jebb (Veritas)
+  Okay Tell me more about that, please I Just believe that The point of the rational that's like my installation program for a software into my brain Like at some point I do have to understand it and make sense of it and all that stuff But then it gets put into the back of my mind and then it's actually much more useful And I really I mean my favorite My favorite book is um this book And  It's about the Zen Patriarchs of the Tang dynasty and it's just stories and little anecdotes from them they are They say pair the only way to resolve a paradox is to go vertical so you have to go up a level in your comprehension and eventually You recognize that any wording or any name for a thing is just a false distinction made by the mind It's not actually reality.  It's a spirituality and physicality are the same thing your physical body is your soul because To say otherwise would be just categories your mind is ascribing to it.  And so if all of that is true Then there are things beyond language That maybe eventually we could put into language if we had enough time But it's not that useful that we can go off and so that's why I say follow your conscience or We're using tuition or things like that because I believe that  It's not that rationality is overrated. It's that being able to explain why you're doing what you're doing is overrated I mean my whole career people have always said what's your plan for next week.  What what are you doing next week? I'm like, I have no idea. I'm like an improviser No, and then they get mad at that and I've not I've been you know I've been fired because of that because people are like you're not actually doing your job I'm like I feel like I'm doing it to my fullest ability You know mm-hmm and otherwise it's you know, they say don't bring do not bring things before the dissecting table of the intellect You know don't slit the nightingale's throat to see how it sings don't Don't cut the frog open and label all of its organs because now it doesn't hop around anymore So that that's kind of where I'm coming from You
+
+50:01 - João Landeiro (joaolandeiro.com)
+  How do you feel this relates to, and my position here is not one of thinking it doesn't relate, I think it relates to, but how do you think this relates to the work that you do?
+
+50:16 - Nate Jebb (Veritas)
+  It's called Soonal Mind, S-U-N-A-O, and it's a concept from Konosuki Matsushita, who he created Panasonic, but you're Matsushita Electric in Japan, and it's the idea of retaining the entirety of the business in your mind all at once, and so you can see 50,000 feet and you can see 50 feet all at the same time, and it renders what you do accurate.  It helps you do the correct thing because you're holding all the pieces together in your mind, jazz improvisations the same way, and when I'm interviewing people,  It feels like I'm doing it randomly like my questions just seem like they make no sense to people They're like, why would you ask that like where is that coming from and the more I try to explain it the worse it gets It's like explaining a joke.  Yeah. Yeah, and it's better if I just follow my hunches and then deliver something valuable to them at the end of it and I Have to operate off of instinct While I retain the entirety of their business in my mind and I'll give you an example if I'm interviewing a guy who Who is fixing a pump that pumps gasoline into a fuel truck And as I'm interviewing him I'm realizing Wow, I have a camera and I'm at this location and this would probably be great sales material for them because They build these for a client and they probably don't ever have like in a simplified  version of all of it as like a one-pager document. I could in 10 seconds create like a sales video for them based off of what this guy's saying if I just ask this different question.  So to him it's like I'm asking about the Civicon emergency overflow reset and then I'm going can you tell me where I'm standing right now and like I'm standing back 15 feet and like filming it and he thinks I'm being random but in reality it triggered a thought in my mind what he was saying that could get them a huge value for their business because ultimately they have to keep selling and that's because I'm retaining everything all at once I'm able to move in and out of hierarchical levels for the value of the use of the customer.
+
+52:52 - João Landeiro (joaolandeiro.com)
+  It's so difficult to explain those things.
+
+52:55 - Nate Jebb (Veritas)
+  I know you know it like I know your brain can just doing that you know but if you try to  hate the people who don't think that way. You really do sound kind of crazy. Yeah.
+
+53:10 - João Landeiro (joaolandeiro.com)
+  And it's difficult to integrate both the need to, okay, I shouldn't burn all my political capital here, right, to get this thing that it's helpful to them.  Yeah. But they don't get and at the same time, it feels like you're betraying that that notion of I want to be helpful.  And I know this is helpful. And it's easy just to smile. No, way, right? That's what he said. Yeah, I know it's not ignore.  But then not.
+
+53:46 - Nate Jebb (Veritas)
+  But then the other thing is like, if I believe that it's right to take that video, my brain has to not just do the right thing, but the right thing in the right way.  So I have to say to the guy, Hey, this is so random. Do you mind if I ask you a random question and he'll say sure whatever and then then I'm okay Oh, sometimes I'm not gonna think fast enough on my feet to do that and he's gonna go that's random And I can sense that I suck some of the energy out of the room because I like was too weird like you just said and then I can always say something like gosh That was so random.  There was an idea behind it, but just let's move on. I'll buy you a coke later And it's stupid like that like I'll buy you a coke later.
+
+54:30 - João Landeiro (joaolandeiro.com)
+  It gets me like back to social, you know, but anyway, yes Okay Okay, okay I don't think I've ever had the conversation like this one.  So it's so many things like going through my mind Um, okay, so if you've mentioned books I've got another one that I want to say.
+
+55:02 - Nate Jebb (Veritas)
+  Yeah, okay. It's a book from the 70s. It's like a survey of jazz It's just kind of like what are the instruments of jazz who are the?  Jazz overview book It's called a Hold on I do want to make very get it right it was the one that everybody read In the 70s You know, but things go in and out of style I guess Well, basically Do you want me to talk about it already?  Let me just tell you it's called jazz over. No, no, no, no, don't tell me about it well I've read a lot about improvisation, but I've never heard this said before he said You're allowed as a jazz artist  to consider things once improvised as still as improvisation so like I have found are you musical at all no okay I have found that like when I when I'm playing a solo I really like to do this there's all of music is tension and release okay I like to end a line with just a simple two-note thing so I could play this but the point is at the end of the solo I go but I did it but that you know and and I just have this little motif that I always like my whole life and I felt embarrassed about it because it's like yeah you always play that you know  He said he gave me permission to play once improvised things as improvised things and they're kind of part of my soul, part of my way of improvising.  And it made me feel a lot better because I was thinking about my life as a whole. And I said, my whole life is a jazz solo, you know, everything I'm doing.  And, you know, I mean, some things are a higher order choice. who do you get married to? That's kind of like, which instrument do you play?  Or like, who do I meet with today? That's kind of like, which songs are you going to play in your concert?  mean, there's different, there's different fractals. Yeah. But, but, um, I've always been afraid of routine because I'm an improviser, but that concept gave me that once improvised is still improvised is that there are maneuvers I can do and they could be multi hour long or multi day long maneuvers like the way of doing a vacation or the way of doing a morning routine.  That it's still honest to say that they're fresh and improvised even if I do them all the time I don't have to feel scared that I'm boxed in because I can always change from if I want to but it's it's just the way I do my solo and that really That helped me and then other concept behind jazz is like you want everything to swing and swing basically means It feels right as opposed to in classical music, which was my background everything's academically correct and In jazz they say jazz is more precise than classical because in classical everyone's trying to do things According to the time signature like fall at the same time And humans are fallible.  So like people will miss But in jazz people typically all are able to hit the like come back to the melody at the same exact moment No miss at all and it's because they're not trying to do it right intellectually.  They're feeling in their heart for when would be the right time to come back? because it's just the nature of the music, it calls everyone at the right time.  And so being able to operate my life by conscience and by intuition is the equivalent of treating it like a jazz song.
+
+59:18 - João Landeiro (joaolandeiro.com)
+  And that is a nice kind of permission. I'm not sure if I got it right, like the way I wrote it.  yeah. Is this directionally?
+
+59:28 - Nate Jebb (Veritas)
+  Yeah, but for me, the language is once improvised, like once, O-N-C-E dash improvised, still equals improvised.
+
+59:44 - João Landeiro (joaolandeiro.com)
+  No. What's the here? I don't you're talking about. I didn't find it. Yeah. Sorry. No, you're fine.
+
+59:53 - Nate Jebb (Veritas)
+  I like to hear other languages.
+
+59:57 - João Landeiro (joaolandeiro.com)
+  Okay, once improvised. Okay, this makes all the difference. Yeah, the dash, the little thing. OK, so, oh, there was something you said before.  Yeah, this thing, I think it connects to this thing. Yeah, totally. It's here, OK. And of course, everything connects to everything else, but these things just are kind of more at hand in my mind.  Yeah. OK, last question, last formal question. about these formative experiences? Is there anything uncommon around them? When I say formative doesn't mean school, there's things that shaped you.  Yeah, I think I came.
+
+1:00:54 - Nate Jebb (Veritas)
+  But it was unique in the way I was brought up because I didn't know. with this until I was older.  basically my grandpa, we were just a family who was having trouble. But grandma who lived next door was really kind of aristocratic and from an aristocratic family.  So like we'd have breakfast at her house every morning from when I was six to when I was 18.  And she'd do things like you have to put your napkin in your lap or like we'd listen to opera the radio or she made us sit upright or we read the newspaper as kids every morning.  And I'm not saying that to be hoity-toity like I don't care that she was a fancy person. It seemed uncommon to have that much emphasis on manners and alightness.  But she did it in love and not out of like do the right thing. You need to have better manners.  It was fun. felt like something to shoot for. I love I just I do love her and I loved her and it was a unique It was like discipline because you loved it not discipline out of fear Was there a sense of competence there Competence.  Yeah, yeah Being very well mannered and yeah, I felt that I could be in any setting socially like with adults and I would do well Mm-hmm.  I mean from the age of I don't know eight I felt that Do you think that the how do you think that manifests itself in the way the work you do today?  I Have I'm better talking to executives than I am talking to like mid-level managers Because my grandma Most days when we were growing up would make us shake her hand and she'd say look me in the eye Give me a firm handshake.  No poppy fishes and say hello man Brown.
+
+1:02:59 - João Landeiro (joaolandeiro.com)
+  How are you doing? And I say, hello, Mr.
+
+1:03:01 - Nate Jebb (Veritas)
+  Brown. How are you doing? And I did that to so many adults when I was a kid. And they all said, you got a great handshake.  mean, almost every single adult said that to me. I feel a huge sense of confidence when I'm Approaching anyone, especially like a powerful person because I know I'm literally going to win on the handshake.  Like I'm going to get him before I open my mouth, you know, and that It's proven to me with so many raps through my entire childhood that it's like the equivalent of starting on the right foot.  It's just a good first impression.
+
+1:03:37 - João Landeiro (joaolandeiro.com)
+  And that was combined with their life that because your grandmother Yeah, incentivize you and Thought you this stuff. Yeah.  And you have brothers, right?
+
+1:03:51 - Nate Jebb (Veritas)
+  And sisters.
+
+1:03:52 - João Landeiro (joaolandeiro.com)
+  Yes. Yeah.
+
+1:03:53 - Nate Jebb (Veritas)
+  Yeah. Five. Five.
+
+1:03:54 - João Landeiro (joaolandeiro.com)
+  And she did this to all of them, right? Yeah. All of them, like all of you are like these
+
+1:04:00 - Nate Jebb (Veritas)
+  Oh men are will yeah, they all this three are more that way the younger three didn't get it as much because They spent a lot more time on phones phones came out when they were kids mm it changed the nature of Things in our house, but but they still got it.  Mm-hmm.
+
+1:04:19 - João Landeiro (joaolandeiro.com)
+  Mm-hmm That's really really interesting You know what I'm thinking is And maybe I'm Crazy, but what I'm thinking is From our conversations from the way you describe your work from the way you describe the things you you're interested in There's there's a couple of things first Something that's kind of related to what I wrote on sub-stack that you see like wisdom as something.  That's really yep sacred. Yeah, and also This is not really a tension. It's just a coexist There are better ways of doing things, but we shouldn't use them as train tracks, we should use them as hints for what to do, right?  Yeah, they're inspirations. Inspirations, yes. That's actually very different.
+
+1:05:26 - Nate Jebb (Veritas)
+  When I'm at my best, I'm not trying to do things the right way. That's how I always did it as a kid.  I'm not trying to do things the right way. I'm trying to hit the right notes. That's very different. One is ethical and it's more moral, and the other is coming from a place of the artist's mind where I'm still listening for the thing to do.  wrong. It's like, what is that? Okay, that's wrong. know, that's what I wanted to hear. One is out of love and one is out of fear.  Actually, the same exact thing, but different motive. Do things the right way. That's playing not to lose. Hit the right notes is playing to win.  know, I mean, there's a lot of ways people talk about this.
+
+1:06:48 - João Landeiro (joaolandeiro.com)
+  Okay, so let's zoom out a little bit.
+
+1:06:52 - Nate Jebb (Veritas)
+  This is fun, by the way, thanks. No, thank you.
+
+1:06:57 - João Landeiro (joaolandeiro.com)
+  You know, sometimes I think about sending this stuff via some form? No, but then I think we lose something.  yeah. So here's what I'm thinking. Now we have some stuff that we wouldn't find, I think, on LinkedIn search, because that's the idea, right?  Find stuff that is not elsewhere related to kind of how you work and the way you see the world.  After doing this, are there things that stand out to you, either expected things or unexpected things that stand out to you?
+
+1:08:03 - Nate Jebb (Veritas)
+  I'm just waiting for it to come. It'll come. Give me a second. No problem.
+
+1:08:15 - João Landeiro (joaolandeiro.com)
+  I feel hopeful. Okay. I believe in this.
+
+1:08:36 - Nate Jebb (Veritas)
+  I mean, I once went to physical therapy after I worked in the factory for my older. The physical therapist said, you know, why do you want to do the physical therapy?  I gave him, you know, I'm kind of embarrassed that I said this to him. That was so weird. I like, well, I'm really a wrestler and a dancer.  And I want to be able to do those things well. And my shoulder doesn't work because at the time I kind of had  This little fight club with my friends and and I go to these open mics and I like do dances on stage, you know and That's it and to me wrestling and dancing are the same thing, you know you're interacting physically with something either an opponent or music but I Like that that's a good way to live, you know my life motto is I'm just glad to be here and To the second one is yes to life in spite of everything, you know and this to me Everything we've said feels like a very like a yes to life, you know, I mean, I have a lot of hardship We've never gotten into all that but like it's hard life's hard.  I get discouraged last night. I was really down and Just to look at these things they're almost like facts on a newspaper, you know like journalistic facts, they're very hopeful facts And I like them and I want to do  This stuff so even if I like couldn't convert any of this at which we will but even if I couldn't convert any of this into Something useful it just makes me feel like grateful for my life You know and for the life I've had and who God made me to be it.  So that's unexpected And You know what with this is really interesting. I actually think this is more powerful than counseling This council is trying to discern like what's the issue.  Let's talk about the issue blah blah blah blah This is like stewing in dreams and hopes and what's working and like This brings you back to life and refreshes you and I think that's a very cool It helps that I think you you have this I think you're a Very alive person
+
+1:11:00 - João Landeiro (joaolandeiro.com)
+  and you reflect and you are sensitive and you're open to the world and I think that helps in making this a worthwhile thing.  I appreciate you saying that I don't want to, but it's really, it's a mirror, right? I think you told me that.  Yeah, the world is a mirror.
+
+1:11:19 - Nate Jebb (Veritas)
+  Yeah.
+
+1:11:21 - João Landeiro (joaolandeiro.com)
+  So, but if the exercise or if the time we've spent doing this leaves you with that feeling. mean, it's entirely your merit, I think, in terms of having thought about things or felt things and being open to saying these things, because then that's where you find the most interesting stuff.  I'm trying to, so the idea here is that we try to figure out kind of the way you look at the world as a foundation for the other things, right?  the other frameworks. And it feels very cohesive. Not cohesive as it's fixed, it's not fixed, but it makes sense.  I don't know how to say this without coming across weird, but I feel that you get what I'm saying.  There's a single sense of it.
+
+1:12:27 - Nate Jebb (Veritas)
+  There's something single in it.
+
+1:12:32 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+1:12:32 - Nate Jebb (Veritas)
+  You know a lot of times I think about living as like you're, it's kind of you're in a desert kind of environment, sandy, gravelly ground.  And there's a stream on this side and a stream on that side. And the stream on this side is dirty and the stream on this side is pure and clean.  And as long as I'm dipping my mug into the pure and clean stream, anything I do will be okay.  Any plant I water will be okay if Drink it will be okay. If I share it with a friend, it'll be okay.  And I feel like everything I'm saying here is talking about dipping my mug into that pure and clean stream and then doing things with the water, you know, mm-hmm Go to the source and What what is there's there's some quote tease or something Paint as you will I don't have it close to me, but it's like paint as you will and enjoy your life, you know, it's That's how it feels.  It's like yeah, just paint something. I don't care.
+
+1:13:44 - João Landeiro (joaolandeiro.com)
+  It doesn't have to be good Thank you, yeah, this is great Okay, so You that's what we would do for today and what what we did was we already have this schedule so it's done I don't think there's much to do yeah there's a schedule is just to stay with this yeah I've made a lot of notes regarding like things that you made me think about both your thing and also uh perhaps useful links or stuff like this and I'll send them to you actually I'll make I'll tell you now at least because I'm gonna send an email with 12 links that you know it's nice but then you don't have the time to see it and so there's there's a few things that I wrote down here and then you let me know if any of them is interesting to you um so that idea of uncovering the shaded part  of the map. I think there's more stuff there. It's an interesting analogy. There's the book Seeing Like A State, which is the thing about legibility.  There's justin.tv, which is a guy that is at some point of live streaming his entire life back when this was not so easy.  And there's a Twitter thread related to people recording their screens. as this is a source of information that is not very easy to find, but it conveys a lot of expertise.  Like, if you want to learn how a good secretary operates, don't ask her. Just see how she manages emails for you.  There's something about an app. Maybe you remember this app. was be me. was an app that you would put next to your heart with a camera pointing out.  was a competitor to Instagram or stuff like that. Eventually it didn't. and thrive but there was this idea of just it would prompt you I think for a picture and you would take the picture at that time it couldn't be helpful.  There's a bunch of articles from Dan Sheeper the guy from Everi that you might you might like and there's the getting to know list which is I think something maybe you have spoken about this which is a way to deal with some uncertainty in like your field like oh I should I should know this thing right just make a list and eventually you make a list and eventually you go through it and you feel more confident about it and you build your perspective on that thing right this came up when we're talking about the trends and the frustrations with private equity and stuff like that yes I think there's something really interesting in the way you've described  people that have been carrying the weight. this kind of generational, respect for a generation, I think there's something there that to me connects with all the things that you've said.  And I think it's, I suppose that you probably see this all the time, which is older people are often or more experienced people are often really starved for yeah, activated audience, people that care.
+
+1:17:32 - Nate Jebb (Veritas)
+  Yeah. There was something about, oh yeah, about the failure of nerve.
+
+1:17:39 - João Landeiro (joaolandeiro.com)
+  I don't know if you watch the Shogun series on FS. Shogun? Shogun, yeah. The ending is like a mini series maybe eight to 12.  And there's no more seasons. But the ending really relates to what you said about the failure of nerve and leadership.  asked me about the reasons for the questions and basically the main thinking behind this is I want all of the questions to have a little bit of attention there like or a a zig in their zag you know you first consider something and finally there's the idea of base layering I don't know if you know this or if you've heard about this it's really interesting I find it really interesting which is very familiar with base layering so time moves at different speeds depending on things right and if you're in a house it's very easy to see on a house let's say you live in a house and you need to perhaps paint the house every I don't know 10 years and you need to change the electrical things every 30 years and you need to change the curtains every five years now things change at different speeds right and because they change at different speeds  It's accumulating different ways, the changes. And I don't know, I don't remember exactly when this came up. Yeah, that's the one.
+
+1:19:10 - Nate Jebb (Veritas)
+  That's the one I want to know about. Yeah.
+
+1:19:14 - João Landeiro (joaolandeiro.com)
+  OK. Please. OK, I'll send you this. And you gave me also a couple of things for me to investigate.  Thank you. I'm not very good at the end of the sessions. I always feel like, oh, I don't know what to say.  But yeah, I think I enjoyed doing this. I think you got into it. You were very open. And I appreciated you letting me in on this view.
+
+1:19:54 - Nate Jebb (Veritas)
+  Are you open to me suggesting something for the end of the sessions? Yes, yes, I am. First of all, you didn't need to say that because if you hadn't said that, I would have thought it was a great ending, but interesting and I've noticed even on phone calls or meetings or anything, if I can spend the last one to two minutes at a brisker pace, it feels good to the meeting so I may consider picking up the pace saying like like and there's literally a moment where you know my soccer coach used to go up and we'd have to speed up our running there's a moment where it's like you know and that moment is when you get to the last slide and you go all right so here's what we're gonna do to finish this up but you end up your talking and you go this is what we heard this is what happened and here's what's happening next once you cover that stuff I always do this the way that I end meetings and it just it just feels good yeah you say  Something punchy and then literally by and then end the call So what we're gonna do? I'm gonna after I do this.  I'm gonna end the call so you can feel the feeling of it Okay, okay to cover No, no, it's okay.
+
+1:21:14 - João Landeiro (joaolandeiro.com)
+  We are okay.
+
+1:21:15 - Nate Jebb (Veritas)
+  So basically you would do something like this you'd say like look You got me to share about my life.  I Refell in love with my grandma. I cannot wait truly to meet with you again next week. This was awesome I'll talk to you Talk to you later.
+
+1:21:32 - João Landeiro (joaolandeiro.com)
+  This is great. Thank you Nate You You You Thank you for watching. Thank very much. Ah, I'm gonna say it again.  Thank you. So, three of my people will be on the screen. Thank you. you Thank you. Thank you. Thank you.  I'm you're Thank Thank you. Thank you very Thank Thank you very much. It's almost over. It's almost over. We'll be back day after, because we'll be here again tomorrow morning.  You'll be sick, you'll be sick. I'll be here again tomorrow morning, because we'll back Thank you so for watching this video.  And remember, forget subscribe to the channel, if you have any questions, share this video with your friends. Thank you so about the part of it, so I think it's good to vote.  So thank you. I'm going to But I'm you It's that many times I let it wash there, it like this, I confused.  And here it doesn't work. That's right. Why do we call it a different No, it's a different The question is, we have to know which ones are the ones that are in the box.  No, but then I put a box like this one here, look. No, I'm going do it here. I put this one here, I'm going to take it home and I'm going to make a mess like this.  No. No, take it and do it all. I thought I cut it, but I didn't cut it. So, I think I'll it, I'll cut it.  But, I hope I didn't it. Then suddenly we're going to cut the other one. So, think I one. Do you have the definitive I don't know if...  My idea is when they pass the package, the package, the guys release it here in the package and leave it there.  No, I don't There are several ports, right? Yes, we have the Brazilian flag. So the Brazilian flag is what?  It's yellow and blue. Maybe we can do here? No, we can leave it here. We don't have it here, right?  And this Brazilian is for foreigners who are old? It's a It's just a little You can buy a little for a black one and then you put a of things in it.  I already know that the Brazilian flag is Oh, This is here, right? Oh, so this is it. This one is This here.  little one. And this one is here. How long have you been here? This is the question. If I to choose this one, I only choose this one.  This one is bigger than the rest of I'm tell you it. So, in this case, So you're to stay here?  No. What? That little Yes, you can take the things inside and take it with you. You can leave it top of the mobile or this blue thing, please, for the make-up and you can't go there.  Thank you. You have to go there, okay? Do want to see if I can kill you? I'll show you behind those frames.  Let's see if you do Behind the frames there are some things that you use. Exactly. Or you use something else.  This one. I don't know if you can see I don't see it? Can see Yes. Can I see it?  No, thanks. What happens you in the morning or in the evening? The other one doesn't look like that. I don't if it's here.  I'll hide something here. I'll hide here. I'll hide it. Let me try to get it. Can I hide here?  I'll hide something inside. I'll inside. you know what's inside? I don't see. You don't have to take the cap off.  not the main by the section that the the the the the the the It's just not useful. in the house of your father, who lived in the mountain, of this great favor, neither she nor she knew what God given her.  Then it became difficult for him say, what is this? What is this? The Bible, right? You didn't see the Bible, did you?  How can person live in a house like this? Thank you. Thank you very much. But you know that with a house like this there a lot of energy here, right?  Yes, I think so. I went through this when my mother was sick. I had to leave my house to take care my mother.  When my mother passed away, went out. I think my sister has a little bit a problem. When you saw what?  Today she had to take care of her house, right? Yes, she had to take care of her mother, because her mother worked, right?  Your sisters don't help much, right? Yes, if you have an idea, if my sister is serious, she is at home.  She's child with an about the impression of... That she doesn't feel guilty. She's not No, she's married, she's children, got everything.  And she's husband. That's way it She's got a job, she's got a And they're children? Yes, they're all married.  But she doesn't want to work or she doesn't want to live? No, she doesn't. watch if she wouldn't want to She could take care of parents.  Yes, yes. And how about her Their children have a a Their children have with In the past, he was a beggar, he lawyer, he did everything.  He is a lawyer? Yes, so what he wants to do? He has a lot And what the other sister?  My older sister is a journalist. She's very fascinating writer. That's a flow through Miami as well, that's how I'm on it.  It's difficult, but it is. But I think that if had this attitude, we would have taken care of the Yes.  It was difficult, wasn't Yes. It wasn't difficult, wasn't it? No. Because it wasn't difficult at all. When we got there, it about nine o'clock, there was a shop there, because they were very scared, because they were sleeping.  It was difficult. It difficult, Wasn't it difficult? No. wasn't it? It wasn't difficult, wasn't No. Thank you. What did you you.  Thank you very much. But this is the best way to Oh, really? So it's better to put it outside, you know?  This one, I always used a vacuum cleaner. We were using a But it's not the to Now I'm putting it in the box.  We know the inside of the box. This one is just the sofa. And the mixture is same. Okay, I'll it back here.  I left it in the oven, right? Okay. Do you want some help? Do you want some of this? No, I want any.  I'll put it here. Now it's in the I'll put it back here. And then I'll put it here. I'll put it here.  I'll put it back here. You want to put it back here? I'll put it back Thank you very much for that question, I think it's very nice of guys to help me with the composition of the chases.  You guys were asking me about the chases that I like, because you know that I like them a lot.  So, let me think about it. Any other thoughts? Any There is nothing more important for you to and we are going do the drawing now.  I think it's just that if you too busy your work, it's still possible for you to do something that you are to pass on inside, so you can do it.  And also, maybe, the stairs. So, let's do it. I'm going to pass on inside. I'm not going there, I'm going go through the door.  Everything will be fine. I'm have a little bit of money in the vacuum cleaner. The vacuum cleaner is a little small.  The vacuum cleaner is a little small. I'm going to try to show you a little bit of this. I'm not going the vacuum cleaner anymore.  But the vacuum cleaner, this one, this one, should come now? It's easy to remember, right? Yes, is. So, let's do it like this.  What is it? English, Spanish... Yes, there are two books written in English. This the base here. Here the sabon.  Here goes the sabon here. Yes, but the colors... Thank you. Thank you much. This one here is English. It's a very different one.  Let's go to the other one. Thank you. Thank you very you very much. Thank you very Thank you much.  Thank you very much. you. I don't think want to know all the questions you have, because I don't really need space to answer them.  I think it's going be easy. It's just going to be easy. I don't think it's going to be easy.  going to be I think that if we able to this, we will be to it. I think that if we are to we will be able it.  I think that if we are able I think that if we are this, we will be able to do it.  I think that if we are to do we will be No, I don't have any. This door is simple.  Yes, it simple. This is just a problem. I don't have a door like this. You don't have anything here.  I open this door and I a hand through the door. But is this door open? No, I open the door and the door opens and closes.  I open here like Yes. I would like to the opportunity to open it. This is little more difficult. I think it's like this part faster than the other.  I can see him. Or this one than the other? I have I don't have a door, here like this.  here I this. open Thank you. Thank you. Thank you. Thank you. Thank you Thank you. Thank you. Thank you.  Thank you. I would suggest that we do it like this. If we were have more than 70 centimeters, we could put it here in the same place.  If we to it in if we to it here it here place, we would be able do it the same place.  This sandpaper... This sandpaper is particularly large, and it would die 100%. But it die. But... It would difficult to look it with the hands.  But it be very difficult. It's hard to put it the sandpaper. It's hard it But I believe it's easier to put it sandpaper.  Did you see that sandpaper, what it? It's difficult. Ah, I thought it would be this, no, it would be like this, but I thought it would be like this.  That's what I'm about, right? Yes. Cool? I know if there's another adaptable one. Do we have to all of them?  No, we buy all of them. Do you want to buy them? I don't want to buy all of We can't buy all them.  But that's what I'm saying, right? Yes. So, it's like this, Yes, so it's this, right? And then you do it like this, and then do Ok.  Now she's to do this. She's to do this, right? Yes. You to cover it. Ok. That's problem, I That's the problem, right?  We can't spend as much money here. That's the problem? We can of money here. We can spend a of money.  you. And the only source, I don't even know if I think it's like, don't even know. I don't even if it's that, it's not bad.  But it's not totally finished, but it's not even 100% open. Is it still open? It's not open. Let me explain it to you because it's not open.  If it's open, it shouldn't be a door that's open. That's fine. If it's open, it shouldn't be door that's open, because it's That's fine.  If you don't know this one, it's a door that's It's open here. It's not open. It's closed here. here, it be open here.  It's closed. Will it If it's open here, what does mean? And when it's open, I can't open it. you.  Thank I had to run, it would be a very difficult task. If I it, work. This door is also so small, right?  It would only be what now? This door here? No. This door here, right? To the top. This door is very difficult to open, right?  It's difficult to open. That's it. And here, then. It's very difficult. Sorry. The door very difficult to open, right?  The It's very difficult. It's difficult. Sorry. The door is very difficult to It's very difficult. I think it's very I think it's very difficult.  I'm to the door is closed. This one has a longer time. There's another one here. It's closed. If I close the door on left, it's going be much worse.  If I close it again. Yes, the problem is this way. If I close the door on this side, I think it's possible to close the door.  It was difficult to close the door. I close the door. I'm going to the door like this. It's closed.  If I side, close the The key door is If I close the door this it's possible the door. And if it was just a door to the government, it would be like this.  And when you close it, it's open. It's open It's probably this problem. If you close it, this door will be closed.  But if you close it, it's for everyone. So you to wait a little longer. But if you close it, open for everyone.  if close it, it's open for everyone. you If this is the case, I'll off the great, huh? You're gonna it off?  It's the same. I'll turn it off, I'll turn off. I'll it off. Let's do this. Okay. The point is that you don't need to be able to the information, you don't need be able to the information, but you need be able to the information.  It doesn't matter. So, the point is to deliver. This point is my views. These are the initials. I don't know if this thing has propelled us.  think that this is going our part. We're going to be in a wall. We already have a puller in the wall, right?  It's like a straight You're going pull it, you're going to or you're to pull or you're it, and then you're to pull it.  So it's be a real challenge. This is the question. It's to be a real challenge. going be challenge. It's to challenge.  But what are we going call it? The moment. The moment, I think it's going be very interesting. Okay? Okay, guys.  I'm start with the normal. Okay? It's better to have a little action. You need a little. Okay, on top of that we have the same.  Yeah. And then, what are we going to use? The specificity? The specificity, I know. know. Okay. And then, on top of that, we the The whole room, right?  The whole room. So, it's to be different, guys. And the height of the curtains on the door of my room, you've already lowered your head, you're just going go here.  Yes. Exactly. the height, right? I think it's to be the height. Okay. I don't know if that's right height.  I'm here. All So, this is the part, yes? That's the point, When you can have all the data from the source, you do that.  You can do, this, you do that on the part, you do that. Right? All the time, you do that, you do that, you do that, you that, you do that, you do you It's more than the that you're but it's just a more than just the that you're It's personal, but it's like, here, one, happy birthday to  It's not just about the team. We can see that there two teams. team and one team. There are two teams.  There are two teams. You can do the We just need two teams. We can see that We can there are two  a be a good time to I'm There's a lot of going but it's also be a start working it and work it out.  Thank you. That's fine. That's fine. That's fine. So, I understand this. The only thing that doesn't have a quarter here is that it's not much.  There are two doors on top other, without opening the door. The first door is a big one, right? Here are the benches, and the door on the left is on right.  And the other is on the opposite side. Inside the other one there are two doors, so you can read more or less 45 meters from each other.  And the other two are on the left. Oh, no, I was hoping for this. Here there is a door to go out from here to here.  And the door to the other side. And here there are two doors. Because they are going be on the other side of this.  Thank you. So go to him and ask for the payment. Is that it? Yes, What's missing? I'm going finish the sofa and go to the chairs.  What's this? I've already done it. How long? 4 hours. You can just go to the chair and I'll go to the sofa.  Can you? Yeah. I'm go to the sofa and I'll go to the chair and I'll go to the sofa I'll I'm going to to the chair.  I'm going to go you Thank you. Thank you. Thank you. Thank Everything can be different, you don't have to emphasize it.  They have little artists on the top, don't know how call myself just talking. They will keep me going, calling me.  I don't know how call myself just talking. I don't know how to call myself just talking. I to talk.  I'm resolute. Thank you very much. Thank you. So . . . Thank you. you. Thank you. Thank you. Thank you very much.  you And what I want understand is that they are not here to talk about these things, they have lived for a long time and they are not here to them.  And I want to give you some information about how they are doing this. So, they are doing this for a long time.  For a long time. Thank you much. very you Thank you very much. Thank you very much. Thank you Thank you very much.  Thank you very Thank you. It's you Thank you. you I it's important that we What's important? Work. Work. Work.  Work. Work. Work. you you you. watching! So, do you want to see the branch there? I don't know if it's to be, if it's going to spirit.  The branch? I don't know if it's going be It's to there? Yeah. It's going to be there. It's going there.  It's going to be You Thank you. Thank you. Thank you. you Thank you. I'm going show you a little bit I'm going to show you in this I'm show you you in this Thank  you you. So I don't know. Thank you Thank you very you you you Thank you. We'll see you

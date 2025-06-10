@@ -1,0 +1,328 @@
+---
+title: Dom and Joao talk Workshop design for ND
+date: '2025-01-14T18:00:00.000000Z'
+duration: 65m
+participants:
+- João
+- Dom
+source: https://fathom.video/calls/211304952
+encoding: utf-8
+scrapingdate: '2025-06-09T19:29:57.459659+00:00'
+---
+
+Dom and Joao talk Workshop design for ND - January 14
+VIEW RECORDING - 75 mins (No highlights): https://fathom.video/share/bbBcfJ3ug_z_3Qx2p42YJR6Q-dxsdn6b
+
+---
+
+0:00 - Dominic Goucher
+  Can you hear me again?
+
+0:03 - João Landeiro (joaolandeiro.com)
+  you hear me? And I can see a kitty cat over there. Oh yeah.
+
+0:10 - Dominic Goucher
+  I noticed him. What's his name? That one is Peanot. Come again?
+
+0:20 - João Landeiro (joaolandeiro.com)
+  Peanot.
+
+0:21 - Dominic Goucher
+  Peanot. What are in Spanish? what?
+
+0:29 - João Landeiro (joaolandeiro.com)
+  Cacahuete in Spanish.
+
+0:31 - Dominic Goucher
+  Oh yeah, yeah, yeah.
+
+0:33 - João Landeiro (joaolandeiro.com)
+  I thought the word was Pino, like a Spanish word, but I understand your Cacahuete. yes. It's kind of Cacahuete colored.  in a way, I get the point. So it's been a long time.
+
+0:48 - Dominic Goucher
+  Yeah. It's been a really long time, I don't think I'm any different. Yeah, I'm also. still very confused and I still don't know what I'm gonna do but I'm okay.  okay.
+
+1:04 - João Landeiro (joaolandeiro.com)
+  I'm very familiar with the feeling. Are you still on the school of the possible thing? Yeah, yeah.
+
+1:13 - Dominic Goucher
+  And you know you're more involved right?
+
+1:15 - João Landeiro (joaolandeiro.com)
+  I think cost time.
+
+1:17 - Dominic Goucher
+  Well there isn't really anything to be more involved with. Dave stopped doing all the kind of everything that he was doing before trying to encourage people to make courses for inside of the school and everything.  He just stopped and it was good actually. It's really good. He's taken everything away and then he's just put some very small simple things back and he manages it and he's very happy and everybody else is very happy and it kind of works.  Okay. So yeah I mean I do I join in where I can and it is all relevant. Whatever but no, it's not like when when we were there.  Excuse me one second. I'll just go talk. I'm gonna shut the door There we go So so yeah, so Because it wasn't really working, know that kind of if you want people to contribute to a school and Whatever it needs managing.  Yeah, you need there needed to be some management Dave didn't want to do it And he and he he kind of said he was happy for me to do it But he didn't he did I didn't really want to be involved enough for it to work So we just which is fine, you know, I mean, I really like what he's done now I think it suits what what his original vision was But I think he needed to work at work that out so  Yeah.
+
+3:01 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+3:02 - Dominic Goucher
+  Okay.
+
+3:05 - João Landeiro (joaolandeiro.com)
+  And so let me give you a little bit more context on my side. So I think I don't remember if the last time we spoke about I was still on it or not, because I think the conversation we had that I remember the most vividly was not the last one.  It was another one where you kind of not hinted me, you really pointed out like, look, if you want to sell workshops for experts, don't talk about workshops, talk about what they can do for experts.  And I remember that conversation. And it made sense, but I didn't really know exactly how to breach that. And eventually getting into more conversations, I think I'm getting better at it, but still, mean, it's not a rocket ship.  And one of the things that kind of started happening the more I was talking to people was that The people that were showing the most interest in my thing They were different, right?  They were like more curious than average oftentimes more clever than average or more Brother interests than average and all this sort of sort of thing was a little bit of a pattern And also another pattern was the conversations were great So this leads to great conversation and One of the things I started to think about was If what I'm talking about resonates with you know people that think about things in a different way Maybe it would be clever to design my my products and services In a way that feel comfortable for people that think in a different way, right and difference Is a big word that encompasses all sorts of different inside of it, right?  But anyway, and then I think about that and I started reading some books on Kindle just to, you know, dip my, my, my feet, my toes, and then I thought about you, I remember this was Dom's thing, I think it was like workshops or presentations for neuro learning for neuro divergence, right?  Yeah. And yeah, and then I was like, Okay, this is interesting. I think it's a very transferable skill. So it's an interesting rabbit hole to go into for a little while.  Maybe my main thing at all, but it's just, I just, I just want to be like aware of kind of what's out there so I can, you know, do better things.  And I thought about you. So I sent you that message.
+
+5:49 - Dominic Goucher
+  Cool.
+
+5:50 - João Landeiro (joaolandeiro.com)
+  Cool.
+
+5:51 - Dominic Goucher
+  I how, how can I help? What kind do you have any specific questions? know, would you want me to talk about something in particular?  How can I help? Mm hmm. Thank you.
+
+6:01 - João Landeiro (joaolandeiro.com)
+  I think basically what would help me the most right now is kind of a very general overview of how to think about adapting experiences for neurodivergent people, right?  Yeah, yeah. Nothing specific because I wouldn't be able to really get it, but maybe like, oh, when people think about this, they usually consider these main factors.  This would be fantastic for me. Okay, cool.
+
+6:30 - Dominic Goucher
+  Also, something that would probably help you a lot. There's a book that I can recommend. It's called The Canary Code.
+
+6:40 - João Landeiro (joaolandeiro.com)
+  Okay. Canary as in the bird.
+
+6:43 - Dominic Goucher
+  Canary. Ludmilla Praslov, I think her name is. Okay. And the premise of that book, and this is a very important premise because even before I read that book, this was something that I  thought very powerfully. The premise of the book, are you aware of the analogy, the reference to the canary in the coal mine?  Yeah, yeah, the first thing that dies. Yeah, okay, so that's what the canary code references. The idea behind the book is that if you take into account and consider carefully the needs of a neurodivergent audience in the workplace or in a working environment, anything that you improve will also benefit neurotypical people because the whole point of neurodivergence, however it presents itself, is that it is simply either an amplification or a reduction  of a neural processing band, let's say, and that amplification or reduction, suppression, the word neurodivergent quite literally means diverging from the normal or neurotypical.  So if you imagine if you were drawing a graph, and this is quite a useful thing, neurodivergence is an incredibly general term.  And it simply refers to this amplification or reduction away from this central typical band. So in a normal group of people or a typical group of people, what you'll get is like an absolute middle level of ability or perception processing.  And then you'll get a deviance from there, and it will be a small deviance. Some people that are a little bit better at listening, a little bit better at drawing, or a little bit better at speaking, or, you know, a little bit here and a little bit of there, you know, let's say 10% either side of the average.  So you get this little kind of different. even each one of those people, if you were to group, to kind of like block the graph out for an individual, then, you know, that person might be a little bit more, like a little bit better at drawing, but a little bit worse at speaking.  And each person has their own graph that says, I'm a little bit better at drawing, but a little bit worse at speaking, a little bit better at listening, but a little bit worse, you know.  And so, for example, yours might be, I'm better at listening, but I'm worse at drawing. mine might be, I'm better at drawing, but I'm worse than listening.  all still within this really relatively narrow band and I say narrow because the scale is relative because when you overlay a neurodivergent person what you get is someone that like if this is the normal deviation they're up here or say processing complex ideas or in some cases they can be down here in terms of being able to visualize something in their mind as a picture and they can be either side of there you know and they don't have to be everything doesn't have to be up here or everything doesn't have to be down there but definitely the amplification or the reduction is more extreme that is neurodivergence but it's really important to understand that even if you meet two people both of whom have very strong visual sense  Right? It doesn't mean that they will both have a reduction in speaking ability. Everybody's going to be different and so it's really helpful to imagine what they refer to as this spiky graph, that you're very high in some places and very low in others, but every individual has their own and you really do have to understand that person if you want to tailor something specifically to them.  So it's very, very, very hard to tailor a generic group experience accurately to neurodivergence because it's just, you know, be careful that you've got your trying to achieve that because you probably won't.  all right now that makes it's like the Anacara Nino line right everybody's different in a very specific way exactly that that is exactly it brilliant let me just write that one because I'm not so but but there are some very there are some generalisms and these generalisms are important so the first thing is it's important to understand the concept of amplification or reduction right and a good way to think of it is you know some people are sensitive to light right even to the point where you get what can I not remember the name the people that have a fit when you have flashing lights or so yeah the book
+
+13:00 - João Landeiro (joaolandeiro.com)
+  only episode. Oh my god. This is contagious. Epileptic, right? Epileptic, that's right. Epilepsy is a condition that's triggered by flashing lights.
+
+13:17 - Dominic Goucher
+  That's a little extreme. Some people are more sensitive to light than others, right? So you probably find that there's a reasonable light level where everyone can see just fine, but the sensitive to light person, their eyes aren't being hurt.  You might have to reduce that light level from what you would normally have the room like that, but you can make everyone happy.  As long as you're aware of that, someone's very sensitive to light. Similarly, when you have or there's another accommodation that you can make, right?  Similarly, you might have someone who's hard of hearing. not you could maybe speak a little bit louder or speak a little bit more clearly, but also people who are hard of hearing for example can read your lips and so it's probably more valuable to understand that you need to look at them and speak clearly when you're speaking if you face them then they can see your mouth that is more helpful than speaking loudly.  So again these are the kind of accommodations for neurodivergent people you need to think a little bit more sometimes like what's the accommodation rather than basically just act weird because you've got somebody in the room who's different yeah and again canary code is the best guide here this idea that you shouldn't need to do anything you  really absolutely specific that's only for a neurodivergent person it's just be considerate of that amplified or reduced perception and it's all to do with mostly to do with neurology with the brain okay it can be physiological so you will get them that where their sense of touch for example they don't like to be touched this is extreme you probably won't come across it but that's still neurological because actually what's happening is they can feel far more detail in their nerve transmission to the brain than you or I so some filter has been removed yeah and a lot this is a lot of issues with neurodivergence is that their filters are in  whether it's an inbound filter, like touch, sense of touch, or light, or sound, or an outbound filter where they just say what's in their head.
+
+16:12 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+16:14 - Dominic Goucher
+  Yeah. And so there's a lot of those ideas. So again, I'm trying to think of the different classifications of things that you can take account for.  I think probably if I can come up with some specific ones. So you're interested in a workshopping situation. when someone creates a workshop, you want to be able to help them understand a good workshop format that can be inclusive of neurodivergent people.  that correct?
+
+16:52 - João Landeiro (joaolandeiro.com)
+  It's almost that. But it's just one step closer, which is how can I shape my interactions with clients accounting for this stuff.  I can share a little bit of it's for you rather than for? No, yeah. begins with the observation that, a lot of people that come talk to me seem to have a different way, one of many different ways of looking at things, right?  That seem to attract a certain profile. And how can I make it that interacting with me, hiring me, communicating with me feels really comfortable and accommodating, I guess.  OK, that's helpful.
+
+17:41 - Dominic Goucher
+  That's helpful to put that in the box. Did you say you had a specific example? Or is that your example?
+
+17:48 - João Landeiro (joaolandeiro.com)
+  I think it just flew. So I can tell you maybe a couple of stories that.
+
+17:55 - Dominic Goucher
+  Yeah, please do.
+
+17:56 - João Landeiro (joaolandeiro.com)
+  Let's do that. Spark my interest in this. A quick example is a recent contact, we started talking and quite quickly, this was very fast, but it didn't feel forced.  They dropped that they are highly gifted. then I started paying attention to, because I think maybe the gifted thing is kind of a aspect of this, perhaps the easiest one, I don't know, to interact, but I just started to think, okay, I need to talk to this person in a different way, maybe allow for a quicker pace or they will deal well with me stating assumptions or being kind of systematic or branching out three levels and then coming back because they can deal with the three levels and people would not deal with three levels of branching out, so this was an example.  Another one, is different, which was different was somebody that was really fascinated by the idea of what I do, and they kept bringing up stories of their own struggles with focus.  They were like, oh, I like what you do because this will help me focus. I have so many ideas, and I'm like, okay, I can empathize with that a lot because I feel it as well.  But I was realizing that there's maybe some things, some things that are within a band of adaptability that I can do.
+
+19:48 - Dominic Goucher
+  Okay, so really good examples. right, so let me step to one side and tell you one other thing. I think you will appreciate.  So, I don't know how old you are, but do you remember the first internet connections? Yeah, I remember the world before the internet test.
+
+20:12 - João Landeiro (joaolandeiro.com)
+  Okay, excellent.
+
+20:13 - Dominic Goucher
+  Right. So, the first internet connections required the little box, the modem. Do you remember the noise that it made?  Yeah, very specific. Okay, do you remember, do you know what that noise was? I think it was machines talking to machines.
+
+20:30 - João Landeiro (joaolandeiro.com)
+  That's correct.
+
+20:32 - Dominic Goucher
+  And do you remember anything specific about when you turn the thing on? The first time you turn it on, a certain thing would always happen.  Do you remember what that was? The noises would do a certain thing.
+
+20:50 - João Landeiro (joaolandeiro.com)
+  Yeah, I'm guessing you've mentioned something about the protocol saying, hey, I'm ready to transmit or something. I don't know.  Yeah, that's right. That's exactly right.
+
+21:00 - Dominic Goucher
+  The the the sequence that happens when you would turn one of these things on is what's called a handshake okay, all right and It's an incredibly simple concept that doesn't exist anymore But it was very very clever like those systems were incredibly clever because what they did was they took so first of all They were built on top of an analog Phone system right, but they use a copper wires and they were sending And and a different strength of electrical poles to represent data and our data is zeros and ones Okay So the box called a modem if you're interested modem is a is a made-up word that means modulator Demodulator Mo Dem Okay, and for the conversation to work you need a  on one end, speaking. So you're modulating, you're turning digital signals into an analog signal. That's modulation. Okay. And at the other end, you need a demodulator to listen to the analog signal and demodulate it into digital.  Got it. Okay. So the modem was a speaking and listening pair. And at either end of the cable, one speaking, one's listening, one speaking, one's listening.  Yeah, like this. Okay. But the cables were rubbish. They were only ever made to carry a very, very poor version of our voice.  Right? So the sound quality was terrible. Mm-hmm. So because the only, so the amount of data you could send bandwidth was really  about how fast can you make the noises, the audio sound, that was turned into from the digital thing. How fast can you do it?  Now the faster it goes, the higher the pitch. So a slow sound, a high sound, alright. So very long description, but this is really quite a powerful concept and you hopefully find this really useful.  A handshake was you, your box, would say hello, okay, at a certain speed and it listened for the other end to receive that and say hello back, okay.  And it started the slow speed so it would go brrrrr and the other end would go brrrrr and it would go okay, let's see if we can talk any faster on this line.  so it would go and it would go and it wouldn't get a response and it would go oh okay so this is how fast can talk okay okay so that was the protocol was to start at what it thought was a basic or average level and it might start in the middle yeah and it goes and it doesn't get an answer might slow down and it will slow down until it does get an answer but if it gets an answer in the middle it'll speed up and keep going speeding up until it gets the maximum and if you remember I mean you would possibly have seen these things they were sold based on how fast they could talk or listen that was the board rate b a u d 96 k modem that was how fast it could speak right which used to matter when it was on a phone line so this is what happened  Can you see the parallel here with talking to your gifted people? Yeah. Yeah. So you'll go in. Now this is something that I realize that I have always done in my entire life as a gifted person talking to what I think is a neurotypical person.  So I'll come in and I'll talk normally and then I'll start to add a concept. As you say, I'll stack concepts.  I'll digress. I'll tell a story. I'll use metaphor or imagery. I'll do. And if you just keep going, I'll keep going.  Yeah. And the speed will keep going until you go and I don't get it. Yeah. And then I'll come back down.
+
+25:44 - João Landeiro (joaolandeiro.com)
+  But I'll know next time I talk to you.
+
+25:47 - Dominic Goucher
+  Yeah. I'll keep it on file and I'll go, yes. Me and Joao can really talk at high speed. This is great.  And the reason I think that you are getting on well with these people. Because you're naturally doing that you're naturally displaying that you are also gifted and are also able to talk so they say something high-level you say something high-level back and the thing with gifted people like neurodivergence basically it's an overlapping set of people right probably very quietly overlapping the thing is that we love to be understood everybody loves to be understood but if you live your life being knowing you're different anyway you basically you live your life being disappointed yeah that's a foundational social experience that yeah and so and so and a neurodivergent person can feel that very strongly because they not only sometimes one of the differences between the gifted person and the specifically neurodivergent  is very often someone that you might call gifted or that would call themselves gifted has better social skills. They're better able to integrate.  They've been able to integrate to some extent. neuro-virgin people almost categorically struggle to be socially integrated. It's almost a universal drop on their graph.  Some of them have learned to integrate. Now, me, for example, my social integration is what I call an emulation.  So I'm pretending to be a nice person. I'm going through my database of things to go, what's a good thing to do here?  What am I supposed to do at this point? That person just did, but it's a conscious effort and it will never not.  to be a conscious effort. And the way you can spot this is if I'm not paying attention, I don't talk.  I have offended people my entire life simply because I wasn't engaged or I was so and again neurodivergence. It's not that I wasn't paying attention to them, it was that I was paying all of my attention to something else.  Yeah. And that, you know, you said you one of your when your people said, Oh, yeah, I struggled to focus.  That's absolute rubbish. They don't struggle to focus. What they what they do is they focus very, very hard on something over here.  And then they struggle, then they focus very, very hard on something over here. Yeah. So so it's controlling that focus.  You know, and again, it's that some people of this really evil mixture of the super-powered focus, but also heightened awareness, like hypersensory awareness.  ADHD, for example, right, is hypersensitive awareness, otherwise known as information overload. They can get information overload in a room with blank walls.  Yeah. Because most people think information overload is things you can see, but it's everything. It's things you can feel, touch, hear, smell, remember, whatever.
+
+29:43 - João Landeiro (joaolandeiro.com)
+  It never stops.
+
+29:46 - Dominic Goucher
+  Yeah. So I'm going to take a breath now because I just went, ah, you. But was that the kind of thing you're interested in?  that useful? Am I kind of in the right space? Yeah, you are. You are.
+
+30:04 - João Landeiro (joaolandeiro.com)
+  It's a book to me, there's a book I've, the title comes across in the wrong way but we can't say this.  The book is called Living with Extreme Intelligence, I don't know if you've heard of it, I didn't hear it.
+
+30:19 - Dominic Goucher
+  Yes, actually I have, yes, I haven't read it, but.
+
+30:24 - João Landeiro (joaolandeiro.com)
+  So I mean, there's a lot of research on the book and the book is a little bit dry, but it talks about the author, she actually suggests something, what's the, yeah, there's an acronym, it's called It's Better, and one of the keys is titrate, which is exactly what you've described with the handshake thing, because she says this is how really clever people can participate in conversation without overwhelming the other sides, like you give a little bit, so it aligns perfectly with you're talking  said and so yeah we are definitely in the in the right direction and what I'm thinking is okay let's try to role play something I don't know yeah yeah please um for instance I tend to write itemized emails I like itemized emails my wife hates it right and she says this this makes no sense and I'm like this is really good I'm really proud of my emails and and color highlighting and all of that kind of stuff anyway and I assume that this helps people not to get lost right navigational
+
+32:00 - Dominic Goucher
+  cues are very very important to most neurodivergent people yeah so agendas for example okay agendas agendas executive summaries the point at the beginning okay like so you can you can almost cause me physical pain if you don't tell me the point of the story you're telling which is my wife's habit she tells me stories that last a very long time and the point is not clear and it's almost physically painful so yes so so yes you're right all these cues navigational cues are very important and again it's that hyper processing yeah so what I'm explaining there sorry why are cues important if you tell somebody  point, then everything that they, everything they see in here can be filtered. They can go, that is relevant to what he's saying here.  I see, like, so for example, when I told you the modem story, I try, I made the mistake, I didn't make it clear that that modem story was specifically related to relating to a neurodivergent person.  I should have made that point. I should have said I have a really good story about relating to other people.  Yeah. And I don't know if you can feel the difference, but you followed along because my story was interesting.  And I think, you know, because you knew some of what I was talking about already. So that was a nice feeling for you, for me to talk about something that you knew something about.  But if, imagine that you knew nothing about it and that you weren't technical, and I was using all these technical words and you're like,  Okay, this is a really technical story and I'm asking about people can you like why why are doing this?  You know and it went on quite a long time Now for a neurodivergent person, that's horrible That's a horrible situation.  They don't feel comfortable and they Want to understand so their brain goes into overdrive and they start gathering all possible Permutations every word that this said they think of five meanings of that word, you know And it multiplies and multiplies and multiplies and honestly by the time you get to the end of the story sometimes They hate you.  They don't care what the story was about anymore. Yeah, you just cause them a lot of stress and It's those are those are those affordances.  It's like signaling where you're going is such an important part For pretty much most neurodivergence. It can be more extreme like for me.  It's really extreme If you don't signpost what you're doing, it can cause me a lot of trouble. If it's in a space I understand already, but also by the way, because I know, I'm always...  I have like a little rewind. So I'm listening to you, I'm listening to you and you start telling a story and if I can't see where the story is going, I'll rewind and try and think of what you've just said and is it relevant.  The problem again, certain types of neurodivergence and certain times of intelligence clash. So for example, my wife actually changes the subject and tells a story about something she hasn't been talking about.
+
+35:46 - João Landeiro (joaolandeiro.com)
+  As a tripwire?
+
+35:48 - Dominic Goucher
+  No, no, no, just because that's how her brain works. She's changed the topic in her head while she just doesn't tell me she's changed the topic.  That's just how her brain works. did. So she's just over here and over there. Anyway, sorry, I interrupted. So all that was about, yes, signposting is, there's never a bad outcome from signposting except one.  And that one is truly creative people.
+
+36:27 - João Landeiro (joaolandeiro.com)
+  Tell me more about this.
+
+36:28 - Dominic Goucher
+  Truly creative people, like my wife, enjoy stories. And they enjoy discovery and they enjoy working things out for themselves.  They are not stressed out that they don't know where the story is going. But the only way to find that out is to find, you have to like find that out.  Honestly, you can't go wrong by labeling what you're doing. You can't go wrong. labeling what you're doing. That's a definite canary code thing.  Yeah.
+
+37:04 - João Landeiro (joaolandeiro.com)
+  You know, when you were describing this thing of if people don't know where we're taking them, right?
+
+37:14 - Dominic Goucher
+  They will spend all that brain power thinking about the map ahead, right?
+
+37:19 - João Landeiro (joaolandeiro.com)
+  They'll use generative human intelligence to fill the map ahead. And when you said about the signpost, it helps them filter, right?  And the analogy that came to me, I'm just because it's funny. Are you familiar with that thing on the urinals?  There's a fly. Yes. It's bit like that, right? You're putting a fly on the, so that their attention can focus on a specific thing and not be distracted by the other stuff.  I guess so. I guess so.
+
+37:55 - Dominic Goucher
+  mean, the way that I describe it. So one of my kind of change management protocols. the framework that I talk about.  I talk a lot about maps, all right, but very specifically, I talk about the process of orientation. Okay, so the first thing I do is I say we are here, right?  So something like that would be the same as you saying, what do you already know? Right? What do you already know about workshops, for example?  Have you tried to run a workshop? That's where we are stood today. That's where we are here. Right? And that's orientation.
+
+38:44 - João Landeiro (joaolandeiro.com)
+  Yeah. Is this the Oda loop?
+
+38:49 - Dominic Goucher
+  Yes, but it's not the Oda loop because the Oda loop is weird and I'll explain why. Right? So the Oda loop is observe, orient, decide,  But this is a change management, Oda loop is an executive function thing, it's for you, you operate an Oda loop, it's from fighter pilots, they're not waiting for somebody to guide them, the whole point of the Oda loop is nobody's going to guide them, they're on their own.  And the point about change management or guidance like you are, and I'm sorry, yeah, you are what I would refer to, and this is important, you are what I would refer to with a navigator.  Okay, and we can talk about it separately because this is the framework I'm trying to get, I'm trying to publish this a little bit wider, so your feedback would be valuable.  But my loop is orient, so we are here, however you orient, whether you tell people because you're the leader, or whether you establish it with the person that you're working with by asking questions, you orient, right?  The second stage of three stages is to set a vision. Now the easiest way to describe this, and again if you use the metaphor of the map, is you have a, you know, you establish a piece of paper with the boundaries of the whatever.  You draw a little point and we go, are here, right? And you draw another one and go, this is where we're going.  Uh-huh. Yeah. Okay. Now if you think about a map and all of its possible space and all of the terrain and all of the things on it, the only thing that matters on that map from now on is anything between we are here and this is where we're going.  And that's what I'm talking about by you establishing a framework. Yeah.
+
+40:56 - João Landeiro (joaolandeiro.com)
+  Okay. So the vision is where we want to go or the vision is the
+
+41:00 - Dominic Goucher
+  that no the vision is where we want to go right that's it it's like and it is it's very and and we can be more we can get more specific about that but it is basically so it's like we are here you you understand a little bit about neurodivergent people and gifted people the vision is you want to understand the place you want to be is this now when we're setting the vision we don't necessarily know every step of that road from here to there we're gonna explore a little bit because you know unless we've already explored the terrain and we know exactly what's coming we can't actually you know yeah everything can change but when we go here and we know there then the third step is navigate right and what you're seeing I'm doing this with you and you will you're all  already doing this. You've been doing this a lot with your own experience, but I'm just codifying what we do because we orient, we set the vision, we navigate, and navigation is I understand the terrain, I understand the location we're at and I understand the destination we've got, right?  I know where I'm aiming. But anything can happen, weather, you know, ground change, I don't know, traffic jams, whatever happens between here and there.  But I know how to read this terrain and I know how to decide whether to go to the left or the right if something goes wrong.  That's why you are the navigator, right? Because you understand the terrain and you understand how to operate in the terrain, right?  Now it's a loop because you're going to navigate to a certain point, but then you're going to orient again and you're going to go, okay, I've told you so.  like I've been doing this oh I've told you a few things how do you feel about that let's orient let's see if we need to go to the left or the right let's see if you don't like hills let's see if you want to go on the river a little bit let's you know let's see how we're doing again and also let's see how we're doing against our destination because sometimes you're not the judge of the distance to the destination they are yeah so I'll ask you how am I helping you is this helping you with your destination yeah and then maybe we set a new vision like okay let's focus a little bit more on these frameworks let's focus a little bit more on establishing a plan yeah let me tell you a little bit more about this part neurodivergence okay now I'm gonna tell you now I'm gonna navigate with whatever my style is I'm gonna tell you some stories I'm gonna tell you some facts yeah so orient  that vision, navigate, stop after a bit, reorient, set a new vision, navigate again. That's it. But the thing is that the orientation part is important both for you and for them.  They need to understand where they are and they need to know you understand where they are. That's an important part and I think you're quite good at that.  And that's one of the reasons why these people like you because someone that comes into a coaching or otherwise conversation and starts telling people things without asking questions isn't a very good coach.  But also it's important for them to understand where they are, how far they are from that vision and that's why again it's important to set the vision.  Like I established okay where are you what do you already know and what is it you actually want? Yeah, it's true.  Yeah, you know, because like, actually, on a, know, if this was a piece of paper, actually, if you'd have said, I want, for example, I wanted to know, I want to help people build workshops or neurodivergent people, that's a completely different destination, it's over here somewhere.  Yeah, or further on, whatever. So, yeah, and it's all these things are helpful. And if, you know, if you're the navigator, the other thing that you can do, as you say, you know, like, if we've got our, we are here, we're there.  If you already know pretty much what the stages are going to be, then by all means, draw a line on the map and draw little crosses on it.  And that's your bullet points. That's outline of your email. That's your, you know, executive summary at the beginning. Yeah.  That is Literally an executive sorry is very often. We are here. We're gonna try and go there and I'm gonna take these steps to get you there And the rest of the content is The Nav the actual guiding and the navigating from here to that step to that step to that step Yeah I'll do Oh Interesting so now I'm thinking about podcasts, right?  Yeah, people just go on and on about things And I would imagine that for some people this is really Annoying or difficult it can be Do you listen to podcasts you do I I do but Unfortunately, yes, I find some of them quite annoying because they go on for a long time And I can give you some tips if you're running a podcast as to how  to make it more accessible to people, for example, good interviewers, good podcasts are good interviews or good interviews make good podcasts.  One of the great things about a good interviewer is their question is that orientation and the vision. It's the break in the circle.  Each question is an orientation, setting a vision and then the answer is the navigation. The important thing with anything, like any journey, have you got kids?  No. Okay, if you have kids, I don't have kids either, but one of the things I know is that one of most common questions you'll ever get with a kid on a car journey is are we there yet?
+
+47:51 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+47:52 - Dominic Goucher
+  Now a friend of mine, very powerful kid. Sorry, can you still hear me? thing just dropped a signal. Yeah, I can hear  Okay, a friend of mine came up with a very powerful thing, right? He would say to them, because basically, if they don't know where they are in relation, again, that we are here versus the vision, if they can't tell that, then they just go out of their minds, right?  And everybody does that. So it's like, how long is he going to talk about? How long is his answer going to be?  And is it interesting, right? And so, again, it's helpful to give either a feeling that there will be a break by knowing that the interviewer is asking questions.  But my friend would say, know, when he's on a car journey with his kids, he was brilliant. He would say, okay, here we are.  puts two fingers up and he'd go, right, this is home. This is where we're going. And we're here. Yeah, as simple as that.  And those, that's again, again, great queue but the other thing is just break things up let people know that there will be a break honestly that's one of the workshop situation that's one of the most simple things right yeah is we're gonna have a break in 45 minutes that's a huge difference yeah yeah absolutely very often you know that's the simplest form of sign posting you can give anybody um you know or in this section we're gonna do this yeah in a podcast you'll hear people say coming up hang up i asked this person about these things yeah mm-hmm and and again in airy code in this day and age like i'll scan the notes at the beginning of a podcast and if it says it says i asked this person about these things like i don't care about those  don't listen to that episode yeah oops sorry you know that's again that's why executive summaries are important mm-hmm you know it's not just neurodivergent so all of this sorry that all of this was about your question about signposting yeah no but it makes a lot of sense and also it's literally the most powerful useful thing for any neurodivergent yeah if the only thing you do for anybody ever is signpost it will change pretty you'll change most people's lives whether they realize it or not I'm writing signposting in big letters yeah but and another example of signposting is frameworks why do you think people love frameworks people love frameworks because they know where the boxes are they've got to put stuff in mm-hmm they know where they start on the ending yeah yeah and and neurodivergent people
+
+51:00 - João Landeiro (joaolandeiro.com)
+  Absolutely, like, you know give them some boxes to put stuff in they're happy Okay, give me an idea Just a some sort of game of making frameworks Cards Navy, I don't know Kind of Mary condo meets Make warrior And a lot of a lot of It's more autistic spectrum straight than a ADHD trait But pattern matching is a huge amplified skill In most or in most neurodivergent people.
+
+51:52 - Dominic Goucher
+  It's one of the most consistent amplifications that there is Right the two most So the most common amplifications you've got, amplified pattern matching, an amplified need for patterns to exist, which is what signposting helps with, and a real kind of annoyance about what's unnecessary information, or information overload.  But the pattern matching is great. most gifted people or most neurodivergent people love to find or make patterns. framework, building a framework with anybody, it's going to be a collaborative thing you'll be able to do with them, and they'll enjoy it.  No neurodivergent person and no truly gifted person is going to go, no, I don't want to build a framework.  They're not going to do it.
+
+53:11 - João Landeiro (joaolandeiro.com)
+  I'm thinking where to find more clients for my framework is I think. This is something I did the other day for a client.  The one that said no focus was, no actually this was another one. This thing was, it was very enthusiastic.  It was very easy for him to make connections and connect different fields and different analogies.
+
+53:38 - Dominic Goucher
+  Yeah, synthesis.
+
+53:40 - João Landeiro (joaolandeiro.com)
+  Yeah, very good at that. Big amplification.
+
+53:45 - Dominic Goucher
+  Synthesis?
+
+53:46 - João Landeiro (joaolandeiro.com)
+  Synthesis. And this thing was, I think it was so powerful at coming up with... Analogies and analogies and analogies and analogies and analogies that you just enter like this multiverse of At some point you start questioning like I I have infinite capacity for creating analogies I don't know if I've reached a good one or I'm just tricking myself, right?  this kind of how the interaction went and then I put on my Boring hats brought boring project management hat and the guy said oh, thank you for that.  That's really good And we did a session like that With it for a four-second sessions actually so the first two sessions were more about trying to figure out the first two sessions were more like posted sessions, right and So I'm describing the process Because it was really enthusiastic about the framework building aspect right so the first two was more more about me figuring out What's different about the way it looks at the world?  because the framework would have to be different from something and the last two sections were more about like with the apple pencil like oh this could be a triangle oh my god this could be a triangle and maybe this could be an hexagon and it's just really funny and a lot of fun and but yeah I think I think in that case was the pattern matching but you know I think one of the I was never expecting to find like this sort of silver bullet that do this thing in quirks for everyone it wouldn't make sense what one of the aspects I struggle with is to and I don't think we can find an answer in this conversation but struggle with is knowing where to put the adjustment screws on the experience you know like if it is like a bicycle frame and like where do I adjust things  because it's still a bicycle. And that's a constant source of doubt for me. Is this too strict? then doesn't, know, anyway, if you understand my point.
+
+56:12 - Dominic Goucher
+  I do. I have some feedback if you want it.
+
+56:15 - João Landeiro (joaolandeiro.com)
+  Yes.
+
+56:16 - Dominic Goucher
+  OK, so my thing on that is, if you think about the way that I described that spiky graph, OK, it's a series, it's actually a series of neuro functional attributes.
+
+56:35 - João Landeiro (joaolandeiro.com)
+  Mm-hmm.
+
+56:36 - Dominic Goucher
+  So, as I said, pattern matching versus social versus whatever. So it's like a graph with segments on it. Now, if you take your process, which should be a process or should have, you know, should have stages or steps or aspects or attribute, right?  OK, and if you map them out, you should be able to. I'm probably opposed to no exercise. I'm very happy to.  trying to help with this, but you should have, okay, I do this, right? So for example, I do some investigation, right?  I do an initial orientation, right? Okay, so there'll be possibly a kind of an amplify it this way version of that and an amplify it or an amplify it that way version of that.  So you might have, for example, I can do this more visually or I can do this with just words and a conversation.  Yeah, I can do it where they are the driver and they do the something or I do the something.  The all that matters is what's the product, right? So, so each step has a product and output. I you asking these questions, I'm asking these questions because of this.  Okay, that's the only thing that matters. And then it's case of OK, what are different ways that I can ask those questions?  What are different ways I can get that data? And that's how you react to these people, right? Because somebody might not, for example, putting post-it notes on a board might not help them.  But writing paragraphs might help them, yeah? Depending on how their particular thing is, or speaking it might help. And you might need to just, know, this is how these, and each one of these stages, as long as you know what the product or the goal is, that vision, your job as a navigator is to pick the right modality.
+
+58:43 - João Landeiro (joaolandeiro.com)
+  yeah, yeah.
+
+58:45 - Dominic Goucher
+  And that's, so in terms of where are the, where are the adjustment points for the bicycle? Those are your adjustment points, yeah?  It's like, what makes it still a wheel? What makes it still a pedal? What makes it still... handlebars. What is the essence of that step of your process?  What's the product? What's the out what must you have when you finished? And then your job is to work out different ways that you can that you can gather that data and this is so I come from a software creation background just my history and one of the things that they do with with software if you have a really big old software system at the heart of an organization the first thing that they do is they create this translation layer okay and that translation layer is super flexible and dynamic and it can do all kinds of modern clever things and runs in a clever way and blah blah blah right but it takes all the different possible new inputs and it converts them all  down to the one original old input and that allows that external flexibility what appears to be the world's most adaptable system but in fact in the basement of the building is this really old computer doing this really old  yeah and that's an example of what I would say you know it's like when you know what the goal is when you know the one thing it's got to do you are the thing that makes all those different modalities come to that one point yeah that's your unique skill as a facilitator as a navigator yeah you know it it's it's it's starting point isn't how do I make my process adaptable how do I how can I be adaptable to my audience the starting point is what has to happen what is your framework what has to happen  Yeah, and then you because you know that and you're absolutely sure you've got Basically, and this is this is what one of the things I talk about when I talk about my framework my orient vision navigate framework Most people start with the vision.  You know where you're going, right? So with your framework, you know where you're taking them Yeah, you know like that got to get this first.  I can't go any further until I've got this right But in order for that to get there You've got to orient that you've got to orient you and them you've got to work out We are here, which is why I call it.  We are here Because having the vision is not actually valuable The valuable bit is establishing you are and navigating you and them from here to there  Yeah, but you can't navigate them to there if you don't know where there is, it's quite tricky.
+
+1:02:12 - João Landeiro (joaolandeiro.com)
+  Yeah, yeah, but I mean, this is a very good lens to look at it, because one of my, one of the challenges, I mean, this relates back to so many things, but one of the challenges for me was, okay, let's say I want to, like, my one workshop, you know, boilerplate or sort of thing, right?  And unless there's, so yeah, my challenge was like, okay, so for some people, they go through this really quickly, and it works for them, and some people, they get sidetracked all the time, and like, I'm not doing a good job because I'm not giving them the same experience, and I think this is me looking for patterns, right?  mean, I want there to be a pattern, so. And this subtle but really valuable change puts the emphasis on, of course there should be some sort of a vision, the selection happens.  The tool is not exactly facilitation to get, is not good enough facilitation to get to a vision, is good enough selection to have a good starting point.  And then everybody gets, they start from the same place. Well maybe they don't start from the same place.
+
+1:03:35 - Dominic Goucher
+  Oh yeah. The important part of this is the point of my model is, they're actually all going, they're usually all going, if it's your framework, they're all going to the same place.
+
+1:03:49 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+1:03:51 - Dominic Goucher
+  But what's that so it, but what is important is to understand that they're all starting from a different place and they all have different needs and they're going to take a different journey.
+
+1:04:00 - João Landeiro (joaolandeiro.com)
+  Yeah.
+
+1:04:01 - Dominic Goucher
+  You know, if you think about Google Maps, if you go to Google Maps and go get me there, it goes, are you walking or are you going by car?  True. Yeah.
+
+1:04:12 - João Landeiro (joaolandeiro.com)
+  And that's the point.
+
+1:04:13 - Dominic Goucher
+  You have to tell it where you are. the next thing, sorry, you have to tell it, you have to tell it where you want to be.  But it must know and you must know where you are. And it must know what are the other requirements of your journey?  Yeah. So it's all integrated.
+
+1:04:35 - João Landeiro (joaolandeiro.com)
+  Yeah, it's a bit of a fractal, I don't know. Okay.
+
+1:04:44 - Dominic Goucher
+  But yeah, I mean, and again, I'm super happy because this is helpful for me to talk about these things and I'm exploring my own model while I'm talking to you.  So if you want to work through this together, I'd be super happy. You know, we can do another call when you can prepare.  bit better. But yes, you know, the easiest way for you to focus, because that's the point for you, isn't it?  The point for you is, you have certain products that you want to work with your clients. Yeah. So you've got your framework workshop, your framework coaching, and you've got some other products, okay?  And rather than become an expert on all kinds of people with all kinds of modalities, with all kinds of everything, you need to focus.  So the focus for you is, okay, my framework methodology, my framework process, can I break it down? Can I say, step one, the output is this, step two, the output is that?  And then can I say, what are the different ways we can get to those outputs?
+
+1:05:57 - João Landeiro (joaolandeiro.com)
+  Yeah?
+
+1:05:59 - Dominic Goucher
+  What, you know, what Can I guess what kind of a starting point these people are going to come from and what are they going to need from me?  Yeah, because very very few people do that Some people do it intuitively when they react like most of my life.  I've done things like this intuitively I've never formally or consciously noted the process and I'm do this is one of the things I've been doing recently To try and help other people Yeah, because a lot well again a lot of things neuro divergent people do are Intuition driven they appear to be intuition.
+
+1:06:36 - João Landeiro (joaolandeiro.com)
+  You just kind of do it and it's very hard to tell people what you do Well Okay, so this thing you're talking about I was looking for because one of the I've started to gather some notes on this.  Maybe you know this I didn't know this I discovered this recently that there's a there there are processes for these called expert elicitation processes and there's apparently different methodologies for this and some of them are more about figuring out why an expert urban planner is an expert and what's different from a known expert and some are more about like decision theory or stuff like that but I can send it stuff because yeah please I'm very interested feel something that you would like I'm sorry for interrupting because no no please don't I don't mind at all that's one of my things I don't mind as long as what you've heard what as long as what you are saying is even remotely relevant and is you know moderately interesting then I don't mind the interruption okay I'll need to send it send you this through some other way yeah that's fine
+
+1:08:03 - Dominic Goucher
+  But yeah, expertise with tations. Yeah, sure there are protocols for it. And I think, yes, it would be very useful to you.  I think I still think that I mean, I don't know if the material unless the material has, again, like modality things in it, then you're still going to need to wonder And more about it's going to be things like that that are going to help you, but it might be relevant to the entire of your process.  One of the things I one of the things I found most useful in this entire idea was the book Game Storming.  Oh, the one from Dave Gray.
+
+1:08:53 - João Landeiro (joaolandeiro.com)
+  Dave, one from Dave Gray.
+
+1:08:54 - Dominic Goucher
+  But, and this is really important, most people find Game Storming the book very the important very valuable because it contains games with a goal, right?  I didn't find that the most useful part of the book. The most useful part of book for me was the bit at the front that just talked about the meta concepts, right?  Like why it's to use post-it notes, why you do this, the concept of divergence and convergence, those things, basically the information that if you wanted to, you could design your own protocols.  Yeah, some of those protocols are good and I used them, fine, but honestly, I don't think I've ever read the entire book in all the time I've owned it.  But I read like those first 10, 20 pages and went, literally, I didn't read the rest of the book.  The first time I read it, well, sorry, not the first time. The first time I read it, I flipped past the bit in the front and I just looked at the game.  Imsen went, yeah, that's quite useful. The picture on shelf, the picture is pretty. And then the next time I read it, I read the bit at the front and I only got that far and I just closed it because I was so excited that I just got this whole new idea.  Yeah, it needed a break, I get it, I have the same. Yeah.
+
+1:10:19 - João Landeiro (joaolandeiro.com)
+  Okay, so I think I might be at that stage, like I have so many things in my mind, but yeah.  Yeah, I'd like to have another conversation on this and maybe we can do it in a way that's also useful to you.  But I think there's a thing coming up next week and I want to do it and then based on the feedback I get from that thing, maybe I can get more focused.  Right, good idea.
+
+1:10:50 - Dominic Goucher
+  This was great, thank you.
+
+1:10:51 - João Landeiro (joaolandeiro.com)
+  I'm very glad I sent you that message. Wonderful, I'm so glad I can help. Yeah, you really helped me, you gave me a lot to think.  Not just that. I mean, you've noticed this. But also the way you think about the, I mean, there were sections to this conversation, right?  And the first sections, I was even feeling a little bit guilty because some of them, maybe I could have Googled and, know, but this last section was very much tacit knowledge that either I hear you say it or I don't get it.  So that was really good.
+
+1:11:31 - Dominic Goucher
+  Thank you.
+
+1:11:32 - João Landeiro (joaolandeiro.com)
+  You're welcome.
+
+1:11:33 - Dominic Goucher
+  You're welcome. It's a pleasure. I really, I enjoy. I enjoy sharing my knowledge with people who find it valuable.  I don't just, I don't like the sound of my own voice. I really like to provide value and I'm very happy to stop talking if I'm not providing value.  So it's good to hear that I'm probably providing value. And I know the offer of help is genuine. If there's anything, even if it's a question, you know, just reach out.
+
+1:11:58 - João Landeiro (joaolandeiro.com)
+  I'd also, I would enjoy.
+
+1:12:00 - Dominic Goucher
+  I think you know working on UN a little more deeply with this if you if you would like it Because as I said a lot of people don't appreciate this, but I think you can appreciate it By working with you on this I'm exploring my own model Talking about it.  I'm finding new ways to describe it. I'm listening to how you react to the terminology I'm using I'm making my own notes about that.  So you're helping me You're like a case study. Yeah. Yeah.
+
+1:12:32 - João Landeiro (joaolandeiro.com)
+  So, so, you know, it's important that you understand that No, I do I do and It's Just give me another idea of like some sort of a I mean, this is just one of us you're familiar Some sort of a community like clever people testing things out with each other.com or IO Well, this is actually what Dave's doing now  Yeah, this is Dave's project studio.
+
+1:13:03 - Dominic Goucher
+  He's well, he's he isn't he isn't I'm gonna hijack it I'm gonna hijack it and I'm trying to decide if I would if I'm gonna do outside Because you're absolutely right There's this there's this idea that somebody said it I said it you said it somebody else said it to me a few weeks ago like You do need a community of people that just throw these crazy framework ideas and it's non Competitive yeah, you need to be able to feel safe that you can talk about your ideas without thinking someone's gonna steal it yeah But you also need those people to be intelligent and to see the world you know openly and have have it have a wider experience and things and And I'm trying to think what a good model for that would look like Somebody gave me a what I thought was a good one, but  but it needs a platform I think. You need some kind of organization and I don't know if I've got the energy to organize it any bigger than in a selfish way.  I know like five or six people, the magical number is about six by the way and if you're going to do it live.  five or six people and I know the kind of five or six people that I want to get on a call even if it's just once a month.  and just go. But having an asynchronous community is difficult. Well it needs some management or at least needs a platform and I'm thinking about it but yes anyway sorry that was your idea.
+
+1:14:47 - João Landeiro (joaolandeiro.com)
+  No, no, no it's all in the it's everywhere.
+
+1:14:52 - Dominic Goucher
+  I really really have to go now. But this was great so I'm very thankful. For all the Welcome, my pleasure.  Best of luck with whatever you do next and let me know when you have some thoughts. I will, will.
+
+1:15:07 - João Landeiro (joaolandeiro.com)
+  Likewise, let's talk again. Great, take care, see you soon. Bye now. Bye.

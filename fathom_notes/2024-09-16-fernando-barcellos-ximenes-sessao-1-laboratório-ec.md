@@ -1,0 +1,43 @@
+---
+title: sessao 1 - Laboratório EC
+date: '2024-09-16T17:00:00.000000Z'
+duration: 60m
+participants:
+- João
+- Fernando Barcellos Ximenes
+source: https://fathom.video/calls/148364832
+encoding: utf-8
+scrapingdate: '2025-06-09T19:45:53.250771+00:00'
+---
+
+sessao 1 - Laboratório EC - September 16
+VIEW RECORDING - 5 mins (No highlights): https://fathom.video/share/cx1FzRMT6qrsi5dHqQ3y3fyS3xSTB3ni
+
+---
+
+0:01 - João Landeiro (joaolandeiro.com)
+  Yeah, yeah, I'm gonna I'm gonna buy yours. I'm gonna buy it. We'll see in a moment. I'll up throughout the guest job.
+
+0:08 - Fernando Ximenes
+  Yeah, but I'm still alive. Nikita is rooting for my children. My children are still alive. My children are alive.  My children are still children are still alive. children children children My children... My children are My children are still alive.  My children still My are still alive.
+
+0:45 - João Landeiro (joaolandeiro.com)
+  My children are still We I'mTalking how you became pioneer. As public My children were always me. You sauce, you don't know, bye.  I believe that's a dream. He's been making a dream. a young princess.
+
+1:08 - Fernando Ximenes
+  I think this is an approach that world the world the most. I feel very that this is a real life.
+
+1:19 - João Landeiro (joaolandeiro.com)
+  It's a dream.
+
+1:24 - Fernando Ximenes
+  You can make a dream of daughters. But they Thank you.
+
+2:00 - João Landeiro (joaolandeiro.com)
+  you can do this in this class, class don't have a class of and the class of two, Same, first thing I'd like mention in the video this experience simpler of my opinion, I'm not sure whether you're in I'm not if I'm I'm sure I'm sure  Okay. Hi, good I think that's a good way to go. I don't I don't know. I don't know. I I know.
+
+3:56 - Fernando Ximenes
+  No. No? I think the first thing I'm is help me to catch with If pick up my bike, I'll do it.  I'm going to do it right now.
+
+4:13 - João Landeiro (joaolandeiro.com)
+  If I up my bike, with it. I'm going to it now. If I'm going to get ... where I'm going it on can't...  do it I why Down. Down. tell me what's it sima pasa say the no you're not so much color one extra okay

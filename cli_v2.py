@@ -13,6 +13,7 @@ from scrape import FathomScraper
 from export import MarkdownExporter
 from ui import display_main_menu, get_scrape_limit, display_welcome_message
 from config_module import load_config, check_config_exists, create_env_file
+from utils import check_and_install_playwright_browsers
 
 # Initialize Rich Console
 console = Console()
@@ -154,6 +155,9 @@ async def run_scrape_mode(scraper: FathomScraper, config: dict, limit: int = Non
 
 async def main():
     """Main function to run the Fathom Scraper."""
+    # First, ensure Playwright browsers are installed on the user's machine.
+    check_and_install_playwright_browsers()
+    
     config = load_config()
 
     # If config is missing or invalid, run the setup flow.

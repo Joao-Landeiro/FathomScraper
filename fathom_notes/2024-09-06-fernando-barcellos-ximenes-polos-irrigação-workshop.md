@@ -1,0 +1,121 @@
+---
+title: Polos irrigação - workshop
+date: '2024-09-06T17:00:00.000000Z'
+duration: 60m
+participants:
+- João
+- Fernando Barcellos Ximenes
+source: https://fathom.video/calls/144728944
+encoding: utf-8
+scrapingdate: '2025-06-09T19:46:51.362756+00:00'
+---
+
+Polos irrigação - workshop - September 06
+VIEW RECORDING - 24 mins (No highlights): https://fathom.video/share/DAF-srL7Ep_x9_JraDXQ3Z3vBs7hZDsD
+
+---
+
+0:00 - Fernando Ximenes
+  I quote, God is telling us that you've been there for a minute. We can do it again, and you can do it again.  We can do it and you it again, do it again. We can do it again, do it again. We can do it again, you can We can do and you can can do and you can can do again, and you it again.
+
+0:34 - João Landeiro (joaolandeiro.com)
+  We can do it again.
+
+0:38 - Fernando Ximenes
+  We can do it We can do it We can do do If we we'll do it Thank you all, my, my, my, my until we could hear so bye.  internet. We are the Internet today. We not is not going to Zoom. that. Yeah. You know I mean? I mean, I mean, I mean, mean, mean, mean, I mean, I mean, I mean, I mean, I mean, I mean, mean, I I mean, I mean, I I mean, mean, mean, I mean, I mean, mean, I mean, I mean, I mean, mean, I  When the people of the world the people are suffering from the past, and we are this. I'm not sure if can understand this.  It's possible to this. to, to, be able to this. I'm you question, I'm you have question, I'm you question, question, question, question, if you have I'm sure if you have I'm sure if you have a question, I'm sure if you have a question, Mm-hmm  In the future, there is a lot of work do. In the future, there the future, there lot work do.  In the future, lot work to do. In the future, there work do. In the future, there is regime, works, I'll be okay.  which is where the world coming through. The world is the world. We living living world, and we live world.  in the We we are in world. It's thing to but it's a very difficult very thing do, it's very thing do, because it's very difficult thing do, thing to do, because because very thing do, because it's a very thing because thing do, do, a because a very because very difficult thing, because it's a very thing do, because it's a very difficult thing, because  but there are other things we only have to do about the country-free, that way it's not much make situation.  I first how did you-free men have make society-free? The country-free men have make the money to take care us.
+
+5:29 - João Landeiro (joaolandeiro.com)
+  So that's but that's a little bit of it. Thank you. Okay. Yes. Okay. Yes. Okay.
+
+6:48 - Fernando Ximenes
+  Okay.
+
+6:53 - João Landeiro (joaolandeiro.com)
+  Okay. Okay. Okay. Okay. We are in November that it is important to my country.
+
+7:06 - Fernando Ximenes
+  Yes, I am not little, but people can understand that, if we have to understand that are not, we are not I don't not that we are Okay.
+
+7:32 - João Landeiro (joaolandeiro.com)
+  Okay. So question is… The question is… is please. OK, so please pick up your voice.
+
+7:50 - Fernando Ximenes
+  My voice is asking the question. I have to ask a But you are looking at behaviors... you will get better impact a-taught person.  If you need any talent, will become more in this If are a self-taught person, will be do will be to easily that talent to you we're not start interactive way, but we're not going with it.
+
+8:37 - João Landeiro (joaolandeiro.com)
+  We know that can't that, but going We're going to I know that can't do that. don't know you can do.  Okay, study. Yes, the can move the country like where the country already forgotten. It to be recognized whenever we be prepared, but it's better Because don't want to have be I can think myself as conversation as who That is you used to technology.  In museum, go to is a infamy.
+
+9:42 - Fernando Ximenes
+  We have to to museum and what is between I think that's why, Tangania, we have to distinguish the same as art.  You not just make don't next stage not because now you are making of the favorite of because watch the next video and I am going to this and it anything you in you are not going video can a little BOSIS-CRA-CRA-CRA  MAKHA little bit of access to MAKHA It different from the stage MAKHA after the end of at the stage MAKHA are doing is to do something MAKHA is a and you MAKHA coming and is the second MAKHA Okay.  In my opinion, as I it's very difficult to keep them safe if they will be safe. I know most the important things are I've from and from working on ASU.  I also have talked policy, my I to country, say, I don't know how to write in I'm if you're I Okay.
+
+12:17 - João Landeiro (joaolandeiro.com)
+  have to see the context of the context. the context of context context of the context of the context.
+
+12:29 - Fernando Ximenes
+  I know that I'm a lot the idea of image. And I'm not saying that it's make image like. It's just you it with the image.  And so actually doing image image. I'm going to show you a little of I'm going with this video. I'm to little I'm do with this  but it's not going to be but He's going to be a success in one thing, so I best way go.  that's the most Yeah, I could actually have played this.
+
+13:23 - João Landeiro (joaolandeiro.com)
+   Okay. Okay. Okay. Okay. Okay. I'm talking about the product of the material, but it's not If you have material, a creative tool.
+
+14:07 - Fernando Ximenes
+  Yes, for if material will take the right side. It will take you right side. you have to do you can this a very important thing that I make you card, Okay.
+
+14:38 - João Landeiro (joaolandeiro.com)
+  Uh, to ask that car, and you got context. Why are there others in contrast to this, can you imagine some, some virus initiatives, Why did you do this?
+
+15:00 - Fernando Ximenes
+  I don't why I'm but when we talk about it, we've seen a lot of people who don't know why why they don't why they don't know why they don't know why they don't know why they don't know why they don't know why they don't know why they don't why why they don't know why they don't don't know why don't don't know know know they don't know why why know why they don't know why they don't know why they don't know they know why they don't  I talk about the system, and what I want do in terms of understanding the system. It's not a cost-free version.  I want to talk about process and the language. process. And for want be in the process, I don't want process.  I will say like... I at the camera... asked him about the camera and saw it. is a camera.
+
+16:42 - João Landeiro (joaolandeiro.com)
+  It very It's light. It's very smart camera. It's a very bright look.
+
+16:54 - Fernando Ximenes
+  If you have on camera, No pain to what's happening.
+
+16:58 - João Landeiro (joaolandeiro.com)
+  Ta, it's until then.
+
+17:00 - Fernando Ximenes
+  What do you choose from this conversation?
+
+17:17 - João Landeiro (joaolandeiro.com)
+  You Okay, Monday. day.
+
+17:43 - Fernando Ximenes
+  It is an We can see lot people from but it is not really people. This is good thing. you  Kim Thank you all very Vasijer now to the present himself of the I'm not if I'm going do that, I'm not not do I'm I'm that, not I'm not going to do that, I'm not going not do that, I'm not not going do that, I'm I'm not do that, I'm not do I'm going do that, that, that, that, I'm I'm I'm I'm not not to  Okay.
+
+19:12 - João Landeiro (joaolandeiro.com)
+  Perfect. Okay. Let's ask to contact Kintindi. I'm going to take a moment to on comparison. I'm going put a little bit of I just put How much time is it this?  For the good? The And let's take question.
+
+19:36 - Fernando Ximenes
+  Other that, let's It's a really film. a really film.
+
+19:44 - João Landeiro (joaolandeiro.com)
+  It's film.
+
+19:48 - Fernando Ximenes
+  And it's really film. film. It's film to I film, the film. it. Yeah, sound Italian. There's a point, it's region of gold.  I think, in of increase in terms of we would a result of what we're seeing terms of capital, is the convergence future.  In of capital, we would use capital, but in of the future capital, and we would use So I'll you a little of information you to talk about.
+
+20:36 - João Landeiro (joaolandeiro.com)
+  Thank you. Hey, now we're going make a ... ... ... ... ... ... ...
+
+20:45 - Fernando Ximenes
+  ... ... ...
+
+20:47 - João Landeiro (joaolandeiro.com)
+  ... ... You Mm-hmm!
+
+21:28 - Fernando Ximenes
+  Okay Okay, now what do you want to bring up your super super super super super super Thank you much.
+
+21:53 - João Landeiro (joaolandeiro.com)
+  you very much.
+
+22:00 - Fernando Ximenes
+  It's we in the studio. I think that's a step us how he explains it. It's to understand discrimination. So, question why do you think as that what second?  question, why are you saying that? Because I mean, think it's think the is, Well, that's it, that's it.
+
+23:00 - João Landeiro (joaolandeiro.com)
+  what is very good of well to do but they remain so what is that?
+
+23:15 - Fernando Ximenes
+  way that that thank you Thank you.
